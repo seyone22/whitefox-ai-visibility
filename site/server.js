@@ -414,8 +414,8 @@ const server = http.createServer((req, res) => {
     if (fs.existsSync(techFile)) {
       let html = fs.readFileSync(techFile, 'utf8');
       const switcherHtml = `
-        <div style="position:fixed;bottom:16px;left:16px;z-index:9999;display:flex;gap:8px;align-items:center;">
-          <a href="/" style="background:#111827;color:#FFFFFF;padding:8px 14px;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none;box-shadow:0 2px 8px rgba(0,0,0,0.15);border:1px solid #374151;">← Client Deck</a>
+        <div style="position:fixed;top:16px;right:20px;z-index:9999;display:flex;gap:8px;align-items:center;">
+          <a href="/" style="background:#0A0A0A;color:#FFFFFF;padding:8px 14px;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none;box-shadow:0 2px 8px rgba(0,0,0,0.15);border:1px solid #374151;">← Client Deck</a>
           <a href="/logout" style="background:#FFFFFF;color:#6B7280;padding:8px 10px;border-radius:6px;font-size:12px;text-decoration:none;box-shadow:0 2px 8px rgba(0,0,0,0.08);border:1px solid #E5E7EB;">Lock</a>
         </div>
       </body>`;
@@ -439,8 +439,8 @@ const server = http.createServer((req, res) => {
       // Inject technical switcher only for internal authenticated users
       if (role === 'internal') {
         const switcherHtml = `
-          <div style="position:fixed;bottom:16px;left:16px;z-index:9999;display:flex;gap:8px;align-items:center;">
-            <a href="/technical" style="background:#D92D20;color:#FFFFFF;padding:8px 14px;border-radius:6px;font-size:12px;font-weight:700;text-decoration:none;box-shadow:0 2px 8px rgba(0,0,0,0.15);border:1px solid #D92D20;">Technical Dossier →</a>
+          <div style="position:fixed;top:16px;right:20px;z-index:9999;display:flex;gap:8px;align-items:center;">
+            <a href="/technical" style="background:#9A7B3E;color:#FFFFFF;padding:8px 14px;border-radius:6px;font-size:12px;font-weight:700;text-decoration:none;box-shadow:0 2px 8px rgba(0,0,0,0.2);border:1px solid #7A5F2B;">Technical Dossier →</a>
             <a href="/logout" style="background:#FFFFFF;color:#6B7280;padding:8px 10px;border-radius:6px;font-size:12px;text-decoration:none;box-shadow:0 2px 8px rgba(0,0,0,0.08);border:1px solid #E5E7EB;">Lock</a>
           </div>
         </body>`;

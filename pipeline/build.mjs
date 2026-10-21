@@ -231,7 +231,12 @@ function lineChart({ w, h, pad, labels, series, yMax, yTicks, yFmt = v => v, end
   const xl = labels.map((l, i) => (!l || (!sparse && labels.length > 8 && (labels.length - 1 - i) % 2)) ? '' : `<text x="${x(i)}" y="${h - pb + 40}" class="ax" text-anchor="middle">${l}</text>`).join('');
 
   const ends = series.filter(s => s.label !== false).map(s => ({ s, y: y(s.values[s.values.length - 1] || 0) })).sort((a, b) => a.y - b.y);
-  for (let k = 1; k < ends.length; k++) if (ends[k].y - ends[k - 1].y < 36) ends[k].y = ends[k - 1].y + 36;
+  for (let k = 1; k < ends.length; k++) if (ends[k].y - ends[k - 1].y < 32) ends[k].y = ends[k - 1].y + 32;
+  const maxEndY = h - pb - 14;
+  if (ends.length && ends[ends.length - 1].y > maxEndY) {
+    ends[ends.length - 1].y = maxEndY;
+    for (let k = ends.length - 2; k >= 0; k--) if (ends[k + 1].y - ends[k].y < 32) ends[k].y = ends[k + 1].y - 32;
+  }
 
   const paths = series.map((s, si) => {
     const d = s.values.map((v, i) => `${i ? 'L' : 'M'}${x(i).toFixed(1)},${y(v).toFixed(1)}`).join('');
@@ -295,7 +300,7 @@ const SRC_ANS = `Source: ${TOTAL_ANSWERS} empirical AI Search answers collected 
   const maxVal = Math.max(...AIDEMAND.values, 4000);
   const yMax = Math.ceil(maxVal / 1000) * 1000 + 1000;
   const chart = lineChart({
-    w: 1000, h: 560, pad: [40, 170, 70, 90], labels: AIDEMAND.labels, yMax, yTicks: [0, Math.round(yMax / 3), Math.round((2 * yMax) / 3), yMax], yFmt: v => v.toLocaleString('en-AU'),
+    w: 1000, h: 455, pad: [36, 170, 56, 90], labels: AIDEMAND.labels, yMax, yTicks: [0, Math.round(yMax / 3), Math.round((2 * yMax) / 3), yMax], yFmt: v => v.toLocaleString('en-AU'),
     series: [{ name: 'Sep 26', values: AIDEMAND.values, color: '#9A7B3E', width: 6, area: 'gPulp', valueLabel: '', label: false }],
     area: true, endLabels: false,
     ann: [
@@ -671,14 +676,14 @@ function marketSlide(c, idx) {
     goldcoast: 1.0
   };
   const labelOffsets = {
-    melbourne: { dx: -18, dy: -16, anchor: 'end' },
-    adelaide:  { dx: -18, dy: 28,  anchor: 'end' },
-    peninsula: { dx: -20, dy: 7,   anchor: 'end' },
-    goldcoast: { dx: 20,  dy: 7,   anchor: 'start' },
-    brisbane:  { dx: -18, dy: -16, anchor: 'end' },
-    national:  { dx: -18, dy: 30,  anchor: 'end' },
-    sydney:    { dx: 20,  dy: 7,   anchor: 'start' },
-    perth:     { dx: -20, dy: 7,   anchor: 'end' }
+    melbourne: { dx: -18, dy: -16, anchor: 'end', label: 'Melbourne (HQ)' },
+    adelaide:  { dx: -18, dy: 28,  anchor: 'end', label: 'Adelaide' },
+    peninsula: { dx: -20, dy: 7,   anchor: 'end', label: 'Mornington Peninsula' },
+    goldcoast: { dx: 18,  dy: -16, anchor: 'start', label: 'Gold Coast' },
+    brisbane:  { dx: 0,   dy: -22, anchor: 'middle', label: 'Brisbane' },
+    national:  { dx: -18, dy: 30,  anchor: 'end', label: 'National' },
+    sydney:    { dx: 20,  dy: 7,   anchor: 'start', label: 'Sydney' },
+    perth:     { dx: -20, dy: 7,   anchor: 'end', label: 'Perth' }
   };
   const x = v => pl + (v / 5.0) * (w - pl - pr), y = v => pt + (h - pt - pb) * (1 - v / 20);
 
@@ -686,12 +691,12 @@ function marketSlide(c, idx) {
     const sx = gbpBestRating[c] || 0;
     const sy = cityStats[c].rateExact;
     const px = x(sx), py = y(sy);
-    const off = labelOffsets[c] || { dx: 18, dy: 6, anchor: 'start' };
+    const off = labelOffsets[c] || { dx: 18, dy: 6, anchor: 'start', label: CITY[c] };
     const lx = px + off.dx;
     const ly = py + off.dy;
     return `<g class="pop" style="--d:${300 + i * 110}ms">
       <circle cx="${px}" cy="${py}" r="13" fill="#9A7B3E" stroke="#0A0A0A" stroke-width="4"/>
-      <text x="${lx}" y="${ly}" text-anchor="${off.anchor}" class="sc-lab">${CITY[c]} <tspan class="sc-v">${cityStats[c].rateExact}% (${sx.toFixed(1)}★)</tspan></text>
+      <text x="${lx}" y="${ly}" text-anchor="${off.anchor}" class="sc-lab">${off.label} <tspan class="sc-v">${cityStats[c].rateExact}% (${sx.toFixed(1)}★)</tspan></text>
     </g>`;
   }).join('');
 
@@ -937,7 +942,7 @@ slide('ws-entity', 'white', `
 {
   const labels = ['Oct 26 (Today)', 'Jan 27 (90d)', 'Apr 27 (6m)', 'Oct 27 (12m)'];
   const xs = [0, 3, 6, 12];
-  const w = 1000, h = 560, pl = 90, pr = 250, pt = 40, pb = 80;
+  const w = 1000, h = 520, pl = 86, pr = 300, pt = 36, pb = 72;
   const melNow = cityStats.melbourne.rate;
   const target = [melNow, 26, 37, 49];
   const y = v => pt + (h - pt - pb) * (1 - v / 80);
@@ -948,23 +953,23 @@ slide('ws-entity', 'white', `
     ${[0, 20, 40, 60, 80].map(t => `<line x1="${pl}" x2="${w - pr}" y1="${y(t)}" y2="${y(t)}" class="gl"/><text x="${pl - 16}" y="${y(t) + 8}" class="ax" text-anchor="end">${t}%</text>`).join('')}
     ${xs.map((m, i) => `<text x="${x(m)}" y="${h - pb + 42}" class="ax" text-anchor="middle">${labels[i]}</text>`).join('')}
     <line x1="${x(0)}" x2="${x(12)}" y1="${y(rivalRate)}" y2="${y(rivalRate)}" stroke="#0A0A0A" stroke-width="4" stroke-dasharray="2 10" stroke-linecap="round" class="fadein"/>
-    <text x="${x(12) + 18}" y="${y(rivalRate) + 28}" class="el">Abercromby's (#4 VIC) <tspan class="elv">${rivalRate}%</tspan></text>
+    <text x="${x(12) + 18}" y="${y(rivalRate) - 12}" class="el">Abercromby's (#4) <tspan class="elv">${rivalRate}%</tspan></text>
     <path d="${target.map((v, i) => `${i ? 'L' : 'M'}${x(xs[i])},${y(v)}`).join('')}" pathLength="1" class="draw" fill="none" stroke="#9A7B3E" stroke-width="6" stroke-dasharray="1" style="--d:300ms"/>
     <path d="${target.map((v, i) => `${i ? 'L' : 'M'}${x(xs[i])},${y(v)}`).join('')}" fill="none" stroke="#F8FAFC" stroke-width="7" stroke-dasharray="14 12" class="fadein" style="--d:1500ms"/>
     ${target.map((v, i) => `<circle cx="${x(xs[i])}" cy="${y(v)}" r="${i ? 10 : 13}" fill="${i ? '#F8FAFC' : '#9A7B3E'}" stroke="#9A7B3E" stroke-width="5" class="pop" style="--d:${400 + i * 350}ms"/><text x="${i ? x(xs[i]) : x(xs[i]) + 22}" y="${i ? y(v) - 24 : y(v) + 38}" text-anchor="${i ? 'middle' : 'start'}" class="callsmall pulp">${i === 3 ? '' : v + '%'}${i ? '' : ` today (${cityStats.melbourne.lhdMentions}/35)`}</text>`).join('')}
-    <text x="${x(12) + 18}" y="${y(target[3]) - 6}" class="el pulp-t">WHITEFOX Target <tspan class="elv">${target[3]}%</tspan></text>
+    <text x="${x(12) + 18}" y="${y(target[3]) + 26}" class="el pulp-t">WHITEFOX Target <tspan class="elv">${target[3]}%</tspan></text>
   </svg>`;
 
   const TG = [
-    ['Melbourne (6 Offices HQ)', `${cityStats.melbourne.rate}% (${cityStats.melbourne.lhdMentions}/35) · #${cityStats.melbourne.lhdRank}`, '26% (9/35) · #7', '37% (13/35) · #5', '49% (17/35) · #4'],
-    ['Adelaide (Hyde Park 4.7★)', `${cityStats.adelaide.rate}% (${cityStats.adelaide.lhdMentions}/35) · #${cityStats.adelaide.lhdRank}`, '23% (8/35) · #6', '34% (12/35) · #4', '46% (16/35) · #3'],
+    ['Melbourne HQ', `${cityStats.melbourne.rate}% (${cityStats.melbourne.lhdMentions}/35) · #${cityStats.melbourne.lhdRank}`, '26% (9/35) · #7', '37% (13/35) · #5', '49% (17/35) · #4'],
+    ['Adelaide (4.7★)', `${cityStats.adelaide.rate}% (${cityStats.adelaide.lhdMentions}/35) · #${cityStats.adelaide.lhdRank}`, '23% (8/35) · #6', '34% (12/35) · #4', '46% (16/35) · #3'],
     ['Mornington Peninsula', `${cityStats.peninsula.rate}% (${cityStats.peninsula.lhdMentions}/35) · #${cityStats.peninsula.lhdRank}`, '23% (8/35) · #6', '34% (12/35) · #4', '46% (16/35) · #3'],
-    ['Brisbane (James St Valley)', `${cityStats.brisbane.rate}% (${cityStats.brisbane.lhdMentions}/35) · #${cityStats.brisbane.lhdRank}`, '20% (7/35) · #7', '29% (10/35) · #5', '40% (14/35) · #4'],
-    ['Gold Coast (Mermaid Beach)', `${cityStats.goldcoast.rate}% (${cityStats.goldcoast.lhdMentions}/35) · #${cityStats.goldcoast.lhdRank}`, '17% (6/35) · #7', '26% (9/35) · #5', '37% (13/35) · #4'],
-    ['Sydney (Paddington & Manly)', `${cityStats.sydney.rate}% (${cityStats.sydney.lhdMentions}/35) · #${cityStats.sydney.lhdRank}`, '14% (5/35) · #9', '23% (8/35) · #6', '34% (12/35) · #5'],
-    ['Perth (Subiaco & Applecross)', `${cityStats.perth.rate}% (${cityStats.perth.lhdMentions}/35) · #${cityStats.perth.lhdRank}`, '17% (6/35) · #7', '29% (10/35) · #5', '40% (14/35) · #4'],
+    ['Brisbane (James St)', `${cityStats.brisbane.rate}% (${cityStats.brisbane.lhdMentions}/35) · #${cityStats.brisbane.lhdRank}`, '20% (7/35) · #7', '29% (10/35) · #5', '40% (14/35) · #4'],
+    ['Gold Coast', `${cityStats.goldcoast.rate}% (${cityStats.goldcoast.lhdMentions}/35) · #${cityStats.goldcoast.lhdRank}`, '17% (6/35) · #7', '26% (9/35) · #5', '37% (13/35) · #4'],
+    ['Sydney', `${cityStats.sydney.rate}% (${cityStats.sydney.lhdMentions}/35) · #${cityStats.sydney.lhdRank}`, '14% (5/35) · #9', '23% (8/35) · #6', '34% (12/35) · #5'],
+    ['Perth', `${cityStats.perth.rate}% (${cityStats.perth.lhdMentions}/35) · #${cityStats.perth.lhdRank}`, '17% (6/35) · #7', '29% (10/35) · #5', '40% (14/35) · #4'],
     ['National “Australia”', `${cityStats.national.rate}% (${cityStats.national.lhdMentions}/35) · #${cityStats.national.lhdRank}`, '20% (7/35) · #7', '31% (11/35) · #5', '43% (15/35) · #4'],
-    ['All 280 Answers Overall', `${M.wfRatePct}% (${M.wfMentioned}/280) · #${wfNatRank}`, '20.0% (56/280) · #6', '30.4% (85/280) · #4', '41.8% (117/280) · Top 3']
+    ['All 280 Answers', `${M.wfRatePct}% (${M.wfMentioned}/280) · #${wfNatRank}`, '20.0% (56/280) · #6', '30.4% (85/280) · #4', '41.8% (117/280) · Top 3']
   ];
 
   slide('targets', 'light', `
@@ -1039,6 +1044,31 @@ const CSS = fs.readFileSync(path.join(pipelineDir, 'deck.css'), 'utf8') + `
   color: #9A7B3E !important;
   fill: #9A7B3E !important;
 }
+/* 8-Market & 35-Cell Grid Precision Fit Overrides */
+.cover { grid-template-columns: 740px 1fr !important; gap: 0 40px !important; }
+.cover-grid { padding: 22px 24px !important; max-width: 940px !important; }
+.cv-row { grid-template-columns: 165px auto 38px !important; gap: 10px !important; }
+.cv-cells { gap: 3px !important; }
+.cv-cells i { width: 12px !important; height: 18px !important; }
+.cv-cells i:nth-child(5n):not(:last-child) { margin-right: 5px !important; }
+.finds-col { gap: 12px !important; }
+.finds-col p { font-size: 19px !important; line-height: 1.35 !important; padding-top: 10px !important; }
+.finds-col b { font-size: 20px !important; }
+.mp-head, .mp-row { grid-template-columns: 205px 250px 1fr !important; gap: 16px !important; }
+.mp-row { padding: 8px 0 !important; font-size: 18.5px !important; }
+.mp-row .num { font-size: 17.5px !important; white-space: nowrap !important; }
+#ws-entity .quote { padding: 16px 20px 14px !important; gap: 8px !important; }
+#ws-entity .quote blockquote { font-size: 18.5px !important; line-height: 1.3 !important; }
+#ws-entity .quote figcaption { font-size: 16.5px !important; padding-top: 8px !important; }
+#ws-entity .ticks.cols { gap: 10px 44px !important; margin-bottom: 6px !important; }
+#ws-entity .ticks.cols li { font-size: 18px !important; line-height: 1.32 !important; }
+#targets .cols-60 { grid-template-columns: 1.15fr 1.15fr !important; gap: 44px !important; }
+.tg-table { font-size: 17.5px !important; margin-bottom: 10px !important; }
+.tg-table th { font-size: 14px !important; padding: 0 8px 8px !important; }
+.tg-table td { padding: 6px 8px !important; white-space: nowrap !important; }
+#targets .note { font-size: 17.5px !important; line-height: 1.35 !important; }
+.why .points { gap: 16px !important; }
+.why .points li { font-size: 20px !important; padding-top: 14px !important; }
 `;
 const JS = fs.readFileSync(path.join(pipelineDir, 'deck.js'), 'utf8');
 const html = `<!DOCTYPE html>
