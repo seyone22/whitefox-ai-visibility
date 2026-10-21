@@ -1,0 +1,206 @@
+{
+  "slug": "sydney",
+  "pk": "luxury_auctions",
+  "plat": "aimode",
+  "text": "Who are the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in Sydney?",
+  "loc": 1000286,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\sydney__luxury_auctions__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:14:00.936Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in Sydney?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000286,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Who%20are%20the%20leading%20luxury%20real%20estate%20agencies%20and%20top-performing%20auctioneers%20for%20prestige%20residential%20properties%20in%20Sydney%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCT-Yix5ArhJrEcDMMhZofQEF",
+      "datetime": "2026-10-21 05:14:00 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "Sydney's prestige residential property market is anchored by powerhouse boutique and international network agencies specializing in high-net-worth transactions across the Eastern Suburbs and Lower North Shore, led by `elite auctioneers` renowned for commanding high-intensity auction rooms.[[1]](https://www.scerriauctions.com.au/locations/auctioneer-sydney/)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdOcmRuWnFOM0JrGAo)\n\n### Leading Luxury Real Estate Agencies\n\n- TRG (The Rubinstein Group): Spearheaded by high-profile agent Gavin Rubinstein, this Rose Bay-based agency dominates high-end transactions, record-breaking residential sales, and heavy digital market presence across Sydney's eastern corridor.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdOcmRuWnFOM0JrGAo)\n- Ray White Double Bay : A juggernaut in Australasia's network, consistently achieving phenomenal volume and record sales prices in blue-ribbon postcodes like Vaucluse, Bellevue Hill, and Point Piper.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdOcmRuWnFOM0JrGAo)\n- [Sydney Sotheby's International Realty](http://sydneysothebysrealty.com/) : Operating heavily out of Double Bay, this international luxury affiliate connects prestige Sydney estates and harbourside penthouses to a robust global ultra-high-net-worth database.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4TVY5d2JuRm9ZMlEYCg)\n- McGrath Estate Agents : A foundational name in premium Australian real estate, maintaining a dominant footprint and high-performing luxury divisions spanning the Eastern Suburbs, Lower North Shore, and Northern Beaches.\n- BresicWhitney : Renowned for design-forward marketing and prominent market share in high-end lifestyle, architectural, and prestige urban fringe properties.\n\n### Top-Performing Prestige Auctioneers\n\n- Clarence White : Widely celebrated as one of Sydney's elite independent auctioneers (Menck White Auctioneers), holding multiple state auctioneering titles and regularly presiding over high-stakes prestige residential auctions.\n- Chris Scerri : Founder of Scerri Auctions , noted for high-engagement physical and digital auction management that extracts maximum competition in volatile or premium bidding environments.\n- **Network Lead Auctioneers** : In-house corporate auctioneers for major groups—such as Ray White 's chief auctioneers—routinely command multi-million dollar Saturday auction marathons across the city's premier addresses.[[1]](https://www.therealestateconversation.com.au/front?dijegit=700&page=350)[[2]](https://www.thebestsydney.com/best-auction-sydney/)[[3]](https://www.scerriauctions.com.au/locations/auctioneer-sydney/)\n\nIf you are looking to buy or sell, let me know:\n\n- Which **specific region** (e.g., Eastern Suburbs vs. Lower North Shore) you are targeting\n- Whether you need a **buyer's agent** or a **sales listing recommendation** \n\nI can narrow down the **ideal specialist** for your price point.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Sydney's prestige residential property market is anchored by powerhouse boutique and international network agencies specializing in high-net-worth transactions across the Eastern Suburbs and Lower North Shore, led by elite auctioneers renowned for commanding high-intensity auction rooms.",
+              "markdown": "Sydney's prestige residential property market is anchored by powerhouse boutique and international network agencies specializing in high-net-worth transactions across the Eastern Suburbs and Lower North Shore, led by `elite auctioneers` renowned for commanding high-intensity auction rooms.[[1]](https://www.scerriauctions.com.au/locations/auctioneer-sydney/)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdOcmRuWnFOM0JrGAo)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Scerri Auctions",
+                  "domain": "www.scerriauctions.com.au",
+                  "url": "https://www.scerriauctions.com.au/locations/auctioneer-sydney/",
+                  "title": "Best Property Auctioneer Sydney | Chris Scerri",
+                  "text": "We offer specialised auctioneering support covering the complete range of property types, including residential, commercial, indus..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdOcmRuWnFOM0JrGAo",
+                  "title": "Ray White Residential Sydney CBD",
+                  "text": "Ray White Residential Sydney CBD provides real estate services specialising in the sale and lease of homes in Sydney CBD. For owne..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Leading Luxury Real Estate Agencies",
+              "text": "TRG (The Rubinstein Group) : Spearheaded by high-profile agent Gavin Rubinstein, this Rose Bay-based agency dominates high-end transactions, record-breaking residential sales, and heavy digital market presence across Sydney's eastern corridor. TRG (The Rubinstein Group) Ray White Double Bay : A juggernaut in Australasia's network, consistently achieving phenomenal volume and record sales prices in blue-ribbon postcodes like Vaucluse, Bellevue Hill, and Point Piper. Ray White Double Bay Sydney Sotheby's International Realty : Operating heavily out of Double Bay, this international luxury affiliate connects prestige Sydney estates and harbourside penthouses to a robust global ultra-high-net-worth database. McGrath Estate Agents : A foundational name in premium Australian real estate, maintaining a dominant footprint and high-performing luxury divisions spanning the Eastern Suburbs, Lower North Shore, and Northern Beaches. McGrath Estate Agents BresicWhitney : Renowned for design-forward marketing and prominent market share in high-end lifestyle, architectural, and prestige urban fringe properties. BresicWhitney",
+              "markdown": "- TRG (The Rubinstein Group): Spearheaded by high-profile agent Gavin Rubinstein, this Rose Bay-based agency dominates high-end transactions, record-breaking residential sales, and heavy digital market presence across Sydney's eastern corridor.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdOcmRuWnFOM0JrGAo)\n- Ray White Double Bay : A juggernaut in Australasia's network, consistently achieving phenomenal volume and record sales prices in blue-ribbon postcodes like Vaucluse, Bellevue Hill, and Point Piper.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdOcmRuWnFOM0JrGAo)\n- [Sydney Sotheby's International Realty](http://sydneysothebysrealty.com/) : Operating heavily out of Double Bay, this international luxury affiliate connects prestige Sydney estates and harbourside penthouses to a robust global ultra-high-net-worth database.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4TVY5d2JuRm9ZMlEYCg)\n- McGrath Estate Agents : A foundational name in premium Australian real estate, maintaining a dominant footprint and high-performing luxury divisions spanning the Eastern Suburbs, Lower North Shore, and Northern Beaches.\n- BresicWhitney : Renowned for design-forward marketing and prominent market share in high-end lifestyle, architectural, and prestige urban fringe properties.",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Sydney Sotheby's International Realty",
+                  "description": null,
+                  "url": "http://sydneysothebysrealty.com/",
+                  "domain": "sydneysothebysrealty.com"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdOcmRuWnFOM0JrGAo",
+                  "title": "Ray White Residential Sydney CBD",
+                  "text": "Ray White Residential Sydney CBD provides real estate services specialising in the sale and lease of homes in Sydney CBD. For owne..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Top-Performing Prestige Auctioneers",
+              "text": "Clarence White : Widely celebrated as one of Sydney's elite independent auctioneers (Menck White Auctioneers), holding multiple state auctioneering titles and regularly presiding over high-stakes prestige residential auctions. Clarence White Clarence White Chris Scerri : Founder of Scerri Auctions, noted for high-engagement physical and digital auction management that extracts maximum competition in volatile or premium bidding environments. Chris Scerri Chris Scerri Scerri Auctions Network Lead Auctioneers : In-house corporate auctioneers for major groups—such as Ray White 's chief auctioneers—routinely command multi-million dollar Saturday auction marathons across the city's premier addresses. Ray White",
+              "markdown": "- Clarence White : Widely celebrated as one of Sydney's elite independent auctioneers (Menck White Auctioneers), holding multiple state auctioneering titles and regularly presiding over high-stakes prestige residential auctions.\n- Chris Scerri : Founder of Scerri Auctions , noted for high-engagement physical and digital auction management that extracts maximum competition in volatile or premium bidding environments.\n- **Network Lead Auctioneers** : In-house corporate auctioneers for major groups—such as Ray White 's chief auctioneers—routinely command multi-million dollar Saturday auction marathons across the city's premier addresses.[[1]](https://www.therealestateconversation.com.au/front?dijegit=700&page=350)[[2]](https://www.thebestsydney.com/best-auction-sydney/)[[3]](https://www.scerriauctions.com.au/locations/auctioneer-sydney/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "The Real Estate Conversation",
+                  "domain": "www.therealestateconversation.com.au",
+                  "url": "https://www.therealestateconversation.com.au/front?dijegit=700&page=350",
+                  "title": "Real estate information for buyers and investors",
+                  "text": "Clarence White of Menck White Auctioneers secured a record 5th NSW Auctioneering title at the REINSW Awards for Excellence Gala di..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "The Best Sydney",
+                  "domain": "www.thebestsydney.com",
+                  "url": "https://www.thebestsydney.com/best-auction-sydney/",
+                  "title": "The 5 Best Auction Houses in Sydney Where You Can Bid for ...",
+                  "text": "Contact: 0416 110 782 | info@scerriauctions.com.au. Scerri Auctions for using high-quality green screen technology and studio ligh..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Scerri Auctions",
+                  "domain": "www.scerriauctions.com.au",
+                  "url": "https://www.scerriauctions.com.au/locations/auctioneer-sydney/",
+                  "title": "Best Property Auctioneer Sydney | Chris Scerri",
+                  "text": "Chris Scerri, a noted property auctioneer in Sydney, We offer specialised auctioneering support covering the complete range of property types, including residentia..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you are looking to buy or sell, let me know:",
+              "markdown": "If you are looking to buy or sell, let me know:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Which specific region (e.g., Eastern Suburbs vs. Lower North Shore) you are targeting Whether you need a buyer's agent or a sales listing recommendation",
+              "markdown": "- Which **specific region** (e.g., Eastern Suburbs vs. Lower North Shore) you are targeting\n- Whether you need a **buyer's agent** or a **sales listing recommendation**",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "I can narrow down the ideal specialist for your price point.",
+              "markdown": "I can narrow down the **ideal specialist** for your price point.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Scerri Auctions",
+              "domain": "www.scerriauctions.com.au",
+              "url": "https://www.scerriauctions.com.au/locations/auctioneer-sydney/",
+              "title": "Best Property Auctioneer Sydney | Chris Scerri",
+              "text": "Chris Scerri, a noted property auctioneer in Sydney, We offer specialised auctioneering support covering the complete range of property types, including residentia..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "The Real Estate Conversation",
+              "domain": "www.therealestateconversation.com.au",
+              "url": "https://www.therealestateconversation.com.au/front?dijegit=700&page=350",
+              "title": "Real estate information for buyers and investors",
+              "text": "Clarence White of Menck White Auctioneers secured a record 5th NSW Auctioneering title at the REINSW Awards for Excellence Gala dinner this week."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "The Best Sydney",
+              "domain": "www.thebestsydney.com",
+              "url": "https://www.thebestsydney.com/best-auction-sydney/",
+              "title": "The 5 Best Auction Houses in Sydney Where You Can Bid for ...",
+              "text": "Contact: 0416 110 782 | info@scerriauctions.com.au. Scerri Auctions for using high-quality green screen technology and studio lighting to host highly engaging onli..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Google",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4TVY5d2JuRm9ZMlEYCg",
+              "title": "Sydney Sotheby's International Realty",
+              "text": "Suite 303, Level 3/45/51 Cross St, Double Bay NSW 2028 · Luxury real estate agency specializing in high-end property sales and residential leasing."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

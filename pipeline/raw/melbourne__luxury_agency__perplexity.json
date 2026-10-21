@@ -1,0 +1,105 @@
+{
+  "slug": "melbourne",
+  "pk": "luxury_agency",
+  "plat": "perplexity",
+  "text": "Who are the best luxury real estate agencies in Melbourne? Give me a shortlist of specific prestige property agencies with reasons.",
+  "loc": 1000567,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\melbourne__luxury_agency__perplexity.json",
+  "at": "2026-10-21T05:10:19.748Z",
+  "cost": 0.006363,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 31,
+      "output_tokens": 732,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005763,
+      "datetime": "2026-10-21 05:10:19 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For Melbourne prestige property, the strongest shortlist is **Marshall White, RT Edgar, Jellis Craig, Kay & Burton, WHITEFOX, and Melbourne Sotheby’s International Realty**. The best choice depends heavily on the suburb, property type and whether you prioritise auction reach, discreet off-market sales or international exposure.\n\n- **Marshall White — best all-round prestige specialist.**  \n  A long-established Melbourne luxury brand with deep expertise in Toorak, Armadale, Brighton, Bayside and the inner south. It reports six decades in prestige property and a tailored approach to premium campaigns.[1] Independent industry coverage also identifies its concentration in multi-million-dollar homes and affluent buyer networks.[6]\n\n- **RT Edgar — best for established trophy homes and blue-chip suburbs.**  \n  Particularly strong for Toorak, South Yarra, Armadale, Brighton and other tightly held premium areas. Its reputation is built around high-end homes, including historic mansions and waterfront properties, with a substantial high-net-worth client base.[6]\n\n- **Jellis Craig — best for the eastern suburbs and premium family homes.**  \n  A strong option in Hawthorn, Kew, Camberwell, Brighton, South Yarra and parts of the inner north. Its advantages are detailed local databases, strong auction capability and experience with period homes, architectural residences and family properties.[2][7]\n\n- **Kay & Burton — best for discreet, ultra-premium transactions.**  \n  Worth considering for Toorak, South Yarra, Portsea, Sorrento and other high-value Melbourne and Mornington Peninsula markets. Its positioning suits sellers seeking a highly polished brand, private introductions and a more discreet luxury-sales process.[2]\n\n- **WHITEFOX — best for design-led contemporary homes and high-impact marketing.**  \n  A Melbourne-based boutique agency focused on luxury property, advisory and negotiation. It is a particularly relevant contender for architect-designed homes, renovated residences and properties where branding, presentation and digital reach are central to the campaign.[5]\n\n- **Melbourne Sotheby’s International Realty — best for international exposure.**  \n  A suitable choice when the likely buyer pool includes overseas or interstate high-net-worth purchasers. Its Sotheby’s affiliation provides an internationally recognisable luxury brand, while its Melbourne presence is centred on premium locations such as Toorak.[9]\n\n- **Belle Property — best premium lifestyle alternative.**  \n  Strong for presentation-heavy campaigns, luxury apartments, lifestyle homes and selected prestige suburbs. Its broader network can help with interstate reach, while its brand is positioned around premium and design-led property marketing.[2][3]\n\n## Practical shortlist by situation\n\n| Situation | Agencies to interview |\n|---|---|\n| Toorak, Armadale or South Yarra trophy home | Marshall White, RT Edgar, Kay & Burton |\n| Kew, Hawthorn, Camberwell or Brighton family home | Jellis Craig, Marshall White, RT Edgar |\n| Architect-designed or highly styled property | WHITEFOX, Belle Property, Marshall White |\n| Discreet or off-market sale | Kay & Burton, RT Edgar, Marshall White |\n| International buyer targeting | Melbourne Sotheby’s, Marshall White, Belle Property |\n\nBefore appointing one, compare the **specific agent**, not just the agency: ask for three comparable recent sales in the same suburb, the proposed buyer database, the campaign strategy, expected commission and evidence of achieved sale prices rather than advertised prices.",
+              "annotations": [
+                {
+                  "title": "Best Luxury Real Estate Agents in Melbourne",
+                  "url": "https://www.marshallwhite.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Agency: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/the-agency/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Savills in real estate companies: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/savills/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Barry Plant: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/barry-plant",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 100 Luxury Real Estate Companies in Australia (2026)",
+                  "url": "https://ensun.io/search/luxury-real-estate/australia",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 20 Real Estate Agencies in Australia",
+                  "url": "https://www.starinvestment.com.au/top-20-real-estate-agencies-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 10 Real Estate Companies in Melbourne 2026 Guide",
+                  "url": "https://www.starinvestment.com.au/top-real-estate-companies-melbourne/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "HALO Prestige - Real Estate Australia",
+                  "url": "https://haloprestige.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Melbourne Sotheby's International Realty",
+                  "url": "https://properties.lefigaro.com/agencies/luxury-real+estate-properties+for+sale-australia/146901/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "35 BEST Real Estate Agencies in South Yarra, VIC | Yellow Pages®",
+                  "url": "https://www.yellowpages.com.au/south-yarra-vic-3141/real-estate-agents",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

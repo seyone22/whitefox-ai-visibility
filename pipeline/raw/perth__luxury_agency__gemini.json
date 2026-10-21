@@ -1,0 +1,427 @@
+{
+  "slug": "perth",
+  "pk": "luxury_agency",
+  "plat": "gemini",
+  "text": "Who are the best luxury real estate agencies in Perth? Give me a shortlist of specific prestige property agencies with reasons.",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\perth__luxury_agency__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:17:33.102Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Perth’s prestige real estate market is concentrated primarily across the **Western Suburbs** (the “Golden Triangle” spanning Dalkeith, Peppermint Grove, Cottesloe, Mosman Park, Nedlands, and Claremont), as well as select riverside enclaves like Applecross. Because the high-end Perth market relies heavily on private transactions and discretion, agent reputation, off-market buyer databases, and global reach matter significantly.\n\nThe top luxury real estate agencies in Perth stand out for their specific track records in the prestige market:\n\n---\n\n### 1. William Porteous Properties International\n* **Location Focus:** Dalkeith, Peppermint Grove, Mosman Park, Nedlands\n* **Key Figures:** William Porteous, Olivia Porteous, Peter Robertson\n* **Why They Are on the Shortlist:**  \n  Widely considered the heritage name of ultra-luxury real estate in Western Australia. The agency is synonymous with Perth’s most expensive trophy homes—regularly brokering landmark waterfront estates along the Swan River and multi-million-dollar generational family compounds. Their primary advantage is an entrenched, high-net-worth network built over decades, making them exceptional for private, off-market sales where sellers demand strict confidentiality.\n\n### 2. Ray White Dalkeith | Claremont (Vivien Yap & Associates)\n* **Location Focus:** Dalkeith, Nedlands, Claremont, City Beach\n* **Key Figure:** Vivien Yap\n* **Why They Are on the Shortlist:**  \n  Led by Vivien Yap—consistently recognized as one of the highest-performing prestige property agents in Australia—this office commands immense market share across the Western Suburbs. They excel in modern digital marketing, high-energy campaigns, and bridging local supply with interstate and international capital (particularly across Southeast Asia and China).\n\n### 3. Ray White Cottesloe | Mosman Park\n* **Location Focus:** Cottesloe, Mosman Park, Peppermint Grove\n* **Key Figure:** Jody Fewster\n* **Why They Are on the Shortlist:**  \n  Operating at the elite intersection where river meets ocean, this boutique agency led by Jody Fewster is a fixture in the $5M+ and $10M+ tiers. Known for strategic, tailored campaigns and exceptional discretion, they have negotiated some of Western Australia’s most lucrative residential deals in riverside Mosman Park and coastal Cottesloe.\n\n### 4. Space Real Estate\n* **Location Focus:** Cottesloe, Swanbourne, Claremont, Peppermint Grove\n* **Key Figure:** Justin Davies\n* **Why They Are on the Shortlist:**  \n  A proudly independent, boutique agency that shuns the traditional franchise model. Space Real Estate has positioned itself as the go-to agency for premium coastal architecture, beach houses, and contemporary design-focused estates in Cottesloe and Swanbourne. Their marketing aesthetic is editorial and understated, appealing to discerning buyers who value high design.\n\n### 5. Acton | Belle Property (Cottesloe / Dalkeith)\n* **Location Focus:** Cottesloe, Nedlands, Swanbourne, Shenton Park\n* **Key Figures:** Bev Heymans, Shiva Shakibaee\n* **Why They Are on the Shortlist:**  \n  Backed by Belle Property’s national luxury branding and luxury magazine syndication, the Cottesloe/Western Suburbs arm combines local heritage (Acton) with high-end national reach. Principal Bev Heymans is one of Cottesloe’s top prestige performers, renowned for closing prominent beachfront and heritage sales.\n\n### 6. Duet Property Group\n* **Location Focus:** Nedlands, Dalkeith, Shenton Park, Subiaco\n* **Key Figures:** Michelle Kerr, Craig Gaspar\n* **Why They Are on the Shortlist:**  \n  Duet has built a reputation as one of Perth’s sharpest modern luxury agencies. They are known for meticulous property presentation, top-tier cinematography, and high-touch customer experience. If you have an architecturally significant or meticulously renovated character home in Nedlands, Claremont, or Shenton Park, Duet frequently achieves premium prices through targeted buyer staging and marketing.\n\n---\n\n### How to Choose Between Them:\n* **For Ultra-High-End Swan River Mansions & Discretion ($10M+):** *William Porteous Properties International* or *Ray White Cottesloe | Mosman Park*.\n* **For Raw Market Reach & International/Asian Buyer Inflow:** *Vivien Yap (Ray White Dalkeith | Claremont)*.\n* **For Coastal Cottesloe/Swanbourne Architecture:** *Space Real Estate* or *Acton | Belle Property Cottesloe*.\n* **For Modern Styling, Nedlands Character, and Boutique Execution:** *Duet Property Group*.",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=top+luxury+real+estate+agencies+perth&client=app-vertex-grounding&safesearch=active\">top luxury real estate agencies perth</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Vivien+Yap%22+%22William+Porteous%22+perth+luxury+real+estate&client=app-vertex-grounding&safesearch=active\">&quot;Vivien Yap&quot; &quot;William Porteous&quot; perth luxury real estate</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=best+prestige+real+estate+agencies+cottesloe+dalkeith+perth&client=app-vertex-grounding&safesearch=active\">best prestige real estate agencies cottesloe dalkeith perth</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXfaxP3iqBSQ26jLPSTP-zNqwRJFIEXQX-YO0RYQm14ueRkQWHq6BOaoJ-cTLwbqjrBnkI1JRgLeBXSiP00awqBS75YJ13liYvRHXnK4lTqc5kT3BjvGuao-ejI8lZQ0md3fDVRCLRXsYpXnu98tzjeMfxVQX3xGAnfbjfP19YxroWKAkk46-KhKFSLE828pm_dg==",
+                "title": "realestate.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBYwqs5FXyk4gdK3ZeOX_EGpwrzPy6Rd4teQDqYe6sHk_jiPS-ouMupGTqzyw8PJWcQj5-HoR6oCm4zOEGCo2o5Pos5xU75vt-ZWtIGBjWTwcbfrp-zitjpUo63QXfRTopWhllxLhaO9DH3nrJAI4RydMGMx_nohErfBWLO5pON82rmTbFd9H-FpxS58AWTDad",
+                "title": "smartrealty.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC_EcAgWmzgAvRhsl9WXEAK0v_qY093ZqzXvqxMphkRnPkLr8z6nlXxb0_syVULDP_aVlbjeMcbRoKdrEQDM9Iwrq8CtdDoYKdzajWoHs1LZm7tlkGgxMyCu9Y_hMQ-RjXjLTnnavgKAspO6-82A==",
+                "title": "realestate.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6JiWsjyfoLOIgjFeqnmmXoJWKYhZWbscV3X24AsO4a1vy2j_veTVQf8oA7FnGbm_qHkswt1-k_d4t-YefSw_YpCFi6iYMQ1GTz9n8Sw7B1d5BfIn-EawGDPo2Hg==",
+                "title": "monarchrealestate.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFS0aQ1kivDzcV88WxhZPuo3r3M5a6QqZbbjqijeP0FJvNXwy10w8YRb5xGXmxL1MD7WvaG3ERlnLT4ILuC1OcL9hsAyEPKd4MNZjSgiMjSg5IWRy9D3gmhnKl_K8MUgYokL1H-KTl7M_xfIOamXE4Gxp6P7XHu6Id2k2ZG7g==",
+                "title": "allhomes.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH283lOnhweiDV9shJt_kxR6XcCQwXIkJWUJx4cvEj485gWk0cpq0VRY8fQYYmKNcjEse_AcG0NfDtwouS6PxgIq876ETXSFcBSrbEXNXnhxBFUZ5cp6L4tEk7zpbEROpcW-p7cm8E=",
+                "title": "reiwa.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4AzyJlsU9qW9d-QwYcQMl-3zOLsoXEm0FhpXV-pc0KpZ0rQ9vslexiNm8o3SvQEWY39-65CuHWmDjZVIV8moXJUeAVGVskhIZJIjcizyGLu_r_XQfZsqqQote7PcvTQZxual63_IeqzMxZ7U4Ell1813z3turO9nRpVUkfA==",
+                "title": "realestate.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4_v94sMim6FnGB4p7NamtkxZa2aZgAGeksepV8R-e_r0W80p9v6eIW-0UjVVb1DjAcBTQFruN_cIkcFXZM5C2zJTTnkrOI7YiWu5s4Vm7nobU5-ckg6QKnnem_gY0mQwu6tgxO_2Mx3Z-aRP0uPUKdg==",
+                "title": "realestate.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgxZWfn76nL9PvJgNuVASqQT2bFDH-aTvrO5LjgRxnyQoJyJK3uNOhQ5Kvt4GtmjXv-rdzdA4zrSD7N4X0s0e02xEcpUeV0SAOr8HXMLZkf3nKZMEapResFEN3BSVnrtXFMax_LY1kYFsQSs_2HSP8k-0bBkY=",
+                "title": "customhomesonline.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6zgsdoqVuI8-jPh5Pkxa0zXJMRtSNZze4rphO9T2Y-WWxFF8aUf_UD33anr3bb2l-Hpp8I-d-vGbGSPQTlsT7YoIjLbO8GwV1dxQmI5w6BXa0lNtYC_5VYDdZ9St_MvgLgK7JHxa3APtkvpZm7kPeVAAVWay79ElD0nQ=",
+                "title": "realestate.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2HeRCOZcpweiwsBRgOd0THU4dQCRR6WVZwCMiOh4qkkDkSXz_k3JkJBDlUD0nzeb0_nI93Cjf-oDoQOpM4BVqpJ_p-pvvYxFdmqtGouUoa4Y3LINubngqzludUcCZXhSCIFI=",
+                "title": "reiwa.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEy8tFbymwJMs7Xraaa_CznWOBN60R0TtyF1onSIciOy6_wdJcx6BPbsFwhOpAF5s03hXaEfpVDsg81pTcd0Wo3S8clnLEL1dTvw60Vv4WSLk-50ZA5ZZqPGrdgAQrLM4G9Ng7JQF8pruyMD1XqJec93ncuMoycPdMTH3UtIDRtPB1rdhk=",
+                "title": "allhomes.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcmR21Y43O2Td491AlbzD--sWUtjg5K7pb5PZo_TCEd0EX9cjqfgzkfvCDEtHxKiV8l739kv7C0jfKPnbfK9CK4yeGbe4iKJEuZoGc8eqcI_ul",
+                "title": "pipa.asn.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFc-QVUvwEilDVgK9oS5caeHTKW-Ze5zRoPIIM5BUv1D5-3H2OmEMy10O_JbOIeoGlfW8AiCis_hkSUUjZiYgOZ71aM4hbPIHYRMF9JLHCauuU7xpFfoA2dHKNJ5gU3nVmlezd79HEJUg==",
+                "title": "reiwa.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiMl_Cg6sSe0UAZtNL50XIcJ7pfbQ2KoYJZbWEfumnSB_DNljb9IAZB_GKKLHl5ZXMS2ija95pezUTRQe7mVhv-GpP6J8aeLP3Os0oEtpN1ZYfh29xvsj69tZdvDY=",
+                "title": "boutiquerealtyperth.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCy32Bj8d8pFlQBp6wuCf_3OfEGZWy7otOrcuWI2TUgqNl7ELPpcxoRlHwSGJFvDmo5yThhc_KAl31qxfBulmenxm7WxND4GG_alk_xVz31KchVzppTQ==",
+                "title": "perthprestigerealty.com"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "endIndex": 207,
+                "text": "Perth’s prestige real estate market is concentrated primarily across the **Western Suburbs** (the “Golden Triangle” spanning Dalkeith, Peppermint Grove, Cottesloe, Mosman Park, Nedlands, and Claremont)"
+              },
+              "groundingChunkIndices": [
+                0,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "endIndex": 261,
+                "text": "Perth’s prestige real estate market is concentrated primarily across the **Western Suburbs** (the “Golden Triangle” spanning Dalkeith, Peppermint Grove, Cottesloe, Mosman Park, Nedlands, and Claremont), as well as select riverside enclaves like Applecross"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 263,
+                "endIndex": 435,
+                "text": "Because the high-end Perth market relies heavily on private transactions and discretion, agent reputation, off-market buyer databases, and global reach matter significantly"
+              },
+              "groundingChunkIndices": [
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 607,
+                "endIndex": 676,
+                "text": "**Location Focus:** Dalkeith, Peppermint Grove, Mosman Park, Nedlands"
+              },
+              "groundingChunkIndices": [
+                4,
+                5,
+                6,
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 679,
+                "endIndex": 746,
+                "text": "**Key Figures:** William Porteous, Olivia Porteous, Peter Robertson"
+              },
+              "groundingChunkIndices": [
+                8,
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 788,
+                "endIndex": 872,
+                "text": "Widely considered the heritage name of ultra-luxury real estate in Western Australia"
+              },
+              "groundingChunkIndices": [
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 874,
+                "endIndex": 1067,
+                "text": "The agency is synonymous with Perth’s most expensive trophy homes—regularly brokering landmark waterfront estates along the Swan River and multi-million-dollar generational family compounds"
+              },
+              "groundingChunkIndices": [
+                8,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1069,
+                "endIndex": 1251,
+                "text": "Their primary advantage is an entrenched, high-net-worth network built over decades, making them exceptional for private, off-market sales where sellers demand strict confidentiality"
+              },
+              "groundingChunkIndices": [
+                3,
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1320,
+                "endIndex": 1381,
+                "text": "**Location Focus:** Dalkeith, Nedlands, Claremont, City Beach"
+              },
+              "groundingChunkIndices": [
+                9,
+                10,
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1384,
+                "endIndex": 1410,
+                "text": "**Key Figure:** Vivien Yap"
+              },
+              "groundingChunkIndices": [
+                9,
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1452,
+                "endIndex": 1637,
+                "text": "Led by Vivien Yap—consistently recognized as one of the highest-performing prestige property agents in Australia—this office commands immense market share across the Western Suburbs"
+              },
+              "groundingChunkIndices": [
+                9,
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1639,
+                "endIndex": 1816,
+                "text": "They excel in modern digital marketing, high-energy campaigns, and bridging local supply with interstate and international capital (particularly across Southeast Asia and China)"
+              },
+              "groundingChunkIndices": [
+                2,
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1862,
+                "endIndex": 1922,
+                "text": "**Location Focus:** Cottesloe, Mosman Park, Peppermint Grove"
+              },
+              "groundingChunkIndices": [
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2367,
+                "endIndex": 2437,
+                "text": "**Location Focus:** Cottesloe, Swanbourne, Claremont, Peppermint Grove"
+              },
+              "groundingChunkIndices": [
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2440,
+                "endIndex": 2469,
+                "text": "**Key Figure:** Justin Davies"
+              },
+              "groundingChunkIndices": [
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2511,
+                "endIndex": 2592,
+                "text": "A proudly independent, boutique agency that shuns the traditional franchise model"
+              },
+              "groundingChunkIndices": [
+                14
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2594,
+                "endIndex": 2769,
+                "text": "Space Real Estate has positioned itself as the go-to agency for premium coastal architecture, beach houses, and contemporary design-focused estates in Cottesloe and Swanbourne"
+              },
+              "groundingChunkIndices": [
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2937,
+                "endIndex": 3002,
+                "text": "**Location Focus:** Cottesloe, Nedlands, Swanbourne, Shenton Park"
+              },
+              "groundingChunkIndices": [
+                11,
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3005,
+                "endIndex": 3050,
+                "text": "**Key Figures:** Bev Heymans, Shiva Shakibaee"
+              },
+              "groundingChunkIndices": [
+                0,
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3275,
+                "endIndex": 3406,
+                "text": "Principal Bev Heymans is one of Cottesloe’s top prestige performers, renowned for closing prominent beachfront and heritage sales"
+              },
+              "groundingChunkIndices": [
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3438,
+                "endIndex": 3499,
+                "text": "**Location Focus:** Nedlands, Dalkeith, Shenton Park, Subiaco"
+              },
+              "groundingChunkIndices": [
+                15
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4034,
+                "endIndex": 4142,
+                "text": "**For Ultra-High-End Swan River Mansions & Discretion ($10M+):** *William Porteous Properties International*"
+              },
+              "groundingChunkIndices": [
+                8,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4034,
+                "endIndex": 4181,
+                "text": "**For Ultra-High-End Swan River Mansions & Discretion ($10M+):** *William Porteous Properties International* or *Ray White Cottesloe | Mosman Park*"
+              },
+              "groundingChunkIndices": [
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4185,
+                "endIndex": 4291,
+                "text": "**For Raw Market Reach & International/Asian Buyer Inflow:** *Vivien Yap (Ray White Dalkeith | Claremont)*"
+              },
+              "groundingChunkIndices": [
+                9,
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4295,
+                "endIndex": 4365,
+                "text": "**For Coastal Cottesloe/Swanbourne Architecture:** *Space Real Estate*"
+              },
+              "groundingChunkIndices": [
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4295,
+                "endIndex": 4403,
+                "text": "**For Coastal Cottesloe/Swanbourne Architecture:** *Space Real Estate* or *Acton | Belle Property Cottesloe*"
+              },
+              "groundingChunkIndices": [
+                13
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "top luxury real estate agencies perth",
+            "\"Vivien Yap\" \"William Porteous\" perth luxury real estate",
+            "best prestige real estate agencies cottesloe dalkeith perth"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 624,
+      "candidatesTokenCount": 1284,
+      "totalTokenCount": 3424,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 624
+        }
+      ],
+      "thoughtsTokenCount": 1516,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "00rYaoqOEJPDjuMPmrGJ6AM"
+  }
+}

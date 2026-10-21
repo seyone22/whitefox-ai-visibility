@@ -1,0 +1,105 @@
+{
+  "slug": "sydney",
+  "pk": "boutique_luxury",
+  "plat": "perplexity",
+  "text": "Which boutique luxury real estate agencies in Sydney are best known for modern social media marketing, high-impact video campaigns, and architectural homes?",
+  "loc": 1000286,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\sydney__boutique_luxury__perplexity.json",
+  "at": "2026-10-21T05:11:29.128Z",
+  "cost": 0.006179,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 34,
+      "output_tokens": 545,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005579,
+      "datetime": "2026-10-21 05:11:29 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Sydney’s strongest boutique options for **luxury, architectural homes and contemporary digital campaigns** appear to be:\n\n- **PPD Real Estate** — A tightly focused Eastern Suburbs boutique covering Double Bay, Woollahra, Paddington and Bondi. It is a strong fit for architecturally distinctive homes, where materiality, renovation quality, character and micro-location need a highly tailored campaign.[2] Its listings have also been featured in cinematic campaigns built around sandstone, marble, gardens and spatial storytelling.[3]\n\n- **1st City** — A boutique prestige agency particularly suited to Darling Point and harbourfront property. Its campaigns have used high-production architectural films for luxury developments and penthouses, highlighting sculptural stairs, bespoke marble and harbour views.[3]\n\n- **Pillinger** — A strong candidate for trophy homes and ultra-luxury harbourfront estates. Its campaign work includes cinematic treatment of a Bruce Stafford-designed estate, using scale, architecture and Harbour Bridge views as the central marketing narrative.[3]\n\n- **Belle Property Northern Beaches / Belle Manly** — Well suited to coastal architectural homes and high-end waterfront property. Campaign examples include a tri-level Housed Architects-designed residence and a beachfront penthouse presented through cinematic video for digital audiences.[3]\n\n- **Richardson & Wrench Potts Point** — A good match for architecturally or historically significant inner-city homes. Its video work has focused on an Italianate terrace, combining ornate period details with contemporary updates rather than relying on a standard walkthrough.[3]\n\n- **Ray White TRG — The Rubinstein Group** — A prestige Eastern Suburbs team rather than a purely independent boutique, but relevant for sellers seeking polished luxury presentation, auction expertise and access to a larger buyer network.[2]\n\n**Best shortlist by property type:**\n\n| Property | Best-fit agencies |\n|---|---|\n| Contemporary architectural home | PPD Real Estate, Belle Manly |\n| Harbourfront trophy estate | Pillinger, 1st City, Ray White TRG |\n| Luxury Eastern Suburbs residence | PPD Real Estate, Ray White TRG |\n| Coastal or beachfront architecture | Belle Property Northern Beaches |\n| Heritage-meets-contemporary home | Richardson & Wrench Potts Point |\n\nFor genuinely modern social execution, ask each agency to show recent **Instagram Reels, paid-social examples, cinematic listing films, campaign analytics and examples of architect-designed homes**—not only photography portfolios. The strongest evidence in the available material is the documented video work associated with PPD, 1st City, Pillinger, Belle and Richardson & Wrench.[3]",
+              "annotations": [
+                {
+                  "title": "Quincy Productions | Premium Real Estate Media Agency ...",
+                  "url": "https://quincyproductions.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "7 Best Real Estate Agent Sydney Picks for 2026 - gregory.agency",
+                  "url": "https://www.gregory.agency/best-real-estate-agent-sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Video",
+                  "url": "https://quincyproductions.com.au/video",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Sydney Social Media Management and Marketing Services",
+                  "url": "https://www.bettaagency.com/social-media-services",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Real Estate Advertising Agencies in Australia 2026 | Semrush",
+                  "url": "https://agencies.semrush.com/list/advertising/real-estate/australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Agent Social - Real Estate Marketing",
+                  "url": "https://www.agentsocial.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 25 Luxury real estate marketing agencies based in ...",
+                  "url": "https://revenuebase.ai/companies/luxury-real-estate-marketing-agencies/australia/sydney",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Real Estate Social Media Marketing Agencies in Australia 2026",
+                  "url": "https://agencies.semrush.com/list/smm/real-estate/australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top Real Estate Marketing Agencies in Australia",
+                  "url": "https://digitalagencynetwork.com/agencies/australia/industry/real-estate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 23 Luxury property branding agencies based in ...",
+                  "url": "https://revenuebase.ai/companies/luxury-property-branding-agencies/australia/sydney",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "slug": "national",
+  "pk": "architectural_projects",
+  "plat": "claude",
+  "text": "Which prestige real estate agencies in Australia are the market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing?",
+  "loc": 2036,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\national__architectural_projects__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:22:09.154Z",
+  "cost": 0.131476,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 30042,
+      "output_tokens": 2050,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.130876,
+      "datetime": "2026-10-21 05:22:09 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Based on the search results and my broader knowledge of the Australian prestige real estate market, here is a comprehensive overview of the market-leading agencies for luxury off-the-plan developments, penthouses, and architectural project marketing across Australia:\n\n---\n\n# 🏙️ Australia's Leading Prestige Real Estate Agencies for Luxury Developments & Project Marketing\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Australia's luxury real estate sector is a resilient and growing asset class, valued at $23.88 billion in 2025 and projected to grow at a CAGR of 5.75% through 2033, driven by strong demand in cities like Sydney, Melbourne, and Brisbane.",
+              "annotations": [
+                {
+                  "title": "Investing in Prestige: Australia's Resilient Luxury Real Estate 2025",
+                  "url": "https://inspirepreneurmagazine.com/real-estate/luxury-real-estate/why-does-luxury-real-estate-remain-australias-most-resilient-investment/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Here are the standout agencies leading this space:\n\n---\n\n## 🔶 National & International Powerhouses\n\n### 1. **Knight Frank Australia**\nOne of Australia's most prominent luxury and prestige agencies, Knight Frank has a dedicated residential project marketing division handling ultra-premium off-the-plan apartments, penthouses, and landmark towers. They regularly represent landmark developments in Sydney, Melbourne, and Brisbane, and are known for their global reach connecting Australian projects to international UHNWI buyers.\n\n### 2. **Colliers International (Residential)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Colliers has been involved in the sale of some of Australia's most significant penthouse transactions, including the Crown Sydney penthouse — reportedly sold through Luke Hayes of Colliers.",
+              "annotations": [
+                {
+                  "title": "Revealed: Sydney’s top 12 luxury property sales of 2025",
+                  "url": "https://www.domain.com.au/news/revealed-sydneys-top-12-luxury-property-sales-of-2025-1470547/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Their residential project marketing team specialises in luxury high-rise, mixed-use, and architectural developments across Sydney and Melbourne.\n\n### 3. **Savills Australia**\nSavills operates a highly regarded residential project marketing arm, specialising in luxury off-the-plan developments, boutique architectural residences, and prestige mixed-use towers. They are particularly active in Sydney's Eastern Suburbs and Melbourne's inner-city luxury market.\n\n### 4. **CBRE Residential Projects**\nCBRE's residential project marketing team is one of the largest in Australia, managing sales campaigns for high-end towers and mixed-use developments. They have marketed flagship projects including luxury developments in Barangaroo, South Yarra, and Brisbane's inner city.\n\n---\n\n## 🔷 Boutique & Specialist Prestige Agencies\n\n### 5. **Marshall White (Melbourne)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Marshall White are the leading prestige real estate agents for luxury properties in Melbourne, and buyers are invited to discover premium new developments through Marshall White Projects.",
+              "annotations": [
+                {
+                  "title": "Best Luxury Real Estate Agents in Melbourne",
+                  "url": "https://www.marshallwhite.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their six decades of commitment to excellence in prestige property is evident in every tailored strategy and successful outcome.",
+              "annotations": [
+                {
+                  "title": "Best Luxury Real Estate Agents in Melbourne",
+                  "url": "https://www.marshallwhite.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are particularly dominant in Toorak, South Yarra, Brighton, and the Mornington Peninsula.\n\n### 6. **TOTAL Property Group (Southeast Queensland)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "TOTAL Property Group is Southeast Queensland's prestige apartment specialist and has confirmed a string of significant transactions in recent months.",
+              "annotations": [
+                {
+                  "title": "Gold Coast Prestige Market Surges with Landmark Sales",
+                  "url": "https://www.oceanroadmagazine.com.au/gold-coast-prestige-market-surges-with-landmark-sales/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Among their highlights are the sales of two full-floor penthouses at Royale Gold Coast, which were secured for $19.18 million and $19.56 million respectively — together representing almost $39 million in sales within a matter of weeks.",
+              "annotations": [
+                {
+                  "title": "Gold Coast Prestige Market Surges with Landmark Sales",
+                  "url": "https://www.oceanroadmagazine.com.au/gold-coast-prestige-market-surges-with-landmark-sales/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are widely regarded as the Gold Coast and Brisbane market leader for luxury off-the-plan project marketing.\n\n### 7. **Amir Prestige (Gold Coast)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Amir Prestige is a luxury property leader serving clients with interests in residential, commercial, leasing, and new projects across all parts of the Gold Coast and Northern NSW.",
+              "annotations": [
+                {
+                  "title": "Amir Prestige: Gold Coast Luxury Real Estate Agency",
+                  "url": "https://www.amirprestige.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "In 2025, they achieved a $27,500,000 sale at '127 Hedges Avenue', marking the largest transaction on the Gold Coast for 2025, followed by the sale of '41 The Promenade, Isle of Capri' for $27,000,000.",
+              "annotations": [
+                {
+                  "title": "Amir Prestige: Gold Coast Luxury Real Estate Agency",
+                  "url": "https://www.amirprestige.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n### 8. **The Agency (Sydney)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Steven Chen of The Agency has been involved in some of Sydney's most high-profile luxury property transactions",
+              "annotations": [
+                {
+                  "title": "Revealed: Sydney’s top 12 luxury property sales of 2025",
+                  "url": "https://www.domain.com.au/news/revealed-sydneys-top-12-luxury-property-sales-of-2025-1470547/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", making The Agency a key player in Sydney's prestige and off-the-plan penthouse market.\n\n### 9. **Pillinger (Sydney)**\nBrad Pillinger's boutique agency is one of Sydney's most exclusive, specialising in ultra-premium off-market and on-market transactions, particularly in the Eastern Suburbs. Pillinger is synonymous with architectural prestige homes and trophy apartments.\n\n---\n\n## 🔶 Developer-Aligned & Specialist Project Marketing Firms\n\n### 10. **Mirvac Residential**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Victoria's off-the-plan stamp-duty concession, effective since 2024, propelled Mirvac to pre-sell 80% of its 45-story riverside tower within 24 hours",
+              "annotations": [
+                {
+                  "title": "Australia Luxury Residential Real Estate Market - Size, Report, Statistics & Trends Analysis",
+                  "url": "https://www.mordorintelligence.com/industry-reports/australia-luxury-residential-real-estate-market",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — a testament to their dominance in luxury off-the-plan project sales.\n\n### 11. **JLL Residential (Jones Lang LaSalle)**\nJLL's residential project marketing team focuses on high-end mixed-use and tower developments, particularly in Sydney and Melbourne CBDs. They are especially active in the branded residence segment.\n\n### 12. **Engel & Völkers Australia**\nThe German-origin luxury brand has a growing Australian presence, specialising in prestige residential sales and exclusive off-the-plan developments, with offices in Sydney, Melbourne, and Queensland.\n\n---\n\n## 🏆 Key Luxury Development Precincts These Agencies Dominate\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Ultra-luxury developments like One Barangaroo in Sydney exemplify global appeal, with $1.2 billion in sales for branded residences offering hotel-style services, attracting UHNWIs worldwide.",
+              "annotations": [
+                {
+                  "title": "Investing in Prestige: Australia's Resilient Luxury Real Estate 2025",
+                  "url": "https://inspirepreneurmagazine.com/real-estate/luxury-real-estate/why-does-luxury-real-estate-remain-australias-most-resilient-investment/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Projects pairing luxury dwellings with hotel services have surged, including Melbourne's $1.5 billion STH BNK integrating a Four Seasons hotel plus branded residences, and Brisbane's St Regis and Sydney's Waldorf Astoria homes, which promise owners perks such as priority dining, housekeeping, and rental pools.",
+              "annotations": [
+                {
+                  "title": "Australia Luxury Residential Real Estate Market - Size, Report, Statistics & Trends Analysis",
+                  "url": "https://www.mordorintelligence.com/industry-reports/australia-luxury-residential-real-estate-market",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## Summary Table\n\n| Agency | Specialty | Key Markets |\n|---|---|---|\n| **Knight Frank** | Off-the-plan, penthouses, global reach | Sydney, Melbourne, Brisbane |\n| **Colliers Residential** | Luxury towers, penthouse sales | Sydney, Melbourne |\n| **Savills Australia** | Boutique architectural, luxury mixed-use | Sydney, Melbourne |\n| **CBRE Residential** | Large-scale project marketing | National |\n| **Marshall White** | Prestige residential & projects | Melbourne, Toorak, Brighton |\n| **TOTAL Property Group** | Luxury off-the-plan apartments | Gold Coast, Brisbane |\n| **Amir Prestige** | Luxury sales & new projects | Gold Coast, Northern NSW |\n| **The Agency** | Prestige apartments, penthouses | Sydney |\n| **Pillinger** | Ultra-premium boutique | Sydney Eastern Suburbs |\n| **JLL Residential** | Branded residences, towers | Sydney, Melbourne |\n| **Engel & Völkers** | Prestige residential & off-the-plan | National |\n\nWould you like a deeper dive into any specific city, agency, or development type?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "prestige real estate agencies Australia luxury off-the-plan developments penthouses market leaders 2025",
+        "top luxury architectural project marketing real estate agencies Australia",
+        "top prestige real estate agencies Australia luxury project marketing off-the-plan penthouses Colliers CBRE Knight Frank Savills",
+        "leading luxury real estate agencies Australia project marketing penthouses off-the-plan 2025 2026"
+      ]
+    }
+  ]
+}

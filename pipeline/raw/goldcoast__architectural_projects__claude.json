@@ -1,0 +1,344 @@
+{
+  "slug": "goldcoast",
+  "pk": "architectural_projects",
+  "plat": "claude",
+  "text": "Which prestige real estate agencies in Gold Coast are the market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing?",
+  "loc": 1000665,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\goldcoast__architectural_projects__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:17:35.554Z",
+  "cost": 0.065551,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10112,
+      "output_tokens": 1641,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.064951,
+      "datetime": "2026-10-21 05:17:35 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a comprehensive overview of the **prestige real estate agencies on the Gold Coast** that are recognised as market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing:\n\n---\n\n## 🏆 Gold Coast Prestige Real Estate Agency Market Leaders\n\n---\n\n### 1. 🥇 **Kollosche**\n**Broadbeach | kollosche.com.au**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Kollosche is the luxury property leader serving clients with interests in residential, commercial, leasing, and new projects across all parts of the Gold Coast.",
+              "annotations": [
+                {
+                  "title": "Gold Coast Luxury Real Estate Agency",
+                  "url": "https://www.kollosche.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are widely regarded as the benchmark agency in the market. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their Projects division offers a top-shelf range of off-the-plan apartments for homeowners, holiday havens, or investors.",
+              "annotations": [
+                {
+                  "title": "Gold Coast Luxury Real Estate Agency",
+                  "url": "https://www.kollosche.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Headquartered at Oracle West in Broadbeach, Kollosche is consistently the first name associated with high-end project marketing and prestige residential sales on the Gold Coast.\n\n---\n\n### 2. 🥈 **TOTAL Property Group**\n**Southeast Queensland's Prestige Apartment Specialist**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "TOTAL Property Group is Southeast Queensland's prestige apartment specialist",
+              "annotations": [
+                {
+                  "title": "Gold Coast Prestige Market Surges with Landmark Sales",
+                  "url": "https://www.oceanroadmagazine.com.au/gold-coast-prestige-market-surges-with-landmark-sales/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " and has firmly established itself as a dominant force in luxury off-the-plan sales. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Among their landmark results are the sales of two full-floor penthouses at Royale Gold Coast — the six-star tower by DD Living on Northcliffe Terrace — secured for $19.18 million and $19.56 million respectively, representing almost $39 million in sales within weeks.",
+              "annotations": [
+                {
+                  "title": "Gold Coast Prestige Market Surges with Landmark Sales",
+                  "url": "https://www.oceanroadmagazine.com.au/gold-coast-prestige-market-surges-with-landmark-sales/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The Level 35 penthouse set a new record for Surfers Paradise off-the-plan sales before being surpassed by the Level 36 residence.",
+              "annotations": [
+                {
+                  "title": "Gold Coast Prestige Market Surges with Landmark Sales",
+                  "url": "https://www.oceanroadmagazine.com.au/gold-coast-prestige-market-surges-with-landmark-sales/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. 🥉 **Amir Prestige**\n**Gold Coast & Northern NSW | amirprestige.com.au**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Amir Prestige serves clients with interests in residential, commercial, leasing, and new projects across all parts of the Gold Coast and Northern NSW.",
+              "annotations": [
+                {
+                  "title": "Amir Prestige: Gold Coast Luxury Real Estate Agency",
+                  "url": "https://www.amirprestige.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are particularly notable for record-breaking trophy sales. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "In 2025, they achieved a $27,500,000 sale at '127 Hedges Avenue', marking the largest transaction on the Gold Coast for 2025, following another Gold Coast record — the sale of '41 The Promenade, Isle of Capri' for $27,000,000.",
+              "annotations": [
+                {
+                  "title": "Amir Prestige: Gold Coast Luxury Real Estate Agency",
+                  "url": "https://www.amirprestige.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Remarkably, ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "they remain the only agency in Queensland to have completed 10 transactions over $20,000,000.",
+              "annotations": [
+                {
+                  "title": "Amir Prestige: Gold Coast Luxury Real Estate Agency",
+                  "url": "https://www.amirprestige.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. **Lucy Cole Prestige**\n**Established Boutique Luxury Agency | lucycole.com.au**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Established in 2000, Lucy Cole Prestige has become a respected name associated with the finest in Gold Coast prestige and luxury residential real estate.",
+              "annotations": [
+                {
+                  "title": "Lucy Cole Prestige",
+                  "url": "https://www.lucycole.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They specialise in luxury beachfront and waterfront homes, apartments, and penthouses.",
+              "annotations": [
+                {
+                  "title": "Lucy Cole Prestige",
+                  "url": "https://www.lucycole.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "A hand-picked team of dynamic sales achievers mentored by Lucy Cole, the boutique agency has earned a reputation as one of the Gold Coast's leading prestige real estate agencies with over 25 years' track record of outstanding performance.",
+              "annotations": [
+                {
+                  "title": "Lucy Cole Prestige",
+                  "url": "https://www.lucycole.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. **Prestige Coast Properties**\n**Luxury Sales & Project Marketing | prestigecoastproperties.com.au**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "From Main Beach to Burleigh Heads, Prestige Coast Properties helps clients secure standout results in the fast-moving luxury market, where premium properties are setting new benchmarks for design, exclusivity, and value.",
+              "annotations": [
+                {
+                  "title": "Penthouses & Waterfront Apartments on the Gold Coast: Luxury Property Trends 2025",
+                  "url": "https://www.prestigecoastproperties.com.au/post/penthouses-waterfront-apartments-on-the-gold-coast-luxury-property-trends-2025",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Their offering includes ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "tailored luxury marketing with bespoke videos, photography and copywriting; discreet off-market sales ideal for privacy-focused sellers; and international exposure reaching qualified buyers through exclusive channels.",
+              "annotations": [
+                {
+                  "title": "Penthouses & Waterfront Apartments on the Gold Coast: Luxury Property Trends 2025",
+                  "url": "https://www.prestigecoastproperties.com.au/post/penthouses-waterfront-apartments-on-the-gold-coast-luxury-property-trends-2025",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 6. **North South Real Estate (NSRE)**\n**Prestige & Buyer Advocacy | nsre.com.au**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Proudly serving Brisbane, Gold Coast, and Northern NSW, North South Real Estate is a trusted authority in prestige real estate sales and buyer advocacy, guiding high-net-worth individuals through complex property decisions with precision, privacy, and insight.",
+              "annotations": [
+                {
+                  "title": "Prestige Property",
+                  "url": "https://www.nsre.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They specialise in luxury real estate advisory, bespoke property development, and strategic investment consulting for Family Offices, HNWIs, and UHNWIs.",
+              "annotations": [
+                {
+                  "title": "Prestige Property",
+                  "url": "https://www.nsre.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 📊 Market Context\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "According to Domain's 2025 Property Outlook, penthouse sales increased by over 18% in 2024, with average prices surpassing $4 million in Surfers Paradise and Broadbeach.",
+              "annotations": [
+                {
+                  "title": "Penthouses & Waterfront Apartments on the Gold Coast: Luxury Property Trends 2025",
+                  "url": "https://www.prestigecoastproperties.com.au/post/penthouses-waterfront-apartments-on-the-gold-coast-luxury-property-trends-2025",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Industry analysts note that trophy properties such as full-floor penthouses remain relatively insulated from wider property fluctuations due to limited supply and strong appeal among affluent buyers seeking exclusivity and lifestyle advantages.",
+              "annotations": [
+                {
+                  "title": "Record-Breaking Penthouse Listed on Gold Coast",
+                  "url": "https://thenorthernriverstimes.com.au/northern-rivers-local-news/gold-coast-penthouse/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## Summary Table\n\n| Agency | Specialty | Key Strength |\n|---|---|---|\n| **Kollosche** | Residential, Projects, Commercial | Gold Coast's #1 luxury brand |\n| **TOTAL Property Group** | Off-the-plan apartments | Record penthouse sales |\n| **Amir Prestige** | Trophy homes & penthouses | Most $20M+ transactions in QLD |\n| **Lucy Cole Prestige** | Beachfront & waterfront | 25+ years prestige track record |\n| **Prestige Coast Properties** | Luxury marketing & sales | Bespoke project marketing |\n| **North South RE** | Buyer advocacy & HNW advisory | Off-market & UHNWI focus |\n\nWould you like more detail on any specific agency, a particular suburb, or the types of developments currently being marketed?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "prestige luxury real estate agencies Gold Coast off-the-plan penthouses market leaders 2025",
+        "Gold Coast luxury architectural project marketing real estate agencies"
+      ]
+    }
+  ]
+}

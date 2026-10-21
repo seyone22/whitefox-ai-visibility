@@ -1,0 +1,106 @@
+{
+  "slug": "national",
+  "pk": "boutique_luxury",
+  "plat": "perplexity",
+  "text": "Which boutique luxury real estate agencies in Australia are best known for modern social media marketing, high-impact video campaigns, and architectural homes?",
+  "loc": 2036,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\national__boutique_luxury__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:20:55.169Z",
+  "cost": 0.006237,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 34,
+      "output_tokens": 603,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005637,
+      "datetime": "2026-10-21 05:20:54 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "The strongest matches are **Zed Real Estate**, **Fletcher Riley**, **Belle Property’s leading boutique offices**, **1st City**, **Pillinger**, and **PPD Real Estate**. They combine premium or architectural listings with highly visual campaigns, social-first positioning, and cinematic video—though the evidence is strongest for individual offices and agents rather than entire national networks.\n\n- **Zed Real Estate — Melbourne:** A particularly strong fit for social-led luxury marketing. The brand explicitly positions itself around strategic social media, technology, high digital visibility, and architectural collaboration.[9]\n- **Fletcher Riley — Sunshine Coast:** A genuine boutique prestige agency with an “edge and authenticity” positioning and a high-impact approach to luxury property campaigns.[8]\n- **Belle Property — selected Sydney and lifestyle-market offices:** Belle is known for premium, design-led and lifestyle listings, with polished digital and editorial presentation. Its Manly/Northern Beaches work includes cinematic campaigns for architect-designed oceanfront homes.[1][3]\n- **1st City — Sydney Eastern Suburbs:** A boutique luxury operator particularly suited to high-end apartments and architectural developments. Campaigns for Darling Point penthouses have used cinematic films emphasizing bespoke materials, sculptural staircases, harbour views and architectural scale.[1]\n- **Pillinger — Sydney Eastern Suburbs:** A strong choice for trophy estates and architecturally significant harbourfront homes. Its campaign work has used restrained, cinematic storytelling aimed at ultra-luxury buyers.[1]\n- **PPD Real Estate — Double Bay:** Well suited to private architectural residences and design-conscious sellers; its visual campaigns focus on spatial storytelling and the contrast between heritage materials and contemporary finishes.[1]\n- **Richardson & Wrench — selected prestige offices:** Some offices, especially in Sydney’s Eastern Suburbs, use mood-driven property films for architecturally and historically distinctive homes rather than relying only on standard listing photography.[1]\n\n## Best shortlist by need\n\n| Priority | Best candidates |\n|---|---|\n| Most social-media-forward | Zed Real Estate |\n| Boutique prestige identity | Fletcher Riley, 1st City, Pillinger |\n| Architectural homes | 1st City, PPD Real Estate, Belle Property Manly |\n| High-impact cinematic video | Belle Property, Pillinger, 1st City |\n| Melbourne luxury market | Zed Real Estate, Marshall White, RT Edgar |\n| Adelaide luxury market | Toop+Toop |\n\n**Practical recommendation:** For a distinctive architectural home, first compare **Zed Real Estate** in Melbourne, **1st City/Pillinger/PPD** in Sydney, and **Fletcher Riley** on the Sunshine Coast. Ask each agency for recent examples showing the full campaign: vertical video, Instagram/Reels strategy, paid-social distribution, agent-led content, photography, floor plans and buyer analytics—not just a polished hero film.",
+              "annotations": [
+                {
+                  "title": "Video",
+                  "url": "https://quincyproductions.com.au/video",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The 11 Best Real Estate Branding Agencies in Australia for ... - Flornt",
+                  "url": "https://flornt.com.au/blog/the-11-best-real-estate-branding-agencies-in-australia-for-independent-agents",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Agency: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/the-agency/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Real Estate Video Marketing Agencies in Australia 2026",
+                  "url": "https://agencies.semrush.com/list/video-advertising/real-estate/australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top Real Estate Marketing Agencies in Australia",
+                  "url": "https://digitalagencynetwork.com/agencies/australia/industry/real-estate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Real Estate Advertising Agencies in Australia 2026 | Semrush",
+                  "url": "https://agencies.semrush.com/list/advertising/real-estate/australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 25 Luxury real estate marketing agencies based in ...",
+                  "url": "https://revenuebase.ai/companies/luxury-real-estate-marketing-agencies/australia/sydney",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Your #1 Prestige Property Experts - Fletcher Riley",
+                  "url": "https://fletcherriley.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Zed Real Estate: Real Estate Melbourne",
+                  "url": "https://zedrealestate.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Real Estate Social Media Marketing Agencies in Australia 2026",
+                  "url": "https://agencies.semrush.com/list/smm/real-estate/australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

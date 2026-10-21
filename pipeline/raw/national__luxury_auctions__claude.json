@@ -1,0 +1,369 @@
+{
+  "slug": "national",
+  "pk": "luxury_auctions",
+  "plat": "claude",
+  "text": "Who are the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in Australia?",
+  "loc": 2036,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\national__luxury_auctions__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:21:53.792Z",
+  "cost": 0.069172,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 9949,
+      "output_tokens": 1915,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.068572,
+      "datetime": "2026-10-21 05:21:53 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a comprehensive overview of the **leading luxury real estate agencies** and **top-performing auctioneers** for prestige residential properties in Australia:\n\n---\n\n## 🏡 Leading Luxury Real Estate Agencies in Australia\n\n### 1. **Knight Frank Prestige Residential**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Knight Frank is a global real estate powerhouse with a strong presence in Australia, particularly in the luxury residential and commercial property markets.",
+              "annotations": [
+                {
+                  "title": "Top 20 Real Estate Agencies in Australia: Expert Reviews & Insights",
+                  "url": "https://www.starinvestment.com.au/top-20-real-estate-agencies-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Competition in the sector intensified when Knight Frank and Bayleys acquired a controlling stake in McGrath Estate Agents in June 2024, forming a 140-office, 2,400-staff east-coast powerhouse.",
+              "annotations": [
+                {
+                  "title": "Australia Luxury Residential Real Estate Market - Size, Report, Statistics & Trends Analysis",
+                  "url": "https://www.mordorintelligence.com/industry-reports/australia-luxury-residential-real-estate-market",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. **Marshall White** *(Melbourne)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Marshall White are the leading prestige real estate agents for luxury properties in Melbourne, and are considered \"pioneers of prestige since 1964.\"",
+              "annotations": [
+                {
+                  "title": "Best Luxury Real Estate Agents in Melbourne",
+                  "url": "https://www.marshallwhite.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Luxury Real Estate Agents in Melbourne",
+                  "url": "https://www.marshallwhite.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "As a heavyweight in Australia's premium real estate market, they have built a formidable reputation especially in Melbourne's prestigious inner suburbs, with a portfolio that includes everything from historic mansions in Toorak to modern waterfront homes in Brighton.",
+              "annotations": [
+                {
+                  "title": "Top 20 Real Estate Agencies in Australia: Expert Reviews & Insights",
+                  "url": "https://www.starinvestment.com.au/top-20-real-estate-agencies-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. **RT Edgar** *(Melbourne)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "RT Edgar set a record for the highest residential sale in Melbourne with the $20 million sale of a Toorak mansion, highlighting their ability to connect buyers and sellers in the luxury market where properties often sell for tens of millions of dollars.",
+              "annotations": [
+                {
+                  "title": "Top 20 Real Estate Agencies in Australia: Expert Reviews & Insights",
+                  "url": "https://www.starinvestment.com.au/top-20-real-estate-agencies-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "One of RT Edgar's key strengths is their strong network of high-net-worth clients, with agents having access to an extensive database of affluent buyers both locally and internationally.",
+              "annotations": [
+                {
+                  "title": "Top 20 Real Estate Agencies in Australia: Expert Reviews & Insights",
+                  "url": "https://www.starinvestment.com.au/top-20-real-estate-agencies-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. **Kay & Burton** *(Melbourne)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Kay & Burton is recognised as one of the leading luxury residential real estate companies in Australia",
+              "annotations": [
+                {
+                  "title": "Australia Luxury Residential Real Estate Companies - Top Players' List",
+                  "url": "https://www.mordorintelligence.com/industry-reports/australia-luxury-residential-real-estate-market/companies",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", particularly known for its dominance in Melbourne's blue-chip suburbs and ultra-premium end of the market.\n\n---\n\n### 5. **McGrath Estate Agents** *(Sydney & National)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "McGrath is known for its premium service in the luxury real estate market, with a strong focus on marketing and customer experience. McGrath completed over 20,000 property transactions in 2023, with notable sales including a beachfront estate in Sydney's Eastern Suburbs sold for AUD $15 million, reflecting McGrath's dominance in the luxury real estate market.",
+              "annotations": [
+                {
+                  "title": "Top 18 Real Estate Agencies in Australia: Ranking the Best in Property Services",
+                  "url": "https://www.starinvestment.com.au/top-real-estate-agencies-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 6. **Sotheby's International Realty – Australia** *(National)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Sotheby's International Realty is among the rival agencies responding to market competition by enhancing virtual tours and AI-driven buyer-matching to capture tech-savvy ultra-high-net-worth individuals abroad.",
+              "annotations": [
+                {
+                  "title": "Australia Luxury Residential Real Estate Market - Size, Report, Statistics & Trends Analysis",
+                  "url": "https://www.mordorintelligence.com/industry-reports/australia-luxury-residential-real-estate-market",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Their global brand recognition makes them a go-to for international prestige buyers.\n\n---\n\n### 7. **Ray White Prestige** *(National)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Ray White is one of Australia's largest and most recognised real estate agencies, with a strong presence across residential, commercial, and rural property sectors.",
+              "annotations": [
+                {
+                  "title": "Top 18 Real Estate Agencies in Australia: Ranking the Best in Property Services",
+                  "url": "https://www.starinvestment.com.au/top-real-estate-agencies-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Their dedicated **Ray White Prestige** division focuses specifically on high-end residential sales across the country.\n\n---\n\n### 8. **Amir Prestige** *(Gold Coast / Queensland)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Amir Prestige are the luxury property leader serving clients with interests in residential, commercial, leasing and new projects across all parts of the Gold Coast & Northern NSW.",
+              "annotations": [
+                {
+                  "title": "Amir Prestige: Gold Coast Luxury Real Estate Agency",
+                  "url": "https://www.amirprestige.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "In 2025, they achieved a $27,500,000 sale at 127 Hedges Avenue, marking the largest transaction on the Gold Coast for 2025, following another Gold Coast record — the sale of 41 The Promenade, Isle of Capri for $27,000,000.",
+              "annotations": [
+                {
+                  "title": "Amir Prestige: Gold Coast Luxury Real Estate Agency",
+                  "url": "https://www.amirprestige.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "To date, they remain the only agency in Queensland to have completed 10 transactions over $20,000,000.",
+              "annotations": [
+                {
+                  "title": "Amir Prestige: Gold Coast Luxury Real Estate Agency",
+                  "url": "https://www.amirprestige.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 9. **Lucy Cole Prestige** *(Gold Coast)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Lucy Cole Prestige has become an established high-profile name associated with the finest in Gold Coast residential real estate, including luxury beachfront and waterfront homes, apartments and penthouses. Established in 2000 by prominent Gold Coast real estate identity Lucy Cole, the independent prestige agency has developed an unrivalled reputation for outstanding customer service, integrity and premium results.",
+              "annotations": [
+                {
+                  "title": "Lucy Cole Prestige",
+                  "url": "https://www.lucycole.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 10. **Belle Property** *(National)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Belle Property is widely renowned for its specialised focus on premium lifestyle properties and \"beautiful marketing\" strategies that appeal to high-end buyers.",
+              "annotations": [
+                {
+                  "title": "Top 10 Real Estate Agencies in Australia: Aussie Property Giants",
+                  "url": "https://www.juwai.asia/main/news/7093",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 11. **CBRE Residential** *(National/International)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "CBRE Residential Projects is recognised as one of the key players in Australia's luxury residential real estate landscape",
+              "annotations": [
+                {
+                  "title": "Australia Luxury Residential Real Estate Market - Size, Report, Statistics & Trends Analysis",
+                  "url": "https://www.mordorintelligence.com/industry-reports/australia-luxury-residential-real-estate-market",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", particularly strong in new prestige developments and project marketing.\n\n---\n\n## 🔨 Top-Performing Auctioneers for Prestige Properties\n\nWhile Australia's prestige auction market is dominated by agents from the major agencies above, some of the most celebrated auctioneers and auctioneer-agents in the prestige space include:\n\n- **David Morrell** *(Morrell and Koren, Melbourne)* – Widely regarded as one of Australia's most prominent buyers' advocates and prestige property experts, frequently involved in landmark Melbourne auctions.\n- **Mark Giuliano & James Tostevin** *(Marshall White)* – Consistently among Melbourne's top-performing prestige agents and auctioneers in blue-chip suburbs like Toorak, Brighton, and South Yarra.\n- **Adrian Bo** *(McGrath, Sydney)* – Recognised as one of Sydney's elite prestige auctioneers and agents, known for high-profile Eastern Suburbs sales.\n- **Gavin Rubinstein** *(Ray White, Sydney)* – One of Australia's highest-profile prestige agents/auctioneers, known for record-breaking sales in Sydney's Eastern Suburbs.\n- **Alex Ouwens** *(Ouwens Casserly, Adelaide)* – A standout auctioneer in South Australia's prestige market.\n\n---\n\n## 🏗️ Notable Luxury Property Developers (Bonus)\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Key luxury residential property developers in Australia include Lendlease, Mirvac, Crown Group, Gurner™, and Frasers Property Australia.",
+              "annotations": [
+                {
+                  "title": "Australia Luxury Residential Real Estate Companies - Top Players' List",
+                  "url": "https://www.mordorintelligence.com/industry-reports/australia-luxury-residential-real-estate-market/companies",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Landmark luxury developments include Melbourne's USD $1.5 billion STH BNK project integrating a Four Seasons hotel plus branded residences, and Brisbane's St Regis Gold Coast and Sydney's recently opened Waldorf Astoria homes, which promise owners perks such as priority dining, housekeeping, and rental pools.",
+              "annotations": [
+                {
+                  "title": "Australia Luxury Residential Real Estate Market - Size, Report, Statistics & Trends Analysis",
+                  "url": "https://www.mordorintelligence.com/industry-reports/australia-luxury-residential-real-estate-market",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n**In summary**, the prestige residential real estate market in Australia is dominated by specialist agencies like **Marshall White,",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "leading luxury real estate agencies Australia prestige residential 2025",
+        "top performing auctioneers prestige residential properties Australia 2025"
+      ]
+    }
+  ]
+}

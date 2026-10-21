@@ -1,0 +1,106 @@
+{
+  "slug": "goldcoast",
+  "pk": "buyers_advocacy",
+  "plat": "perplexity",
+  "text": "Which luxury real estate agencies or buyers advocates in Gold Coast offer the best buyers advocacy and acquisition advisory for prestige homes?",
+  "loc": 1000665,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\goldcoast__buyers_advocacy__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:16:46.030Z",
+  "cost": 0.006196,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 30,
+      "output_tokens": 566,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005596,
+      "datetime": "2026-10-21 05:16:45 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For **prestige-home acquisition on the Gold Coast**, the strongest shortlist is:\n\n1. **North South Real Estate (NSRE)** — Best fit for a boutique, principal-led luxury acquisition. It focuses on trophy homes, prestige apartments, off-market opportunities and development advisory, with buyer representation led by Nik and Aika Seirlis from search through settlement.[1][3]\n\n2. **Prestige Buyers Advocates — Anna and Stirling** — A strong option for families seeking a forever home, international buyers and investors. The firm reports more than 20 years’ experience and 250-plus completed property deals, with inspections, due diligence, auction bidding and off-market access.[2]\n\n3. **Cohen Handler Gold Coast** — Suitable for buyers wanting a larger national buyer’s-agency platform, broad market coverage and access to pre-market and off-market luxury properties. Its stated service includes consultation, sourcing, due diligence, negotiation and completion.[7]\n\n4. **COAST Buyer’s Agency** — Particularly suitable if you want a clearly defined, end-to-end process or only need auction or negotiation representation. Services cover search, due diligence, pricing, negotiation, settlement and handover.[8]\n\n5. **Urban Buyer** — Worth considering for high-end home searches combined with broader acquisition advice, including negotiation, auction bidding, sourcing assistance, hotspot analysis and development-site searches.[6]\n\n6. **Discover Buyers Agency, Quantum Buyer Agents, Universal Buyers Agents, Breen & Co and BuyWell Group Australia** — Additional local options identified for personalised searches, construction/property-quality advice, off-market sourcing, negotiation and full-service acquisition support.[2]\n\n## Best choice by requirement\n\n| Requirement | Best starting point |\n|---|---|\n| Boutique luxury and highly personal service | **NSRE** |\n| Family/forever home acquisition | **Prestige Buyers Advocates** |\n| National-scale buyer representation | **Cohen Handler** |\n| Auction or negotiation-only assistance | **COAST Buyer’s Agency** |\n| Home purchase plus development or investment analysis | **Urban Buyer** or **NSRE** |\n| Off-market prestige search | **NSRE**, **Cohen Handler** or **Discover Buyers Agency** |\n\nFor a high-value purchase, interview at least three firms and ask for: recent comparable prestige acquisitions, exact fee structure, whether they act exclusively for buyers, access to genuine off-market stock, building-and-pest and legal due-diligence procedures, auction strategy, conflicts of interest, and who personally handles negotiations. Claims such as “best” or “leading” are generally agency or directory positioning rather than an independently verified ranking, so recent comparable results and references should carry the most weight.[2][4][9]",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agent | Brisbane, Gold Coast & Byron Bay",
+                  "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best buyers agent Gold Coast",
+                  "url": "https://propertygoldcoast.com.au/best-buyers-agent-gold-coast/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Buyers Agent Gold Coast | Buyers Advocate Brisbane & ...",
+                  "url": "https://www.nsre.com.au/buyers-agent-brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Real Estate Reviews | Buyers Agent Brisbane & Gold Coast",
+                  "url": "https://www.nsre.com.au/real-estate-agency-reviews",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "North South Real Estate",
+                  "url": "https://www.nsre.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Buyers Agents Gold Coast",
+                  "url": "https://urbanbuyer.com.au/buyers-agents-gold-coast/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Buyers Agents Gold Coast | Cohen Handler",
+                  "url": "https://cohenhandler.com.au/gold-coast/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Our Buyers Agent Services | COAST Buyer's Agency",
+                  "url": "https://coastbuyersagency.com/services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 10 Best Property Buyer Agents in QLD (August, 2024)",
+                  "url": "https://propertygo.com.au/blog/top-10-best-property-buyer-agents-in-qld-august-2024",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Vendor Advocacy",
+                  "url": "https://coastbuyersagency.com/vendor-advocacy/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

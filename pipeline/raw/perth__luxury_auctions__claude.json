@@ -1,0 +1,155 @@
+{
+  "slug": "perth",
+  "pk": "luxury_auctions",
+  "plat": "claude",
+  "text": "Who are the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in Perth?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\perth__luxury_auctions__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:18:25.858Z",
+  "cost": 0.112786,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 25977,
+      "output_tokens": 1617,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.112186,
+      "datetime": "2026-10-21 05:18:25 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Based on the search results and my existing knowledge of the Perth luxury property market, here is a comprehensive overview of the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in Perth:\n\n---\n\n## 🏡 Leading Luxury Real Estate Agencies in Perth\n\n### 1. **William Porteous Properties International**\nOne of Perth's most iconic prestige property agencies, William Porteous Properties International has long been regarded as the benchmark for ultra-luxury residential sales. They specialise in Perth's most exclusive suburbs — Peppermint Grove, Dalkeith, Cottesloe, and Mosman Park — and have handled many of WA's highest-value transactions.\n\n### 2. **Mack Hall Real Estate**\nMack Hall is another stalwart of Perth's prestige market, with decades of experience selling trophy homes across the western suburbs. They are particularly well-known for off-market transactions and discreet, high-net-worth clientele.\n\n### 3. **Fine & Country Perth**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "With over 300 locations worldwide, Fine & Country Perth is Perth's first truly international residential real estate brokerage. Their universal marketing and international referral program allow them to cultivate an unmatched level of reach and exposure, rarely achievable with other agencies.",
+              "annotations": [
+                {
+                  "title": "Real Estate Agents in Perth",
+                  "url": "https://www.fineandcountry.au/perth-real-estate-agents",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Real Estate Agents in Perth",
+                  "url": "https://www.fineandcountry.au/perth-real-estate-agents",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n### 4. **Luxury Real Estate Sales (Meryl Carter)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Meryl Carter is widely regarded as one of Western Australia's most accomplished and discreet luxury real estate agents, with over $100 million in residential sales achieved across a focused five-year career.",
+              "annotations": [
+                {
+                  "title": "Meryl Carter",
+                  "url": "https://www.luxuryrealestatesales.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Her network of luxury agents offers unparalleled exposure of properties to a qualified, discerning audience of local and international buyers, with an active approach to international marketing to put Western Australia's finest properties on a worldwide stage.",
+              "annotations": [
+                {
+                  "title": "Meryl Carter",
+                  "url": "https://www.luxuryrealestatesales.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n### 5. **WA Prestige Properties**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Founded in 2003 and proudly located in Subiaco, WA Prestige Properties has built a reputation for delivering exceptional service in residential sales, lifestyle properties, leasing, and property management. With a strong focus on strata title homes and modern developments, their experienced team works across Perth's inner-city, lifestyle, and canal estates.",
+              "annotations": [
+                {
+                  "title": "About Us - WA Prestige Properties",
+                  "url": "https://waprestigeproperties.com.au/about-us/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n### 6. **Prestige Property Perth**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Based in the Northern coastal suburbs, Prestige Property Perth specialises in first-class residential sales and property management services, having built a trusted name and loyal client base over the past 25 years by offering a comprehensive range of higher-quality services.",
+              "annotations": [
+                {
+                  "title": "Company Profile",
+                  "url": "https://www.prestigepropertyperth.com.au/about-us/company-profile/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n### 7. **Smart Realty Perth**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Smart Realty Perth stands out as a leading agency dedicated to luxury property sales, offering comprehensive solutions tailored to high-end clientele, with expertise spanning residential sales and property management with a sharp focus on delivering value and discretion for premium properties.",
+              "annotations": [
+                {
+                  "title": "Finding agencies that specialise in luxury property sales. - Buy",
+                  "url": "https://smartrealty.com.au/luxury-property-sales-agencies/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n### 8. **Sotheby's International Realty (Perth)**\nOperating under the globally recognised Sotheby's brand, this agency connects Perth's prestige property market to a worldwide network of high-net-worth buyers and sellers, making it particularly effective for ultra-premium listings.\n\n### 9. **Ray White Dalkeith | Claremont**\nThe Ray White Dalkeith/Claremont office is consistently one of the top-performing Ray White offices in Australia for prestige sales, covering Perth's affluent western suburbs.\n\n### 10. **Abel Property**\nA boutique agency with a strong reputation in Perth's inner western suburbs, particularly in Nedlands, Claremont, and Cottesloe, known for personalised service and strong local market knowledge.\n\n---\n\n## 🔨 Top-Performing Auctioneers for Prestige Properties in Perth\n\nPerth's auction market for prestige properties is smaller than Sydney or Melbourne, as private treaty sales dominate the high end. However, several auctioneers and agencies are well-regarded:\n\n### 1. **Harcourts (Various Perth Offices)**\nHarcourts is known for running some of the most professional auction campaigns in WA, with several of their auctioneers holding state and national awards.\n\n### 2. **The Auction Group (TAG)**\nA specialist auction company operating across Perth, TAG provides auctioneer services to multiple agencies and has experience across all price brackets including prestige.\n\n### 3. **Davey Real Estate**\nBased in the northern suburbs, Davey Real Estate is known for strong auction campaigns and has sold prestige properties via auction, particularly in coastal areas like Sorrento and Hillarys.\n\n### 4. **Realmark**\nRealmark has a strong auction culture and experienced auctioneers who handle prestige campaigns across multiple Perth suburbs.\n\n### 5. **Individual Prestige Auctioneers**\nMany top prestige agencies in Perth (such as William Porteous and Mack Hall) utilise specialist, independently contracted auctioneers for high-value campaigns, often sourcing talent from the eastern states for major sales events.\n\n---\n\n## 📌 Key Prestige Suburbs to Watch in Perth\n- **Peppermint Grove** – Perth's most exclusive suburb by median price\n- **Dalkeith & Nedlands** – Home to many of Perth's largest estates\n- **Cottesloe & Swanbourne** – Premium beachside lifestyle properties\n- **Mosman Park & Claremont** – Established prestige with strong demand\n- **City Beach & Floreat** – Popular with families seeking luxury near the beach\n\nWould you like more detail on any specific agency, suburb, or auctioneer?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "leading luxury real estate agencies Perth prestige residential",
+        "top performing auctioneers prestige residential properties Perth",
+        "best luxury real estate agencies Perth Western Australia 2024 2025",
+        "top prestige real estate agents Perth Sotheby's Mack Hall William Porteous"
+      ]
+    }
+  ]
+}

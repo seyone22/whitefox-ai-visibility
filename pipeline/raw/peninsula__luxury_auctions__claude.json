@@ -1,0 +1,268 @@
+{
+  "slug": "peninsula",
+  "pk": "luxury_auctions",
+  "plat": "claude",
+  "text": "Who are the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in Mornington Peninsula?",
+  "loc": 9056918,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\peninsula__luxury_auctions__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:20:32.097Z",
+  "cost": 0.065578,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10886,
+      "output_tokens": 1488,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.064978,
+      "datetime": "2026-10-21 05:20:31 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a comprehensive overview of the **leading luxury real estate agencies** and **top-performing agents/auctioneers** for prestige residential properties on the **Mornington Peninsula**:\n\n---\n\n## 🏡 Leading Luxury Real Estate Agencies\n\n### 1. **Peninsula Sotheby's International Realty**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Peninsula Sotheby's International Realty is a dedicated luxury real estate agency focused on the Mornington Peninsula",
+              "annotations": [
+                {
+                  "title": "Peninsula Sotheby’s International Realty (@peninsula.sothebysrealty) • Instagram photos and videos",
+                  "url": "https://www.instagram.com/peninsula.sothebysrealty/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", with a strong presence particularly in the Sorrento and Flinders markets. One of their standout agents is **Rob Curtain**, who ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "quickly established himself as the leading luxury agent in the Portsea & Sorrento market, with total yearly sales among the highest in Victoria and the leading agent on the Mornington Peninsula.",
+              "annotations": [
+                {
+                  "title": "Rob Curtain",
+                  "url": "https://www.luxuryestate.com/a9386381-rob-curtain--peninsula-sotheby-s-international-realty",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. **Melbourne Sotheby's International Realty**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Melbourne Sotheby's International Realty partners with the world's most prestigious name in luxury real estate, with local experts who have an intimate knowledge of Victoria's property landscape, from the historic homes of Toorak to the coastal retreats of the Mornington Peninsula.",
+              "annotations": [
+                {
+                  "title": "Property & Real Estate for Sale in Melbourne",
+                  "url": "https://melbournesothebysrealty.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They proudly serve the Mornington Peninsula with two office locations in Sorrento and Flinders.",
+              "annotations": [
+                {
+                  "title": "Houses for Sale in Mornington Peninsula",
+                  "url": "https://melbournesothebysrealty.com/buy/mornington-peninsula",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. **Kay & Burton**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "As trusted advisors to the most astute private clients, families and institutions, Kay & Burton has been a leader in real estate since 1938, with specialist teams embracing the opportunity to create enduring value through specialist knowledge, impeccable service, and trustworthy advice.",
+              "annotations": [
+                {
+                  "title": "Luxury real estate Melbourne",
+                  "url": "https://www.kayburton.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "With strategically placed offices throughout Melbourne and Victoria's Mornington Peninsula, their sphere of influence connects ultra-high-net-worth clients across Australia and in Singapore, Hong Kong, China, New York, London and Dubai.",
+              "annotations": [
+                {
+                  "title": "Luxury real estate Melbourne",
+                  "url": "https://www.kayburton.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. **Christie's International Real Estate Victoria**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The worldwide network of Christie's International Real Estate combines global reach with local knowledge of Victoria's most coveted addresses, having spent decades honing the art of campaigning, selling and negotiating Australia's most prestigious homes, consistently delivering record-breaking results across Melbourne, Toorak, Bayside, the Mornington Peninsula and the Gippsland Lakes.",
+              "annotations": [
+                {
+                  "title": "Luxury Properties for Sale Melbourne",
+                  "url": "https://cirevictoria.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. **Marshall White**\nMarshall White is a highly active prestige agency on the Peninsula, with multiple offices covering key areas. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their agents operate across the Mornington Peninsula, listing prestige properties in areas such as Red Hill South, Mornington, and Flinders, with some listings reaching up to $9.3 million.",
+              "annotations": [
+                {
+                  "title": "60 Luxury Houses for Sale in Shire of Mornington Peninsula",
+                  "url": "https://www.properstar.com.au/australia/mornington-peninsula-shire/buy/house/luxury",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "60 Luxury Houses for Sale in Shire of Mornington Peninsula",
+                  "url": "https://www.properstar.com.au/australia/mornington-peninsula-shire/buy/house/luxury",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "60 Luxury Houses for Sale in Shire of Mornington Peninsula",
+                  "url": "https://www.properstar.com.au/australia/mornington-peninsula-shire/buy/house/luxury",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 6. **Belle Property Australia**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Belle Property Australia is an active agency in the Mornington Peninsula prestige market",
+              "annotations": [
+                {
+                  "title": "Luxury homes for sale in Shire of Mornington Peninsula, Victoria, Australia",
+                  "url": "https://www.jamesedition.com/real_estate/shire-of-mornington-peninsula-australia",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", with agents such as **Stuart Cox** (Mount Martha), **Tim Bradler** (Blairgowrie), **Jay Furniss** (Rye), and **Jarrod Eastwood** (Safety Beach) representing high-end listings across the region.\n\n---\n\n### 7. **Danckert Real Estate**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Established in 2017, Danckert are leaders in Mornington Peninsula real estate, with over 50 years of combined experience and an intimate knowledge of luxury homes and premium real estate on the Peninsula.",
+              "annotations": [
+                {
+                  "title": "Mornington Peninsula Real Estate Agents",
+                  "url": "https://danckert.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The Danckert Real Estate team specialises in the marketing and sale of luxury and lifestyle properties across the Mornington Peninsula.",
+              "annotations": [
+                {
+                  "title": "MARKETING YOUR PRESTIGE PROPERTY",
+                  "url": "https://danckert.com.au/article/marketing-your-prestige-property",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They have also expanded their reach internationally, ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "partnering with LuxuryRealEstate.com to advertise premium listings to an international audience, having sold properties to buyers in Singapore and received enquiries from the US, England, Italy, Hong Kong and Malaysia.",
+              "annotations": [
+                {
+                  "title": "MARKETING YOUR PRESTIGE PROPERTY",
+                  "url": "https://danckert.com.au/article/marketing-your-prestige-property",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 🔨 Top-Performing Agents & Auctioneers\n\n| Agent | Agency | Key Market |\n|---|---|---|\n| **Rob Curtain** | Peninsula Sotheby's International Realty | Portsea & Sorrento |\n| **Jake Egan** | Marshall White (Flinders) | Flinders & surrounds |\n| **Bradley Pearce** | Marshall White (Mornington) | Red Hill South |\n| **Stuart Cox** | Belle Property | Mount Martha |\n| **Jasmin Scott** | Danckert Real Estate | Mt Eliza & Mount Martha |\n\n---\n\n## 💡 Key Takeaways\n- **Peninsula Sotheby's International Realty** and **Kay & Burton** are widely regarded as the most prominent prestige-focused agencies with deep local expertise and global buyer networks.\n- **Marshall White** and **Belle Property** are highly active across a broader range of prestige price points.\n- **Christie's International Real Estate Victoria** brings a globally recognised luxury brand to the Peninsula's top-tier market.\n- For ultra-prestige sales (especially Portsea, Sorrento, Flinders, and Merricks North), **auction campaigns** are commonly run by agents from Sotheby's and Kay & Burton, who have the strongest track records in that segment.\n\nWould you like more detail on any specific agency, agent, or suburb within the Mornington Peninsula?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "leading luxury real estate agencies Mornington Peninsula prestige residential",
+        "top performing auctioneers prestige properties Mornington Peninsula"
+      ]
+    }
+  ]
+}

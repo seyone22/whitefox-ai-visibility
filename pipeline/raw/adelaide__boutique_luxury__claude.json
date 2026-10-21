@@ -1,0 +1,250 @@
+{
+  "slug": "adelaide",
+  "pk": "boutique_luxury",
+  "plat": "claude",
+  "text": "Which boutique luxury real estate agencies in Adelaide are best known for modern social media marketing, high-impact video campaigns, and architectural homes?",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\adelaide__boutique_luxury__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:19:03.808Z",
+  "cost": 0.062083,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10431,
+      "output_tokens": 1346,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.061483,
+      "datetime": "2026-10-21 05:19:03 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Great question! Adelaide has a growing number of boutique luxury real estate agencies and creative marketing specialists that are raising the bar with modern social media strategies, cinematic video campaigns, and a focus on architectural homes. Here's a curated overview:\n\n---\n\n## 🏡 Boutique Luxury Real Estate Agencies in Adelaide\n\n### 1. **Listed Real Estate**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Listed Real Estate is described as \"Adelaide's Premiere Boutique Digital Real Estate Agency,\"",
+              "annotations": [
+                {
+                  "title": "Top 15 Real estate marketing agencies based in Adelaide, Australia",
+                  "url": "https://revenuebase.ai/companies/real-estate-marketing-agencies/australia/adelaide",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 9 Real estate video marketing agencies based in Adelaide, Australia",
+                  "url": "https://revenuebase.ai/companies/real-estate-video-marketing-agencies/australia/adelaide",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " and notably appears on both boutique real estate branding and real estate video marketing agency lists for Adelaide — making it a strong contender for digitally-forward luxury property marketing.\n\n---\n\n### 2. **Onyx Realtors PTY LTD**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Onyx Realtors is a boutique agency with an experienced team who have a passion for property and a desire to deliver exceptional service and results.",
+              "annotations": [
+                {
+                  "title": "Top 15 Real estate branding agencies based in Adelaide, Australia",
+                  "url": "https://revenuebase.ai/companies/real-estate-branding-agencies/australia/adelaide",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They also appear prominently in real estate branding agency rankings for Adelaide, suggesting a polished, brand-conscious approach well-suited to architectural and luxury homes.\n\n---\n\n### 3. **SY Luxury Real Estate**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "SY Luxury Real Estate is united with a common vision to provide exceptional service to clients selling exceptional real estate, bringing to South Australia an international team of highly talented professionals.",
+              "annotations": [
+                {
+                  "title": "Top 15 Real estate branding agencies based in Adelaide, Australia",
+                  "url": "https://revenuebase.ai/companies/real-estate-branding-agencies/australia/adelaide",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Their international team and luxury-specific focus make them a standout for high-end architectural properties.\n\n---\n\n### 4. **Whitfields Realty**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Whitfields Realty is recognized as \"Adelaide's leading boutique Real Estate Agency,\"",
+              "annotations": [
+                {
+                  "title": "Top 15 Real estate marketing agencies based in Adelaide, Australia",
+                  "url": "https://revenuebase.ai/companies/real-estate-marketing-agencies/australia/adelaide",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " with a strong presence in Adelaide's premium property market.\n\n---\n\n### 5. **1840 Real Estate**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "1840 Real Estate is Adelaide's latest boutique agency specialising in Residential Property,",
+              "annotations": [
+                {
+                  "title": "Top 15 Real estate marketing agencies based in Adelaide, Australia",
+                  "url": "https://revenuebase.ai/companies/real-estate-marketing-agencies/australia/adelaide",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " bringing a fresh, modern approach to the Adelaide market.\n\n---\n\n## 🎥 Top Creative/Video Marketing Partners for Luxury Real Estate in Adelaide\n\nIf you're looking for agencies that specifically power **high-impact video campaigns and architectural photography**, these Adelaide-based creative studios work closely with luxury real estate:\n\n### 6. **Clique Creative**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Clique Creative offers premium videography, photography, marketing, copywriting, floor plans, and 3D renders, with a focus on real estate, building, architecture, and holiday accommodation in South Australia.",
+              "annotations": [
+                {
+                  "title": "Clique Creative real estate photography and video adelaide",
+                  "url": "https://www.cliquecreative.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Clique Creative real estate photography and video adelaide",
+                  "url": "https://www.cliquecreative.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are particularly well-regarded for architectural and luxury property content.\n\n### 7. **AC Media**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "AC Media specialises in crafting marketing campaigns that stand out, with a passion for capturing moments and a commitment to quality, creating impactful visuals that resonate.",
+              "annotations": [
+                {
+                  "title": "Real Estate Marketing - Videography, Photography & Content Creation",
+                  "url": "https://www.acmediaau.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their photography team blends technical precision with an editorial eye, specialising in clean, timeless visuals from luxury homes to boutique spaces that command attention.",
+              "annotations": [
+                {
+                  "title": "Real Estate Marketing - Videography, Photography & Content Creation",
+                  "url": "https://www.acmediaau.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n### 8. **JR Photo & Video**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "JR Photo & Video offers complete visual marketing services, delivering cinematic videos and polished photos for both residential and commercial properties — excellent for video-driven listings and premium apartments and modern homes, with drone and twilight add-ons available.",
+              "annotations": [
+                {
+                  "title": "9 Leading Adelaide, Australia Real Estate Photographers",
+                  "url": "https://www.photoeditingservicesco.com/blog/9-leading-adelaide-australia-real-estate-photographers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 💡 What to Look For\n\nWhen evaluating these agencies for **social media marketing, video campaigns, and architectural homes**, the best luxury real estate marketers typically:\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Create cinematic videos used across channels such as Instagram, YouTube, and their website.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Marketing Ideas for Ambitious Agents",
+                  "url": "https://advertise.homesandland.com/luxury-real-estate-marketing-ideas/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Record architectural or designer-led walkthrough videos, highlighting the listing's architect, builder, or designer on social channels.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Marketing Ideas for Ambitious Agents",
+                  "url": "https://advertise.homesandland.com/luxury-real-estate-marketing-ideas/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### ✅ Summary Table\n\n| Agency | Boutique Luxury | Video/Social Focus | Architectural Homes |\n|---|---|---|---|\n| Listed Real Estate | ✅ | ✅ | ✅ |\n| Onyx Realtors | ✅ | ✅ | ✅ |\n| SY Luxury Real Estate | ✅ | ✅ | ✅ |\n| Whitfields Realty | ✅ | — | ✅ |\n| 1840 Real Estate | ✅ | — | ✅ |\n| Clique Creative | Creative Partner | ✅ | ✅ |\n| AC Media | Creative Partner | ✅ | ✅ |\n| JR Photo & Video | Creative Partner | ✅ | ✅ |\n\n---\n\nI'd recommend visiting the websites and Instagram profiles of **Listed Real Estate**, **SY Luxury Real Estate**, **Onyx Realtors**, and **Clique Creative** directly to review their portfolio of architectural home campaigns and judge the quality of their video and social media content for yourself. Would you like help comparing any of these in more detail?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "boutique luxury real estate agencies Adelaide modern social media marketing video campaigns architectural homes",
+        "best luxury real estate agents Adelaide high-end architectural properties 2024 2025"
+      ]
+    }
+  ]
+}

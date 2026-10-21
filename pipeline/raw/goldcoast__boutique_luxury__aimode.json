@@ -1,0 +1,246 @@
+{
+  "slug": "goldcoast",
+  "pk": "boutique_luxury",
+  "plat": "aimode",
+  "text": "Which boutique luxury real estate agencies in Gold Coast are best known for modern social media marketing, high-impact video campaigns, and architectural homes?",
+  "loc": 1000665,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\goldcoast__boutique_luxury__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:16:30.270Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which boutique luxury real estate agencies in Gold Coast are best known for modern social media marketing, high-impact video campaigns, and architectural homes?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000665,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20boutique%20luxury%20real%20estate%20agencies%20in%20Gold%20Coast%20are%20best%20known%20for%20modern%20social%20media%20marketing%2C%20high-impact%20video%20campaigns%2C%20and%20architectural%20homes%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCbdgXStHGpFrEXCv3vNaowID",
+      "datetime": "2026-10-21 05:16:29 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "On the Gold Coast, boutique agencies like `Amir Prestige, Whitefox Real Estate` (known for high-end styling and bold social campaigns), North South Real Estate , and [Patten Real Estate](https://www.pattenrealestate.com.au/) lead the market for high-impact video campaigns, architectural trophy homes, and modern social media marketing.[[1]](https://www.nsre.com.au/about-us-luxury-real-estate-agent)[[2]](https://www.realestate.com.au/news/awardwinning-mediterranean-mansion-eyes-gold-coast-sales-record/)[[3]](https://www.pattenrealestate.com.au/)\n\n### Top Boutique Luxury Agencies\n\n\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10210516-2877-0139-0000-04c724755d96:12)\nAmir Prestige 4.3 (67)  \nReal estate agent  \nOpen 286 Ferry Rd  \nCall Directions Website Renowned for handling landmark, ultra-luxury architectural estates (such as on Sovereign Islands and Main River) with heavy cinematic video showcases and high-end digital reach.\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10210516-2877-0139-0000-04c724755d96:13)\nWhitefox Real Estate 1.0 (3)  \nReal estate agent  \nOpen 1823 The Oxley, Shop 5B/2217 Gold Coast Hwy  \nCall Directions Website A disruptive, design-forward boutique brand recognised nationally and locally for high-impact cinematic property reels, edgy social media branding, and marketing designer architectural builds.\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10210516-2877-0139-0000-04c724755d96:14)\nNorth South Real Estate 4.9 (44)  \nReal estate agent  \nOpen Brisbane City QLD  \nCall Directions Website A high-end boutique agency covering the Brisbane-to-Byron corridor, emphasizing bespoke digital campaigns and personalized principal-led service for trophy properties.\n\n---\n\nPatten Real Estate Operates closely at the intersection of high-end coastal architecture and interior design, curating immaculate digital assets and structural styling for elite northern Gold Coast properties.[[1]](https://www.pattenrealestate.com.au/)[[2]](https://www.instagram.com/reel/DaxY4xVPsGJ/)[[3]](https://www.realestate.com.au/news/awardwinning-mediterranean-mansion-eyes-gold-coast-sales-record/)[[4]](https://www.nsre.com.au/about-us-luxury-real-estate-agent)\n\nIf you're looking to buy or sell, tell me:\n\n- Are you looking for a specific **suburb or pocket** (e.g., Main Beach, Sovereign Islands, Burleigh, Broadbeach Waters)?\n- Are you interested in a **waterfront estate or a modern hillside architectural build**?\n\nI can help you narrow down which specific **agency or lead agent** fits your property goals.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "On the Gold Coast, boutique agencies like Amir Prestige, Whitefox Real Estate (known for high-end styling and bold social campaigns), North South Real Estate, and Patten Real Estate lead the market for high-impact video campaigns, architectural trophy homes, and modern social media marketing.",
+              "markdown": "On the Gold Coast, boutique agencies like `Amir Prestige, Whitefox Real Estate` (known for high-end styling and bold social campaigns), North South Real Estate , and [Patten Real Estate](https://www.pattenrealestate.com.au/) lead the market for high-impact video campaigns, architectural trophy homes, and modern social media marketing.[[1]](https://www.nsre.com.au/about-us-luxury-real-estate-agent)[[2]](https://www.realestate.com.au/news/awardwinning-mediterranean-mansion-eyes-gold-coast-sales-record/)[[3]](https://www.pattenrealestate.com.au/)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Patten Real Estate",
+                  "description": null,
+                  "url": "https://www.pattenrealestate.com.au/",
+                  "domain": "www.pattenrealestate.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "North South Real Estate",
+                  "domain": "www.nsre.com.au",
+                  "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+                  "title": "Luxury Real Estate Agency Brisbane | Gold Coast, Byron Bay",
+                  "text": "North South Real Estate is a boutique luxury agency with offices in the Brisbane CBD and on the Gold Coast, covering the corridor ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Real Estate",
+                  "domain": "www.realestate.com.au",
+                  "url": "https://www.realestate.com.au/news/awardwinning-mediterranean-mansion-eyes-gold-coast-sales-record/",
+                  "title": "Award-winning Mediterranean mansion eyes Gold Coast ...",
+                  "text": "Gold Coast bridesmaid suburb. Villa Alcyone, a Mediterranean-inspired mansion. Whitefox Real Estate selling agent"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "www.pattenrealestate.com.au",
+                  "domain": "www.pattenrealestate.com.au",
+                  "url": "https://www.pattenrealestate.com.au/",
+                  "title": "Patten Real Estate · Luxury Homes Paradise Point, Hope ...",
+                  "text": "Patten operates at the intersection of high-end real estate and haute interior design. across Paradise Point, Hope Island, Soverei..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Top Boutique Luxury Agencies",
+              "text": "Amir Prestige 4.3 (67) Real estate agent Open 286 Ferry Rd Call Directions Website Renowned for handling landmark, ultra-luxury architectural estates (such as on Sovereign Islands and Main River) with heavy cinematic video showcases and high-end digital reach.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10210516-2877-0139-0000-04c724755d96:6)\nAmir Prestige 4.3 (67)  \nReal estate agent  \nOpen 286 Ferry Rd  \nCall Directions Website Renowned for handling landmark, ultra-luxury architectural estates (such as on Sovereign Islands and Main River) with heavy cinematic video showcases and high-end digital reach.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10210516-2877-0139-0000-04c724755d96:7"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Whitefox Real Estate 1.0 (3) Real estate agent Open 1823 The Oxley, Shop 5B/2217 Gold Coast Hwy Call Directions Website A disruptive, design-forward boutique brand recognised nationally and locally for high-impact cinematic property reels, edgy social media branding, and marketing designer architectural builds.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10210516-2877-0139-0000-04c724755d96:8)\nWhitefox Real Estate 1.0 (3)  \nReal estate agent  \nOpen 1823 The Oxley, Shop 5B/2217 Gold Coast Hwy  \nCall Directions Website A disruptive, design-forward boutique brand recognised nationally and locally for high-impact cinematic property reels, edgy social media branding, and marketing designer architectural builds.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10210516-2877-0139-0000-04c724755d96:9"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "North South Real Estate 4.9 (44) Real estate agent Open Brisbane City QLD Call Directions Website A high-end boutique agency covering the Brisbane-to-Byron corridor, emphasizing bespoke digital campaigns and personalized principal-led service for trophy properties.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10210516-2877-0139-0000-04c724755d96:10)\nNorth South Real Estate 4.9 (44)  \nReal estate agent  \nOpen Brisbane City QLD  \nCall Directions Website A high-end boutique agency covering the Brisbane-to-Byron corridor, emphasizing bespoke digital campaigns and personalized principal-led service for trophy properties.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10210516-2877-0139-0000-04c724755d96:11"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Patten Real Estate Operates closely at the intersection of high-end coastal architecture and interior design, curating immaculate digital assets and structural styling for elite northern Gold Coast properties.",
+              "markdown": "---\n\nPatten Real Estate Operates closely at the intersection of high-end coastal architecture and interior design, curating immaculate digital assets and structural styling for elite northern Gold Coast properties.[[1]](https://www.pattenrealestate.com.au/)[[2]](https://www.instagram.com/reel/DaxY4xVPsGJ/)[[3]](https://www.realestate.com.au/news/awardwinning-mediterranean-mansion-eyes-gold-coast-sales-record/)[[4]](https://www.nsre.com.au/about-us-luxury-real-estate-agent)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "www.pattenrealestate.com.au",
+                  "domain": "www.pattenrealestate.com.au",
+                  "url": "https://www.pattenrealestate.com.au/",
+                  "title": "Patten Real Estate · Luxury Homes Paradise Point, Hope ...",
+                  "text": "Patten operates at the intersection of high-end real estate and haute interior design. From structural styling to bespoke furniture curation, every detail is orche..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Instagram",
+                  "domain": "www.instagram.com",
+                  "url": "https://www.instagram.com/reel/DaxY4xVPsGJ/",
+                  "title": "The Gold Coast’s Most Iconic Residence",
+                  "text": "A landmark waterfront estate designed. Sovereign Islands'. For Sale - $15,900,000. 8 Bedrooms | 8 Bathrooms | 15-Car Garage. Amir ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Real Estate",
+                  "domain": "www.realestate.com.au",
+                  "url": "https://www.realestate.com.au/news/awardwinning-mediterranean-mansion-eyes-gold-coast-sales-record/",
+                  "title": "Award-winning Mediterranean mansion eyes Gold Coast ...",
+                  "text": "Villa Alcyone, a Mediterranean-inspired mansion on an 890 sqm steep slope at 6 Bicton Ct, Elanora, has hit the market the suburb record"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "North South Real Estate",
+                  "domain": "www.nsre.com.au",
+                  "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+                  "title": "Luxury Real Estate Agency Brisbane | Gold Coast, Byron Bay",
+                  "text": "a boutique luxury agency with offices in the Brisbane CBD covering the corridor that runs from Brisbane"
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you're looking to buy or sell, tell me:",
+              "markdown": "If you're looking to buy or sell, tell me:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Are you looking for a specific suburb or pocket (e.g., Main Beach, Sovereign Islands, Burleigh, Broadbeach Waters)? Are you interested in a waterfront estate or a modern hillside architectural build ?",
+              "markdown": "- Are you looking for a specific **suburb or pocket** (e.g., Main Beach, Sovereign Islands, Burleigh, Broadbeach Waters)?\n- Are you interested in a **waterfront estate or a modern hillside architectural build**?",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "I can help you narrow down which specific agency or lead agent fits your property goals.",
+              "markdown": "I can help you narrow down which specific **agency or lead agent** fits your property goals.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "North South Real Estate",
+              "domain": "www.nsre.com.au",
+              "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+              "title": "Luxury Real Estate Agency Brisbane | Gold Coast, Byron Bay",
+              "text": "a boutique luxury agency with offices in the Brisbane CBD covering the corridor that runs from Brisbane"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "www.pattenrealestate.com.au",
+              "domain": "www.pattenrealestate.com.au",
+              "url": "https://www.pattenrealestate.com.au/",
+              "title": "Patten Real Estate · Luxury Homes Paradise Point, Hope ...",
+              "text": "Patten operates at the intersection of high-end real estate and haute interior design. From structural styling to bespoke furniture curation, every detail is orche..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Real Estate",
+              "domain": "www.realestate.com.au",
+              "url": "https://www.realestate.com.au/news/awardwinning-mediterranean-mansion-eyes-gold-coast-sales-record/",
+              "title": "Award-winning Mediterranean mansion eyes Gold Coast ...",
+              "text": "Villa Alcyone, a Mediterranean-inspired mansion on an 890 sqm steep slope at 6 Bicton Ct, Elanora, has hit the market the suburb record"
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

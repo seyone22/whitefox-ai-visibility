@@ -1,0 +1,106 @@
+{
+  "slug": "perth",
+  "pk": "prestige_selling",
+  "plat": "perplexity",
+  "text": "I am selling a $10M luxury residential property in Perth. Which prestige real estate agencies have the strongest track record for high-end home sales?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\perth__prestige_selling__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:17:18.340Z",
+  "cost": 0.006451,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 36,
+      "output_tokens": 815,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005851,
+      "datetime": "2026-10-21 05:17:18 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For a **$10 million Perth property**, the strongest shortlist is likely **The Agency, Acton | Belle Property, Caporn Young, Haiven Property, and selected boutique luxury specialists such as Brian McAllister Properties or Luxury Real Estate Sales**. At this price point, agent-specific evidence matters more than brand size: ask each candidate for verified sales above $5 million, particularly in your suburb and property type.\n\n## Recommended shortlist\n\n- **The Agency Perth** — A strong first interview for ultra-prestige property because it has a prominent Perth operation, national reach and agents appearing among Perth’s leading sales performers. Adam Naumovski is listed among the city’s top individual agents by recent sales volume, although volume rankings do not by themselves prove $10 million expertise.[3] The Agency’s prestige offering also supports discreet, network-based campaigns.[2]\n\n- **Acton | Belle Property** — Worth considering for design-led, lifestyle and western-suburbs homes. Belle Property positions itself as a premium/lifestyle network, while Acton provides established Western Australian market coverage.[1] Request evidence of completed transactions above $5 million rather than relying on the national brand.\n\n- **Caporn Young** — A relevant boutique-style option for affluent western-suburbs stock, particularly around Dalkeith, Peppermint Grove, Cottesloe, Swanbourne and surrounding areas. Caporn Young is identified among Perth’s notable agencies and has a long-standing prestige-market reputation, but the listing available here does not provide a current $10 million sales tally.[5]\n\n- **Haiven Property** — A credible candidate for high-end coastal and northern-suburbs property. It appears among Perth’s higher-ranked agencies by recent total sales value, but that metric includes all price brackets, so it should be treated as an initial screening signal rather than proof of ultra-luxury performance.[3]\n\n- **Brian McAllister Properties** — Particularly suitable if privacy, principal-led negotiation and an off-market or tightly controlled campaign are priorities. The business explicitly describes discreet and off-market handling of rare homes and access to The Agency’s network.[2]\n\n- **Luxury Real Estate Sales / Meryl Carter** — A boutique specialist worth interviewing where confidentiality and international/high-net-worth buyer relationships matter. The firm states that Meryl Carter has completed more than $100 million in residential sales, though that is a self-reported career figure rather than an independently verified $10 million-sales record.[8]\n\n## Important strategy at $10 million\n\nA conventional public listing is not necessarily the best starting point. One current Perth market assessment estimates that **50–80% of residences priced at $10 million or more transact discreetly or off-market**, reflecting the privacy preferences of high-net-worth buyers.[6] Ask agencies to present two plans:\n\n- A confidential pre-market campaign to qualified local, interstate and international buyers.\n- A staged public campaign if the initial buyer feedback does not support the target price.\n\n## How to choose between them\n\nRequire each agency to provide:\n\n- Three to five **verified sales above $5 million**, including sale price, suburb, date and whether the agent acted for the seller.\n- Their **highest confirmed Perth residential sale**, not merely a listing or advertised price.\n- Buyer reach in Singapore, Hong Kong, the Middle East, the eastern states and Western Australia.\n- The named individual who will personally conduct inspections and negotiations.\n- A proposed valuation range supported by comparable evidence.\n- A clear fee, marketing budget and explanation of any off-market exclusivity period.\n\nFor a $10 million home, the best appointment may be a **two-agent comparison between The Agency and a highly local western-suburbs specialist such as Caporn Young or Acton | Belle Property**, with a boutique operator included if confidentiality and principal-level service are especially important. Public rankings based on total sales value are useful for building a shortlist, but they do not establish genuine ultra-luxury track record.[3]",
+              "annotations": [
+                {
+                  "title": "The Agency: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/the-agency/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Luxury & Prestige Property Sales Perth — Discreet Campaigns",
+                  "url": "https://brianmcallisterproperties.com/luxury-property-sales/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Real Estate Agents Perth, WA - Top Agents List [2026]",
+                  "url": "https://whichrealestateagent.com.au/real-estate-agents-perth/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Prestige Property Perth - Real estate agencies - Domain",
+                  "url": "https://www.domain.com.au/real-estate-agencies/prestigepropertyperth-18352/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Best Residential Real Estate Agents in Perth, Western Australia",
+                  "url": "https://best10realestateagents.com.au/perth/best-real-estate-perth/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Perth's Prestige Property Market: Riding the Peak as ...",
+                  "url": "https://opteonsolutions.com/au/insights/perths-prestige-property-market-riding-the-peak-as-the-cycle-turns?hs_amp=true",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Effective Residential | Insights. Expertise. Exceptional Results.",
+                  "url": "https://effectiveresidential.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Local expertise with a global reach",
+                  "url": "https://www.luxuryrealestatesales.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Prestige Property Report - Westpac",
+                  "url": "https://www.westpac.com.au/content/dam/public/wbc/images/personal/services/premium/Prestige-Property-Report-2026.pdf",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Home - Prestige Properties International :: Prestige Properties ...",
+                  "url": "https://prestigepg.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "slug": "brisbane",
+  "pk": "luxury_auctions",
+  "plat": "aimode",
+  "text": "Who are the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in Brisbane?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\brisbane__luxury_auctions__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:15:32.867Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in Brisbane?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000339,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Who%20are%20the%20leading%20luxury%20real%20estate%20agencies%20and%20top-performing%20auctioneers%20for%20prestige%20residential%20properties%20in%20Brisbane%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCbsg9lwEWpFrEcCE3vNaowIF",
+      "datetime": "2026-10-21 05:15:32 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "Brisbane's top luxury real estate agencies include `Place Estate Agents (notably Sarah Hackett and Drew Davies), Ray White Collective (led by Matt Lancashire and Haesley Cush), and Adcock Prestige` . Leading elite auctioneers for high-value properties feature multi-award winners like Haesley Cush and Gavin Croft of Ray White.[[1]](https://www.eplace.com.au/brisbanes-luxury-agent)[[2]](https://theresearcher.com.au/best-real-estate-agents-brisbane/)[[3]](https://www.raywhite.com/haesley-cush/real-estate-agent/haesley.cush/)[[4]](https://adcockprestige.com/about/)[[5]](https://www.raywhite.com/brisbane100/auctioneers)\n\n### Leading Luxury Agencies\n\n- **Place Estate Agents (New Farm / Bulimba):** Dominates the high-end inner-city residential and riverfront market, with elite agents like Sarah Hackett setting record price-per-square-metre benchmarks.[[1]](https://www.eplace.com.au/brisbanes-luxury-agent)\n- **Ray White Collective (New Farm / Ascot / Bulimba):** A powerhouse group handling a massive share of Brisbane's premier multi-million-dollar transactions, driven by top luxury performers and extensive buyer networks.[[1]](https://www.realestate.com.au/agent/haesley-cush-1481082)\n- **Adcock Prestige:** A specialized boutique agency founded by Jason Adcock , dedicated entirely to luxury estates, heritage properties, and architectural showpieces across Brisbane.[[1]](https://adcockprestige.com/about/)\n- **Queensland Sotheby's International Realty:** Connects prestige Brisbane addresses to a powerful global luxury network for high-net-worth international buyers.\n\n### Top-Performing Auctioneers\n\n- **Haesley Cush (Ray White Collective):** A multi-award-winning auctioneer who has called over 10,000 auctions and holds a record for winning the REIQ Auctioneer of the Year title every time he has entered.\n- **Gavin Croft (Ray White Queensland):** Chief Auctioneer with decades of experience, recognized as a premier REIQ Auctioneer of the Year and trusted with high-stakes prestige sales.\n- **Mitch Peereboom (Ray White):** Renowned high-volume and high-intensity auctioneer with thousands of successful property calls across Brisbane's competitive markets.[[1]](https://www.raywhite.com/brisbane100/auctioneers)[[2]](https://www.raywhite.com/haesley-cush/real-estate-agent/haesley.cush/)[[3]](https://www.raywhite.com/people/haesley-cush)\n\nWould you like information on **specific Brisbane suburbs** (like New Farm, Ascot, or Hamilton) or data on **recent record-breaking sale prices** in the luxury sector?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Brisbane's top luxury real estate agencies include Place Estate Agents (notably Sarah Hackett and Drew Davies ), Ray White Collective (led by Matt Lancashire and Haesley Cush ), and Adcock Prestige. Leading elite auctioneers for high-value properties feature multi-award winners like Haesley Cush and Gavin Croft of Ray White.",
+              "markdown": "Brisbane's top luxury real estate agencies include `Place Estate Agents (notably Sarah Hackett and Drew Davies), Ray White Collective (led by Matt Lancashire and Haesley Cush), and Adcock Prestige` . Leading elite auctioneers for high-value properties feature multi-award winners like Haesley Cush and Gavin Croft of Ray White.[[1]](https://www.eplace.com.au/brisbanes-luxury-agent)[[2]](https://theresearcher.com.au/best-real-estate-agents-brisbane/)[[3]](https://www.raywhite.com/haesley-cush/real-estate-agent/haesley.cush/)[[4]](https://adcockprestige.com/about/)[[5]](https://www.raywhite.com/brisbane100/auctioneers)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Place Real Estate",
+                  "domain": "www.eplace.com.au",
+                  "url": "https://www.eplace.com.au/brisbanes-luxury-agent",
+                  "title": "Sarah Hackett | Brisbane's Luxury and Riverfront Specialist",
+                  "text": "Director of Place New Farm, Australia's Most Influential Woman In Real Estate, and Queensland's #1 Female Agent … 27+ years experi..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "theresearcher.com.au",
+                  "domain": "theresearcher.com.au",
+                  "url": "https://theresearcher.com.au/best-real-estate-agents-brisbane/",
+                  "title": "The Best Real Estate Agents in Brisbane: We Found the Top 5",
+                  "text": "Drew Davies — Place Estate Agents. Drew Davies is, by follower count, Australia's most-followed real estate agent on Instagram"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Ray White",
+                  "domain": "www.raywhite.com",
+                  "url": "https://www.raywhite.com/haesley-cush/real-estate-agent/haesley.cush/",
+                  "title": "Haesley Cush",
+                  "text": "Haesley Cush is the CEO and co-partner … estate. He is a multi-award winning auctioneer, a columnist for the Sunday Mail"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Adcock Prestige",
+                  "domain": "adcockprestige.com",
+                  "url": "https://adcockprestige.com/about/",
+                  "title": "About - Adcock Prestige | Selling Brisbane's Luxury Properties",
+                  "text": "Adcock Prestige (founded 2002 by Jason Adcock; Brisbane luxury real estate market). Services: Selling exclusive residences, landma..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Ray White",
+                  "domain": "www.raywhite.com",
+                  "url": "https://www.raywhite.com/brisbane100/auctioneers",
+                  "title": "Meet the auctioneers • Ray White",
+                  "text": "Gavin Croft (COO QLD, Chief Auctioneer, 24 years, 20,000+ transactions, two-time REINSW and REIQ auctioneer of the year); 20 years..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Leading Luxury Agencies",
+              "text": "Place Estate Agents (New Farm / Bulimba): Dominates the high-end inner-city residential and riverfront market, with elite agents like Sarah Hackett setting record price-per-square-metre benchmarks. Dominates the high-end inner-city residential and riverfront market, with elite agents like Sarah Hackett Ray White Collective (New Farm / Ascot / Bulimba): A powerhouse group handling a massive share of Brisbane's premier multi-million-dollar transactions, driven by top luxury performers and extensive buyer networks. Adcock Prestige: A specialized boutique agency founded by Jason Adcock, dedicated entirely to luxury estates, heritage properties, and architectural showpieces across Brisbane. A specialized boutique agency founded by Jason Adcock Queensland Sotheby's International Realty: Connects prestige Brisbane addresses to a powerful global luxury network for high-net-worth international buyers.",
+              "markdown": "- **Place Estate Agents (New Farm / Bulimba):** Dominates the high-end inner-city residential and riverfront market, with elite agents like Sarah Hackett setting record price-per-square-metre benchmarks.[[1]](https://www.eplace.com.au/brisbanes-luxury-agent)\n- **Ray White Collective (New Farm / Ascot / Bulimba):** A powerhouse group handling a massive share of Brisbane's premier multi-million-dollar transactions, driven by top luxury performers and extensive buyer networks.[[1]](https://www.realestate.com.au/agent/haesley-cush-1481082)\n- **Adcock Prestige:** A specialized boutique agency founded by Jason Adcock , dedicated entirely to luxury estates, heritage properties, and architectural showpieces across Brisbane.[[1]](https://adcockprestige.com/about/)\n- **Queensland Sotheby's International Realty:** Connects prestige Brisbane addresses to a powerful global luxury network for high-net-worth international buyers.",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Place Real Estate",
+                  "domain": "www.eplace.com.au",
+                  "url": "https://www.eplace.com.au/brisbanes-luxury-agent",
+                  "title": "Sarah Hackett | Brisbane's Luxury and Riverfront Specialist",
+                  "text": "Director of Place New Farm, Australia's Most Influential Woman In Real Estate, and Queensland's #1 Female Agent … 27+ years experience; luxury and riverfront resid..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Real Estate",
+                  "domain": "www.realestate.com.au",
+                  "url": "https://www.realestate.com.au/agent/haesley-cush-1481082",
+                  "title": "Haesley Cush - Living Here Cush Partners - realestate.com.au",
+                  "text": "Haesley Cush is the CEO and co-partner with Matt Lancashire of Ray White Collective (comprising of Ray White New Farm, Ray White B..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Adcock Prestige",
+                  "domain": "adcockprestige.com",
+                  "url": "https://adcockprestige.com/about/",
+                  "title": "About - Adcock Prestige | Selling Brisbane's Luxury Properties",
+                  "text": "Adcock Prestige (founded 2002 by Jason Adcock; Brisbane luxury real estate market). Services: Selling exclusive residences, landmark riverfront estates, heritage h..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Top-Performing Auctioneers",
+              "text": "Haesley Cush (Ray White Collective): A multi-award-winning auctioneer who has called over 10,000 auctions and holds a record for winning the REIQ Auctioneer of the Year title every time he has entered. Haesley Cush (Ray White Collective): Gavin Croft (Ray White Queensland): Chief Auctioneer with decades of experience, recognized as a premier REIQ Auctioneer of the Year and trusted with high-stakes prestige sales. Gavin Croft (Ray White Queensland): Mitch Peereboom (Ray White): Renowned high-volume and high-intensity auctioneer with thousands of successful property calls across Brisbane's competitive markets. Mitch Peereboom (Ray White):",
+              "markdown": "- **Haesley Cush (Ray White Collective):** A multi-award-winning auctioneer who has called over 10,000 auctions and holds a record for winning the REIQ Auctioneer of the Year title every time he has entered.\n- **Gavin Croft (Ray White Queensland):** Chief Auctioneer with decades of experience, recognized as a premier REIQ Auctioneer of the Year and trusted with high-stakes prestige sales.\n- **Mitch Peereboom (Ray White):** Renowned high-volume and high-intensity auctioneer with thousands of successful property calls across Brisbane's competitive markets.[[1]](https://www.raywhite.com/brisbane100/auctioneers)[[2]](https://www.raywhite.com/haesley-cush/real-estate-agent/haesley.cush/)[[3]](https://www.raywhite.com/people/haesley-cush)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Ray White",
+                  "domain": "www.raywhite.com",
+                  "url": "https://www.raywhite.com/brisbane100/auctioneers",
+                  "title": "Meet the auctioneers • Ray White",
+                  "text": "Gavin Croft (COO QLD, Chief Auctioneer, 24 years, 20,000+ transactions, two-time REINSW and REIQ auctioneer. Queensland, joined 2020, focuses on recruitment, aucti..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Ray White",
+                  "domain": "www.raywhite.com",
+                  "url": "https://www.raywhite.com/haesley-cush/real-estate-agent/haesley.cush/",
+                  "title": "Haesley Cush",
+                  "text": "Haesley Cush is the CEO and co-partner … estate. He is a multi-award winning auctioneer, a columnist for the Sunday Mail"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Ray White",
+                  "domain": "www.raywhite.com",
+                  "url": "https://www.raywhite.com/people/haesley-cush",
+                  "title": "Haesley Cush • Principal, Ray White Collective",
+                  "text": "He is a multi-award winning auctioneer (calling over 10,000 auctions in his time), a columnist for the Sunday Mail and leads the R..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Would you like information on specific Brisbane suburbs (like New Farm, Ascot, or Hamilton) or data on recent record-breaking sale prices in the luxury sector?",
+              "markdown": "Would you like information on **specific Brisbane suburbs** (like New Farm, Ascot, or Hamilton) or data on **recent record-breaking sale prices** in the luxury sector?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Place Real Estate",
+              "domain": "www.eplace.com.au",
+              "url": "https://www.eplace.com.au/brisbanes-luxury-agent",
+              "title": "Sarah Hackett | Brisbane's Luxury and Riverfront Specialist",
+              "text": "Director of Place New Farm, Australia's Most Influential Woman In Real Estate, and Queensland's #1 Female Agent … 27+ years experience; luxury and riverfront resid..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Adcock Prestige",
+              "domain": "adcockprestige.com",
+              "url": "https://adcockprestige.com/about/",
+              "title": "About - Adcock Prestige | Selling Brisbane's Luxury Properties",
+              "text": "Adcock Prestige (founded 2002 by Jason Adcock; Brisbane luxury real estate market). Services: Selling exclusive residences, landmark riverfront estates, heritage h..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Ray White",
+              "domain": "www.raywhite.com",
+              "url": "https://www.raywhite.com/brisbane100/auctioneers",
+              "title": "Meet the auctioneers • Ray White",
+              "text": "Gavin Croft (COO QLD, Chief Auctioneer, 24 years, 20,000+ transactions, two-time REINSW and REIQ auctioneer. Queensland, joined 2020, focuses on recruitment, aucti..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

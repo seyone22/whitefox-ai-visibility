@@ -1,0 +1,105 @@
+{
+  "slug": "melbourne",
+  "pk": "luxury_auctions",
+  "plat": "perplexity",
+  "text": "Who are the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in Melbourne?",
+  "loc": 1000567,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\melbourne__luxury_auctions__perplexity.json",
+  "at": "2026-10-21T05:10:40.684Z",
+  "cost": 0.006617,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 29,
+      "output_tokens": 988,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.006017,
+      "datetime": "2026-10-21 05:10:40 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For **prestige residential property in Melbourne**, the strongest agencies to shortlist are **Marshall White, Jellis Craig, RT Edgar, Kay & Burton, Abercrombys, Belle Property, and selected McGrath, Buxton and Barry Plant offices**. The best choice depends heavily on the suburb and property type, since local buyer databases and auction track records vary by territory.\n\n## Leading luxury agencies\n\n- **Marshall White** — One of Melbourne’s best-known prestige specialists, particularly strong in Toorak, South Yarra, Armadale, Malvern, Brighton and the inner south. It is associated with multi-million-dollar homes, luxury developments and generational estates.[2][3]\n- **Jellis Craig** — Particularly prominent across Melbourne’s inner east, north and premium family-home markets, including Hawthorn, Kew, Richmond, Fitzroy, Brighton and South Yarra. The agency is known for auction-led campaigns and strong local buyer networks.[5][6]\n- **RT Edgar** — A long-established prestige brand specialising in high-end homes, including Toorak mansions, bayside properties and architect-designed residences.[3][6]\n- **Kay & Burton** — A strong option for ultra-prime homes, especially in Toorak, South Yarra, Armadale and nearby premium suburbs; it is commonly grouped with Melbourne’s leading luxury specialists.[4][6]\n- **Abercrombys** — A boutique choice for architecturally significant, historic and lifestyle properties. Its campaigns are led personally by senior partners and focus on a curated selection of prestige homes.[8]\n- **Belle Property Melbourne** — A premium, design-led agency with a dedicated team of sales consultants and auctioneers, suited to high-end inner-city, lifestyle and presentation-focused campaigns.[7][10]\n- **McGrath** — A national premium brand with a meaningful Melbourne presence, useful where polished marketing and an established eastern-seaboard buyer network are priorities.[2][6]\n- **Buxton and Barry Plant** — Worth considering for Brighton, Bayside and broader Melbourne markets. Both have substantial local coverage and auction experience, although the specific office and agent matter greatly.[3][4]\n\n## Auctioneers worth shortlisting\n\n- **Marcus Chiminello — Marshall White:** A leading Stonnington prestige agent and auctioneer with 24 years in Melbourne’s luxury market; he has received multiple national agent-of-the-year awards and specialises in Toorak, South Yarra, Armadale and Malvern.[1]\n- **Marshall White’s senior auction team:** The firm’s strength is its concentration of experienced auctioneers operating in Melbourne’s premium inner-south and Bayside markets.[2][4]\n- **Jellis Craig senior auctioneers:** Particularly relevant for premium family homes in the inner east, north and selected Bayside suburbs, where the agency reports strong auction results and buyer engagement.[5]\n- **Scott McElroy, Charles Bongiovanni, Alex Puglia and David Thiessen — Belle Property Melbourne:** Each is identified by the agency as a principal, partner or senior auctioneer within its premium Melbourne team.[10]\n- **Jack Richardson — Abercrombys:** A director, licensed estate agent and auctioneer suited to boutique campaigns involving architectural, historic or otherwise distinctive properties.[8]\n- **Senior RT Edgar and Kay & Burton auctioneers:** These agencies are particularly relevant for ultra-prime properties where discreet buyer access, luxury branding and deep local relationships may matter more than volume.[3][4]\n\n## Practical shortlist by location\n\n| Area or property type | Agencies to approach |\n|---|---|\n| Toorak, Armadale, South Yarra, Malvern | Marshall White, Kay & Burton, RT Edgar, Abercrombys |\n| Hawthorn, Kew, Balwyn, inner east | Jellis Craig, Marshall White, RT Edgar |\n| Brighton, Hampton and Bayside | Marshall White, Buxton, Jellis Craig, RT Edgar |\n| Architectural or historically significant homes | Abercrombys, Marshall White, Kay & Burton |\n| Premium apartments and inner-city homes | Belle Property, Jellis Craig, McGrath |\n| Broad Melbourne exposure and high auction volume | Jellis Craig, Barry Plant, Buxton, McGrath |\n\nBefore appointing an agent, compare **recent comparable sales in the same suburb**, the named auctioneer’s personal results, the quality of the proposed buyer database, and whether the agency will have a senior agent conducting the auction—not merely supervising the campaign.",
+              "annotations": [
+                {
+                  "title": "Marcus Chiminello | Estate Agent Stonnington - Marshall White",
+                  "url": "https://www.marshallwhite.com.au/agent/marcus-chiminello",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Elders in real estate companies: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/elders/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 20 Real Estate Agencies in Australia",
+                  "url": "https://www.starinvestment.com.au/top-20-real-estate-agencies-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Agency: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/the-agency/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 10 Real Estate Companies in Melbourne 2026 Guide",
+                  "url": "https://www.starinvestment.com.au/top-real-estate-companies-melbourne/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Real estate agencies in Australia: AI ranking",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Belle Property: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/belle-property",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Home - Abercrombys Real Estate",
+                  "url": "https://www.abercrombys.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "30 Best Local Real Estate Management in Australia | Whereis®",
+                  "url": "https://www.whereis.com/australia/real-estate-management",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Belle Property Melbourne. - Real Estate Agents",
+                  "url": "https://www.belleproperty.com/melbourne",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

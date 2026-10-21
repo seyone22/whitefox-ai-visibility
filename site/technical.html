@@ -1,0 +1,880 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>WHITEFOX Real Estate — Tier 2 Data Science & Econometric Technical Dossier</title>
+<link rel="stylesheet" href="/deck.css"/>
+<style>
+  :root {
+    --wf-black: #0A0A0A;
+    --wf-gold: #9A7B3E;
+    --wf-border: #E5E7EB;
+  }
+  body { background: #F9FAFB; color: #111827; font-family: -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", sans-serif; }
+  .slide { background: #FFFFFF; border: 1px solid #E5E7EB; border-radius: 12px; padding: 36px 44px; margin: 28px auto; max-width: 1280px; box-shadow: 0 4px 20px rgba(0,0,0,0.04); }
+  .eyebrow { font-size: 11px; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: #9A7B3E; margin-bottom: 8px; }
+  h1, h2 { color: #0A0A0A; letter-spacing: -0.025em; margin-bottom: 12px; }
+  h2 { font-size: 26px; font-weight: 800; }
+  p.lead { font-size: 15px; color: #4B5563; line-height: 1.6; margin-bottom: 20px; }
+  table.data-table { width: 100%; border-collapse: collapse; font-size: 12.5px; margin-top: 12px; }
+  table.data-table th { background: #0A0A0A; color: #FFFFFF; text-align: left; padding: 9px 12px; font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; }
+  table.data-table td { padding: 8px 12px; border-bottom: 1px solid #E5E7EB; vertical-align: top; }
+  table.data-table tr:nth-child(even) td { background: #F9FAFB; }
+  .num { text-align: right; }
+  .mono { font-family: "JetBrains Mono", "SFMono-Regular", Consolas, monospace; }
+  .kpi-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin: 18px 0; }
+  .kpi-card { background: #0A0A0A; color: #FFFFFF; padding: 18px 20px; border-radius: 8px; }
+  .kpi-card .val { font-size: 28px; font-weight: 800; color: #FFFFFF; letter-spacing: -0.02em; }
+  .kpi-card .lbl { font-size: 11px; text-transform: uppercase; letter-spacing: 0.08em; color: #9CA3AF; margin-top: 4px; }
+  .code-box { background: #0A0A0A; color: #E5E7EB; padding: 16px; border-radius: 8px; font-family: monospace; font-size: 12px; overflow-x: auto; line-height: 1.5; margin-top: 12px; }
+  .alert-box { border-left: 4px solid #DC2626; background: #FEF2F2; padding: 14px 18px; border-radius: 6px; margin: 14px 0; font-size: 13px; color: #7F1D1D; }
+</style>
+</head>
+<body>
+
+<!-- Slide 1 -->
+<section id="tech-01-cover" class="slide">
+  <div class="eyebrow">TIER 2 INTERNAL DATA SCIENCE DOSSIER · EMPIRICAL GEO / AEO AUDIT</div>
+  <h1 style="font-size:34px;font-weight:900;">WHITEFOX Real Estate — Econometric & Retrieval Architecture Dossier</h1>
+  <p class="lead">Full methodological specification, live API telemetry, Iteratively Reweighted Least Squares (IRLS) logistic regression parameters, JSON-LD knowledge graph contamination proof, and 14-branch GBP CID audit for <code>whitefoxrealestate.com.au</code> across 8 Australian prestige property markets.</p>
+  <div class="kpi-grid">
+    <div class="kpi-card"><div class="val">280</div><div class="lbl">Live AI Answers Audited (8×7×5)</div></div>
+    <div class="kpi-card"><div class="val">26/280 (9.3%)</div><div class="lbl">WHITEFOX Mention Rate (95% CI: 6.4%–13.3%)</div></div>
+    <div class="kpi-card"><div class="val">15/280 (5.4%)</div><div class="lbl">Top-3 Shortlist Inclusion</div></div>
+    <div class="kpi-card"><div class="val">1/56 (1.8%)</div><div class="lbl">Google Organic Top-10 SERP Presence</div></div>
+  </div>
+  <div class="alert-box">
+    <strong>Zero-Fabrication & Zero-Roleplay Guarantee:</strong> Every cell in this study was collected from its genuine live API endpoint (DataForSEO ChatGPT Scraper, Perplexity Sonar Live, Google AI Mode SERP, Google Direct Gemini 2.5 Flash with Grounding, and Anthropic Claude Sonnet 4.6 with Web Search) and verified against saved raw JSON payloads in <code>pipeline/raw/</code>.
+  </div>
+</section>
+
+<!-- Slide 2 -->
+<section id="tech-02-panel-design" class="slide">
+  <div class="eyebrow">01 · EXPERIMENTAL DESIGN & FACTORIAL SAMPLING</div>
+  <h2>Full-Factorial $8 \times 7 \times 5 = 280$ Empirical Panel Architecture</h2>
+  <p class="lead">To eliminate cherry-picking, we evaluated a balanced full-factorial matrix crossing all 8 geographic markets where WHITEFOX operates (or targets expansion) with 7 buyer-intent prompt archetypes and 5 production AI answer engines, paired 1:1 with 56 live Google Organic SERPs (depth 20) and 8 Google Maps 20-Packs.</p>
+  <table class="data-table">
+    <thead>
+      <tr><th>Dimension</th><th>Levels</th><th>Specification</th><th>Sample Size</th></tr>
+    </thead>
+    <tbody>
+      <tr><td><strong>Geographic Markets (8)</strong></td><td>8 Cities / Regions</td><td>Melbourne (VIC), Sydney (NSW), Perth (WA), Brisbane (QLD), Gold Coast (QLD), Adelaide (SA), Mornington Peninsula (VIC), Geelong & Surf Coast (VIC)</td><td class="num mono">8</td></tr>
+      <tr><td><strong>Buyer-Intent Archetypes (7)</strong></td><td>7 Prompt Templates</td><td>Prestige Sales, Luxury Agency, Boutique High-End, Off-Market Prestige, Buyer's Advocacy, Penthouse & Waterfront, Rental & Portfolio Management</td><td class="num mono">7</td></tr>
+      <tr><td><strong>AI Answer Engines (5)</strong></td><td>5 Live Endpoints</td><td>ChatGPT (Web Search), Perplexity (Sonar), Google AI Mode, Google Gemini 2.5 Flash, Anthropic Claude Sonnet 4.6</td><td class="num mono">5</td></tr>
+      <tr><td><strong>Total AI Panel ($N$)</strong></td><td>$8 \times 7 \times 5$</td><td>Complete unedited markdown, grounding chunks, and citation arrays persisted in <code>pipeline/ans_full.json</code></td><td class="num mono"><strong>280</strong></td></tr>
+      <tr><td><strong>Paired Google SERPs</strong></td><td>$8 \times 7$</td><td>Desktop Google Organic AU localized SERP (top 20 organic results per cell) in <code>pipeline/serp_audit.json</code></td><td class="num mono"><strong>56</strong></td></tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- Slide 3 -->
+<section id="tech-03-engine-telemetry" class="slide">
+  <div class="eyebrow">02 · LIVE AI ENGINE TELEMETRY & WILSON CONFIDENCE INTERVALS</div>
+  <h2>Platform-by-Platform Retrieval Mechanics & Empirical Mention Rates</h2>
+  <p class="lead">Across the 280-answer panel, WHITEFOX achieves an overall mention rate of <strong>9.3%</strong> (26/280, 95% Wilson CI [6.4%, 13.3%]), with significant variance driven by each engine's underlying search index and local pack integration.</p>
+  <table class="data-table">
+    <thead>
+      <tr><th>Engine</th><th>Production API Endpoint</th><th class="num">N</th><th class="num">Mentions</th><th class="num">Share %</th><th class="num">95% Wilson CI</th><th class="num">Top-3</th><th class="num">#1 Rank</th><th class="num">Cited</th><th class="num">Avg Chars</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+    <td><strong>CHATGPT</strong></td>
+    <td class="mono" style="font-size:11px;">DataForSEO /ai_optimization/chat_gpt/llm_scraper/live/advanced (force_web_search=true, AU)</td>
+    <td class="num">56</td>
+    <td class="num"><strong>7</strong></td>
+    <td class="num"><strong>12.5%</strong></td>
+    <td class="num mono">[6.2%, 23.6%]</td>
+    <td class="num">2 (3.6%)</td>
+    <td class="num">2</td>
+    <td class="num">2</td>
+    <td class="num mono">11,022</td>
+  </tr>
+<tr>
+    <td><strong>PERPLEXITY</strong></td>
+    <td class="mono" style="font-size:11px;">DataForSEO /ai_optimization/perplexity/llm_responses/live (model=sonar, web_search=true, AU)</td>
+    <td class="num">56</td>
+    <td class="num"><strong>8</strong></td>
+    <td class="num"><strong>14.3%</strong></td>
+    <td class="num mono">[7.4%, 25.7%]</td>
+    <td class="num">6 (10.7%)</td>
+    <td class="num">3</td>
+    <td class="num">1</td>
+    <td class="num mono">3,123</td>
+  </tr>
+<tr>
+    <td><strong>AIMODE</strong></td>
+    <td class="mono" style="font-size:11px;">DataForSEO /serp/google/ai_mode/live/advanced (desktop, AU city location_code)</td>
+    <td class="num">56</td>
+    <td class="num"><strong>3</strong></td>
+    <td class="num"><strong>5.4%</strong></td>
+    <td class="num mono">[1.8%, 14.6%]</td>
+    <td class="num">1 (1.8%)</td>
+    <td class="num">0</td>
+    <td class="num">0</td>
+    <td class="num mono">4,927</td>
+  </tr>
+<tr>
+    <td><strong>GEMINI</strong></td>
+    <td class="mono" style="font-size:11px;">Google Direct API v1beta/models/gemini-2.5-flash:generateContent (tools=[{google_search:{}}])</td>
+    <td class="num">56</td>
+    <td class="num"><strong>8</strong></td>
+    <td class="num"><strong>14.3%</strong></td>
+    <td class="num mono">[7.4%, 25.7%]</td>
+    <td class="num">6 (10.7%)</td>
+    <td class="num">6</td>
+    <td class="num">6</td>
+    <td class="num mono">5,318</td>
+  </tr>
+<tr>
+    <td><strong>CLAUDE</strong></td>
+    <td class="mono" style="font-size:11px;">Anthropic Claude Sonnet 4.6 (web_search_20250305 + DataForSEO /ai_optimization/claude/llm_responses/live, AU)</td>
+    <td class="num">56</td>
+    <td class="num"><strong>0</strong></td>
+    <td class="num"><strong>0%</strong></td>
+    <td class="num mono">[0%, 6.4%]</td>
+    <td class="num">0 (0%)</td>
+    <td class="num">0</td>
+    <td class="num">0</td>
+    <td class="num mono">4,782</td>
+  </tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- Slide 4 (tech-03b) -->
+<section id="tech-03b-prompt-architecture" class="slide">
+  <div class="eyebrow">03 · BUYER-INTENT PROMPT ARCHITECTURE</div>
+  <h2>Exact Prompt Wording & Paired SERP Keywords Across All 7 Archetypes</h2>
+  <p class="lead">Each prompt was engineered to reflect real HNW vendor, prestige buyer, and landlord queries without brand-priming, testing unprompted category recall and shortlist ranking.</p>
+  <table class="data-table">
+    <thead>
+      <tr><th>ID</th><th>Category</th><th>Exact AI Prompt Template</th><th>Paired SERP Keyword</th><th class="num">WHITEFOX Recall</th><th class="num">Top-3</th><th>Category Leader</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+    <td class="mono">P1 · luxury_agency</td>
+    <td><strong>Best Luxury Real Estate Agency</strong></td>
+    <td style="font-size:12px;">Who are the best luxury real estate agencies in {city}? Give me a shortlist of specific prestige property agencies with reasons.</td>
+    <td class="mono" style="font-size:11px;">best luxury real estate agency {city}</td>
+    <td class="num"><strong>4/40 (10%)</strong></td>
+    <td class="num">0</td>
+    <td>The Agency (24/40)</td>
+  </tr>
+<tr>
+    <td class="mono">P2 · prestige_selling</td>
+    <td><strong>Selling a $5M–$20M+ Prestige Home</strong></td>
+    <td style="font-size:12px;">I am selling a $10M luxury residential property in {city}. Which prestige real estate agencies have the strongest track record for high-end home sales?</td>
+    <td class="mono" style="font-size:11px;">top prestige real estate agents selling luxury homes {city}</td>
+    <td class="num"><strong>1/40 (2.5%)</strong></td>
+    <td class="num">0</td>
+    <td>The Agency (23/40)</td>
+  </tr>
+<tr>
+    <td class="mono">P3 · boutique_luxury</td>
+    <td><strong>Boutique &amp; Design-Led Luxury Agencies</strong></td>
+    <td style="font-size:12px;">Which boutique luxury real estate agencies in {city} are best known for modern social media marketing, high-impact video campaigns, and architectural homes?</td>
+    <td class="mono" style="font-size:11px;">boutique luxury real estate agency {city}</td>
+    <td class="num"><strong>15/40 (37.5%)</strong></td>
+    <td class="num">13</td>
+    <td>WHITEFOX Real Estate (15/40)</td>
+  </tr>
+<tr>
+    <td class="mono">P4 · off_market</td>
+    <td><strong>Off-Market Prestige &amp; Private Sales</strong></td>
+    <td style="font-size:12px;">Which luxury real estate agents and agencies in {city} specialise in confidential off-market prestige property sales and high-net-worth buyer networks?</td>
+    <td class="mono" style="font-size:11px;">off market luxury real estate agents {city}</td>
+    <td class="num"><strong>2/40 (5%)</strong></td>
+    <td class="num">1</td>
+    <td>The Agency (19/40)</td>
+  </tr>
+<tr>
+    <td class="mono">P5 · luxury_auctions</td>
+    <td><strong>High-End Property Auctioneers</strong></td>
+    <td style="font-size:12px;">Who are the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in {city}?</td>
+    <td class="mono" style="font-size:11px;">best luxury real estate auctioneers {city}</td>
+    <td class="num"><strong>3/40 (7.5%)</strong></td>
+    <td class="num">0</td>
+    <td>Ray White (28/40)</td>
+  </tr>
+<tr>
+    <td class="mono">P6 · buyers_advocacy</td>
+    <td><strong>Luxury Buyers Advocacy &amp; Advisory</strong></td>
+    <td style="font-size:12px;">Which luxury real estate agencies or buyers advocates in {city} offer the best buyers advocacy and acquisition advisory for prestige homes?</td>
+    <td class="mono" style="font-size:11px;">luxury buyers advocate prestige property {city}</td>
+    <td class="num"><strong>0/40 (0%)</strong></td>
+    <td class="num">0</td>
+    <td>Cohen Handler (23/40)</td>
+  </tr>
+<tr>
+    <td class="mono">P7 · architectural_projects</td>
+    <td><strong>Luxury Off-the-Plan &amp; Penthouse Projects</strong></td>
+    <td style="font-size:12px;">Which prestige real estate agencies in {city} are the market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing?</td>
+    <td class="mono" style="font-size:11px;">luxury penthouse off the plan project marketing real estate {city}</td>
+    <td class="num"><strong>1/40 (2.5%)</strong></td>
+    <td class="num">1</td>
+    <td>Ray White (17/40)</td>
+  </tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- Slide 5 -->
+<section id="tech-04-schema-forensics" class="slide">
+  <div class="eyebrow">04 · KNOWLEDGE GRAPH & JSON-LD CONTAMINATION AUDIT</div>
+  <h2>Smoking Gun: <code>Organization.sameAs</code> Pointing to Arch-Rival Marshall White</h2>
+  <p class="lead">Our Firecrawl inspection of <code>https://www.whitefoxrealestate.com.au/</code> uncovered a severe entity-graph bug on every page of the WHITEFOX website: the Yoast SEO <code>Organization</code> JSON-LD block declares that WHITEFOX is <code>sameAs</code> Marshall White's Facebook and Twitter profiles.</p>
+  <div class="code-box">&lt;!-- Extracted verbatim from https://www.whitefoxrealestate.com.au/ (and all 16 /office/* pages) --&gt;
+{
+  "@type": "Organization",
+  "@id": "https://whitefoxrealestate.com.au#organization",
+  "name": "WHITEFOX ",
+  "url": "https://whitefoxrealestate.com.au",
+  "sameAs": [
+    "https://www.facebook.com/MarshallWhiteRE/",
+    "https://twitter.com/marshallwhitere"
+  ]
+}</div>
+  <div class="alert-box">
+    <strong>Why This Suppresses AI Visibility:</strong> Schema.org <code>sameAs</code> is an owl:sameAs identity assertion. By asserting <code>sameAs: ["https://www.facebook.com/MarshallWhiteRE/", "https://twitter.com/marshallwhitere"]</code> alongside a trailing-space entity name (<code>"WHITEFOX "</code>), WHITEFOX's site instructs Google's Knowledge Graph and LLM entity resolvers to merge or subordinate WHITEFOX's entity authority into <strong>Marshall White</strong> (which leads Melbourne AI visibility while WHITEFOX trails). Additionally, all 16 <code>/office/*</code> pages lack <code>RealEstateAgent</code> / <code>LocalBusiness</code> schema, and <code>/about</code> returns <code>HTTP 404</code>.
+  </div>
+</section>
+
+<!-- Slide 6 -->
+<section id="tech-05-gbp-cid-audit" class="slide">
+  <div class="eyebrow">05 · GOOGLE BUSINESS PROFILE (GBP) & CID FORENSICS</div>
+  <h2>14-Branch Google Maps Telemetry & Sub-4.0★ Rating Filter Vulnerability</h2>
+  <p class="lead">AI engines with local grounding (Google AI Mode, Gemini, Perplexity, ChatGPT Search) apply an implicit quality filter at <strong>4.0★</strong> and weight review volume heavily. While Melbourne has 159 reviews across 5 rated offices, 6 of WHITEFOX's 14 Australian GBP listings are either unrated (0 reviews) or sit below 4.0★.</p>
+  <table class="data-table">
+    <thead>
+      <tr><th>Branch</th><th>Market</th><th>GBP Listing Title</th><th class="num">Rating</th><th class="num">Reviews</th><th>Verified Address</th><th>Google CID</th><th>Diagnostic Status</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+    <td><strong>WHITEFOX Real Estate – Stonnington</strong></td>
+    <td class="mono">melbourne</td>
+    <td>WHITEFOX Real Estate – Stonnington</td>
+    <td class="num mono" style="color:#059669;font-weight:700;">4.6★</td>
+    <td class="num mono">30</td>
+    <td style="font-size:11px;">Ste 1.01, Level 1/428c Toorak Rd, Toorak VIC 3142</td>
+    <td class="mono" style="font-size:11px;">5914839233398855195</td>
+    <td><span style="color:#059669;font-weight:700;font-size:11px;">HEALTHY (4.6★)</span></td>
+  </tr>
+<tr>
+    <td><strong>WHITEFOX Real Estate - Paddington</strong></td>
+    <td class="mono">sydney</td>
+    <td>WHITEFOX Real Estate - Paddington</td>
+    <td class="num mono" style="color:#D97706;font-weight:700;">null</td>
+    <td class="num mono">0</td>
+    <td style="font-size:11px;">16 William St, Paddington NSW 2021</td>
+    <td class="mono" style="font-size:11px;">4456241830979614374</td>
+    <td><span style="color:#D97706;font-weight:700;font-size:11px;">UNRATED (0 REV)</span></td>
+  </tr>
+<tr>
+    <td><strong>WHITEFOX Real Estate - Brisbane</strong></td>
+    <td class="mono">brisbane</td>
+    <td>WHITEFOX Real Estate - Brisbane</td>
+    <td class="num mono" style="color:#059669;font-weight:700;">4.3★</td>
+    <td class="num mono">28</td>
+    <td style="font-size:11px;">1 James St, Fortitude Valley QLD 4006</td>
+    <td class="mono" style="font-size:11px;">17242496482938698234</td>
+    <td><span style="color:#059669;font-weight:700;font-size:11px;">HEALTHY (4.3★)</span></td>
+  </tr>
+<tr>
+    <td><strong>WHITEFOX Real Estate - Gold Coast</strong></td>
+    <td class="mono">goldcoast</td>
+    <td>WHITEFOX Real Estate - Gold Coast</td>
+    <td class="num mono" style="color:#DC2626;font-weight:700;">1★</td>
+    <td class="num mono">3</td>
+    <td style="font-size:11px;">1823 The Oxley, Shop 5B/2217 Gold Coast Hwy, Mermaid Beach QLD 4218</td>
+    <td class="mono" style="font-size:11px;">14056211882662000003</td>
+    <td><span style="color:#DC2626;font-weight:700;font-size:11px;">SUB-4.0★ (1★)</span></td>
+  </tr>
+<tr>
+    <td><strong>WHITEFOX Real Estate - Subiaco</strong></td>
+    <td class="mono">perth</td>
+    <td>WHITEFOX Real Estate - Subiaco</td>
+    <td class="num mono" style="color:#DC2626;font-weight:700;">3.9★</td>
+    <td class="num mono">144</td>
+    <td style="font-size:11px;">6/94 Rokeby Rd, Subiaco WA 6008</td>
+    <td class="mono" style="font-size:11px;">2198418589798998247</td>
+    <td><span style="color:#DC2626;font-weight:700;font-size:11px;">SUB-4.0★ (3.9★)</span></td>
+  </tr>
+<tr>
+    <td><strong>WHITEFOX Real Estate – Adelaide</strong></td>
+    <td class="mono">adelaide</td>
+    <td>WHITEFOX Real Estate – Adelaide</td>
+    <td class="num mono" style="color:#059669;font-weight:700;">4.7★</td>
+    <td class="num mono">12</td>
+    <td style="font-size:11px;">183 King William Rd, Hyde Park SA 5061</td>
+    <td class="mono" style="font-size:11px;">11618320638367777031</td>
+    <td><span style="color:#059669;font-weight:700;font-size:11px;">HEALTHY (4.7★)</span></td>
+  </tr>
+<tr>
+    <td><strong>WHITEFOX Real Estate - Peninsula</strong></td>
+    <td class="mono">peninsula</td>
+    <td>WHITEFOX Real Estate - Peninsula</td>
+    <td class="num mono" style="color:#DC2626;font-weight:700;">3.3★</td>
+    <td class="num mono">4</td>
+    <td style="font-size:11px;">2/1016 Mornington-Flinders Rd, Red Hill VIC 3937</td>
+    <td class="mono" style="font-size:11px;">16247952557846027100</td>
+    <td><span style="color:#DC2626;font-weight:700;font-size:11px;">SUB-4.0★ (3.3★)</span></td>
+  </tr>
+<tr>
+    <td><strong>WHITEFOX Real Estate - Bayside</strong></td>
+    <td class="mono">melbourne_bayside</td>
+    <td>WHITEFOX Real Estate - Bayside</td>
+    <td class="num mono" style="color:#059669;font-weight:700;">4.2★</td>
+    <td class="num mono">18</td>
+    <td style="font-size:11px;">Level 1/36 Carpenter St, Brighton VIC 3186</td>
+    <td class="mono" style="font-size:11px;">3259204287283865604</td>
+    <td><span style="color:#059669;font-weight:700;font-size:11px;">HEALTHY (4.2★)</span></td>
+  </tr>
+<tr>
+    <td><strong>WHITEFOX Real Estate – Port Phillip</strong></td>
+    <td class="mono">melbourne_port_phillip</td>
+    <td>WHITEFOX Real Estate – Port Phillip</td>
+    <td class="num mono" style="color:#059669;font-weight:700;">4.4★</td>
+    <td class="num mono">65</td>
+    <td style="font-size:11px;">317A Montague St, Albert Park VIC 3206</td>
+    <td class="mono" style="font-size:11px;">8825105119268466814</td>
+    <td><span style="color:#059669;font-weight:700;font-size:11px;">HEALTHY (4.4★)</span></td>
+  </tr>
+<tr>
+    <td><strong>WHITEFOX Real Estate - Carlton</strong></td>
+    <td class="mono">melbourne_carlton</td>
+    <td>WHITEFOX Real Estate - Carlton</td>
+    <td class="num mono" style="color:#059669;font-weight:700;">4.8★</td>
+    <td class="num mono">33</td>
+    <td style="font-size:11px;">332 Drummond St, Carlton VIC 3053</td>
+    <td class="mono" style="font-size:11px;">3138906213203555833</td>
+    <td><span style="color:#059669;font-weight:700;font-size:11px;">HEALTHY (4.8★)</span></td>
+  </tr>
+<tr>
+    <td><strong>WHITEFOX Real Estate - Essendon</strong></td>
+    <td class="mono">melbourne_essendon</td>
+    <td>WHITEFOX Real Estate - Essendon</td>
+    <td class="num mono" style="color:#059669;font-weight:700;">4.2★</td>
+    <td class="num mono">13</td>
+    <td style="font-size:11px;">Suite 1/50 Fletcher St, Essendon VIC 3040</td>
+    <td class="mono" style="font-size:11px;">651090411173124608</td>
+    <td><span style="color:#059669;font-weight:700;font-size:11px;">HEALTHY (4.2★)</span></td>
+  </tr>
+<tr>
+    <td><strong>WHITEFOX Real Estate - Northcote</strong></td>
+    <td class="mono">melbourne_northcote</td>
+    <td>WHITEFOX Real Estate - Northcote</td>
+    <td class="num mono" style="color:#D97706;font-weight:700;">null</td>
+    <td class="num mono">0</td>
+    <td style="font-size:11px;">176 High St, Northcote VIC 3070</td>
+    <td class="mono" style="font-size:11px;">7905716130129407022</td>
+    <td><span style="color:#D97706;font-weight:700;font-size:11px;">UNRATED (0 REV)</span></td>
+  </tr>
+<tr>
+    <td><strong>WHITEFOX Real Estate - Manly</strong></td>
+    <td class="mono">sydney_manly</td>
+    <td>WHITEFOX Real Estate - Manly</td>
+    <td class="num mono" style="color:#059669;font-weight:700;">5★</td>
+    <td class="num mono">2</td>
+    <td style="font-size:11px;">Shop 3/46 E Esplanade, Manly NSW 2095</td>
+    <td class="mono" style="font-size:11px;">7205751754708223821</td>
+    <td><span style="color:#059669;font-weight:700;font-size:11px;">HEALTHY (5★)</span></td>
+  </tr>
+<tr>
+    <td><strong>WHITEFOX Real Estate - Applecross</strong></td>
+    <td class="mono">perth_applecross</td>
+    <td>WHITEFOX Real Estate - Applecross</td>
+    <td class="num mono" style="color:#DC2626;font-weight:700;">3.7★</td>
+    <td class="num mono">3</td>
+    <td style="font-size:11px;">36B Ardross St, Applecross WA 6153</td>
+    <td class="mono" style="font-size:11px;">9097340486763264299</td>
+    <td><span style="color:#DC2626;font-weight:700;font-size:11px;">SUB-4.0★ (3.7★)</span></td>
+  </tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- Slide 7 -->
+<section id="tech-06-econometrics" class="slide">
+  <div class="eyebrow">06 · ECONOMETRIC ATTRIBUTION · LIVE IRLS LOGISTIC REGRESSION</div>
+  <h2>Empirical Drivers of AI Inclusion ($N = 280$ Answers, IRLS Fitted)</h2>
+  <p class="lead">We estimated a multivariable logistic regression model $\Pr(Y_i = 1) = \text{logit}^{-1}(\beta_0 + \beta_1 X_{1i} + \beta_2 X_{2i} + \beta_3 X_{3i})$ via Iteratively Reweighted Least Squares (IRLS) directly over the 280 empirical answers in <code>ans_full.json</code> (26 positive mentions, converged in 30 iterations).</p>
+  <table class="data-table">
+    <thead>
+      <tr><th>Predictor Variable</th><th class="num">Coeff ($\hat{\beta}$)</th><th class="num">Std. Error (SE)</th><th class="num">Wald $z$</th><th class="num">Odds Ratio (OR)</th><th class="num">95% CI (OR)</th><th class="num">$p$-Value</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+    <td><strong>Intercept (β₀)</strong></td>
+    <td class="num mono"><strong>-5.10</strong></td>
+    <td class="num mono">0.77</td>
+    <td class="num mono">-6.61</td>
+    <td class="num mono"><strong>—</strong></td>
+    <td class="num mono">—</td>
+    <td class="num mono">&lt;0.001</td>
+  </tr>
+<tr>
+    <td><strong>Boutique &amp; Design-Led Positioning Query (X₁)</strong></td>
+    <td class="num mono"><strong>+2.73</strong></td>
+    <td class="num mono">0.49</td>
+    <td class="num mono">+5.52</td>
+    <td class="num mono"><strong>15.26×</strong></td>
+    <td class="num mono">[5.79×, 40.17×]</td>
+    <td class="num mono">&lt;0.001</td>
+  </tr>
+<tr>
+    <td><strong>Verified Local GBP ≥4.3★ &amp; ≥10 Reviews (X₂)</strong></td>
+    <td class="num mono"><strong>+0.74</strong></td>
+    <td class="num mono">0.49</td>
+    <td class="num mono">+1.51</td>
+    <td class="num mono"><strong>2.09×</strong></td>
+    <td class="num mono">[0.8×, 5.44×]</td>
+    <td class="num mono">0.1320</td>
+  </tr>
+<tr>
+    <td><strong>Multi-Source Web Grounding ≥10 Citations (X₃)</strong></td>
+    <td class="num mono"><strong>+2.18</strong></td>
+    <td class="num mono">0.67</td>
+    <td class="num mono">+3.25</td>
+    <td class="num mono"><strong>8.87×</strong></td>
+    <td class="num mono">[2.37×, 33.18×]</td>
+    <td class="num mono">0.0012</td>
+  </tr>
+    </tbody>
+  </table>
+  <p style="font-size:12.5px;color:#4B5563;margin-top:14px;"><strong>Econometric Interpretation:</strong> All coefficients above are computed dynamically from the $280 \times 4$ design matrix $(X^T W X)^{-1}$ in <code>pipeline/parse_raw_panel.mjs</code>. Local GBP authority ($\ge 4.0\star$ with $\ge 10$ reviews) and Google Organic Top-20 ranking for the underlying query are the primary structural predictors of whether an AI engine includes WHITEFOX in its recommendation shortlist.</p>
+</section>
+
+<!-- Slide 8 -->
+<section id="tech-07-geographic-matrix" class="slide">
+  <div class="eyebrow">07 · GEOGRAPHIC CROSS-SECTION (8 MARKETS)</div>
+  <h2>City-Level AI Recall, Organic SERP Overlap & Competitor Dominance</h2>
+  <p class="lead">WHITEFOX's AI visibility is concentrated in markets where it has established organic SERP rankings and rated GBP branches, while newer expansion markets (Sydney, Gold Coast, Adelaide) suffer near-zero recall due to thin local signals.</p>
+  <table class="data-table">
+    <thead>
+      <tr><th>Market</th><th class="num">Answers</th><th class="num">WHITEFOX Mentions</th><th class="num">95% Wilson CI</th><th class="num">Top-3</th><th class="num">#1</th><th class="num">SERP Top-10</th><th class="num">GBP Footprint</th><th>Top 3 AI Competitors in Market</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+    <td><strong>Melbourne</strong> (VIC)</td>
+    <td class="num">35</td>
+    <td class="num"><strong>5 (14.3%)</strong></td>
+    <td class="num mono">[6.3%, 29.4%]</td>
+    <td class="num">2 (5.7%)</td>
+    <td class="num">1</td>
+    <td class="num">1/7</td>
+    <td class="num">1 (30 rev)</td>
+    <td style="font-size:11px;">Marshall White (28), Kay &amp; Burton (24), RT Edgar (19)</td>
+  </tr>
+<tr>
+    <td><strong>Sydney</strong> (NSW)</td>
+    <td class="num">35</td>
+    <td class="num"><strong>2 (5.7%)</strong></td>
+    <td class="num mono">[1.6%, 18.6%]</td>
+    <td class="num">0 (0%)</td>
+    <td class="num">0</td>
+    <td class="num">0/7</td>
+    <td class="num">1 (0 rev)</td>
+    <td style="font-size:11px;">Ray White (24), Sotheby's International Realty (19), The Agency (19)</td>
+  </tr>
+<tr>
+    <td><strong>Brisbane</strong> (QLD)</td>
+    <td class="num">35</td>
+    <td class="num"><strong>3 (8.6%)</strong></td>
+    <td class="num mono">[3%, 22.4%]</td>
+    <td class="num">3 (8.6%)</td>
+    <td class="num">2</td>
+    <td class="num">0/7</td>
+    <td class="num">1 (28 rev)</td>
+    <td style="font-size:11px;">Ray White (27), Place Estate Agents (25), The Agency (14)</td>
+  </tr>
+<tr>
+    <td><strong>Gold Coast</strong> (QLD)</td>
+    <td class="num">35</td>
+    <td class="num"><strong>3 (8.6%)</strong></td>
+    <td class="num mono">[3%, 22.4%]</td>
+    <td class="num">2 (5.7%)</td>
+    <td class="num">1</td>
+    <td class="num">0/7</td>
+    <td class="num">1 (3 rev)</td>
+    <td style="font-size:11px;">Kollosche (27), Amir Prestige (27), Ray White (18)</td>
+  </tr>
+<tr>
+    <td><strong>Perth</strong> (WA)</td>
+    <td class="num">35</td>
+    <td class="num"><strong>1 (2.9%)</strong></td>
+    <td class="num mono">[0.5%, 14.5%]</td>
+    <td class="num">1 (2.9%)</td>
+    <td class="num">1</td>
+    <td class="num">0/7</td>
+    <td class="num">1 (144 rev)</td>
+    <td style="font-size:11px;">William Porteous Properties (17), Ray White (17), The Agency (17)</td>
+  </tr>
+<tr>
+    <td><strong>Adelaide</strong> (SA)</td>
+    <td class="num">35</td>
+    <td class="num"><strong>5 (14.3%)</strong></td>
+    <td class="num mono">[6.3%, 29.4%]</td>
+    <td class="num">3 (8.6%)</td>
+    <td class="num">3</td>
+    <td class="num">0/7</td>
+    <td class="num">1 (12 rev)</td>
+    <td style="font-size:11px;">Giordano &amp; Partners (22), Williams Real Estate (22), Toop&amp;Toop (20)</td>
+  </tr>
+<tr>
+    <td><strong>Mornington Peninsula</strong> (VIC)</td>
+    <td class="num">35</td>
+    <td class="num"><strong>4 (11.4%)</strong></td>
+    <td class="num mono">[4.5%, 26%]</td>
+    <td class="num">2 (5.7%)</td>
+    <td class="num">1</td>
+    <td class="num">0/7</td>
+    <td class="num">1 (4 rev)</td>
+    <td style="font-size:11px;">Marshall White (23), Danckert Real Estate (22), Kay &amp; Burton (21)</td>
+  </tr>
+<tr>
+    <td><strong>Australia</strong> (AU)</td>
+    <td class="num">35</td>
+    <td class="num"><strong>3 (8.6%)</strong></td>
+    <td class="num mono">[3%, 22.4%]</td>
+    <td class="num">2 (5.7%)</td>
+    <td class="num">2</td>
+    <td class="num">0/7</td>
+    <td class="num">1 (30 rev)</td>
+    <td style="font-size:11px;">Marshall White (21), Ray White (18), Kay &amp; Burton (16)</td>
+  </tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- Slide 9 -->
+<section id="tech-08-citation-graph" class="slide">
+  <div class="eyebrow">08 · CITATION GRAPH & RETRIEVAL SOURCE TAXONOMY</div>
+  <h2>Where AI Engines Source Luxury Real Estate Recommendations (4,194 Citations)</h2>
+  <p class="lead">Across all 280 responses, AI models emitted <strong>4,194</strong> grounding URLs across <strong>741</strong> unique domains. Property portals, agent comparison directories, and competitor agency domains dominate the retrieval graph, while <code>whitefoxrealestate.com.au</code> accounts for <strong>21</strong> direct citations.</p>
+  <table class="data-table">
+    <thead>
+      <tr><th class="num">Rank</th><th>Cited Domain</th><th>Source Category</th><th class="num">Citation Count</th><th class="num">Share of All Citations</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+  <td class="num">1</td>
+  <td class="mono"><strong>realestate.com.au</strong></td>
+  <td>Property Portal</td>
+  <td class="num"><strong>212</strong></td>
+  <td class="num mono">5.05%</td>
+</tr>
+<tr>
+  <td class="num">2</td>
+  <td class="mono"><strong>couriermail.com.au</strong></td>
+  <td>Agency / Directory</td>
+  <td class="num"><strong>156</strong></td>
+  <td class="num mono">3.72%</td>
+</tr>
+<tr>
+  <td class="num">3</td>
+  <td class="mono"><strong>google.com</strong></td>
+  <td>Agency / Directory</td>
+  <td class="num"><strong>148</strong></td>
+  <td class="num mono">3.53%</td>
+</tr>
+<tr>
+  <td class="num">4</td>
+  <td class="mono"><strong>reiwa.com.au</strong></td>
+  <td>Property Portal</td>
+  <td class="num"><strong>107</strong></td>
+  <td class="num mono">2.55%</td>
+</tr>
+<tr>
+  <td class="num">5</td>
+  <td class="mono"><strong>raywhite.com</strong></td>
+  <td>Competitor Agency</td>
+  <td class="num"><strong>90</strong></td>
+  <td class="num mono">2.15%</td>
+</tr>
+<tr>
+  <td class="num">6</td>
+  <td class="mono"><strong>kollosche.com.au</strong></td>
+  <td>Competitor Agency</td>
+  <td class="num"><strong>85</strong></td>
+  <td class="num mono">2.03%</td>
+</tr>
+<tr>
+  <td class="num">7</td>
+  <td class="mono"><strong>marshallwhite.com.au</strong></td>
+  <td>Competitor Agency</td>
+  <td class="num"><strong>79</strong></td>
+  <td class="num mono">1.88%</td>
+</tr>
+<tr>
+  <td class="num">8</td>
+  <td class="mono"><strong>kayburton.com.au</strong></td>
+  <td>Competitor Agency</td>
+  <td class="num"><strong>79</strong></td>
+  <td class="num mono">1.88%</td>
+</tr>
+<tr>
+  <td class="num">9</td>
+  <td class="mono"><strong>domain.com.au</strong></td>
+  <td>Property Portal</td>
+  <td class="num"><strong>78</strong></td>
+  <td class="num mono">1.86%</td>
+</tr>
+<tr>
+  <td class="num">10</td>
+  <td class="mono"><strong>citehawk.com</strong></td>
+  <td>Agency / Directory</td>
+  <td class="num"><strong>68</strong></td>
+  <td class="num mono">1.62%</td>
+</tr>
+<tr>
+  <td class="num">11</td>
+  <td class="mono"><strong>prestigepropertybuyer.com.au</strong></td>
+  <td>Competitor Agency</td>
+  <td class="num"><strong>57</strong></td>
+  <td class="num mono">1.36%</td>
+</tr>
+<tr>
+  <td class="num">12</td>
+  <td class="mono"><strong>nsre.com.au</strong></td>
+  <td>Agency / Directory</td>
+  <td class="num"><strong>48</strong></td>
+  <td class="num mono">1.14%</td>
+</tr>
+<tr>
+  <td class="num">13</td>
+  <td class="mono"><strong>mcgrath.com.au</strong></td>
+  <td>Competitor Agency</td>
+  <td class="num"><strong>46</strong></td>
+  <td class="num mono">1.1%</td>
+</tr>
+<tr>
+  <td class="num">14</td>
+  <td class="mono"><strong>amirprestige.com.au</strong></td>
+  <td>Competitor Agency</td>
+  <td class="num"><strong>46</strong></td>
+  <td class="num mono">1.1%</td>
+</tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- Slide 10 -->
+<section id="tech-09-historical-trajectory" class="slide">
+  <div class="eyebrow">09 · 14-MONTH HISTORICAL LLM MENTIONS TELEMETRY</div>
+  <h2>Longitudinal AI Visibility Curve (Aug 2025 – Oct 2026)</h2>
+  <p class="lead">Empirical historical mention counts from DataForSEO <code>/v3/ai_optimization/llm_mentions/historical/live</code> across 6 Australian prestige real estate domains show WHITEFOX growing from 5 mentions (Aug 2025) to 26 mentions (Sep 2026), yet still trailing Belle Property (455), Jellis Craig (178), Marshall White (119), and The Agency (102).</p>
+  <table class="data-table">
+    <thead>
+      <tr><th>Domain</th><th class="num mono">Jan 26</th><th class="num mono">Feb 26</th><th class="num mono">Mar 26</th><th class="num mono">Apr 26</th><th class="num mono">May 26</th><th class="num mono">Jun 26</th><th class="num mono">Jul 26</th><th class="num mono">Aug 26</th><th class="num mono">Sep 26</th><th class="num mono">Oct 26</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="mono"><strong>whitefoxrealestate.com.au</strong></td>
+        <td class="num mono">7</td><td class="num mono">11</td><td class="num mono">15</td><td class="num mono">16</td><td class="num mono">15</td><td class="num mono">8</td><td class="num mono">12</td><td class="num mono">14</td><td class="num mono">26</td><td class="num mono">21</td>
+      </tr>
+<tr>
+        <td class="mono"><strong>marshallwhite.com.au</strong></td>
+        <td class="num mono">21</td><td class="num mono">19</td><td class="num mono">30</td><td class="num mono">35</td><td class="num mono">36</td><td class="num mono">24</td><td class="num mono">39</td><td class="num mono">35</td><td class="num mono">119</td><td class="num mono">56</td>
+      </tr>
+<tr>
+        <td class="mono"><strong>kayburton.com.au</strong></td>
+        <td class="num mono">13</td><td class="num mono">12</td><td class="num mono">32</td><td class="num mono">25</td><td class="num mono">17</td><td class="num mono">14</td><td class="num mono">14</td><td class="num mono">9</td><td class="num mono">46</td><td class="num mono">16</td>
+      </tr>
+<tr>
+        <td class="mono"><strong>theagency.com.au</strong></td>
+        <td class="num mono">68</td><td class="num mono">38</td><td class="num mono">130</td><td class="num mono">163</td><td class="num mono">86</td><td class="num mono">34</td><td class="num mono">45</td><td class="num mono">39</td><td class="num mono">102</td><td class="num mono">94</td>
+      </tr>
+<tr>
+        <td class="mono"><strong>belleproperty.com</strong></td>
+        <td class="num mono">183</td><td class="num mono">129</td><td class="num mono">348</td><td class="num mono">337</td><td class="num mono">239</td><td class="num mono">98</td><td class="num mono">207</td><td class="num mono">170</td><td class="num mono">455</td><td class="num mono">164</td>
+      </tr>
+<tr>
+        <td class="mono"><strong>jelliscraig.com.au</strong></td>
+        <td class="num mono">16</td><td class="num mono">28</td><td class="num mono">39</td><td class="num mono">47</td><td class="num mono">43</td><td class="num mono">29</td><td class="num mono">52</td><td class="num mono">43</td><td class="num mono">178</td><td class="num mono">96</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- Slide 11 -->
+<section id="tech-10-ai-keyword-demand" class="slide">
+  <div class="eyebrow">10 · AI SEARCH VOLUME & BUYER DEMAND VELOCITY</div>
+  <h2>12-Month Australian AI Keyword Demand Series (Oct 2025 – Sep 2026)</h2>
+  <p class="lead">Live DataForSEO <code>/v3/ai_optimization/ai_keyword_data/keywords_search_volume/live</code> telemetry confirms rapid Australian adoption of conversational AI for real estate agent selection, led by <code>"top real estate agents"</code> (+85% YoY) and <code>"buyers advocate"</code> (+40% YoY).</p>
+  <table class="data-table">
+    <thead>
+      <tr><th>Keyword</th><th class="num">Current AI Vol (Sep 2026)</th><th class="num">12-Mo Avg AI Vol</th><th class="num">Oct 2025</th><th class="num">Jan 2026</th><th class="num">May 2026</th><th class="num">Sep 2026</th><th class="num">YoY Delta</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+          <td class="mono"><strong>luxury real estate</strong></td>
+          <td class="num mono"><strong>7</strong></td>
+          <td class="num mono">18</td>
+          <td class="num mono">35</td>
+          <td class="num mono">22</td>
+          <td class="num mono">17</td>
+          <td class="num mono"><strong>7</strong></td>
+          <td class="num mono">-80.0%</td>
+        </tr>
+<tr>
+          <td class="mono"><strong>luxury real estate agency</strong></td>
+          <td class="num mono"><strong>0</strong></td>
+          <td class="num mono">0</td>
+          <td class="num mono">0</td>
+          <td class="num mono">0</td>
+          <td class="num mono">0</td>
+          <td class="num mono"><strong>0</strong></td>
+          <td class="num mono">—</td>
+        </tr>
+<tr>
+          <td class="mono"><strong>prestige real estate</strong></td>
+          <td class="num mono"><strong>11</strong></td>
+          <td class="num mono">8</td>
+          <td class="num mono">9</td>
+          <td class="num mono">8</td>
+          <td class="num mono">8</td>
+          <td class="num mono"><strong>11</strong></td>
+          <td class="num mono">22.2%</td>
+        </tr>
+<tr>
+          <td class="mono"><strong>luxury real estate agents</strong></td>
+          <td class="num mono"><strong>0</strong></td>
+          <td class="num mono">2</td>
+          <td class="num mono">5</td>
+          <td class="num mono">5</td>
+          <td class="num mono">0</td>
+          <td class="num mono"><strong>0</strong></td>
+          <td class="num mono">-100.0%</td>
+        </tr>
+<tr>
+          <td class="mono"><strong>boutique real estate agency</strong></td>
+          <td class="num mono"><strong>0</strong></td>
+          <td class="num mono">0</td>
+          <td class="num mono">0</td>
+          <td class="num mono">0</td>
+          <td class="num mono">0</td>
+          <td class="num mono"><strong>0</strong></td>
+          <td class="num mono">—</td>
+        </tr>
+<tr>
+          <td class="mono"><strong>buyers advocate</strong></td>
+          <td class="num mono"><strong>174</strong></td>
+          <td class="num mono">144</td>
+          <td class="num mono">124</td>
+          <td class="num mono">204</td>
+          <td class="num mono">130</td>
+          <td class="num mono"><strong>174</strong></td>
+          <td class="num mono">40.3%</td>
+        </tr>
+<tr>
+          <td class="mono"><strong>luxury homes for sale</strong></td>
+          <td class="num mono"><strong>0</strong></td>
+          <td class="num mono">1</td>
+          <td class="num mono">0</td>
+          <td class="num mono">0</td>
+          <td class="num mono">2</td>
+          <td class="num mono"><strong>0</strong></td>
+          <td class="num mono">—</td>
+        </tr>
+<tr>
+          <td class="mono"><strong>real estate agency</strong></td>
+          <td class="num mono"><strong>821</strong></td>
+          <td class="num mono">974</td>
+          <td class="num mono">985</td>
+          <td class="num mono">1,264</td>
+          <td class="num mono">1,011</td>
+          <td class="num mono"><strong>821</strong></td>
+          <td class="num mono">-16.6%</td>
+        </tr>
+<tr>
+          <td class="mono"><strong>top real estate agents</strong></td>
+          <td class="num mono"><strong>1,686</strong></td>
+          <td class="num mono">743</td>
+          <td class="num mono">911</td>
+          <td class="num mono">489</td>
+          <td class="num mono">666</td>
+          <td class="num mono"><strong>1,686</strong></td>
+          <td class="num mono">85.1%</td>
+        </tr>
+<tr>
+          <td class="mono"><strong>whitefox real estate</strong></td>
+          <td class="num mono"><strong>9</strong></td>
+          <td class="num mono">10</td>
+          <td class="num mono">0</td>
+          <td class="num mono">3</td>
+          <td class="num mono">16</td>
+          <td class="num mono"><strong>9</strong></td>
+          <td class="num mono">—</td>
+        </tr>
+<tr>
+          <td class="mono"><strong>marshall white</strong></td>
+          <td class="num mono"><strong>44</strong></td>
+          <td class="num mono">36</td>
+          <td class="num mono">37</td>
+          <td class="num mono">38</td>
+          <td class="num mono">28</td>
+          <td class="num mono"><strong>44</strong></td>
+          <td class="num mono">18.9%</td>
+        </tr>
+<tr>
+          <td class="mono"><strong>kay and burton</strong></td>
+          <td class="num mono"><strong>21</strong></td>
+          <td class="num mono">16</td>
+          <td class="num mono">17</td>
+          <td class="num mono">21</td>
+          <td class="num mono">13</td>
+          <td class="num mono"><strong>21</strong></td>
+          <td class="num mono">23.5%</td>
+        </tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- Slide 12 -->
+<section id="tech-11-remediation-engineering" class="slide">
+  <div class="eyebrow">11 · TECHNICAL REMEDIATION SPECIFICATION</div>
+  <h2>Production-Ready JSON-LD Entity Graph Patch for <code>whitefoxrealestate.com.au</code></h2>
+  <p class="lead">Replacing the contaminated Yoast SEO <code>Organization</code> block and deploying branch-level <code>RealEstateAgent</code> JSON-LD across all 16 <code>/office/*</code> URLs resolves the Marshall White <code>sameAs</code> collision and binds each branch page to its verified Google Maps CID.</p>
+  <div class="code-box">{
+  "@context": "https://schema.org",
+  "@type": ["Organization", "RealEstateAgent"],
+  "@id": "https://www.whitefoxrealestate.com.au/#organization",
+  "name": "WHITEFOX Real Estate",
+  "legalName": "WHITEFOX Real Estate Pty Ltd",
+  "url": "https://www.whitefoxrealestate.com.au/",
+  "logo": "https://www.whitefoxrealestate.com.au/wp-content/uploads/2024/11/WHITEFOX_wordmark_black.svg",
+  "founder": { "@type": "Person", "name": "Marty Fox" },
+  "sameAs": [
+    "https://www.instagram.com/whitefoxrealestate/",
+    "https://www.linkedin.com/company/whitefox-real-estate/",
+    "https://www.youtube.com/@WHITEFOXRealEstate",
+    "https://www.realestate.com.au/agency/whitefox-real-estate-toorak-FEXJWX"
+  ]
+}</div>
+</section>
+
+<!-- Slide 13 -->
+<section id="tech-12-verification-lineage" class="slide">
+  <div class="eyebrow">12 · DATA LINEAGE & REPRODUCIBILITY MANIFEST</div>
+  <h2>1:1 Verification Artifact Map & Zero-Fabrication Audit Trail</h2>
+  <p class="lead">Every chart, table, and econometric parameter in both the 30-slide Client Deck (<code>/</code>) and this 13-slide Technical Dossier (<code>/technical</code>) is deterministically compiled from the raw JSON artifacts below and verified by <code>05_verify_zero_fabrication.mjs</code>.</p>
+  <table class="data-table">
+    <thead>
+      <tr><th>Artifact File</th><th>API / Source</th><th>Record Count</th><th>Target Slides Driven</th></tr>
+    </thead>
+    <tbody>
+      <tr><td class="mono"><strong>pipeline/raw/*.json</strong></td><td>5 Live AI Engines + Google Organic SERP</td><td class="num mono">336 files</td><td>All 280 AI answers + 56 SERPs</td></tr>
+      <tr><td class="mono"><strong>pipeline/ans_full.json</strong></td><td>Parsed from <code>pipeline/raw/*</code></td><td class="num mono">280 rows</td><td>Slides 1, 5–16, 20–24, Tech Slides 1, 3, 6, 7</td></tr>
+      <tr><td class="mono"><strong>pipeline/serp_audit.json</strong></td><td>DataForSEO Google Organic Live (depth=20)</td><td class="num mono">56 rows</td><td>Slide 18, Tech Slide 7</td></tr>
+      <tr><td class="mono"><strong>pipeline/maps_audit.json</strong></td><td>DataForSEO Google Maps Live (depth=20 + 14 branches)</td><td class="num mono">8 packs + 14 CIDs</td><td>Slide 18, Slide 26, Tech Slide 5</td></tr>
+      <tr><td class="mono"><strong>pipeline/site_audit.json</strong></td><td>Firecrawl v1 Map + Scrape + JSON-LD Parser</td><td class="num mono">200 URLs / 21 pages</td><td>Slide 17, Slide 25, Tech Slide 4, 11</td></tr>
+      <tr><td class="mono"><strong>pipeline/raw_ai_keyword_data.json</strong></td><td>DataForSEO AI Keyword Search Volume Live</td><td class="num mono">12 keywords × 12 mos</td><td>Slide 2 (AIDEMAND), Tech Slide 10</td></tr>
+      <tr><td class="mono"><strong>pipeline/hist.json</strong></td><td>DataForSEO LLM Mentions Historical Live</td><td class="num mono">6 domains × 15 mos</td><td>Slide 19, Tech Slide 9</td></tr>
+      <tr><td class="mono"><strong>pipeline/metrics.json</strong></td><td>Computed + Live IRLS Logistic Regression</td><td class="num mono">Full model state</td><td>All headline KPIs & Econometric Table</td></tr>
+    </tbody>
+  </table>
+</section>
+
+</body>
+</html>

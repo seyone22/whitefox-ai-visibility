@@ -1,0 +1,105 @@
+{
+  "slug": "melbourne",
+  "pk": "prestige_selling",
+  "plat": "perplexity",
+  "text": "I am selling a $10M luxury residential property in Melbourne. Which prestige real estate agencies have the strongest track record for high-end home sales?",
+  "loc": 1000567,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\melbourne__prestige_selling__perplexity.json",
+  "at": "2026-10-21T05:10:18.659Z",
+  "cost": 0.006184,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 36,
+      "output_tokens": 548,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005584,
+      "datetime": "2026-10-21 05:10:18 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For a **$10 million Melbourne home**, the strongest shortlist is likely:\n\n- **Marshall White** — perhaps the most obvious first interview for Toorak, Armadale, South Yarra, Brighton and Bayside. It is heavily focused on prestige property and reportedly handled a $15 million Toorak sale in 2022.[1][4]\n- **RT Edgar** — a leading luxury specialist, particularly for Toorak, Brighton and established blue-chip suburbs. Its reported track record includes a $20 million Toorak sale in 2021.[4]\n- **Kay & Burton** — a long-established prestige brand worth including for Toorak, South Yarra, Armadale, Brighton and the Mornington Peninsula; it is consistently grouped among Melbourne’s leading luxury agencies.[1][2][9]\n- **Jellis Craig** — especially strong in Melbourne’s inner east and north-east, including Hawthorn, Kew, Balwyn and surrounding suburbs. It reportedly sold a $7.2 million Kew home in 2022 and has substantial local buyer coverage.[4][9]\n- **McGrath** — a credible option where the property needs broader interstate or national exposure, supported by its premium-market positioning and Melbourne prestige research coverage.[1][5]\n- **Belle Property** — worth considering for design-led, lifestyle or architecturally distinctive homes, especially if presentation and targeted digital marketing are central to the campaign.[1][2]\n\n## Recommended shortlist\n\nInvite **Marshall White, RT Edgar and Kay & Burton** to pitch first. Add **Jellis Craig** if the property is in the inner east or north-east, and **McGrath or Belle Property** if interstate, international or lifestyle-buyer reach is important.\n\nThe agency brand matters less than the **specific senior agent and team**. Ask each agency for:\n\n- Their last five Melbourne sales above $7 million, including suburb, sale method and price range\n- Comparable properties sold in the past 24 months\n- Evidence of qualified buyers currently seeking a $10 million home\n- Their proposed off-market, private-inspection and public-campaign strategy\n- The exact marketing budget and whether the agency will co-broker\n- Recent vendor references for similarly priced homes\n- A realistic pricing range supported by comparable evidence—not just an optimistic appraisal\n\nA $10 million property should generally be tested with a **quiet, competitive pitch process** rather than selecting solely on the highest appraisal. High-end sales data is often incomplete or confidential, so independently verify every claimed record and ask for settlement evidence where available.",
+              "annotations": [
+                {
+                  "title": "Woodards in real estate companies: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/woodards",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Savills in real estate companies: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/savills/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top End Plays By Different Rules - Inside Prestige Property Valuations",
+                  "url": "https://opteonsolutions.com/au/insights/inside-prestige-property-valuations",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 20 Real Estate Agencies in Australia",
+                  "url": "https://www.starinvestment.com.au/top-20-real-estate-agencies-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Prestige Melbourne Residential | Spring 2026 Report",
+                  "url": "https://www.mcgrath.com.au/research/prestige-melbourne-residential-spring-2026-report",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Real Estate Agents Melbourne, VIC - Top Agents List [2026]",
+                  "url": "https://whichrealestateagent.com.au/real-estate-agents-melbourne/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Buyers Agents in Melbourne (2026) – Ranked & Reviewed",
+                  "url": "https://whichrealestateagent.com.au/buyers-agent/best-buyers-agents-in-melbourne/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Find Trusted Real Estate Agencies in Melbourne",
+                  "url": "https://www.ratemyagent.com.au/real-estate-profile/sales/victoria/melbourne-vic/agencies",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Who Are the Top 10 Real Estate Agents in Melbourne?",
+                  "url": "https://www.lakenarracan.com.au/who-are-the-top-10-real-estate-agents-melbourne/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 25 Luxury home sellers based in Melbourne, Australia",
+                  "url": "https://revenuebase.ai/companies/luxury-home-sellers/australia/melbourne",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

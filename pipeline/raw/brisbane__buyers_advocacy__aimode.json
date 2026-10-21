@@ -1,0 +1,247 @@
+{
+  "slug": "brisbane",
+  "pk": "buyers_advocacy",
+  "plat": "aimode",
+  "text": "Which luxury real estate agencies or buyers advocates in Brisbane offer the best buyers advocacy and acquisition advisory for prestige homes?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\brisbane__buyers_advocacy__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:15:41.248Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which luxury real estate agencies or buyers advocates in Brisbane offer the best buyers advocacy and acquisition advisory for prestige homes?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000339,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20luxury%20real%20estate%20agencies%20or%20buyers%20advocates%20in%20Brisbane%20offer%20the%20best%20buyers%20advocacy%20and%20acquisition%20advisory%20for%20prestige%20homes%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCbsg9lwEWpFrEcCE3vNaowIF",
+      "datetime": "2026-10-21 05:15:40 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "Top independent buyers agencies and advocacy firms in Brisbane specializing in high-end acquisitions, prestige real estate, and confidential off-market transactions include [Property Pursuit](https://propertypursuit.com.au/), [Universal Buyers Agents](https://universalbuyersagents.com.au/) , and Hot Property Buyers Agency . These elite groups handle complex private negotiations, silent listings, and high-value family estates.[[1]](https://universalbuyersagents.com.au/)[[2]](https://www.top10realestateagent.com.au/the-best-buyers-agents-in-brisbane.html)[[3]](https://propertypursuit.com.au/how-we-can-help/buying/)\n\n### Top Prestige Buyers Agencies in Brisbane\n\n- **Property Pursuit** — Led by experienced directors including Nathan Wunsch and Meighan Hetherington, this firm is renowned for handling high-end luxury home acquisitions, executive relocations, and returning expats. They specialize in strict independent due diligence, rigorous pricing analysis, and accessing silent or unadvertised luxury opportunities with complete client anonymity.[[1]](https://propertypursuit.com.au/)[[2]](https://propertypursuit.com.au/team/nathan-wunsch/)[[3]](https://best10realestateagents.com.au/brisbane/best-buyers-agents-brisbane/)[[4]](https://propertypursuit.com.au/how-we-can-help/buying/)\n- **Universal Buyers Agents** — Directed by Darren Piper, this agency manages major high-value turn-key transactions across Greater Brisbane. They feature a strong track record in securing off-market prestige properties, offering comprehensive negotiation, and executing data-driven asset acquisition for elite owner-occupiers.[[1]](https://www.top10realestateagent.com.au/the-best-buyers-agents-in-brisbane.html)[[2]](https://best10realestateagents.com.au/brisbane/best-buyers-agents-brisbane/)[[3]](https://universalbuyersagents.com.au/)\n- **Hot Property Buyers Agency** — Founded by Zoran Solano, Hot Property is well-established in Brisbane's inner-city and blue-chip prestige belts. Their team provides tailored auction bidding, deep localized market intelligence, and strategic property sourcing for established residential upgraders.[[1]](https://www.top10realestateagent.com.au/the-best-buyers-agents-in-brisbane.html)\n\n### Core Advisory Services Provided\n\n- **Off-Market Sourcing:** Gaining direct access to private portfolios, silent listings, and unadvertised luxury riverfront or inner-ring hillside estates.\n- **Discreet Representation:** Maintaining strict client anonymity during high-profile transactions involving prominent vendors or high-net-worth buyers.\n- **Valuation & Due Diligence:** Executing comprehensive structural, zoning, and historical price analysis to prevent overcapitalization in competitive luxury pockets.\n- **Master Negotiation:** Managing high-stakes private treaty negotiations or competitive auction environments to secure terms favorable to the buyer.[[1]](https://propertypursuit.com.au/how-we-can-help/buying/)[[2]](https://universalbuyersagents.com.au/blog-post/brisbane-luxury-property-market/)[[3]](https://propertypursuit.com.au/)[[4]](https://www.top10realestateagent.com.au/the-best-buyers-agents-in-brisbane.html)\n\nIf you can share your **target budget range** and **preferred prestige suburbs** (e.g., New Farm, Ascot, Hamilton, or St Lucia), I can help you narrow down which agency has the **strongest localized network** for your specific brief.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Top independent buyers agencies and advocacy firms in Brisbane specializing in high-end acquisitions, prestige real estate, and confidential off-market transactions include Property Pursuit, Universal Buyers Agents, and Hot Property Buyers Agency. These elite groups handle complex private negotiations, silent listings, and high-value family estates.",
+              "markdown": "Top independent buyers agencies and advocacy firms in Brisbane specializing in high-end acquisitions, prestige real estate, and confidential off-market transactions include [Property Pursuit](https://propertypursuit.com.au/), [Universal Buyers Agents](https://universalbuyersagents.com.au/) , and Hot Property Buyers Agency . These elite groups handle complex private negotiations, silent listings, and high-value family estates.[[1]](https://universalbuyersagents.com.au/)[[2]](https://www.top10realestateagent.com.au/the-best-buyers-agents-in-brisbane.html)[[3]](https://propertypursuit.com.au/how-we-can-help/buying/)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Property Pursuit",
+                  "description": null,
+                  "url": "https://propertypursuit.com.au/",
+                  "domain": "propertypursuit.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Universal Buyers Agents",
+                  "description": null,
+                  "url": "https://universalbuyersagents.com.au/",
+                  "domain": "universalbuyersagents.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "universalbuyersagents.com.au",
+                  "domain": "universalbuyersagents.com.au",
+                  "url": "https://universalbuyersagents.com.au/",
+                  "title": "Buyers Agents Brisbane #1 Buyer's Agent in Brisbane - Call 1300 117 561!",
+                  "text": "Universal Buyers Agents operates in Brisbane, working exclusively for buyers to self-occupy or invest. Services: Full Premium Serv..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Top 10 Real Estate Agents",
+                  "domain": "www.top10realestateagent.com.au",
+                  "url": "https://www.top10realestateagent.com.au/the-best-buyers-agents-in-brisbane.html",
+                  "title": "The Best Buyers Agents in Brisbane - Real Estate Agents",
+                  "text": "Top Brisbane buyers agents and agencies include Darren Piper (Universal Buyers Agents), Craig Greer-Smith (Networth Property Buyer..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Property Pursuit",
+                  "domain": "propertypursuit.com.au",
+                  "url": "https://propertypursuit.com.au/how-we-can-help/buying/",
+                  "title": "Brisbane Home Buyer Agents - Property Pursuit",
+                  "text": "Brisbane buyer's agent and advocate representing property buyers to source, research, negotiate, and secure real estate while acce..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Top Prestige Buyers Agencies in Brisbane",
+              "text": "Property Pursuit — Led by experienced directors including Nathan Wunsch and Meighan Hetherington, this firm is renowned for handling high-end luxury home acquisitions, executive relocations, and returning expats. They specialize in strict independent due diligence, rigorous pricing analysis, and accessing silent or unadvertised luxury opportunities with complete client anonymity. Universal Buyers Agents — Directed by Darren Piper, this agency manages major high-value turn-key transactions across Greater Brisbane. They feature a strong track record in securing off-market prestige properties, offering comprehensive negotiation, and executing data-driven asset acquisition for elite owner-occupiers. Hot Property Buyers Agency — Founded by Zoran Solano, Hot Property is well-established in Brisbane's inner-city and blue-chip prestige belts. Their team provides tailored auction bidding, deep localized market intelligence, and strategic property sourcing for established residential upgraders.",
+              "markdown": "- **Property Pursuit** — Led by experienced directors including Nathan Wunsch and Meighan Hetherington, this firm is renowned for handling high-end luxury home acquisitions, executive relocations, and returning expats. They specialize in strict independent due diligence, rigorous pricing analysis, and accessing silent or unadvertised luxury opportunities with complete client anonymity.[[1]](https://propertypursuit.com.au/)[[2]](https://propertypursuit.com.au/team/nathan-wunsch/)[[3]](https://best10realestateagents.com.au/brisbane/best-buyers-agents-brisbane/)[[4]](https://propertypursuit.com.au/how-we-can-help/buying/)\n- **Universal Buyers Agents** — Directed by Darren Piper, this agency manages major high-value turn-key transactions across Greater Brisbane. They feature a strong track record in securing off-market prestige properties, offering comprehensive negotiation, and executing data-driven asset acquisition for elite owner-occupiers.[[1]](https://www.top10realestateagent.com.au/the-best-buyers-agents-in-brisbane.html)[[2]](https://best10realestateagents.com.au/brisbane/best-buyers-agents-brisbane/)[[3]](https://universalbuyersagents.com.au/)\n- **Hot Property Buyers Agency** — Founded by Zoran Solano, Hot Property is well-established in Brisbane's inner-city and blue-chip prestige belts. Their team provides tailored auction bidding, deep localized market intelligence, and strategic property sourcing for established residential upgraders.[[1]](https://www.top10realestateagent.com.au/the-best-buyers-agents-in-brisbane.html)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Property Pursuit",
+                  "domain": "propertypursuit.com.au",
+                  "url": "https://propertypursuit.com.au/",
+                  "title": "Property Pursuit",
+                  "text": "Property Pursuit Advisors clarifies your brief, searches on and off market, assesses each property with independent due diligence ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Property Pursuit",
+                  "domain": "propertypursuit.com.au",
+                  "url": "https://propertypursuit.com.au/team/nathan-wunsch/",
+                  "title": "Nathan Wunsch | Brisbane Buyers Agent | Nathan Wunsch",
+                  "text": "Nathan Wunsch, Director and Lead Buyer's Agent at Property Pursuit, Brisbane. Expertise: 12+ years as an exclusive buyer's agent, ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "best10realestateagents.com.au",
+                  "domain": "best10realestateagents.com.au",
+                  "url": "https://best10realestateagents.com.au/brisbane/best-buyers-agents-brisbane/",
+                  "title": "The Best Buyers Agents in Brisbane, Queensland Today",
+                  "text": "Meighan Hetherington (Property Pursuit, Paddington); These independent agents act exclusively for buyers to source, inspect, negot..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Property Pursuit",
+                  "domain": "propertypursuit.com.au",
+                  "url": "https://propertypursuit.com.au/how-we-can-help/buying/",
+                  "title": "Brisbane Home Buyer Agents - Property Pursuit",
+                  "text": "Brisbane buyer's agent and advocate representing property buyers to source, research, negotiate, and secure real estate while accessing unadvertised and silent lis..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Top 10 Real Estate Agents",
+                  "domain": "www.top10realestateagent.com.au",
+                  "url": "https://www.top10realestateagent.com.au/the-best-buyers-agents-in-brisbane.html",
+                  "title": "The Best Buyers Agents in Brisbane - Real Estate Agents",
+                  "text": "Top Brisbane buyers agents and agencies include Darren Piper (Universal Buyers Agents), Craig Greer-Smith (Networth Property Buyer..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "universalbuyersagents.com.au",
+                  "domain": "universalbuyersagents.com.au",
+                  "url": "https://universalbuyersagents.com.au/",
+                  "title": "Buyers Agents Brisbane #1 Buyer's Agent in Brisbane - Call 1300 117 561!",
+                  "text": "Full Premium Service (turn-key search, inspection, due diligence, negotiation, settlement); $922M+ total value, 24-day average turnaround, and 56% off-market purch..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Core Advisory Services Provided",
+              "text": "Off-Market Sourcing: Gaining direct access to private portfolios, silent listings, and unadvertised luxury riverfront or inner-ring hillside estates. Discreet Representation: Maintaining strict client anonymity during high-profile transactions involving prominent vendors or high-net-worth buyers. Valuation & Due Diligence: Executing comprehensive structural, zoning, and historical price analysis to prevent overcapitalization in competitive luxury pockets. Master Negotiation: Managing high-stakes private treaty negotiations or competitive auction environments to secure terms favorable to the buyer.",
+              "markdown": "- **Off-Market Sourcing:** Gaining direct access to private portfolios, silent listings, and unadvertised luxury riverfront or inner-ring hillside estates.\n- **Discreet Representation:** Maintaining strict client anonymity during high-profile transactions involving prominent vendors or high-net-worth buyers.\n- **Valuation & Due Diligence:** Executing comprehensive structural, zoning, and historical price analysis to prevent overcapitalization in competitive luxury pockets.\n- **Master Negotiation:** Managing high-stakes private treaty negotiations or competitive auction environments to secure terms favorable to the buyer.[[1]](https://propertypursuit.com.au/how-we-can-help/buying/)[[2]](https://universalbuyersagents.com.au/blog-post/brisbane-luxury-property-market/)[[3]](https://propertypursuit.com.au/)[[4]](https://www.top10realestateagent.com.au/the-best-buyers-agents-in-brisbane.html)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Property Pursuit",
+                  "domain": "propertypursuit.com.au",
+                  "url": "https://propertypursuit.com.au/how-we-can-help/buying/",
+                  "title": "Brisbane Home Buyer Agents - Property Pursuit",
+                  "text": "Brisbane buyer's agent and advocate representing property buyers to source, research, negotiate, and secure real estate while accessing unadvertised and silent lis..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "universalbuyersagents.com.au",
+                  "domain": "universalbuyersagents.com.au",
+                  "url": "https://universalbuyersagents.com.au/blog-post/brisbane-luxury-property-market/",
+                  "title": "Brisbane's Luxury Property Market: The Role of Buyer's ...",
+                  "text": "Brisbane's luxury property market features a diverse portfolio of high-end properties, from sleek penthouses overlooking the Brisb..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Property Pursuit",
+                  "domain": "propertypursuit.com.au",
+                  "url": "https://propertypursuit.com.au/",
+                  "title": "Property Pursuit",
+                  "text": "Property Pursuit Advisors clarifies your brief, searches on and off market, assesses each property with independent due diligence and pricing analysis, and negotia..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Top 10 Real Estate Agents",
+                  "domain": "www.top10realestateagent.com.au",
+                  "url": "https://www.top10realestateagent.com.au/the-best-buyers-agents-in-brisbane.html",
+                  "title": "The Best Buyers Agents in Brisbane - Real Estate Agents",
+                  "text": "Top Brisbane buyers agents and agencies include Darren Piper (Universal Buyers Agents), Craig Greer-Smith (Networth Property Buyer..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you can share your target budget range and preferred prestige suburbs (e.g., New Farm, Ascot, Hamilton, or St Lucia), I can help you narrow down which agency has the strongest localized network for your specific brief.",
+              "markdown": "If you can share your **target budget range** and **preferred prestige suburbs** (e.g., New Farm, Ascot, Hamilton, or St Lucia), I can help you narrow down which agency has the **strongest localized network** for your specific brief.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "universalbuyersagents.com.au",
+              "domain": "universalbuyersagents.com.au",
+              "url": "https://universalbuyersagents.com.au/",
+              "title": "Buyers Agents Brisbane #1 Buyer's Agent in Brisbane - Call 1300 117 561!",
+              "text": "Full Premium Service (turn-key search, inspection, due diligence, negotiation, settlement); $922M+ total value, 24-day average turnaround, and 56% off-market purch..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Property Pursuit",
+              "domain": "propertypursuit.com.au",
+              "url": "https://propertypursuit.com.au/",
+              "title": "Property Pursuit",
+              "text": "Property Pursuit Advisors clarifies your brief, searches on and off market, assesses each property with independent due diligence and pricing analysis, and negotia..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Property Pursuit",
+              "domain": "propertypursuit.com.au",
+              "url": "https://propertypursuit.com.au/how-we-can-help/buying/",
+              "title": "Brisbane Home Buyer Agents - Property Pursuit",
+              "text": "Brisbane buyer's agent and advocate representing property buyers to source, research, negotiate, and secure real estate while accessing unadvertised and silent lis..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

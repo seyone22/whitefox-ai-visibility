@@ -1,0 +1,163 @@
+{
+  "slug": "sydney",
+  "pk": "boutique_luxury",
+  "plat": "aimode",
+  "text": "Which boutique luxury real estate agencies in Sydney are best known for modern social media marketing, high-impact video campaigns, and architectural homes?",
+  "loc": 1000286,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\sydney__boutique_luxury__aimode.json",
+  "at": "2026-10-21T05:11:34.766Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which boutique luxury real estate agencies in Sydney are best known for modern social media marketing, high-impact video campaigns, and architectural homes?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000286,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20boutique%20luxury%20real%20estate%20agencies%20in%20Sydney%20are%20best%20known%20for%20modern%20social%20media%20marketing%2C%20high-impact%20video%20campaigns%2C%20and%20architectural%20homes%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCT-Yix5ArhJrEcDMMhZofQEF",
+      "datetime": "2026-10-21 05:11:34 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "Sydney features `standout boutique and specialized agencies` that blend high-end digital storytelling, cinematic property tours, and a precise focus on design-forward or architectural real estate.\n\n### Top Specialized & Boutique Agencies\n\n\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLdoIdtMu5LtScx8yRjBK2zx5AFCdphmmJg4yIhM8ycMe2a-Hhe6OW16WVn2i33vKhNkOzfp9Sm8egsQY1JoyHYDA34gkuUB6WN-pvfdZhOQd-lDUgbrQAKWPshtgLfFmuNzM6Ak=s192-w192-h144-n-k-no)\nModern House Estate Agents 3.0 (2)  \nReal estate agency  \nOpen Paramount, 55 Brisbane St  \nCall Directions Website Australia’s premier boutique agency dedicated exclusively to modernist, mid-century, and contemporary architect-designed homes. Rather than relying on standard volume listings, they treat every property as a curated design piece, pairing expert architectural context with high-end digital presentation and deep community reach among design-literate buyers.\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLemTS2D1w6qNMryL2iBAM11NyznDorRoM37MbGFCB_Gejb_E8dYsBCuD2AukjFxZnPvjsnZqzM1u-jRqqpVRq7EAVuf6SO8k4Jx_oiGxMMTH2tlpMDvqdQD1-S3fj2lGi77MB8=s192-w192-h144-n-k-no)\nThe Boutique Property Co.4.8 (171)  \nReal estate agency  \nOpen Shop 1/251 Elizabeth St  \nCall Directions Website A shifting landscape of independent, high-end local operators across the Eastern Suburbs and Lower North Shore (frequently collaborating with boutique media creators like Nuance Creative ) who eschew large franchise models to deploy targeted social media ad targeting, hyper-aesthetic Instagram grids, and emotional cinematic video walk-throughs for trophy and architectural assets.[[1]](https://www.modernhouse.co/about-us/)[[2]](https://www.realestate.com.au/agency/modern-house-surry-hills-OHUPIK)[[3]](https://www.instagram.com/nuance_au/)\n\n### Key Characteristics of Sydney’s Design-Focussed Agencies\n\n- **Architectural Niche:** Focusing on light, volume, and materiality rather than square meterage alone.\n- **Cinematic Video:** Utilizing drone sequencing, moody twilight captures, and narrative-driven agent walk-throughs.\n- **Digital-First Reach:** Leveraging targeted social algorithms over traditional print media to capture interstate and international design buyers.\n\nIf you have a **specific suburb** (such as the Eastern Suburbs, Lower North Shore, or Inner West) or a **particular architectural style** in mind, I can help narrow down the exact boutique agents active in that pocket.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Sydney features standout boutique and specialized agencies that blend high-end digital storytelling, cinematic property tours, and a precise focus on design-forward or architectural real estate.",
+              "markdown": "Sydney features `standout boutique and specialized agencies` that blend high-end digital storytelling, cinematic property tours, and a precise focus on design-forward or architectural real estate.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Top Specialized & Boutique Agencies",
+              "text": "Modern House Estate Agents 3.0 (2) Real estate agency Open Paramount, 55 Brisbane St Call Directions Website Australia’s premier boutique agency dedicated exclusively to modernist, mid-century, and contemporary architect-designed homes. Rather than relying on standard volume listings, they treat every property as a curated design piece, pairing expert architectural context with high-end digital presentation and deep community reach among design-literate buyers.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLdoIdtMu5LtScx8yRjBK2zx5AFCdphmmJg4yIhM8ycMe2a-Hhe6OW16WVn2i33vKhNkOzfp9Sm8egsQY1JoyHYDA34gkuUB6WN-pvfdZhOQd-lDUgbrQAKWPshtgLfFmuNzM6Ak=s192-w192-h144-n-k-no)\nModern House Estate Agents 3.0 (2)  \nReal estate agency  \nOpen Paramount, 55 Brisbane St  \nCall Directions Website Australia’s premier boutique agency dedicated exclusively to modernist, mid-century, and contemporary architect-designed homes. Rather than relying on standard volume listings, they treat every property as a curated design piece, pairing expert architectural context with high-end digital presentation and deep community reach among design-literate buyers.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdoIdtMu5LtScx8yRjBK2zx5AFCdphmmJg4yIhM8ycMe2a-Hhe6OW16WVn2i33vKhNkOzfp9Sm8egsQY1JoyHYDA34gkuUB6WN-pvfdZhOQd-lDUgbrQAKWPshtgLfFmuNzM6Ak=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "The Boutique Property Co. 4.8 (171) Real estate agency Open Shop 1/251 Elizabeth St Call Directions Website A shifting landscape of independent, high-end local operators across the Eastern Suburbs and Lower North Shore (frequently collaborating with boutique media creators like Nuance Creative ) who eschew large franchise models to deploy targeted social media ad targeting, hyper-aesthetic Instagram grids, and emotional cinematic video walk-throughs for trophy and architectural assets.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLemTS2D1w6qNMryL2iBAM11NyznDorRoM37MbGFCB_Gejb_E8dYsBCuD2AukjFxZnPvjsnZqzM1u-jRqqpVRq7EAVuf6SO8k4Jx_oiGxMMTH2tlpMDvqdQD1-S3fj2lGi77MB8=s192-w192-h144-n-k-no)\nThe Boutique Property Co.4.8 (171)  \nReal estate agency  \nOpen Shop 1/251 Elizabeth St  \nCall Directions Website A shifting landscape of independent, high-end local operators across the Eastern Suburbs and Lower North Shore (frequently collaborating with boutique media creators like Nuance Creative ) who eschew large franchise models to deploy targeted social media ad targeting, hyper-aesthetic Instagram grids, and emotional cinematic video walk-throughs for trophy and architectural assets.[[1]](https://www.modernhouse.co/about-us/)[[2]](https://www.realestate.com.au/agency/modern-house-surry-hills-OHUPIK)[[3]](https://www.instagram.com/nuance_au/)",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLemTS2D1w6qNMryL2iBAM11NyznDorRoM37MbGFCB_Gejb_E8dYsBCuD2AukjFxZnPvjsnZqzM1u-jRqqpVRq7EAVuf6SO8k4Jx_oiGxMMTH2tlpMDvqdQD1-S3fj2lGi77MB8=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "www.modernhouse.co",
+                  "domain": "www.modernhouse.co",
+                  "url": "https://www.modernhouse.co/about-us/",
+                  "title": "Modern House | About Us",
+                  "text": "Modern House is a specialized agency founded … dedicated exclusively to buying and selling architect-designed residences,"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Real Estate",
+                  "domain": "www.realestate.com.au",
+                  "url": "https://www.realestate.com.au/agency/modern-house-surry-hills-OHUPIK",
+                  "title": "Modern House SURRY HILLS - Reviews & Properties",
+                  "text": "We are the only estate agency in Australia specialising in the sale of architect-designed houses and apartments Modernist, mid-cen..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Instagram",
+                  "domain": "www.instagram.com",
+                  "url": "https://www.instagram.com/nuance_au/",
+                  "title": "Nuance Creative - real estate media (@nuance_au) • Instagram photos and videos",
+                  "text": "Nuance Creative: Real estate media and visual production services providing photography, videography, property marketing, stills, ..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Key Characteristics of Sydney’s Design-Focussed Agencies",
+              "text": "Architectural Niche: Focusing on light, volume, and materiality rather than square meterage alone. Cinematic Video: Utilizing drone sequencing, moody twilight captures, and narrative-driven agent walk-throughs. Digital-First Reach: Leveraging targeted social algorithms over traditional print media to capture interstate and international design buyers.",
+              "markdown": "- **Architectural Niche:** Focusing on light, volume, and materiality rather than square meterage alone.\n- **Cinematic Video:** Utilizing drone sequencing, moody twilight captures, and narrative-driven agent walk-throughs.\n- **Digital-First Reach:** Leveraging targeted social algorithms over traditional print media to capture interstate and international design buyers.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you have a specific suburb (such as the Eastern Suburbs, Lower North Shore, or Inner West) or a particular architectural style in mind, I can help narrow down the exact boutique agents active in that pocket.",
+              "markdown": "If you have a **specific suburb** (such as the Eastern Suburbs, Lower North Shore, or Inner West) or a **particular architectural style** in mind, I can help narrow down the exact boutique agents active in that pocket.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "www.modernhouse.co",
+              "domain": "www.modernhouse.co",
+              "url": "https://www.modernhouse.co/about-us/",
+              "title": "Modern House | About Us",
+              "text": "Modern House is a specialized agency founded … dedicated exclusively to buying and selling architect-designed residences"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Real Estate",
+              "domain": "www.realestate.com.au",
+              "url": "https://www.realestate.com.au/agency/modern-house-surry-hills-OHUPIK",
+              "title": "Modern House SURRY HILLS - Reviews & Properties",
+              "text": "We are the only estate agency in Australia specialising in the sale of architect-designed houses and apartments Modernist, mid-century and contemporary homes"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Instagram",
+              "domain": "www.instagram.com",
+              "url": "https://www.instagram.com/nuance_au/",
+              "title": "Nuance Creative - real estate media (@nuance_au) • Instagram photos and videos",
+              "text": "Nuance Creative: Real estate media and visual production services providing photography, videography, property marketing, stills, and drone footage."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

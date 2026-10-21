@@ -1,0 +1,106 @@
+{
+  "slug": "adelaide",
+  "pk": "luxury_auctions",
+  "plat": "perplexity",
+  "text": "Who are the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in Adelaide?",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\adelaide__luxury_auctions__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:18:52.981Z",
+  "cost": 0.006294,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 29,
+      "output_tokens": 665,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005694,
+      "datetime": "2026-10-21 05:18:52 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For **prestige residential property in Adelaide**, the strongest shortlist is:\n\n### Leading luxury agencies\n\n- **Toop+Toop** — A leading Adelaide boutique brand with strong local market knowledge, premium presentation and reach across established eastern, inner-city and coastal suburbs.[1][2]\n- **Turner Real Estate — Turner Prestige** — A dedicated high-end division focused on luxury and beautiful homes, supported by more than three decades of Adelaide experience.[7]\n- **Williams Real Estate** — Particularly relevant for premium homes and lifestyle properties; its substantial high-net-worth database is also used by Bespoke Real Estate for premium campaigns.[4]\n- **Bespoke Real Estate** — A boutique specialist for quality homes, lifestyle properties and luxury executive residences across metropolitan Adelaide, the beachside, Hills and South Coast.[4]\n- **Belle Property** — A national premium/lifestyle brand with a recognised Adelaide presence and a focus on design-led, presentation-heavy campaigns.[1][2]\n- **Harcourts Adelaide Hills** — A strong option for prestige estates and lifestyle properties in the Adelaide Hills, with offices in Mount Barker and Stirling.[8]\n- **Ray White, Harcourts and LJ Hooker** — Large networks that offer broad buyer databases and metropolitan coverage; LJ Hooker Adelaide Metro reports a 70% auction clearance rate over the previous 12 months, versus 62% for South Australia.[9]\n\n### Auctioneers worth shortlisting\n\n- **Jonathon Moore — Moore Auctions** — An experienced Adelaide property auctioneer who has operated in the market since 1991 and is described as a choice of leading local agencies.[6]\n- **Nicholas Baranikow — Bespoke Real Estate** — Director and master auctioneer, particularly aligned with boutique and luxury-home campaigns.[4]\n- **Marina Ormsby — Williams Real Estate** — Listed among recent Adelaide auction results, including a reported $2.34 million sale at Henley Beach.[5]\n- **Jamie King — AuctionTime** — Recommended by clients as an auctioneer of choice in Adelaide; AuctionTime lists him among its residential auction specialists.[5]\n- **John Morris — Morris Auctions** — A frequently active Adelaide auctioneer appearing across the Society of Auctioneers’ current auction schedule.[10]\n- **Brett Roenfeldt — BR Auctioneer** and **Jarrod Tagni — Tagni Auctions/Harcourts Tagni** — Active auctioneers in the metropolitan Adelaide market, also listed in the Society’s current schedule.[10]\n- **Stadium Real Estate’s auction team** — Stadium reports a Tony Fountain Auction Excellence award, a top-3% national auction-agent ranking and a top-10 South Australian position for auction volume.[3]\n\nFor a high-value home, the most practical first comparison would be **Toop+Toop, Turner Prestige, Williams, Bespoke and Belle Property**, then request each agency’s recent comparable sales, proposed auctioneer, buyer-database evidence and campaign strategy. Auctioneer rankings can vary by suburb and period, so recent results for the specific property type and location should carry more weight than brand reputation alone.",
+              "annotations": [
+                {
+                  "title": "The Agency: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/the-agency/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Real estate agencies in Australia: AI ranking",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Stadium Real Estate: Home",
+                  "url": "https://stadiumrealestate.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Company Profile | Bespoke Real Estate",
+                  "url": "https://www.bespokere.au/about",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AuctionTime: Find an Auctioneer in Adelaide",
+                  "url": "https://auctiontime.net.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Jonathon Moore | LinkedIn",
+                  "url": "https://www.linkedin.com/in/jonathon-moore-63681624",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Prestige Sales",
+                  "url": "https://www.turnerrealestate.com.au/prestige-sales/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Harcourts Adelaide Hills | Real Estate For Sale",
+                  "url": "https://harcourts.net/au/office/adelaide-hills",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Property Guide",
+                  "url": "https://stpeters.ljhooker.com.au/hubfs/PropGuide_24.10_WEB_compressed.pdf",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Society of Auctioneers, Appraisers, Agents and Property Managers",
+                  "url": "https://www.auctioneers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

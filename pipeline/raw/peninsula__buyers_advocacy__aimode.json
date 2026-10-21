@@ -1,0 +1,265 @@
+{
+  "slug": "peninsula",
+  "pk": "buyers_advocacy",
+  "plat": "aimode",
+  "text": "Which luxury real estate agencies or buyers advocates in Mornington Peninsula offer the best buyers advocacy and acquisition advisory for prestige homes?",
+  "loc": 9056918,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\peninsula__buyers_advocacy__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:20:11.450Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which luxury real estate agencies or buyers advocates in Mornington Peninsula offer the best buyers advocacy and acquisition advisory for prestige homes?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 9056918,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20luxury%20real%20estate%20agencies%20or%20buyers%20advocates%20in%20Mornington%20Peninsula%20offer%20the%20best%20buyers%20advocacy%20and%20acquisition%20advisory%20for%20prestige%20homes%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCQOoQ4mOxdVqEZXT2c1Pc_Yg",
+      "datetime": "2026-10-21 05:20:10 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "Leading **buyers advocates** and **acquisition advisory** specialists on the **Mornington Peninsula** focus exclusively on the purchaser's side for prestige, family, and coastal luxury real estate.[[1]](https://www.woledgehatt.com.au/buyers-advocate-melbourne/)[[2]](https://davidsonpropertyadvocates.com.au/buyers-advocate-mornington-peninsula)[[3]](https://buyerx.com.au/team/mornington-peninsula-buyers-advocate/)\n\n### Top Buyers Advocates for Prestige Homes on the Mornington Peninsula\n\n- **[BuyerX (Michael Sier & Jarrod Quint)](https://buyerx.com.au/team/mornington-peninsula-buyers-advocate/)** \n\t- **Focus & Approach:** Operates on a low-volume, high-service model specialising in luxury coastal and acreage properties across Mount Eliza, Mornington, Mount Martha, Red Hill, Flinders, Blairgowrie, Sorrento, and Portsea.\n\t- **Key Credentials:** Led by Michael Sier (over 20 years of industry experience, full Victorian Real Estate Agent licence, $500M+ in career transactions).\n\t- **Notable Prestige Track Record:** High-value acquisitions include properties in Red Hill (up to $9M), Flinders ($6.75M), Mount Eliza ($6.175M), and Portsea ($4.3M).[[1]](https://buyerx.com.au/team/mornington-peninsula-buyers-advocate/)\n- **[Davidson Property Advocates](https://davidsonpropertyadvocates.com.au/buyers-advocate-mornington-peninsula)** \n\t- **Focus & Approach:** Full-service search, negotiation, auction attendance, and off-market acquisition covering the Mornington Peninsula (including Blairgowrie, Sorrento, Rye, Portsea, Flinders, and Hastings) as well as Melbourne's Bayside and Inner East.\n\t- **Key Credentials:** Founded by Tonya Davidson , decorated with multi-year industry honors including *REIA Australian Buyers Agent of the Year (2025)* and *3-time REIV Buyers Agent of the Year (2022–2024)*.[[1]](https://davidsonpropertyadvocates.com.au/buyers-advocate-mornington-peninsula)\n- **[Woledge Hatt Buyers Advocates](https://www.woledgehatt.com.au/buyers-advocate-melbourne/)** \n\t- **Focus & Approach:** Independent, exclusive buyer-side representation handling complete property searches, architectural/renovation assessments, off-market access, and auction/private-treaty negotiations.\n\t- **Key Credentials:** Licensed estate agents providing dedicated representation across Melbourne's prime pockets and the Mornington Peninsula luxury market.[[1]](https://www.woledgehatt.com.au/buyers-advocate-melbourne/)\n- **[LP Advisory](https://lpadvisory.com.au/luxury-homes/)** \n\t- **Focus & Approach:** Dedicated luxury buyer's agency servicing prestige buyers, interstate purchasers, and international clients seeking high-end residences, private inspections, and provenance checks.[[1]](https://lpadvisory.com.au/luxury-homes/)\n\n### Comparison of Mornington Peninsula Buyer Advisory Specialists\n\n| Agency / Advocate | Primary Peninsula Suburbs | Key Specialization | Notable Industry Accolades |\n|---|---|---|---|\n| **BuyerX** | Mount Eliza, Mount Martha, Red Hill, Flinders, Sorrento, Portsea | Acreage, coastal estates, and high-value off-market sourcing | Over $500M in lifetime transactions |\n| **Davidson Property Advocates** | Sorrento, Blairgowrie, Portsea, Flinders, Hastings | Full search, auction tactics, and complete purchase management | REIA Australian Buyers Agent of the Year (2025) |\n| **Woledge Hatt** | Peninsula-wide alongside Bayside Melbourne | Architectural appraisal, value determination, and strict buyer exclusivity | Licensed Victorian property advisory |\n| **LP Advisory** | Prestige and luxury coastal enclaves | Remote/interstate/international buyer representation and due diligence | Dedicated luxury portfolio focus |\n\nIf you'd like to narrow this down, tell me:\n\n- Your **target suburbs** (e.g., Portsea, Red Hill, Mount Eliza)\n- Your **approximate budget** or price bracket\n- Whether you are looking for an **off-market estate**, **beachfront home** , or **rural acreage** \n\nI can help you pinpoint the best fit or prepare key questions for your initial consultation.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Leading buyers advocates and acquisition advisory specialists on the Mornington Peninsula focus exclusively on the purchaser's side for prestige, family, and coastal luxury real estate.",
+              "markdown": "Leading **buyers advocates** and **acquisition advisory** specialists on the **Mornington Peninsula** focus exclusively on the purchaser's side for prestige, family, and coastal luxury real estate.[[1]](https://www.woledgehatt.com.au/buyers-advocate-melbourne/)[[2]](https://davidsonpropertyadvocates.com.au/buyers-advocate-mornington-peninsula)[[3]](https://buyerx.com.au/team/mornington-peninsula-buyers-advocate/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "WoledgeHatt",
+                  "domain": "www.woledgehatt.com.au",
+                  "url": "https://www.woledgehatt.com.au/buyers-advocate-melbourne/",
+                  "title": "Buyers Advocate Melbourne | Trusted Buyer’s Agent Services",
+                  "text": "Detailed brief, property search, off-market access, property assessment, architectural/renovation advice, negotiation strategy, au..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Davidson Property Advocates",
+                  "domain": "davidsonpropertyadvocates.com.au",
+                  "url": "https://davidsonpropertyadvocates.com.au/buyers-advocate-mornington-peninsula",
+                  "title": "Buyers Advocate Mornington Peninsula | Award-Winning Buyers Agent",
+                  "text": "Services: Full Search Home and Investment Purchase, Negotiation, Auction Attendance, Property Check, Sales Advisory. Service Areas..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "BuyerX",
+                  "domain": "buyerx.com.au",
+                  "url": "https://buyerx.com.au/team/mornington-peninsula-buyers-advocate/",
+                  "title": "Mornington Peninsula Buyers Advocate - Michael Sier, BuyerX",
+                  "text": "Michael Sier & Jarrod Quint. Mornington Peninsula Focus: Family homes/holiday houses … full Victorian Real Estate Agent over $500M..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Top Buyers Advocates for Prestige Homes on the Mornington Peninsula",
+              "text": "BuyerX (Michael Sier & Jarrod Quint) Focus & Approach: Operates on a low-volume, high-service model specialising in luxury coastal and acreage properties across Mount Eliza, Mornington, Mount Martha, Red Hill, Flinders, Blairgowrie, Sorrento, and Portsea. Key Credentials: Led by Michael Sier (over 20 years of industry experience, full Victorian Real Estate Agent licence, $500M+ in career transactions). Led by Michael Sier (over 20 years of industry experience, full Victorian Real Estate Agent licence, $500M+ in career transactions) Notable Prestige Track Record: High-value acquisitions include properties in Red Hill (up to $9M), Flinders ($6.75M), Mount Eliza ($6.175M), and Portsea ($4.3M). Davidson Property Advocates Focus & Approach: Full-service search, negotiation, auction attendance, and off-market acquisition covering the Mornington Peninsula (including Blairgowrie, Sorrento, Rye, Portsea, Flinders, and Hastings) as well as Melbourne's Bayside and Inner East. Key Credentials: Founded by Tonya Davidson, decorated with multi-year industry honors including REIA Australian Buyers Agent of the Year (2025) and 3-time REIV Buyers Agent of the Year (2022–2024). Founded by Tonya Davidson, decorated with multi-year industry honors including Woledge Hatt Buyers Advocates Focus & Approach: Independent, exclusive buyer-side representation handling complete property searches, architectural/renovation assessments, off-market access, and auction/private-treaty negotiations. Key Credentials: Licensed estate agents providing dedicated representation across Melbourne's prime pockets and the Mornington Peninsula luxury market. LP Advisory Focus & Approach: Dedicated luxury buyer's agency servicing prestige buyers, interstate purchasers, and international clients seeking high-end residences, private inspections, and provenance checks.",
+              "markdown": "- **[BuyerX (Michael Sier & Jarrod Quint)](https://buyerx.com.au/team/mornington-peninsula-buyers-advocate/)** \n\t- **Focus & Approach:** Operates on a low-volume, high-service model specialising in luxury coastal and acreage properties across Mount Eliza, Mornington, Mount Martha, Red Hill, Flinders, Blairgowrie, Sorrento, and Portsea.\n\t- **Key Credentials:** Led by Michael Sier (over 20 years of industry experience, full Victorian Real Estate Agent licence, $500M+ in career transactions).\n\t- **Notable Prestige Track Record:** High-value acquisitions include properties in Red Hill (up to $9M), Flinders ($6.75M), Mount Eliza ($6.175M), and Portsea ($4.3M).[[1]](https://buyerx.com.au/team/mornington-peninsula-buyers-advocate/)\n- **[Davidson Property Advocates](https://davidsonpropertyadvocates.com.au/buyers-advocate-mornington-peninsula)** \n\t- **Focus & Approach:** Full-service search, negotiation, auction attendance, and off-market acquisition covering the Mornington Peninsula (including Blairgowrie, Sorrento, Rye, Portsea, Flinders, and Hastings) as well as Melbourne's Bayside and Inner East.\n\t- **Key Credentials:** Founded by Tonya Davidson , decorated with multi-year industry honors including *REIA Australian Buyers Agent of the Year (2025)* and *3-time REIV Buyers Agent of the Year (2022–2024)*.[[1]](https://davidsonpropertyadvocates.com.au/buyers-advocate-mornington-peninsula)\n- **[Woledge Hatt Buyers Advocates](https://www.woledgehatt.com.au/buyers-advocate-melbourne/)** \n\t- **Focus & Approach:** Independent, exclusive buyer-side representation handling complete property searches, architectural/renovation assessments, off-market access, and auction/private-treaty negotiations.\n\t- **Key Credentials:** Licensed estate agents providing dedicated representation across Melbourne's prime pockets and the Mornington Peninsula luxury market.[[1]](https://www.woledgehatt.com.au/buyers-advocate-melbourne/)\n- **[LP Advisory](https://lpadvisory.com.au/luxury-homes/)** \n\t- **Focus & Approach:** Dedicated luxury buyer's agency servicing prestige buyers, interstate purchasers, and international clients seeking high-end residences, private inspections, and provenance checks.[[1]](https://lpadvisory.com.au/luxury-homes/)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "BuyerX (Michael Sier & Jarrod Quint)",
+                  "description": null,
+                  "url": "https://buyerx.com.au/team/mornington-peninsula-buyers-advocate/",
+                  "domain": "buyerx.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Davidson Property Advocates",
+                  "description": null,
+                  "url": "https://davidsonpropertyadvocates.com.au/buyers-advocate-mornington-peninsula",
+                  "domain": "davidsonpropertyadvocates.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Woledge Hatt Buyers Advocates",
+                  "description": null,
+                  "url": "https://www.woledgehatt.com.au/buyers-advocate-melbourne/",
+                  "domain": "www.woledgehatt.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "LP Advisory",
+                  "description": null,
+                  "url": "https://lpadvisory.com.au/luxury-homes/",
+                  "domain": "lpadvisory.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "BuyerX",
+                  "domain": "buyerx.com.au",
+                  "url": "https://buyerx.com.au/team/mornington-peninsula-buyers-advocate/",
+                  "title": "Mornington Peninsula Buyers Advocate - Michael Sier, BuyerX",
+                  "text": "Focus: Family homes/holiday houses in Mount Eliza, Mornington, Model: Low-volume, high-service … over $500M in real estate transactions"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Davidson Property Advocates",
+                  "domain": "davidsonpropertyadvocates.com.au",
+                  "url": "https://davidsonpropertyadvocates.com.au/buyers-advocate-mornington-peninsula",
+                  "title": "Buyers Advocate Mornington Peninsula | Award-Winning Buyers Agent",
+                  "text": "Services: Full Search Home and Investment Purchase, Negotiation, Auction Attendance, Property Check, Sales Advisory. Service Areas: Mornington Peninsula"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "WoledgeHatt",
+                  "domain": "www.woledgehatt.com.au",
+                  "url": "https://www.woledgehatt.com.au/buyers-advocate-melbourne/",
+                  "title": "Buyers Advocate Melbourne | Trusted Buyer’s Agent Services",
+                  "text": "Detailed brief, property search, off-market access, property assessment, architectural/renovation advice, negotiation strategy, auction bidding, and full purchase..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "LP Advisory",
+                  "domain": "lpadvisory.com.au",
+                  "url": "https://lpadvisory.com.au/luxury-homes/",
+                  "title": "Luxury Buyers Agent Melbourne - LP Advisory",
+                  "text": "An advocate who represents you, the buyer, exclusively in sourcing, assessing and negotiating a prestige home, rather than acting ..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Comparison of Mornington Peninsula Buyer Advisory Specialists",
+              "text": null,
+              "markdown": "### Comparison of Mornington Peninsula Buyer Advisory Specialists",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_table_element",
+              "position": "left",
+              "markdown": "| Agency / Advocate | Primary Peninsula Suburbs | Key Specialization | Notable Industry Accolades |\n|---|---|---|---|\n| **BuyerX** | Mount Eliza, Mount Martha, Red Hill, Flinders, Sorrento, Portsea | Acreage, coastal estates, and high-value off-market sourcing | Over $500M in lifetime transactions |\n| **Davidson Property Advocates** | Sorrento, Blairgowrie, Portsea, Flinders, Hastings | Full search, auction tactics, and complete purchase management | REIA Australian Buyers Agent of the Year (2025) |\n| **Woledge Hatt** | Peninsula-wide alongside Bayside Melbourne | Architectural appraisal, value determination, and strict buyer exclusivity | Licensed Victorian property advisory |\n| **LP Advisory** | Prestige and luxury coastal enclaves | Remote/interstate/international buyer representation and due diligence | Dedicated luxury portfolio focus |",
+              "table": {
+                "table_header": [
+                  "Agency / Advocate",
+                  "Primary Peninsula Suburbs",
+                  "Key Specialization",
+                  "Notable Industry Accolades"
+                ],
+                "table_content": [
+                  [
+                    "BuyerX",
+                    "Mount Eliza, Mount Martha, Red Hill, Flinders, Sorrento, Portsea",
+                    "Acreage, coastal estates, and high-value off-market sourcing",
+                    "Over $500M in lifetime transactions"
+                  ],
+                  [
+                    "Davidson Property Advocates",
+                    "Sorrento, Blairgowrie, Portsea, Flinders, Hastings",
+                    "Full search, auction tactics, and complete purchase management",
+                    "REIA Australian Buyers Agent of the Year (2025)"
+                  ],
+                  [
+                    "Woledge Hatt",
+                    "Peninsula-wide alongside Bayside Melbourne",
+                    "Architectural appraisal, value determination, and strict buyer exclusivity",
+                    "Licensed Victorian property advisory"
+                  ],
+                  [
+                    "LP Advisory",
+                    "Prestige and luxury coastal enclaves",
+                    "Remote/interstate/international buyer representation and due diligence",
+                    "Dedicated luxury portfolio focus"
+                  ]
+                ]
+              }
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you'd like to narrow this down, tell me:",
+              "markdown": "If you'd like to narrow this down, tell me:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Your target suburbs (e.g., Portsea, Red Hill, Mount Eliza) Your approximate budget or price bracket Whether you are looking for an off-market estate, beachfront home, or rural acreage",
+              "markdown": "- Your **target suburbs** (e.g., Portsea, Red Hill, Mount Eliza)\n- Your **approximate budget** or price bracket\n- Whether you are looking for an **off-market estate**, **beachfront home** , or **rural acreage**",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "I can help you pinpoint the best fit or prepare key questions for your initial consultation.",
+              "markdown": "I can help you pinpoint the best fit or prepare key questions for your initial consultation.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "WoledgeHatt",
+              "domain": "www.woledgehatt.com.au",
+              "url": "https://www.woledgehatt.com.au/buyers-advocate-melbourne/",
+              "title": "Buyers Advocate Melbourne | Trusted Buyer’s Agent Services",
+              "text": "Detailed brief, property search, off-market access, property assessment, architectural/renovation advice, negotiation strategy, auction bidding, and full purchase..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "BuyerX",
+              "domain": "buyerx.com.au",
+              "url": "https://buyerx.com.au/team/mornington-peninsula-buyers-advocate/",
+              "title": "Mornington Peninsula Buyers Advocate - Michael Sier, BuyerX",
+              "text": "Focus: Family homes/holiday houses in Mount Eliza, Mornington, Model: Low-volume, high-service … over $500M in real estate transactions"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Davidson Property Advocates",
+              "domain": "davidsonpropertyadvocates.com.au",
+              "url": "https://davidsonpropertyadvocates.com.au/buyers-advocate-mornington-peninsula",
+              "title": "Buyers Advocate Mornington Peninsula | Award-Winning Buyers Agent",
+              "text": "Services: Full Search Home and Investment Purchase, Negotiation, Auction Attendance, Property Check, Sales Advisory. Service Areas: Mornington Peninsula"
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

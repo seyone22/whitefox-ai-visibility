@@ -1,0 +1,307 @@
+{
+  "slug": "melbourne",
+  "pk": "buyers_advocacy",
+  "plat": "claude",
+  "text": "Which luxury real estate agencies or buyers advocates in Melbourne offer the best buyers advocacy and acquisition advisory for prestige homes?",
+  "loc": 1000567,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\melbourne__buyers_advocacy__claude.json",
+  "at": "2026-10-21T05:11:20.994Z",
+  "cost": 0.06628,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10380,
+      "output_tokens": 1636,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.06568,
+      "datetime": "2026-10-21 05:11:21 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a comprehensive guide to the **best luxury buyers advocates and acquisition advisory firms in Melbourne** for prestige home buyers:\n\n---\n\n## 🏡 Top Luxury Buyers Advocates & Acquisition Advisory Firms in Melbourne\n\n---\n\n### 1. **Davidson Property Advocates**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Winner of the REIA Australian Buyers Agent of the Year 2025 and REIV Buyers Agent of the Year 2022, 2023, and 2024, Davidson Property Advocates has built a reputation as one of the best buyers agents in Melbourne.",
+              "annotations": [
+                {
+                  "title": "Melbourne's #1 Buyers Advocate",
+                  "url": "https://davidsonpropertyadvocates.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "With over 60 years of combined industry experience, the team is equipped with insider knowledge, hands-on experience, and expert advice to ensure clients can purchase their dream property while making financially sound decisions.",
+              "annotations": [
+                {
+                  "title": "Melbourne's #1 Buyers Advocate",
+                  "url": "https://davidsonpropertyadvocates.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Davidson Property Advocates specialises in negotiation, auctions, and premium-corridor buying, with significant recognition including the REIA Australian Buyers Agent of the Year (2025) and REIV Buyers Agent of the Year (2022–2024).",
+              "annotations": [
+                {
+                  "title": "10 Best Buyers Agents in Melbourne Compared for 2026",
+                  "url": "https://www.buyersadvocate.com.au/best-buyers-agents-melbourne/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Best for:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Buyers targeting premium Melbourne corridors who want strong auction and negotiation confidence.",
+              "annotations": [
+                {
+                  "title": "10 Best Buyers Agents in Melbourne Compared for 2026",
+                  "url": "https://www.buyersadvocate.com.au/best-buyers-agents-melbourne/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. **Cohen Handler (VIC) – Nicole Jacobs**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Cohen Handler Managing Director (VIC), Nicole Jacobs, frames Melbourne's prestige market in global terms — Melbourne offers the liveability, infrastructure, and cultural depth of a genuinely international city, at a price that Hong Kong, Singapore, and Tokyo buyers find almost inexplicable.",
+              "annotations": [
+                {
+                  "title": "Why Melbourne's prestige property market is one of the best buying opportunities right now",
+                  "url": "https://cohenhandler.com.au/melbourne-prestige-property-buying-opportunies-nicole-jacobs/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Nicole Jacobs notes that a prestige home in Toorak or South Yarra typically represents a significant discount compared to a comparable property in Point Piper or Bellevue Hill.",
+              "annotations": [
+                {
+                  "title": "Why Melbourne's prestige property market is one of the best buying opportunities right now",
+                  "url": "https://cohenhandler.com.au/melbourne-prestige-property-buying-opportunies-nicole-jacobs/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Cohen Handler is well-regarded for strategic advisory and acquisition of prestige homes, particularly for international and high-net-worth buyers.\n\n**Best for:** International buyers, expats, and Asia-Pacific investors seeking premium Melbourne homes.\n\n---\n\n### 3. **Propertybuyer Melbourne**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Part of Australia's largest buyers-agency group, Propertybuyer's local team is best known for prestige relocations and commercial acquisitions. They lean on a network of more than 600 selling agents, which consistently delivers riverside and bayside properties before they hit mainstream advertising.",
+              "annotations": [
+                {
+                  "title": "Best Buyers Agents in Melbourne (2026)",
+                  "url": "https://whichrealestateagent.com.au/buyers-agent/best-buyers-agents-in-melbourne/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They curate an inventory of exceptional properties that are never publicly advertised and leverage a discreet network of long-standing relationships with top prestige selling agents in Melbourne and beyond to uncover exclusive properties and mansions in high-end suburbs.",
+              "annotations": [
+                {
+                  "title": "Prestige Real Estate",
+                  "url": "https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Best for:** Prestige relocations, off-market acquisitions, and buyers seeking discreet, exclusive inventory.\n\n---\n\n### 4. **BuyerX – Tim Picken**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "BuyerX's Tim Picken is a prestige buyer and vendor advocate who specialises in Stonnington and Boroondara",
+              "annotations": [
+                {
+                  "title": "Melbourne house prices 2026: Melbourne luxury-home buyers split between boom and hesitation",
+                  "url": "https://www.domain.com.au/news/melbourne-house-prices-2026-melbourne-luxury-home-buyers-split-between-boom-and-hesitation-1502516/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — two of Melbourne's most sought-after prestige corridors, encompassing suburbs like Toorak, Hawthorn, and Camberwell. BuyerX is known for tactical, data-driven acquisition strategies at the top end of the market.\n\n**Best for:** Buyers focused on the Stonnington and Boroondara prestige corridors.\n\n---\n\n### 5. **Wakelin Property Advisory**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Wakelin is renowned for period-home expertise in Melbourne's inner-metro ring. They maintain a database of restored cottages, Edwardian dwellings, and art-deco apartments, and will flag renovation pitfalls before you commit.",
+              "annotations": [
+                {
+                  "title": "Best Buyers Agents in Melbourne (2026)",
+                  "url": "https://whichrealestateagent.com.au/buyers-agent/best-buyers-agents-in-melbourne/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Best for:** Buyers seeking heritage, period, or architecturally significant prestige homes in the inner suburbs.\n\n---\n\n### 6. **Select Property Advocates – Carly Susic**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Select Property Advocates, led by Melbourne Buyers' Advocate Carly Susic, caters to buyers with an ample budget looking for premium homes in Melbourne's top suburbs.",
+              "annotations": [
+                {
+                  "title": "Buying A Luxury Home",
+                  "url": "https://selectpropertyadvocates.com.au/buying-a-luxury-home/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They provide unbiased, independent advice as clients navigate the process of buying property in Melbourne.",
+              "annotations": [
+                {
+                  "title": "Buying A Luxury Home",
+                  "url": "https://selectpropertyadvocates.com.au/buying-a-luxury-home/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Best for:** Buyers seeking independent, unbiased advisory for luxury homes across Melbourne's premium suburbs.\n\n---\n\n### 7. **LP Advisory**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "LP Advisory is a boutique South Melbourne buyers' advocacy firm offering independent, fee-for-service representation. Its team brings more than 50 years of combined Melbourne property experience, with around half of client purchases secured off-market and an average of 47 days from engagement to purchase. LP Advisory holds a 4.9-star Google rating and is a member of REIV, REBAA, and PIPA.",
+              "annotations": [
+                {
+                  "title": "Best Buyers Agents in Melbourne (2026)",
+                  "url": "https://whichrealestateagent.com.au/buyers-agent/best-buyers-agents-in-melbourne/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Best for:** Buyers seeking a boutique, fee-for-service model with strong off-market access and fast turnaround.\n\n---\n\n## 🏆 Key Things to Look for in a Prestige Buyers Advocate\n\nWhen choosing a luxury buyers advocate in Melbourne, consider the following:\n\n- **Off-market access:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "For high-end and prestige buyers, discretion, speed, and agent relationships matter most — many deals never go public.",
+              "annotations": [
+                {
+                  "title": "10 Best Buyers Agents in Melbourne Compared for 2026",
+                  "url": "https://www.buyersadvocate.com.au/best-buyers-agents-melbourne/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Award recognition:** Look for REIA or REIV-accredited advocates with a verifiable track record in prestige transactions.\n- **Specialist suburb knowledge:** Top prestige suburbs include ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Toorak, East Melbourne, and Armadale for inner-city prestige; Hawthorn, Alphington, and Kew for Yarra views; and Albert Park, Brighton, Hampton, and Williamstown for bay views.",
+              "annotations": [
+                {
+                  "title": "Buying A Luxury Home",
+                  "url": "https://selectpropertyadvocates.com.au/buying-a-luxury-home/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Fee structure:** Look for transparent, fee-for-service models rather than commission-based arrangements that may create conflicts of interest.\n\n---\n\nWould you like more detail on any of these firms, or information about specific suburbs or price brackets?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best luxury buyers advocates Melbourne prestige homes 2024 2025",
+        "top buyers advocacy acquisition advisory Melbourne prestige real estate"
+      ]
+    }
+  ]
+}

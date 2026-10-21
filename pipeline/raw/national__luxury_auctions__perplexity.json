@@ -1,0 +1,106 @@
+{
+  "slug": "national",
+  "pk": "luxury_auctions",
+  "plat": "perplexity",
+  "text": "Who are the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in Australia?",
+  "loc": 2036,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\national__luxury_auctions__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:21:16.463Z",
+  "cost": 0.006532,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 29,
+      "output_tokens": 903,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005932,
+      "datetime": "2026-10-21 05:21:16 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Australia’s leading prestige agencies are **Ray White**, **McGrath**, **Belle Property**, **Marshall White**, **Jellis Craig**, **Kay & Burton**, **RT Edgar**, **The Agency**, **Knight Frank**, and **CBRE Residential**. The best choice depends heavily on the city, property type, and whether the campaign is auction-led or private treaty.\n\n## Leading luxury agencies\n\n- **Ray White** — strongest national reach, broad buyer database, and a substantial auction platform; particularly useful when interstate or international exposure matters.[1][5]\n- **McGrath** — especially strong across Sydney, Brisbane, Melbourne and other eastern-seaboard markets, with polished marketing and an auction-oriented culture.[1][4][7]\n- **Belle Property** — a premium lifestyle brand with strong coverage of design-led homes, apartments, coastal properties and affluent inner suburbs.[1][3][4]\n- **Marshall White** — one of Melbourne’s most established prestige specialists, particularly in Toorak, Armadale, Brighton, Hawthorn and surrounding premium suburbs.[1][2]\n- **Jellis Craig** — highly regarded in Melbourne’s affluent inner-east and inner-north, combining strong local databases with premium presentation and auction capability.[2][3]\n- **Kay & Burton** — a leading Melbourne luxury boutique, particularly suited to trophy homes and high-value transactions.\n- **RT Edgar** — a long-established Melbourne prestige name, especially for exclusive homes in the inner suburbs and bayside areas.[2][3]\n- **The Agency** — a national premium network suited to vendors seeking boutique-style service combined with broader interstate reach.[1][3]\n- **Knight Frank** — appropriate for high-value and internationally marketed properties, with a global network and dedicated prestige-residential capability.[2][10]\n- **CBRE Residential** — worth considering for major luxury apartments and exceptional residential assets, particularly in Sydney.[2]\n\n## Auctioneers and auction-led teams to shortlist\n\nFor prestige auctions, the **individual auctioneer is often more important than the agency brand**. Strong shortlists should generally include:\n\n- **John McGrath and senior McGrath auction teams** — McGrath’s auction heritage is central to its identity; founder John McGrath won the Australasian Auctioneering Championships in 1999.[7]\n- **Marshall White’s senior auctioneers** — particularly suitable for Melbourne’s established prestige suburbs and competitive on-site auctions.\n- **Jellis Craig’s auction team** — strong for Melbourne premium property, where local buyer competition and detailed campaign management are critical.\n- **Ray White’s metropolitan auction specialists** — useful where national reach, large databases and auction scale are priorities.\n- **Kay & Burton and RT Edgar auction teams** — best suited to high-end Melbourne listings requiring discreet, highly tailored handling.\n- **Amir Prestige Group** — a notable Gold Coast specialist; it reported a record $28 million Mermaid Beach residential sale in 2024 and a $11.15 million Palm Beach sale.[9]\n- **Brisbane prestige specialists such as Saeed Moghaddam and James Rose** — local auction and prestige expertise can be particularly valuable for Brisbane acreage and luxury homes.[8]\n\n## Best fit by market\n\n| Market | Agencies to prioritise |\n|---|---|\n| Melbourne luxury homes | Marshall White, Kay & Burton, RT Edgar, Jellis Craig |\n| Sydney prestige homes and apartments | McGrath, Ray White, The Agency, Knight Frank, CBRE Residential |\n| Brisbane and southeast Queensland | McGrath, Ray White, The Agency, Belle Property, specialist local prestige teams |\n| Gold Coast and coastal Queensland | Amir Prestige, Ray White, McGrath, Belle Property |\n| National or interstate campaign | Ray White, Knight Frank, The Agency, McGrath |\n| Design-led, coastal or lifestyle property | Belle Property, The Agency, McGrath |\n\nBefore appointing an agent, compare **recent comparable sales**, not just the agency’s brand. Ask for the proposed auctioneer’s last 10–20 comparable results, clearance rate in the relevant suburb, average days on market, buyer database evidence, marketing costs, and examples where the final price exceeded the reserve.",
+              "annotations": [
+                {
+                  "title": "Savills in real estate companies: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/savills/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 20 Real Estate Agencies in Australia",
+                  "url": "https://www.starinvestment.com.au/top-20-real-estate-agencies-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Real estate agencies in Australia: AI ranking",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Belle Property: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/belle-property",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Elders in real estate companies: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/elders/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Agency: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/the-agency/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Australia's largest real estate agencies - A guide for agents",
+                  "url": "https://entryeducation.edu.au/blog/australias-largest-real-estate-agencies/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Brisbane Real Estate - Verified Reviews & ...",
+                  "url": "https://www.ratemyagent.com.au/real-estate-agency/brisbane-real-estate-ab690/sales/overview",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "2024: A Year In Review",
+                  "url": "https://www.amirprestige.com.au/2024-a-year-in-review/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Knight Frank appoints new Senior Sales Executive to their Prestige Residential team",
+                  "url": "https://eliteagent.com/knight-frank-appoints-new-senior-sales-executive-to-their-prestige-residential-team/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

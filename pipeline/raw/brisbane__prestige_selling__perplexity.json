@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane",
+  "pk": "prestige_selling",
+  "plat": "perplexity",
+  "text": "I am selling a $10M luxury residential property in Brisbane. Which prestige real estate agencies have the strongest track record for high-end home sales?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\brisbane__prestige_selling__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:14:51.990Z",
+  "cost": 0.006158,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 36,
+      "output_tokens": 522,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005558,
+      "datetime": "2026-10-21 05:14:51 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For a **$10 million Brisbane property**, the strongest shortlist appears to be:\n\n- **Ray White Collective Luxury / Ray White Ascot** — The clearest evidence of current ultra-prestige activity: a Ray White Collective Luxury agent sold Ascot estate *Suthermere* for **$17 million**, while Ray White Ascot’s Damon Warat reportedly negotiated an **$8.2 million** Hamilton Hill sale and another rapid Ascot mansion sale.[1][2]\n- **Place Estate Agents** — Particularly strong for riverfront, inner-city and inner-west homes. Sarah Hackett is described as holding Brisbane’s highest price-per-square-metre record and having more than 25 years’ experience with luxury and riverfront buyers.[3]\n- **Judy Goodger Prestige** — A long-established Brisbane prestige specialist with a reported **$500 million-plus** residential sales portfolio and extensive premium-property marketing experience.[4]\n- **SpinksCo Residential** — Worth considering for Brisbane’s inner-west and acreage-style luxury homes; recent reporting highlights benchmark and record results achieved by principal Rachael Spinks.[1][2]\n- **McGrath Brisbane** — A credible national prestige brand with dedicated Brisbane luxury-market reporting, though the relevant agent’s personal evidence should be tested against the agencies above.[5]\n\n## Recommended shortlist\n\nFor a $10 million campaign, invite **Ray White Collective Luxury, Place Estate Agents, Judy Goodger Prestige and SpinksCo** to present. The decision should be made on the **individual agent and team**, not just the agency brand.\n\nAsk each agency to provide:\n\n- Their last five Brisbane sales above **$5 million**, including sale price and suburb.\n- Their last comparable sale near **$10 million**.\n- Evidence of qualified local, interstate and international buyers.\n- Their proposed pricing strategy: auction, private treaty, expressions of interest or discreet off-market sale.\n- A detailed marketing plan, including database reach, editorial coverage, photography, video and international exposure.\n- The names of the agent, negotiator and campaign manager who will actually handle the property.\n- Net expected proceeds after commission, marketing and any auction costs.\n\nAt this price point, **Ray White’s recent $17 million Ascot result** is the strongest publicly visible comparable, while **Place** and **Judy Goodger Prestige** offer particularly deep luxury-market positioning. A competitive pitch between those firms and a highly local specialist such as **SpinksCo** should give the best basis for selecting the selling team.",
+              "annotations": [
+                {
+                  "title": "Markets - Luxury List |",
+                  "url": "https://luxurylist.com.au/markets",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Prestige Real Estate Experts | Brisbane and Gold Coast",
+                  "url": "https://www.northsouthprestige.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Real Estate Agents Brisbane, QLD - Top Agents List [2026]",
+                  "url": "https://whichrealestateagent.com.au/real-estate-agents-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "www.mcgrath.com.au › research › prestige-brisbane-residentialPrestige Brisbane Residential | Spring 2026 Report",
+                  "url": "https://www.mcgrath.com.au/research/prestige-brisbane-residential-spring-2026-report",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Sarah Hackett | New Farm | Place Estate Agents Brisbane",
+                  "url": "https://www.eplace.com.au/agent/sarah-hackett",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "_Judy Goodger Prestige",
+                  "url": "https://www.domain.com.au/real-estate-agencies/judygoodgerprestige-6809/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Sell for Top Dollar - Gold Coast & Brisbane Real Estate",
+                  "url": "https://nortonsrealestate.com/luxury",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Brisbane Buyers Agents Compared: Choose the Best - Amassed",
+                  "url": "https://amassed.com.au/elevate/brisbane-buyers-agents-compared/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Sold",
+                  "url": "https://www.luxurylist.com.au/regions/sold",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Prestige Brisbane Residential | Winter 2026 Report | McGrath ...",
+                  "url": "https://www.mcgrath.com.au/research/prestige-brisbane-residential-winter-2026-report",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

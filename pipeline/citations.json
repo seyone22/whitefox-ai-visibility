@@ -1,0 +1,482 @@
+{
+  "totalCitations": 4194,
+  "uniqueDomains": 741,
+  "uniqueUrls": 2371,
+  "clientDomainCitations": 21,
+  "byType": [
+    {
+      "type": "Agency / Directory",
+      "count": 2498,
+      "sharePct": 59.6
+    },
+    {
+      "type": "Competitor Agency",
+      "count": 857,
+      "sharePct": 20.4
+    },
+    {
+      "type": "Property Portal",
+      "count": 497,
+      "sharePct": 11.9
+    },
+    {
+      "type": "Social / Forum",
+      "count": 129,
+      "sharePct": 3.1
+    },
+    {
+      "type": "Editorial / Media",
+      "count": 108,
+      "sharePct": 2.6
+    },
+    {
+      "type": "Agent Review / Comparison",
+      "count": 67,
+      "sharePct": 1.6
+    },
+    {
+      "type": "Client Owned",
+      "count": 21,
+      "sharePct": 0.5
+    },
+    {
+      "type": "Industry Body",
+      "count": 17,
+      "sharePct": 0.4
+    }
+  ],
+  "topDomains": [
+    {
+      "domain": "realestate.com.au",
+      "count": 212,
+      "sharePct": 5.05,
+      "type": "Property Portal"
+    },
+    {
+      "domain": "couriermail.com.au",
+      "count": 156,
+      "sharePct": 3.72,
+      "type": "Agency / Directory"
+    },
+    {
+      "domain": "google.com",
+      "count": 148,
+      "sharePct": 3.53,
+      "type": "Agency / Directory"
+    },
+    {
+      "domain": "reiwa.com.au",
+      "count": 107,
+      "sharePct": 2.55,
+      "type": "Property Portal"
+    },
+    {
+      "domain": "raywhite.com",
+      "count": 90,
+      "sharePct": 2.15,
+      "type": "Competitor Agency"
+    },
+    {
+      "domain": "kollosche.com.au",
+      "count": 85,
+      "sharePct": 2.03,
+      "type": "Competitor Agency"
+    },
+    {
+      "domain": "marshallwhite.com.au",
+      "count": 79,
+      "sharePct": 1.88,
+      "type": "Competitor Agency"
+    },
+    {
+      "domain": "kayburton.com.au",
+      "count": 79,
+      "sharePct": 1.88,
+      "type": "Competitor Agency"
+    },
+    {
+      "domain": "domain.com.au",
+      "count": 78,
+      "sharePct": 1.86,
+      "type": "Property Portal"
+    },
+    {
+      "domain": "citehawk.com",
+      "count": 68,
+      "sharePct": 1.62,
+      "type": "Agency / Directory"
+    },
+    {
+      "domain": "prestigepropertybuyer.com.au",
+      "count": 57,
+      "sharePct": 1.36,
+      "type": "Competitor Agency"
+    },
+    {
+      "domain": "nsre.com.au",
+      "count": 48,
+      "sharePct": 1.14,
+      "type": "Agency / Directory"
+    },
+    {
+      "domain": "mcgrath.com.au",
+      "count": 46,
+      "sharePct": 1.1,
+      "type": "Competitor Agency"
+    },
+    {
+      "domain": "amirprestige.com.au",
+      "count": 46,
+      "sharePct": 1.1,
+      "type": "Competitor Agency"
+    },
+    {
+      "domain": "danckert.com.au",
+      "count": 45,
+      "sharePct": 1.07,
+      "type": "Competitor Agency"
+    },
+    {
+      "domain": "heraldsun.com.au",
+      "count": 42,
+      "sharePct": 1,
+      "type": "Editorial / Media"
+    },
+    {
+      "domain": "ratemyagent.com.au",
+      "count": 41,
+      "sharePct": 0.98,
+      "type": "Agent Review / Comparison"
+    },
+    {
+      "domain": "htw.com.au",
+      "count": 39,
+      "sharePct": 0.93,
+      "type": "Agency / Directory"
+    },
+    {
+      "domain": "facebook.com",
+      "count": 38,
+      "sharePct": 0.91,
+      "type": "Social / Forum"
+    },
+    {
+      "domain": "propertybuyer.com.au",
+      "count": 37,
+      "sharePct": 0.88,
+      "type": "Competitor Agency"
+    },
+    {
+      "domain": "instagram.com",
+      "count": 37,
+      "sharePct": 0.88,
+      "type": "Social / Forum"
+    },
+    {
+      "domain": "cohenhandler.com.au",
+      "count": 35,
+      "sharePct": 0.83,
+      "type": "Competitor Agency"
+    },
+    {
+      "domain": "sothebysrealty.com",
+      "count": 30,
+      "sharePct": 0.72,
+      "type": "Agency / Directory"
+    },
+    {
+      "domain": "adelaidenow.com.au",
+      "count": 30,
+      "sharePct": 0.72,
+      "type": "Agency / Directory"
+    },
+    {
+      "domain": "melbournesothebysrealty.com",
+      "count": 28,
+      "sharePct": 0.67,
+      "type": "Agency / Directory"
+    },
+    {
+      "domain": "revenuebase.ai",
+      "count": 28,
+      "sharePct": 0.67,
+      "type": "Agency / Directory"
+    },
+    {
+      "domain": "giordanopartners.com",
+      "count": 28,
+      "sharePct": 0.67,
+      "type": "Agency / Directory"
+    },
+    {
+      "domain": "turnerrealestate.com.au",
+      "count": 28,
+      "sharePct": 0.67,
+      "type": "Property Portal"
+    },
+    {
+      "domain": "youtube.com",
+      "count": 26,
+      "sharePct": 0.62,
+      "type": "Social / Forum"
+    },
+    {
+      "domain": "eliteagent.com",
+      "count": 26,
+      "sharePct": 0.62,
+      "type": "Editorial / Media"
+    }
+  ],
+  "topUrls": [
+    {
+      "url": "https://realestate.com.au",
+      "domain": "realestate.com.au",
+      "count": 86
+    },
+    {
+      "url": "https://domain.com.au",
+      "domain": "domain.com.au",
+      "count": 31
+    },
+    {
+      "url": "https://facebook.com",
+      "domain": "facebook.com",
+      "count": 29
+    },
+    {
+      "url": "https://www.couriermail.com.au/real-estate/queensland/gold-coast/awardwinning-mediterranean-mansion-eyes-gold-coast-sales-record/news-story/26aa50ae368608a858f71c56048293a9",
+      "domain": "couriermail.com.au",
+      "count": 29
+    },
+    {
+      "url": "https://instagram.com",
+      "domain": "instagram.com",
+      "count": 26
+    },
+    {
+      "url": "https://youtube.com",
+      "domain": "youtube.com",
+      "count": 25
+    },
+    {
+      "url": "https://www.marshallwhite.com.au/",
+      "domain": "marshallwhite.com.au",
+      "count": 24
+    },
+    {
+      "url": "https://www.kayburton.com.au/",
+      "domain": "kayburton.com.au",
+      "count": 24
+    },
+    {
+      "url": "https://www.couriermail.com.au/real-estate/queensland/gold-coast/economist-reveals-major-shift-in-gold-coast-property-market/news-story/4995cd6b00c7465cf45b7259ccc6850d",
+      "domain": "couriermail.com.au",
+      "count": 23
+    },
+    {
+      "url": "https://prestigepropertybuyer.com.au/",
+      "domain": "prestigepropertybuyer.com.au",
+      "count": 23
+    },
+    {
+      "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+      "domain": "nsre.com.au",
+      "count": 23
+    },
+    {
+      "url": "https://www.couriermail.com.au/property/gold-coast-luxury-property-market-defies-national-downturn-as-wealthy-interstate-buyers-invest/news-story/7e04ade24dcc8907cb6a9ff61953cbfb",
+      "domain": "couriermail.com.au",
+      "count": 20
+    },
+    {
+      "url": "https://www.amirprestige.com.au/",
+      "domain": "amirprestige.com.au",
+      "count": 20
+    },
+    {
+      "url": "https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/",
+      "domain": "propertybuyer.com.au",
+      "count": 18
+    },
+    {
+      "url": "https://marshallwhite.com.au",
+      "domain": "marshallwhite.com.au",
+      "count": 17
+    },
+    {
+      "url": "https://www.lucycole.com.au/",
+      "domain": "lucycole.com.au",
+      "count": 16
+    },
+    {
+      "url": "https://danckert.com.au/article/marketing-your-prestige-property",
+      "domain": "danckert.com.au",
+      "count": 16
+    },
+    {
+      "url": "https://kayburton.com.au",
+      "domain": "kayburton.com.au",
+      "count": 15
+    },
+    {
+      "url": "https://sothebysrealty.com",
+      "domain": "sothebysrealty.com",
+      "count": 15
+    },
+    {
+      "url": "https://www.citehawk.com/leaderboards/real-estate-companies/au",
+      "domain": "citehawk.com",
+      "count": 14
+    },
+    {
+      "url": "https://www.forbesglobalproperties.com/members/private-property-global",
+      "domain": "forbesglobalproperties.com",
+      "count": 14
+    },
+    {
+      "url": "https://giordanopartners.com",
+      "domain": "giordanopartners.com",
+      "count": 14
+    },
+    {
+      "url": "https://www.citehawk.com/leaderboards/real-estate-companies/the-agency/au",
+      "domain": "citehawk.com",
+      "count": 13
+    },
+    {
+      "url": "https://cohenhandler.com.au",
+      "domain": "cohenhandler.com.au",
+      "count": 13
+    },
+    {
+      "url": "https://danckert.com.au/",
+      "domain": "danckert.com.au",
+      "count": 13
+    },
+    {
+      "url": "https://ratemyagent.com.au",
+      "domain": "ratemyagent.com.au",
+      "count": 12
+    },
+    {
+      "url": "https://eliteagent.com",
+      "domain": "eliteagent.com",
+      "count": 12
+    },
+    {
+      "url": "https://www.gregory.agency/best-real-estate-agent-sydney/",
+      "domain": "gregory.agency",
+      "count": 12
+    },
+    {
+      "url": "https://www.couriermail.com.au/real-estate/dream-homes/chemist-warehouse-boss-breaks-ground-on-record-new-farm-mansion/news-story/0a3d0f4c2a703049d03afcce25495579",
+      "domain": "couriermail.com.au",
+      "count": 12
+    },
+    {
+      "url": "https://www.nsre.com.au/",
+      "domain": "nsre.com.au",
+      "count": 12
+    },
+    {
+      "url": "https://whitefoxrealestate.com.au",
+      "domain": "whitefoxrealestate.com.au",
+      "count": 12
+    },
+    {
+      "url": "https://www.kollosche.com.au/about-us/",
+      "domain": "kollosche.com.au",
+      "count": 12
+    },
+    {
+      "url": "https://www.turnerrealestate.com.au/prestige-sales/",
+      "domain": "turnerrealestate.com.au",
+      "count": 12
+    },
+    {
+      "url": "https://www.starinvestment.com.au/top-20-real-estate-agencies-australia/",
+      "domain": "starinvestment.com.au",
+      "count": 11
+    },
+    {
+      "url": "https://www.couriermail.com.au/real-estate/queensland/brisbane/519m-snapped-up-before-luxury-brisbane-apartments-even-hit-market/news-story/fc6de581f3b6055621e1da06ce02efa4",
+      "domain": "couriermail.com.au",
+      "count": 11
+    },
+    {
+      "url": "https://www.kollosche.com.au/",
+      "domain": "kollosche.com.au",
+      "count": 11
+    },
+    {
+      "url": "https://reiwa.com.au",
+      "domain": "reiwa.com.au",
+      "count": 11
+    },
+    {
+      "url": "https://williamsproperty.com.au",
+      "domain": "williamsproperty.com.au",
+      "count": 11
+    },
+    {
+      "url": "https://www.couriermail.com.au/real-estate/national/culture-kings-founder-simon-beard-takes-glitter-strip-penthouse-to-auction/news-story/5b779e8542ea24d94191ccb337e9cc6b",
+      "domain": "couriermail.com.au",
+      "count": 10
+    },
+    {
+      "url": "https://www.raywhite.com/",
+      "domain": "raywhite.com",
+      "count": 10
+    },
+    {
+      "url": "https://www.news.com.au/finance/economy/wealthy-aussie-family-bears-brunt-of-brutal-housing-downturn/news-story/6e12e2d89a7898dd39808ec0d7ea95be",
+      "domain": "news.com.au",
+      "count": 10
+    },
+    {
+      "url": "https://www.couriermail.com.au/real-estate/queensland/brisbane/historic-1884-hamilton-hill-estate-hits-the-market-after-modern-luxury-transformation/news-story/c5b2a903fbc40d805e78de2fe7684b36",
+      "domain": "couriermail.com.au",
+      "count": 10
+    },
+    {
+      "url": "https://amirprestige.com.au",
+      "domain": "amirprestige.com.au",
+      "count": 10
+    },
+    {
+      "url": "https://www.luxuryrealestatesales.com.au/",
+      "domain": "luxuryrealestatesales.com.au",
+      "count": 10
+    },
+    {
+      "url": "https://htw.com.au/wp-content/uploads/2026/04/HTW-Month-in-Review-Apr-2026_V2_Resi.pdf",
+      "domain": "htw.com.au",
+      "count": 9
+    },
+    {
+      "url": "https://www.citehawk.com/leaderboards/real-estate-companies/savills/au",
+      "domain": "citehawk.com",
+      "count": 9
+    },
+    {
+      "url": "https://ensun.io/search/luxury-real-estate/australia",
+      "domain": "ensun.io",
+      "count": 9
+    },
+    {
+      "url": "https://melbournesothebysrealty.com",
+      "domain": "melbournesothebysrealty.com",
+      "count": 9
+    },
+    {
+      "url": "https://www.pmcproperty.com.au/prestige-property-buyers/",
+      "domain": "pmcproperty.com.au",
+      "count": 9
+    },
+    {
+      "url": "https://www.sothebysrealty.com/",
+      "domain": "sothebysrealty.com",
+      "count": 9
+    }
+  ]
+}

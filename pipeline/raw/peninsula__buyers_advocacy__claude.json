@@ -1,0 +1,291 @@
+{
+  "slug": "peninsula",
+  "pk": "buyers_advocacy",
+  "plat": "claude",
+  "text": "Which luxury real estate agencies or buyers advocates in Mornington Peninsula offer the best buyers advocacy and acquisition advisory for prestige homes?",
+  "loc": 9056918,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\peninsula__buyers_advocacy__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:20:44.222Z",
+  "cost": 0.087373,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 18221,
+      "output_tokens": 1474,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.086773,
+      "datetime": "2026-10-21 05:20:44 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Based on the search results gathered, here is a comprehensive guide to the **best buyers advocates and luxury real estate agencies** on the Mornington Peninsula for prestige home acquisition:\n\n---\n\n## 🏡 Best Buyers Advocates & Prestige Property Advisory — Mornington Peninsula\n\n---\n\n### 1. **NIA Advocacy Buyers Agents**\n**Specialty:** Prestige & Lifestyle Homes, Off-Market Acquisitions\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "As a specialist buyers agent on the Mornington Peninsula, NIA Advocacy engineers the acquisition of prestige Peninsula homes, often before they hit the market.",
+              "annotations": [
+                {
+                  "title": "Buyers Agent Mornington Peninsula - Prestige & Lifestyle Homes",
+                  "url": "https://niadvocacybuyersagents.com.au/buying-locations/mornington-peninsula/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Key highlights include:\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Exclusive access to premier properties from a network of over 2,000+ off-market listings, including the \"silent sales\" common in Portsea and Sorrento.",
+              "annotations": [
+                {
+                  "title": "Buyers Agent Mornington Peninsula - Prestige & Lifestyle Homes",
+                  "url": "https://niadvocacybuyersagents.com.au/buying-locations/mornington-peninsula/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Tactical price negotiation, auction bidding strategy, contract review coordination, and settlement management — with buyers saving an average of $82,000.",
+              "annotations": [
+                {
+                  "title": "Buyers Agent Mornington Peninsula - Prestige & Lifestyle Homes",
+                  "url": "https://niadvocacybuyersagents.com.au/buying-locations/mornington-peninsula/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They acquire exceptional lifestyle properties and prestige homes with uncompromising due diligence.",
+              "annotations": [
+                {
+                  "title": "Buyers Agent Mornington Peninsula - Prestige & Lifestyle Homes",
+                  "url": "https://niadvocacybuyersagents.com.au/buying-locations/mornington-peninsula/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. **BuyerX — Michael Sier & Jarrod Quint**\n**Specialty:** Exclusive Prestige Suburbs, Off-Market Access\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "A buyers advocate on the Mornington Peninsula is critical to finding and securing the very best homes. Michael Sier's close relationships with selling agents ensures he receives access to many homes off-market.",
+              "annotations": [
+                {
+                  "title": "Mornington Peninsula Buyers Advocate - Michael Sier, BuyerX",
+                  "url": "https://buyerx.com.au/team/mornington-peninsula-buyers-advocate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The more exclusive suburbs such as Mount Eliza, Mornington, Mount Martha, Red Hill, Flinders, Blairgowrie, Sorrento & Portsea are very tightly held — making insider access critical.",
+              "annotations": [
+                {
+                  "title": "Mornington Peninsula Buyers Advocate - Michael Sier, BuyerX",
+                  "url": "https://buyerx.com.au/team/mornington-peninsula-buyers-advocate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- BuyerX operates as a dedicated buyer-only agency, meaning they work exclusively for the buyer with no conflict of interest from vendor representation.\n\n---\n\n### 3. **Industry Insider Property — Andrew Date**\n**Specialty:** Residential, Holiday Homes & Investment Advisory\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Director and founder Andrew Date played football in the region and has an established network and client base on the Mornington Peninsula. Their team of buyer's advocates has intimate knowledge of the locale and can lead buyers to properties that align with their financial and lifestyle goals, often unearthing opportunities that are not currently listed.",
+              "annotations": [
+                {
+                  "title": "Buyers Agent Mornington Peninsula",
+                  "url": "https://www.industryinsider.com.au/buyers-agent-mornington-peninsula/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their expertise ensures informed decisions, whether you're seeking a permanent residence, a holiday home, or a development site/investment.",
+              "annotations": [
+                {
+                  "title": "Buyers Agent Mornington Peninsula",
+                  "url": "https://www.industryinsider.com.au/buyers-agent-mornington-peninsula/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They cover the full Peninsula — from the golden beaches of Blairgowrie to the clifftop prestigious homes of Portsea and Sorrento to the rolling vineyards of Red Hill and the family-friendly streets of Mount Martha.",
+              "annotations": [
+                {
+                  "title": "Buyers Agent Mornington Peninsula",
+                  "url": "https://www.industryinsider.com.au/buyers-agent-mornington-peninsula/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. **Marshall White — Mornington Peninsula**\n**Specialty:** Prestige Sales & Market Advisory\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Marshall White has been active in the prestige property market which has experienced significant growth, with affluent buyers seeking luxury homes in Melbourne's most prestigious suburbs and the picturesque regions of the Mornington Peninsula.",
+              "annotations": [
+                {
+                  "title": "The Allure of Luxury",
+                  "url": "https://www.marshallwhite.com.au/article/the-allure-of-luxury",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- While primarily a selling agency, Marshall White's Mornington office is one of the most respected prestige real estate brands in the region, with deep market intelligence and access to high-end listings.\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Buyers are particularly drawn to the Mornington Peninsula's premium coastal properties, with added appeal from ongoing local infrastructure investments and lifestyle benefits.",
+              "annotations": [
+                {
+                  "title": "Prestige Property Market Set for Growth",
+                  "url": "https://www.marshallwhite.com.au/article/prestige-property-market-set-for-growth",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 🔑 Why Use a Buyers Advocate for Prestige Mornington Peninsula Properties?\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The Mornington Peninsula has evolved from a holiday spot into a full-time lifestyle destination for affluent Australians, with buyers drawn to space, privacy, and high-end design in an area that values understatement over flash.",
+              "annotations": [
+                {
+                  "title": "What Makes the Mornington Peninsula a Magnet for Luxury Homebuyers? - Geelong Times",
+                  "url": "https://timesnewsgroup.com.au/geelongtimes/living/what-makes-the-mornington-peninsula-a-magnet-for-luxury-homebuyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Strict planning controls and limited land supply support strong long-term property values and protect the region's character",
+              "annotations": [
+                {
+                  "title": "What Makes the Mornington Peninsula a Magnet for Luxury Homebuyers? - Geelong Times",
+                  "url": "https://timesnewsgroup.com.au/geelongtimes/living/what-makes-the-mornington-peninsula-a-magnet-for-luxury-homebuyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — making expert advocacy and market knowledge essential when acquiring prestige assets.\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Certain postcodes on the peninsula now rival Toorak regarding exclusivity",
+              "annotations": [
+                {
+                  "title": "What Makes the Mornington Peninsula a Magnet for Luxury Homebuyers? - Geelong Times",
+                  "url": "https://timesnewsgroup.com.au/geelongtimes/living/what-makes-the-mornington-peninsula-a-magnet-for-luxury-homebuyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", which means competition is fierce and having a skilled advocate in your corner is more important than ever.\n\n---\n\n## 📋 What to Look for in a Mornington Peninsula Buyers Advocate\n\n| Feature | Why It Matters |\n|---|---|\n| **Off-market access** | Many prestige homes are never publicly listed |\n| **Local suburb expertise** | Portsea, Sorrento, Red Hill & Flinders are tightly held |\n| **Negotiation skills** | Can save tens of thousands at auction or private sale |\n| **Independent (buyer-only)** | No conflict of interest from vendor relationships |\n| **Due diligence process** | Critical for high-value acquisitions |\n\n---\n\nWould you like a deeper comparison of any of these agencies, or advice on what questions to ask a buyers advocate before engaging them?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "luxury buyers advocates Mornington Peninsula prestige homes 2024",
+        "best buyers advocacy acquisition advisory prestige real estate Mornington Peninsula",
+        "top buyers advocates prestige property advisory Mornington Peninsula agencies"
+      ]
+    }
+  ]
+}

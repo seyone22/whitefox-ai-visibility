@@ -1,0 +1,307 @@
+{
+  "slug": "goldcoast",
+  "pk": "luxury_agency",
+  "plat": "claude",
+  "text": "Who are the best luxury real estate agencies in Gold Coast? Give me a shortlist of specific prestige property agencies with reasons.",
+  "loc": 1000665,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\goldcoast__luxury_agency__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:16:19.421Z",
+  "cost": 0.061036,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 9817,
+      "output_tokens": 1399,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.060436,
+      "datetime": "2026-10-21 05:16:19 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a shortlist of the **best luxury and prestige real estate agencies on the Gold Coast**, with reasons for each:\n\n---\n\n### 🏆 1. **Kollosche**\n**Website:** kollosche.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Kollosche is widely regarded as the Gold Coast's luxury property leader, setting the standard for service and results through an unrivalled commitment to integrity, collaboration, and community.",
+              "annotations": [
+                {
+                  "title": "Gold Coast Luxury Real Estate Agency",
+                  "url": "https://www.kollosche.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They cover residential, commercial, leasing, and new projects across the Gold Coast, from Sovereign Islands to Byron Bay. Their strong brand presence and market dominance make them the go-to agency for high-end buyers and sellers.\n\n---\n\n### 🏆 2. **Amir Prestige**\n**Website:** amirprestige.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Amir Prestige serves clients with interests in residential, commercial, leasing, and new projects across all parts of the Gold Coast and Northern NSW.",
+              "annotations": [
+                {
+                  "title": "Amir Prestige: Gold Coast Luxury Real Estate Agency",
+                  "url": "https://www.amirprestige.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Their track record speaks for itself: ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "they facilitated the sale of 41–45 Hedges Avenue, Mermaid Beach, to Clive Palmer for $28,000,000 — a milestone that stands as the largest residential sale on the Gold Coast.",
+              "annotations": [
+                {
+                  "title": "Amir Prestige: Gold Coast Luxury Real Estate Agency",
+                  "url": "https://www.amirprestige.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They also hold the Queensland apartment record, with the $24,000,000 sale of 'Glasshouse' at Burleigh Heads.",
+              "annotations": [
+                {
+                  "title": "Amir Prestige: Gold Coast Luxury Real Estate Agency",
+                  "url": "https://www.amirprestige.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 🏆 3. **Lucy Cole Prestige**\n**Website:** lucycole.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "A hand-picked team of dynamic sales achievers mentored by Lucy Cole, this boutique agency has earned the reputation as one of the Gold Coast's leading prestige real estate agencies with over 25 years' track record of outstanding performance.",
+              "annotations": [
+                {
+                  "title": "Lucy Cole Prestige",
+                  "url": "https://www.lucycole.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their reputation is built on discretion, hard work, record-breaking prestige property sales, elite industry awards, and years of dominance in the prestige property market on the Gold Coast.",
+              "annotations": [
+                {
+                  "title": "Lucy Cole Prestige",
+                  "url": "https://www.lucycole.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 🏆 4. **Luxure – The Property People**\n**Website:** luxure.net.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Luxure is a luxury property advisory specialising in high-end homes and prestige real estate on the Gold Coast, offering a considered and confidential approach for buyers and sellers seeking exceptional waterfront and lifestyle properties.",
+              "annotations": [
+                {
+                  "title": "Luxure The Property People",
+                  "url": "https://www.luxure.net.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Led by director Sonja Smith, a Gold Coast luxury real estate specialist with over 27 years of industry experience, the agency is renowned for discretion, strategic negotiation, and exceptional results across premium waterfront and lifestyle properties in the central Gold Coast.",
+              "annotations": [
+                {
+                  "title": "Luxure The Property People",
+                  "url": "https://www.luxure.net.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 🏆 5. **Private Property Global**\n**Website:** forbesglobalproperties.com/members/private-property-global\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Private Property Global was established as an international bespoke advisory service for owners and buyers of trophy homes and homes of historical significance and architectural merit, utilising Forbes Global Properties infrastructure and services.",
+              "annotations": [
+                {
+                  "title": "Private Property Global, Luxury real estate agency in Sydney, Melbourne and Gold Coast, Australia",
+                  "url": "https://www.forbesglobalproperties.com/members/private-property-global",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They are the only Australian-based residential real estate agency that specialises in the sale of property above $5,000,000 without geographical boundaries.",
+              "annotations": [
+                {
+                  "title": "Private Property Global, Luxury real estate agency in Sydney, Melbourne and Gold Coast, Australia",
+                  "url": "https://www.forbesglobalproperties.com/members/private-property-global",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Ideal for ultra-high-net-worth clients seeking a globally connected agency.\n\n---\n\n### 🏆 6. **North South Real Estate (NSRE)**\n**Website:** nsre.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "NSRE is the preferred choice for discerning buyers, investors, and developers seeking exceptional properties and strategic guidance, specialising in prestige apartments, trophy homes, and unique development opportunities in the high-end property market.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agent",
+                  "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They have achieved over $1.2 billion in luxury property and development transactions across Southeast Queensland and Northern NSW.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agent",
+                  "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 🏆 7. **JW Prestige Agents**\n**Website:** prestigeagents.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Established by leading Gold Coast real estate expert Jordan Williams, JW Prestige Agents has a distinguished history of securing high-end sales and record price points, and has become synonymous with Gold Coast prestige property.",
+              "annotations": [
+                {
+                  "title": "JW Prestige Agents",
+                  "url": "https://prestigeagents.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are based in Mermaid Beach and are a solid boutique option for sellers targeting the high-end market.\n\n---\n\n### 🏆 8. **Ivy Realty**\n**Website:** ivyrealty.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Combining intelligent strategy, first-class service, and commitment to excellence, Ivy Realty elevates the experience of buying and selling premium property on the Gold Coast, with a focus on Paradise Point, Sovereign Islands, and Hope Island.",
+              "annotations": [
+                {
+                  "title": "Luxury & Waterfront Real Estate, Gold Coast",
+                  "url": "https://ivyrealty.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They are recognised as award-winning agents",
+              "annotations": [
+                {
+                  "title": "Luxury & Waterfront Real Estate, Gold Coast",
+                  "url": "https://ivyrealty.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " in the northern Gold Coast prestige market.\n\n---\n\n### 💡 Quick Tips for Choosing:\n- **For record-breaking sales & market dominance:** Amir Prestige or Kollosche\n- **For boutique & discreet service:** Lucy Cole Prestige or Luxure\n- **For international reach & ultra-luxury ($5M+):** Private Property Global\n- **For waterfront/northern Gold Coast:** Ivy Realty",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best luxury prestige real estate agencies Gold Coast Australia"
+      ]
+    }
+  ]
+}

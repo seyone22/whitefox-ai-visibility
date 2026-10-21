@@ -1,0 +1,491 @@
+{
+  "slug": "perth",
+  "pk": "architectural_projects",
+  "plat": "claude",
+  "text": "Which prestige real estate agencies in Perth are the market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\perth__architectural_projects__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:18:46.382Z",
+  "cost": 0,
+  "result": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011CgEpKpRQAVgknThL1F4S6",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "server_tool_use",
+        "id": "srvtoolu_01YNsYFZdWbBVLnAdiNVTVww",
+        "name": "web_search",
+        "input": {
+          "query": "prestige real estate agencies Perth luxury off-the-plan developments penthouses 2025"
+        }
+      },
+      {
+        "type": "server_tool_use",
+        "id": "srvtoolu_01AZtBKznBeYjCEarBTFNKND",
+        "name": "web_search",
+        "input": {
+          "query": "Perth luxury architectural project marketing real estate agency leaders"
+        }
+      },
+      {
+        "type": "web_search_tool_result",
+        "tool_use_id": "srvtoolu_01YNsYFZdWbBVLnAdiNVTVww",
+        "content": [
+          {
+            "type": "web_search_result",
+            "title": "390 new and off the plan developments for sale in Perth, WA",
+            "url": "https://www.apartments.com.au/developments/perth-wa",
+            "encrypted_content": "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",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "3,108 Penthouses for sale luxury in Perth - Mitula Properties",
+            "url": "https://properties.mitula.com.au/penthouses-luxury-perth",
+            "encrypted_content": "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",
+            "page_age": "725 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Prestige Group",
+            "url": "https://en.wikipedia.org/wiki/Prestige_Group",
+            "encrypted_content": "EuAHCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDBuW5hwBZnnxQiRHVxoM1SsLOV8zzSP9ejqcIjCBcw3pf/tRCB7xD5AzpqDz8ynUDf1iIWrRGhQIG9RL/ztG9XvedaoJg8YHgiyeMTQq4wZyN7zKlGIGtYAPb+pDv3zmNQsybz+m3DvdFMqfnQsEU+RToayfk/CcxnTPFpytzHGgvw9eEiLozHtSqgkLkxgZOviB/ajwYmlp6Ll/pebvzGT+XdXVGVQXIRMhXuUEq2/krCCzv5TaN4gwuS35GB7qF4osY5KQW4PE9jx2RhNm29eE4ZtxbrLXQL9nqjPdv6FPzyCwy0pJGh58vDVEu2h1G0ZqhFTNplag1Rv5g3dI4/zIp5fCweZuq5V9Af48ubLsHicet2Z24x0l5dN0MuGIxhqdJw+ZqDMNlBS6Wh9dD1pBp7PWGE4swRj/sUC4nR+9A23Nrq/C5d/RS3LuwJdsjNutZVwCSxcgM+2KZhwlf0b48vDgaKGkE0/kHQlHsBpry16nxfGvBaVfqM+x7c+R1O/gSVHAqK27lQNJABnqQPQ7v1WLZE1rmKGsNce7UEpWoUldHcXOY1KSkmXBF1ouy71JGdsJ1QOg7/WLG4k3afNzpR030BMGLbjbPeYZLsxRWSU+XjVM317F2KDXsHq+KprOjRekSAUq+m/GGmTzJTuRdQ/qbHyN/ZOSc3tIPsKZQv0x+ghZT/FeQO34iQsNN+WbFx8REX4UZXyLtYSd24b7PHCZGcdsC/h6eg+ma+L0F0zsuzsdvehB4VLOyBEIowcvzEt+gBDWVgvF5JeVKiRHTiCqkvkuw960YzSQ+aXOOVG9y+5OxdGbImIC+eMZAW6PpgyUrP4Srw+8CqWdDY14mAYMk6aYAPp2McnvXFR7sBUNBGlcAUAFLsHWUGfZ6JwV7sNGied6FebubfEyjkB2Q7AcnIuFJaZ7+oUPN8pLv7N4xRMoUHLheIKRtQFTj9Yrx6o39Z8jHlkfb2baHrBo4969UwUQ9450H96Zlgr2m0h47QgDYGJ4tvCob4VBgQ4rj3xIWJSimjQyIS1JjwWwaNw+2qlXCvN0Dt+kBxlQM8Ob+OKs8Gf8z7Z+oX707xSgs0zfhCEvNBeJ0WUGUxVbPY3m0zKQsrq10UGTxkBt5CW4tP9KqLFRkkAmCWm6lb9l7qDJkCM4ryT24IneOwM94CrXw997iYABmG8VivF9eaC9G2UXxRbhnsgCu11l5RnLJJh9teF0mSHPvaxScWW6o+9oCjg2nUzwZ4iIaYE+K/sYAw==",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Meryl Carter",
+            "url": "https://www.luxuryrealestatesales.com.au/",
+            "encrypted_content": "EusICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDJCrngjH/tnL65owqBoMbwh6dSzWBEKIcDH8IjD4ADHvIYa2VhzwcRFcbpphqrDyWiMjS2YYc7zVEbcLbNbI6s4l1DHR8qviO7raBcoq7gcyld+1JRwQpcRWJX8wKzv7BALdA+lJcpI0Koy6143p7mIwdCeQ4Eb7BGaHrXwD242xaZm6imqYzJWlNVI9An7t5fU9NNuDTSYrn4Romp5EXThvsW+Iom37WYxCTbrF8QoaFVOl0BndWz9sB7JPfrz7PDo1eGnCbXFXvpcmrrDpwmMDbFY/D4c4sbKiaVmkAuRLzUinA3JAheAhXsC0fyoUQ9jxwZod5+mMuV6jc3mADs99a3vHlqu9d9wBHnYQ/Eovh97xKFnXx9ssDJSntB33wEaDpzpXwsF1TF2MinBXEV9MdtHDl6t2KkAqA1DlcHcEFg0hkDQCXPh7Ui1U+nhtY7IKxRNMXCpGfQosqe5rpcir+ZpMCovUJO7HEZLOpkyDJv5zljPKQNeihZyBcg8a1ERheXLR+ynDzU64zjTX+auZe4r/uTrMDRoIWeRLXy6JyGoGYKZmGDWwlq3NTVtk2BsFmj58dSoqdTLmmOxdrKg7WR3IaFpniEGD1nqppcAszBegcS8gHDc9NW0hW5xZpXqEsJD6DwLp3XumPzuyDAnv2A03eoWPvqbh4uN5QnbOFwa0XcRTIpb/zW+Nx+iEos42tPJOf0yXD0NITlt6mON6uZSpcW9CVNLwOK0BSbZKHtv5qUPp5AH9J6df70lrf56EDBGAzcJ5I2lxx1ytM8Yh7+xDSyfzjil/HK8dldR9XCyjccRzCljH0q6B86ldsryDEEdJqR0DwxpToh5/RJOYMABarCAOvBFX7RUT0O1ufVyevTxeESx58AtKqW/spKU0Mk93EijuzxtJCcrFhO93BmM9iXNvA+0oUnqb8+ACH6dK9ewGqoJpuVQozj0Gxy0DPi4P5QfH5j9O1PqChxdE3mgkouGtfwwdC6mHZ5zPRKI35SmwQsQgQy2QZTm/CzbqpsVrvvVn1MuV5JCtpYgBJiGkSX7MIR0d+0Th9CNu0yg5RuS8IjUR0aAeHTc0/6yc65pE9cMgMK9SeVR28zoLS8NQB6EIxxc+yNUY2ROqSpYXs/NAu3PW2jQLwY/xAQjM2yo7yN6Zu+hriJ78BD3tdAV1W/YSm1phtBzC4S4Kawc649TKfSXPjJjrfHqNCvLVKfV3RmrCBS+2cLJFyel6LGljcexozOTj/1YOOK8zc8SwVoSgZeg/ccJKFMhs/vkE94BfNSd/+Fh4BarV9Oy+FCe9S225d9XO8eB47Hc0tQVDWsHgFPUpFgqUuxRUTQ9JLW4gwvN4KCtMMj4kmwpPk65VDJCNR50Ejfjm1qpqBIIlNjuLZPC1giIQUwKYVdyT31iFQF6T1zHcFzybDGlDIgICgE1uiVo6KnzqGAM=",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "6 New Perth Luxury Condos & Residences (2026)",
+            "url": "https://www.oftmw.com/markets/perth-residences/",
+            "encrypted_content": "Es4LCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDM2qh3bGT5TXRmAbURoMOX3WMJ7VHvhU5ZKXIjDhwHa2Af/7r/H4Fv0fzTOvfbxSYClLGbV2ZjyvBhrhN8jTQ1LwQtd63kS9r/MRmHsq0QoEfHLLdp4HZjNF8x04UilNCTG/UoFq7yUwLxcSo9P/AmKfbvKAF6ndTaPF6maL8rCwnx9T3jJQUR8Dzm0TCQ/iERpaFlU1bCU4/I5zCi0rL4vIjCnqZvvpjQ9ZmH19qsPGh5RxScs58+mYJ3DJAEITR0zYCsz6eTZjR8YPbvMp2OHJOhhCzPJireUYMqmbXXyaaWynNKndJARCtEp6zEcTM58hTHskpIP0yYmYems4usEJML1y8QBjdSMuTBjvwdlo25FadLc7kq9vBbp1xIn7B8NEHDBJl8MyKxY2xO3zYBb3h/TZSzAc21sfebOj+srR/LkgJvzHmmzLX496bkuahIOl1S0gQS4T+9+60fBMUT1P2D/Or/nZs3V4JuvHPGFdJBTh8C5VrheSYqTCiaTHLl2NR158as8WR0qUM480/fDjaB/UxCBVdmx4M5ZaJSnB7Y5VPWS0NUHjJyQ8exETCwABrqOdwB8wvr1jk6srDQ4RBZfQuFsQS/ZRtDTWQd0HEVHM1hpO64jfSsxvBOSwZnUowKKkz9WwUmTuRWoRGGhBFuOhBGR6SxdBz6Kn/Nq5aAUrn2jKxYqBeZzOKdIbEF6/4KZhlmhvjLXYVBE/tfjOxauvtX3c6XpYRsLPZ01HuDk9i7/CJoHvbqh9k2MIHbBZ02VDSgxsgxYlSN7sHZFXoTGA40snt5th6nj58SBOA24He71XUAiQBHXUFb3VFnlypn139hf0pCpisvS4KX+1YFIsswVUSIoppxVCUbhFwUNRX1tjgZhR3yKrYVt9nsSk/F0cCF8p9zG+MlKaje5XgEC0G9kPJH70TF9KlKkmB66zBS4w2SpSmXZfFkhAWa1FRuzsGYswyaaW5uDB4lCVPRB3qbvPDUWIcWWC1cDrI8uTEHGfQZ8oQF8/d6K7HZE5I1tF/6rdWaYtpSgI0TSF0HnilLCvxvAPYng1hbLI4xU+AI3+GbDcSlFSiP7JxdWgf7FDresN3rLAThDlDdoCs4u/RmBPNb+5g5Sy4e6LKG+eBeVb2SkRjxZTSq1J/JnxmtuVYKElGlmSG34R7tG5VXVtjuEkDbsoq0N/IzSst1vrl5PGF4oJljzxuD3sh4VLOYB+bZrr1sYtQTLPip+BAjpM/Tjm4hmDjW4DN++8ASqy3fWwkFZ6mNm4XpFx0NLh3/31vnLbPz81fZ5VAQmCElO4Y+FG2YSuRNQNA2MEAPFTGvXUNn61sDXjeqvLitkbAt8LpjpGMYlfL7wMsclb1/bRnhuyhaIPYinyNmdrElSd8qgB8tLUD//LRPNSQJERFvq6blx/uOtSwrqGAdp41Xz7Y6VjbKPzRV0dVICas2wx17cH/BPSctTstHDk6lfHhah58SmyeF3zAMaxuRFy7CIfNQsR6FY5qIdShTYNbkdspd8eixmcPjPJTtKGbGzQPyCWTobE7sDZhrPMiz9z/vlFPbm2ViDV36+f5BLMkiDM5uOxWXH5yC6eUk/evY4isxabf1on2jl7eS5h+2bcEUvZy2uzl/v993QNmhWBfkVnLfCLsi+xJkcgxTT06FVQtnm76S2LqWLxfKC+sxSyw8R1hvNyPwnfZ1F1ITOxlmjeVGhrXE+vo2vg+fp609NWR8hs6p8Szq3NHTcNYc9AaBKTrer4Ct46VQFIeifJrL8DqdbMtd8DQ2prtR0e30zmpR4k0I3XgD5+HOPJQI2cGXM+dl1n0dAWcNZKBb8S7xnVR05Jiaql7wjggolkUbuY1RQlk9cYEFOYEQfXXcfmwTS/Y/2AT28F6rzTVxxPCiIYaTfqnuXa08r6o87A5RgD",
+            "page_age": "1 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "DevelopWise",
+            "url": "https://www.developwise.com.au/",
+            "encrypted_content": "EtQICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDFVeweA5x3Nh9la58BoMSMFJD8YD6k259xrkIjCiFugPxjn1w8U6LkXT+w/Fl3T+PdP6PNPXVKp9ZVfK8CTbaCXflWwoLiebvha11MIq1wc4Pml9tSg+5Q4B6X7oN8SaBuwueiIIto0qNGIw2aYDEMrHCQtfK4HfOdR9T72zpWvNTAvvJg6vp8IVsG0IABxK0l/A23r/+fRk2dn7OkdK5tXsZh5CFk+Ki9viEJ8wKnWBXNGGxkqgEjClJKhm0bsHfD2CylbzoKT8XKVUYsJQR3ZHUCMs4JMu2N2tcffoXYbA7XN16E0b4phkc2TQmBYwOxacShD9YLLHXTXfd/Mr1VyXn72n0rQNcNVAicvTn4DEjbugtgZZ/IhX+7lhqA1t5BxATCCUi1xJx4L4EnDqGngoUSeV7zXoBcaUQQE+29FiikLVBUK7OcMW/5ZG8WEOn5hUYBkNaigAWL3s6a0oilCo7x/ZJzgDpeLqcfDXAWD+6ONHdJqNvcidGVOPmljo6z+qBHFLJs4x7YSy40ft3yiTrN5HgS7Peekumst+eSRJhezdfX0UxUW8qSpdoqnA0jQTMwQMPyvUWB9SpoCKdOb/cQvzUlvZ8Jq8Obk1mCz/S7LZG7m7Lj1FBQSxZr+AmThU4MT5SLfwywtLi7YxWPuVuIWnkP/zRdBgGiG1GQ5mC1gE+EyubVz6ZubuTTVhtOwBW1PGntUBoRYXIxm9bmK/32dpjgBsYNAiyhjeCRwri5SSK0r81xikZcUBd+B/FtWd8UBepBD0AWooK+8ZQymQUmiO8nDLNGTLGFiuv75BldZQwghWnRhJyMPNr9o+LVMQUwDaoSRT1/nH6fFR4mGlR+K3QBYD02hB2/pTaIuD3110peUmaxvP9ZUrMrQYFV9Uc7jOClyTMDd8Ymps7Sjb1P32vCRyyp0YxGY8QZYkp0Kaf90qSAfOS+mkGx7DC0e/HVdfdWyyyAMSEam2oNYA76dCLNq/tLh5/pX9YB8nUnIuade3c7sR5tYnfu3Uu04nuLk+TKS+VwDtaaExa5h12r8qSDSoT2u3pP328ftLNo3nr2pPwuvwONiKULPdrxvLsWwq7F9/K702xDebdZap/hpI+7sB8NrOh2ILbf3GR4bo+L/4S6NLhi29CRAhE71ZgBbEmjuVFhcuBDPhuIVDwMhr1MrpC0v9JTa7NK1JaG6DUrz8IOeMHslu5naIvV2KL6MgmAF+vHcVxDXMCe5+C7tuWSCWx0vHWdcNe303HAV/jNaAGJbNpdNOEWGlULLOADHdpqNzWUleCKt7JSWwr+B8MiH/SHp03Lj5yTDxez+qSlXSTkrVVuNaolDCWF4hl0HLbpLOcHSLiV7NoiIuI9BxxqGadnuwJ2CM1WlltVX7cnh4GJTxEgScOwDMYGwyuibZfhgD",
+            "page_age": "1100 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "36 Luxury Apartments and Houses for Sale in Perth",
+            "url": "https://www.properstar.com.au/australia/perth/buy/apartment-house/luxury",
+            "encrypted_content": "EuUDCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDPG0U6fe1egwwscoxhoMVN8bdRxXP8Qp1WsqIjD+K11w9bxDhufPKi4i9quQAbQa4YY99cC7T19HpXJ9Im4IUKEfzfvF4eK/nZA9AK4q6AKvBmiAKzVgcTHIoyYbxghH7guJxf3EC9UjS/Mn2ZaDKAAxZXSNGQYDI0Vz1WB3MTPCeMGzR2a3cs7b3K5sLA+eF6aDLHK+HbjLuMU+fzFqDUU0NCpfZD48aMR3iedimZqvLH9lPqRmAQ/Vgv5vdnvZETMof+BB7zNfUWtgJu6okabodnPducb20zMWPcx7hhDcaYyVC/CZLKdr//C1RcW0MIHIY1lwSdrUE7M0RkoEb2k6lAJ2ytdnaP0CutgxJhGjX3RJuHfxai7YHeYbAyUV+anE1ScvtHbOmRWjgwVoVdYP5rkARmM5bgXdCl82ng8lOQ8l4wNfPL5lBhPh3+9y56zhAUYdjQ3VOGuLHEYUDE3x43K7DQgY6wo2usyF17qYvKdoaJCot+EmW5Og2f4uxGGBgHnoNCdoM7ntXUcOT+BBgmrERIAjO/K3op1FPWHIdMRn9qtybkAIibauu8nExVgkGY8CTicYAw==",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Prestige Homes",
+            "url": "https://prestigehomeswa.com.au/",
+            "encrypted_content": "ErkDCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDBbvojIQSyMDnRIMIBoM++c3utArzaxZNa+DIjCvvbuYzsaQ0dhEjDSZQappbV3tJrKujWJcq8TkdLo0pJUYnK/PaCfV9/1d4vtfoZ4qvAJw61eRQpiu4GZ4hACV5+4TZNOhfAOC5buWoNhtAPLedqM6AyDmUR/TufVYFvk/MVFzo/1RJhYnnvth/PsRwFQjSpSOQHuqXRQ+Mx+TNk2MCRASoecGo8GpzWBe8+70zqqVNgj7obM4dOxg394XPSkBDUbSdN2G1GSnbsgvfcoSgqf/YhXVrmTDggpXpwSMCf6J1tkDNAWryF2lP/9KsHybRy1jODRG9p049WwMSM9Bw662mHrzrCe+XR5K4ztWT40QTIgwLQ7oY6WJm98c4E7HwX9g8Oeyrh/oam1JXOahdWYq/tEIPhgNKyvxRGBorqMN0f2TfrLCDbNTaevFv1Lu6Z03q9BfJZyPwzTh55FcOnlZ92Sc2glqiJyKfMWFLgqni6M7l7kAmqgXBJvLDJ6uOl8xBlZnNODKkLG4GAM=",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Founded Year",
+            "url": "https://www.cbinsights.com/company/prestige-one-developments/",
+            "encrypted_content": "Eq4ICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDFMrASUQ54aAGN6nxBoMs3a2GlwdzfdlRA9jIjDxRwfC21iqHw3fyRMRd4PTULDIUTnlDr2LVFJRqFrDl0b9WPTBwKibAHyR677Rbp8qsQdQz3h653jaYG2C246S5BxwEjmSo7itA0aCZ/38dayU7h/7bSyK2vhaxUa1s+uimH0rfAMTqDzawxRyRACehBOm5AJPiJ1eAKgfC/VMgQfsHaZ3R8RHH0vS3XpzAZAxumEcN9SncWSXHOj4tS17PU5hd6inKYerASQqU33EXp+JyW+tc5Ogcv9HpWq1dSOMzW6XmlTma2qVggB3kjT0Ldn2sZFRb6ncL6T6HWC6zi6meV604uZSnHDxSS5ieGEO3pqN/dTj/cRD0mfkfoIFPFukLMw1Gk5GQ5H1RMtU0wJGkP7sqDF0it4oOJpXc2lw37uK2fT/iyzNTYee2XAQHEWK2Qd6Lt2ki4mImYkPmbPUufUrCj1tsWodAKx+ePEp0x0awJv2JhRYJwLFgeAPppf/uiikQoJbrXG2h5g7hCAHk/5YwH7LmfdUn0+IkMxdfUqhobB1u+I5tsl0B5Yiv1MuJRsvVj5m8vDcfnDnMzYAsxx2GUAJJAunM5llfYOLuXZz4ZE7VId67OuFUZORZMApVisiY1icOPLmK1sBDjlN8GR3uzx+kNEdQuv+7spZHXA9LPSqfkyWaMkzpUcEhwzG2tFMO0j1rA9LClgviKb44R5X7P+jdUjaTQbBh1yPoHLRYJ8uP/u+7QkPCDy8ugEyKN49ZeMN75ttO1QE2Zcy4WZm6BVdppHI/J1A06Ugf5iIg3K4X8+04kGE2Ky6UCpJHtKwK6ZpIu+QXbXORkIVvCAjACRZC6eA4dr6d/ovoJ3qiFmyNnmGimr8j67XTMFKJHupqb4GzKVuLHYPI+waAOe3Nis6rLM1ytfVRvh3XzrV7h96ot5i6PZwGX6XT1qWKhgF3wjs+hFToGjxFwWXFyNzfb1wNpghvYgYHn5o66dYeQ4t3By2ilkPHA15PjIvenB/jyFMvLQFjhLQZT+jYW3s10fGKJ0Qfkw4k77ijo+3K4Lx9GV8JKg/UP06X9b5xy+u/8FnN8Uf0KTw7JFQNLz3qoglrP7nXS9+18TFqjfA+3lM/aIfUtgjJZuZqCkzlyQ3IODrsb75Kdo1jBoEsnreh64aUNGrEV2ywMZicKhRoOM8aM6+MBsa/DPVqJ6oUOVX+H/TwDFKoSaQZcBlqjwI4aL2/5R9obaoW3PwMQrfsIhZN11e1qiUeHEKEx+xC0wAvmw+kbf24RBpKndVm0JJrLB6LZFlWd9L6edOn4PNOgU7PKG5dqLgcTD8i/1XUOPyKfBUzmWPYKGI5E5snuoYAw==",
+            "page_age": null
+          }
+        ],
+        "caller": {
+          "type": "direct"
+        }
+      },
+      {
+        "type": "web_search_tool_result",
+        "tool_use_id": "srvtoolu_01AZtBKznBeYjCEarBTFNKND",
+        "content": [
+          {
+            "type": "web_search_result",
+            "title": "WA Property Project Marketing Reviews and Clients",
+            "url": "https://www.designrush.com/agency/profile/wa-property-project-marketing",
+            "encrypted_content": "Eu0ICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDEb+owEJBzXtX3IkdRoMQgbDiCq8X3u2+gPwIjCTu71tIkMwhZ0//0ysfk5AsLYOdKn1UWJ2z911i5Kq/Kin7nX7ctRgukui2N8o3Jwq8AcEuGW04FJ/ZR9SZE6gaCBgZhCvjwqVxZGzcnMRrwMkNAz7umiWRM8Nq+ClPi8BnsOVr/ERWVAF3fswJ9QDA1wXvfDEuL5lviBwZem3UkBZiNeLoMAdWLokJ831CfHEWHAyRwUtGsGyN++H3zKmP+D4SuQTpe5/L7YNoCtMWUgkcAqFacIv3W5zJBJ+eKQkq13HvT2i6lwj1g61nI9JoslKC1vNbjMG1X5kLsHDRy7FtKekV3TKc3d/u41eZP88WI0uX6ucrTgz3Y9s0XbQxBQDdxLzVLRodr7t+2C2DHfHz/9/8pXkE4CAJisYgn10EjFl7wUrnkIWN1YiqGdnOjVkGXqnF6q4Zb+mbhLqE/w26GpCS7t2T7Tr24yRYt2xh/KS86i+OI1aMzw2SBE6uYWNCoRX7jkga1cEWa7ooEKvL+ykmVBM678VgugXt81vN23yf3ZU1L4lcXQygjCMwgEaXFSQrRzPyglRESyHX6U/5WZF/hHbuQ1vi04x4Q/pKYVi7npUZqZGh/vfLdgLSMbfLVeG4aGN2s4fe3XMgqKcZfHrc9RkLyZLyn4HDxfDEct3plEkYdSgj0K+LIFavEJHZmeqnMk98g+BMmFqMzurdKB/Ny4wJTZueDE3A7CDB3cDWm2CLTBKSJ5yWrdyNZ2V3XbQ5CSQLbipiYNR77FnfAoXyTR1SrWAf/B376+oP47V6mvSfQwUhbVYC/x0wjBf55s58dj6CN6miY0t27aWBVw/12NA8dcTHReFxlNimY/P8qvU4YRAI0lwyfPenq+o0A91liuxn2weas+gwLyqXe6KiUhega12rhHuI/DMwOXqGYL1moX1sHcgYnikXTrFfG88/KBXjZ7G3NxOAKH/43LTzc5aqfeiTPlqyhyPNpNPYPFhR5pPEh0S6lHvb8B6UHbCvnRZCcU3URXQDj4KRVJf98PBlgPvPlWkwj9pK830BpcfCMhtgD94enxZYbU5BJIDcneVOHvei6BHc3jUNVZiF2TLlp+ZXLSLOq5E9bSwVzvkGtwkw+8mSU7TSYVR/lF7PW12z1bNp4DZr7RilMcvEGdH9AcHsI6f2PJfwHsKz3vdPQ6qihOy27UPWOeX8zFCby9v5vSQHt0BusxgTVr/Iswkj3M+wg3kAFV7oJE+qO0AXQewkXrsi+JMgTfcPYQBibRvPzePxS1sCZShmEbVQUM2UxJnyDL078+V2aWGchhvfrJZCFzKIkhOdlKr8VKw6mh86scrlUTsEt7wtgy/3PsOus5rAap8Gn+AL+1lUBnqaUn9GHOPVazQ5VpvgdN9rh4KHrLj19G6XR7xCiqNWDeM6PhLJKkLLdWHNeIYAw==",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Colliers",
+            "url": "https://www.colliers.com.au/en-au/services/residential-and-living-transactions/project-marketing-and-sales",
+            "encrypted_content": "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",
+            "page_age": "105 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Property Developers - PRD Real Estate",
+            "url": "https://www.prdperth.com.au/property-developers/",
+            "encrypted_content": "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",
+            "page_age": "553 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Realestate 88",
+            "url": "https://re88.com.au/",
+            "encrypted_content": "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",
+            "page_age": "864 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Perth project sales agency completes REIWA hat-trick with third straight win",
+            "url": "https://newshub.medianet.com.au/2026/09/perth-project-sales-agency-completes-reiwa-hat-trick-with-third-straight-win/172823/",
+            "encrypted_content": "Et8QCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDDpcfGfx2aUXNNX5/BoMqlFc6c1Vol+CuHfXIjB0DP6oOpb/cHd5xk1sdYnpiDfifEREa3GMhU0TATlBrE3Hhh2d53UIlkQTFITXfLMq4g/0PXxLnbToq6Kv0o1a2RHlGuesNe6lcjKcz2qCQfAyvo9Esu5/h8wLsxQktRxHADnwGHqslbBVbdOqj+ZT/id1O1+P5D15CN5geYausqXtkG45VbT+C/SC08tgq0d7OXeu9o9e81sl6vfKz18bctRI/CJBSFAV74aVo8VGCdaeyhMRfsRs+cqMuaXItvK/9/Fta8wXe0PbdsiSUBcxd4nshGVwMQA97UmnAleU98efteT/ZnWqhf32Fx2OlR4+wj+h1xO2DJJMKw0zWKxe/BZZiFp3ilrQehsKLlVC1itjBUbH7jq6+hM7QzGvjUWkmXCmBv5et8HqlxQ0tyR3yxQaWiHIq6PrGzNDsmwBcwFJZOtO6wt2/XpCudsIjDZpDZbjHExPJPaA7NThaJSoJjr0yhaLTwLqO+k6eS0F1fORHbFh8OFp5ez6wQBgcHbotUipeABbyO7Y2zXp1sj/QT/a5yIww40S7lNAXhmckRTtBeWGtuPhuRMXedoWmwxx5KVjXG2OQCz5kvlBFvOPACdBHg8yV/W61+zEQK+DfaDi17IA7RvVCHN0Rml3hyHYUEQhiQDiec6BELZMC9Q5iyIKUf2NUbYquPBIpUGgVLXApmSpPozbPrAwgdMAwT8oQ4RTqALDsegBKeipDZgf46VRzwKoFtTCTFAnFki9m0pISOSsL29xcHpZ9spKyOsyI0zkFgRdP6h77U854gFAurb0oVZZ1mucML8DQl61Jcp/JNGp5Yr2/W3oHjWLiFk2YZrf88vr5eWvi6o82mt5589kViNijqc5afdEIKVt2e7zCqIDudwchFk80t0Zbzgqvb/TP6f0XYGds1tjMOekXtjp8bcmULqsYqWL5tGYISWtbnoi8+NGRh7Oc71U59Jsym6rPkozPzu+U4EB6QaflRAWRgSE8ERhRS1T1n1VFbunyRKouaKDcv9dh1Tp7mmBmAHC0EsX2u77fwr65O1v6VY14VbwDtKCUUEYKX6VGzP/vXSx5DvEcn58hxMPbyJPAK0Liq97BvsZQ1iC9UCpfhhvIkLnTNDI5wf5xBG8PyKGHtcII+9BNGbzlP08jKFt8zkMD2km5Y6C6/fVUu8UuzbML7oC3FZrDlfue7/5BJWFALqg4r66+TM8AzlpIvdy+squzDAZoeGGs/6m6iWvBhDHlYHEwkGEHBkyOrZF+pdUuP11B44mMqJbFxQXyuWt7ZGqxJvASYVMdC/R1iFb2FVbG00eJ3/wJmRG9v7BeuyMgJPsEQ/SVccLrdXM6VFKNIgq9xDunZtmB+25ESJ+alrBxU4Fi2lq1xe2I5XueItxi9UBNL3fR8EsMKCDANNfbDSN8OOeKXO5vbbHoGiLu4engtdpvEW3NbtfDtnX3B8Kf2bcNegbmN1BUeKszRR5voVX5BOqQ1eSbkl96rY4Q5m0xnFCYRIp6i68sZpvqXavqOETr83SvgOZxzlQZUd64sjy/ww2BX6HiSK49rfaj2NNEfEcMFs5e88JJjguzQcgKpO51FA2fiG/9ryRY/4eGX+vatB+5OmLHBcvbWKKQ41yMxh1tUVToA+vzvn3jvFgpILQG5Km0riGqc4JrpVjgGcj5NlfCDKVBQAuBw/imNcbM+2XrUBm2PKsE7tgxKqB4M+iiPlMcumYwihFcBJkjfs96GosjIyCsnWlJNpcU3OubPCEG494qvzMAHjMMHMPzCWlVXixJZuUYbpFB7SEy9l6YFQa0iExhAG0yVN30N914eqElCHX+Z7zyjux2I5Gh4vjKG929lR1v4fm4LC9XjHNBRXbRKJzW9Q30goLXLriWlGS/EYXMHQK99kOz2s4w+NsEe8JP0UkVqpSPLn3QfZ4249DUCpDBMUO28Kd2+0PNvdlgOWSqRA6TG55+YBIuvLTFjhZEesfTkN/apEmoG44GOCGj/UDHOdqR+EMgmAKCr29ywwVghvNc9xajdJZRLZmrx/hR829urgQCelaibE3J5hydxtWOUcgq0+l8rpBsVp4tQMcAcrEqx6E6USX2h7e3Jpde0+fqUAWM30PvJHI6uNBCZ+ABs59Zmb7Az0LJEvgFwJyqFfj55T94uWHfHSXozj8e/Wm9dm8pEFLkTZ/OkeSWd280bEkUI0Au6vxQoyG2aM0T29sqRhjheAOQTOJV5dPxZaXbGJclRZmuFMLkJs7yksTFEULdYXHdnLJMZEwUisxY9nZNl/KT8pHws7YoBYJOxANb4rWZ4RJ21rcYYnEqYxIiP9UoacCXcKJ941Goqb6w26AA5ZdpzrTf0Dv3MvbCbJNmy0S6r1+/NwFAoYGfx3sU8A2T60u7IR94qwKG1liWR7R9Zml1XgurnKKKPFaGOquO8GY4Vqa2N6V6wbfLkQ3UfOeno0YQI9yGP7s8Z5qJpgw4kh2LC1A8iVMqQxo5oRny+2ggJl2Eta0REXtZwClKShmnLemBJMCHfQNIcZjOAAZJfKystsf2KAI4dFBKTlZaAfcN3Zx2ACuCY47u2dKuw73jS7wWPkr4Vdi4TWr6YMNDquny84oSj0F4jtcDgJ+Xs748/Q2KKFjFR2o/Ho+ddr/M8MrtgWW1i++MF6sjiIVC/LWtm4FAo6JYyC/M59Nl9nB/r9+vrJofug62OAArY3UI1GoS+ByicgO3YmS6mIGqxcdaGaYOhwF1modZdQZ1LLnVxKqDfQVUhgD",
+            "page_age": "28 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Property Marketing Agency Melbourne, Sydney & Perth",
+            "url": "https://brandform.com.au/",
+            "encrypted_content": "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",
+            "page_age": "754 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Project Marketing & Sales Perth",
+            "url": "https://www.joneshq.com.au/developers/project-marketing-sales/",
+            "encrypted_content": "EuAQCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDPNx0Ye/PgV+PkcGIxoMCzUR1j8fxBeMInxdIjD1LfPYNjNv/CgOUV9OwfvGwN9nMDsuT2AMUix15BQ0m+UEyvXfd/nV2BdPLGPOJooq4w/2uV/E9Fg29ExNuttuDcKb4zW2u/VpVa9SgsSVt8Kjts8V2JpqrLfeyV50bcE/3K78iFgJ6w1hwEqeGlDP0v2igeteiIh8S8daA1FoHJYB2uAG63J9421+JrQWZ/yfxi8y1H0HDrZaMR6JBoNB35xg0gZpJX/trwzzSFTFmvG0eMmc4zloe//qqu5zJBjdNbz5Lf5qkwn02Dgik9nYMUJ8Oudgy9fDRD3W2/z97G1uAjdDA+4USKORyUO9AEA+kU/s95EMMm+8zf0/sluR6BNHwaP/AJ4xa7tzRQdN3JJg4OjWWC61K6zQknUTUDtBv9IKW6lnyxHeOalmuNx6S/JHMBi8e6GpiTd/wJmbDlkiceAiJCzWKC3w+tmtiiAm+J/quVWFU1VCOcR8pkOPBNc4dMxjIICwI+cjXq5KuoquHCX8FkwKTV3r40ZG9xRW4SXRkCxgaCExrlRJqnTGhcHwIOwfLXPBO6MHSJMV+o5AZMz7E0MCPecWonbP1nB8a8zuU/5DLO8/pOQU5X7K3sAMhX6cQoJCBLcKm1rgFIE+z060e4ZzCfRSJ6FThBW8zzXKfgsgoxdIkJFI3SmtDRsd1EU2F1zYtwVZhRpUjOA4SKjg8xbA/m0+tc8adcKuZ3WE1G8p9YoRLXP+ARPpncgNvyEjRPcq6WBBXQk8/zh1r6qk66iTYM7ColjNXIyEDEyvNc+XPkHKtVUjQ+ATdGYPJQt41z7k/yH6l7p2gYL1D/BSqGP/zSo6RvuGfvUqRx4lT/oWv66K75+Kd2gbu3/on8J3hIew2siPG4Qvwl4bqIsCiWuPgHHD7WUj+3RI1Ft8kZtez4yIFGp+gdB5qAtRhYO8QYKcJd36GgOzMQzZdFpDiVCzjQ/b1aXSfmVljbtSLMdubL56/0pVT/zyafe3PqGHzEiIwjqglWrYgccN1XpoNQWb/Udza+n/th5CfjilTHeOyfy+T4StyxJO7VUKwM12697xHYFc+eDfBEFQV/4Ba7vGq2O6qAV0rL+JbvF6lFtqFmk/nOLbRMURs+yzyab44o4yrU7jNEoumuD0JquzQ2UnnIPsfyWYlSqoxwrLSP8P8TEYXhMmSM5bl4aLdNKBf4AER+bfsSImSajRj8lPFfp0ElDcto/+3FcDPGFwWfO7xumZfzDxLmt9Xaj5wpwlDhGDPQ/d3ZT05lPogbdGmIMZ5SuOzV7jC5jFPwH0a3wnTXeWt4v+83yc+bg0rCBxGycgZmhZ0XrXOvbBPuyFiP4IWbVuMrHQIEgcb4cBi/FIlfNzx7HeOToZNMU8h9ereHOdNLlLwy4K6xb2qgGo8uYMcPK9HRCUY7VwlsRehG+RO39lwdDtKVE47+AaZGOThfJfqWnBcZ2W7wzb3WKE8iNr7Z1xar5FV/n+WCfnT/us5UrIa/cmeBYmNxD1jmlbcIexo6i2m70r3k6Rc1BKk/XPfyeJ0KqIdCsZGwE4bCOOQKFZzVFP8mNN/j07kNSWCnArBvSfsXVy0h6bfuZLLGW1N/l5m7DIfWLU1ZZn/9Cne/L07kwu88qc+EJzP+BwO2bw6iN4WWesODcWNh3S4xAApERuXXhC7ZfcAHZvpeZucpZ1GomsWFRW6Ov9axb8Q8O4ze113+fx+dn+vHFxBmh8FRrqwJFETmHeTyztHKQ2MYDGEasYTB40uNGD8t4PSXPdDdFsKQlKE6XleppDq1VAEG4oxf/OYDXAneX3MuSFcYJr+xh8fQnINQcF2nSj2v3Z9AcBDwiFRCL13AyVg5smyWfRkbRPTNVTE7CeV/jJHHyU8F21jOiZKDI19B46fJ26WmJrXu447pg8kfuACtcFCWLupT9QL6UZbu5EI1OqVloaHNZCbLVnHyNRhBELXlSLXjuP/RnCPs2Vv/II1KCwopE7206kjpl/GjWU+2asaRNZ7wsRbR2oJc64gsQG3S0HAUUuIKtgzYq6/tZ92j3Up6oVLXu4g8XBY55cCJp/aVkIAXB+nrAtvj+RyQaB+1Ttqo9WD8AiMsW6qr0V67MNm8W/0SAz7Qlb5BsZG2wc9Wy1rtpOreCDj1GcxRSYKRBoGS5jgP0geVeO7yI3BeR/TU8sGHll5vALLZ4UN6rT9sFKRtwp7eDUs/rujC8gqFAZZap3fUpF1IiHJvPuD1TMk6Ymp8TJWXi/TKXuauF3/USC1qQAjPbidslP/T97mJhVxSUqBHMV7yZZyZ/Fzbhx3K9uf2fnXdyvkRGvvFYacHsYJ8Pc1BJ7koOP0435a8jasoToqWoLFs9SQkYV7E0yyTIqOmClOfCYn5COS6fvlMLDG76WnwOQoJnY3yi2ctSORtPeAfxiWd7LqJF4wq8D9mv5Qfm7vXoC/nFPonTdHdplulZcDTpLqTKaFe5Ix7/40faQFBBtwVH0BxNDlfOJ352SMai/PHaVBBgiD5q/XAD+wUrAp1Klk3HxaNvPD5/UauY1l0zetsoyWSG+gwSxmIYWfyRk0IcgdkvPrA1mmQp585aMdWU1BYL/vdA45rGRPAmIOuDvsiL2/embeEdqtoJ+aWvQt+v0AWeIz8J8bVsMqu+piYX38cQ2/fyYxncLgHgZhH/f+PI2WDBP8fTUDp+MHoArYqcH+T+VEHMRfDVCWBaDm26cTZNns57NzWy7aCYBdsGsb3K5/e9MqFZICuXQGggJTDAdYOMyTsgYAw==",
+            "page_age": "98 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Project Marketing Perth",
+            "url": "https://www.boutiquerealtyperth.com.au/services/project-marketing/",
+            "encrypted_content": "EuoICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDGoueVwomhziCEEVqRoMjS0hjmYFsnbhZfSYIjAqinQXIBYH1AtiwL6T8VZ5PpDcl6qZWpkmX5Np/zbPP/jSk/0H89RZSESgw2kV8bsq7Qc0tT6nDbVoRaWMt2aILWdWHET/Ry8ytt4XXNTUWMblRr+Hmhwyy+vUk1Y1XBXMRkJHORRPLMADjlPJA4+1Frm5tkmWDs3OkXjsDIT0PWBW0HBIPAl78oxpXyefqTQV+Ak5L86Jrd697acm811LKOeVvsVe4MroIPASo0+RGwTxC/DJOExGae5mxC0hSSbqtpOBCngqvWgg/3kfnhmvDvE89Ll8ZrLEUX6LMalIkFsE7w5hGIoFeu1OX2Hdhi3dmRn+b12M7v3Ex5JDGV30e+3luDjEj8jzqhH0xkhi3+rqws0SYLtH3orNBQuYFozvD5VchX7bKx9m7oU5ZhFamWS8D+l4nu1X50zciUzNm3sxgQP6UvDHjnJJ1L5M7yYNxd7Djb6EB+vHDghZhI+H8Ere6f1vHXCLZS8Ejz/KjvOmvA6uJpNmgtkr5NUljByTlpE/6e2TajKquoGz1PbElZYaIAHvdXekh8h7fWqvTnfXpKBg/X68/W9h487q68nCImrIpO3+c3VmLW2jFFIOI9SRMvorm1HIxA+17AALptqYYzlvMtS4i4gHWKogupyKAfk4YWbYIfQ+4NdScPWFswWseXdppvnwYoLeDKjOKEVtI1y3zDVTbK9ctr0tpps0X/9ae5gSK88Ml7YMQmjLGhgcBGOEAY/RkWtmvQGx/hNszhtEbN4X3JFhvtQP9EKb6aLmS2YdF0QtSQh85Rxh5bxvb/7287sV9qMvZ5dU/S4uMUvgKThkp/w7nbHrwvAz/bgJicTw3N8msghrvP+NYUp2i9wYC06I+W8b60NZWANc8v50CocJMnu5iOx24wZK/0MmIocqjSh4U97Xk4Q8hfhOIZpWVbEbcyweO5rru03gM9MPFmmHXf6+SFZO6tQKe2QjOvNAALKdGJ1fBLjBqQpH0kehv/xdvfHh5tQfSks+OekbCItVz6tkj+8ysutTslkEppTJwN/PqrNIcX0locCSehvbCc/qxu0j5/jo7LMvttfpC6mX1mMgmsm0hCcdU9l6ouCe5p/NLpUg26iu217zVD8JOn4A3wA2/udlA0pWmEicmeJicMeuDXAcGHZ1AncbIeYjj3KM7Ji84BbfdprFRzdb8NJNUxKanj3feAITZCdO7LyWz7mXW6KcK6mgGOIt1APE3/v7BtYCkv/J08Tg1Cs7EEE08RmWSYWqyqo2uSmSWGbRLI+1e3TUF4fpXBpYNfadRHOMWfE4nQRtl93JM+Ht4bj3FE/Ohn+yzj6iL/9WL3WHSX+ssCghonf32ruPyvNv3MRcAr7VW9SVGYlxqD9tC2oTEG+vNttAUGQfHHuOVsXKloGfHzJDHcoYAw==",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Jones Realty & Projects",
+            "url": "https://www.jonesrealty.com.au/",
+            "encrypted_content": "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",
+            "page_age": "103 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Meryl Carter",
+            "url": "https://www.luxuryrealestatesales.com.au/",
+            "encrypted_content": "EvEHCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDCBfSxJosHnozoXpShoMJkNE7ycNcIJ3hF6rIjBjqY3s7UxSTHS157yw9XPjaQLljpbUhxaVauaIGwlJvaAOKdk5ZLSZX1vrUiCqQdYq9AYqhBFEDJ0B2VFX2rTskiHDXGUpx1l6/y5eMw08RrbiqTfdo1gY58yENOvOSehJ5YbuWU5O0qpNmcEdMgR5XXJiEqggnL7f1EoIkg5MBfgcezjH3dftu5GJkUBVQ6RZdfxnnEG0C48mMNd/J4x4ANn12+KhhHsjwjVAv7D1XXvzbnuJvvG6pp38yl/8eQ7eTXiQXj1MPc6avpRH09ugZFw6qr4nGYKzIrjf+sDOmAZJSKqU1/lfc5pJ8X/dne8MVNS1eHMN1xiy8OtNCBhbLp391tvtifNG50iOYja7aEd9HbIcksvlkkc1smbm5u5Q2MkLWNHh7BY0ogFjC2twmGAm7t/oaoe5vAtdyuWdUAPOQoX4abaj0gIMau4rPQB8DLm+DMICDOZ/MCaWaX7J4FRddlsib7WtEHgVthLX/gNHXzH4x+Py1SdLrKapILBYIkp93NGPb0MVJ7wRpEjDlxuXWiXQeHzUoGIbOp4eD1ZKDsn5K6C+a5IyWXO7qgKqZQO2gqMjfgyeMIi0RiRCbLh7wQepWKwRICWjFqzXM1tgEEjGTxZrJ2v9huOdP0BE8KMIr7honVTZ6i4DnLnfLhCmFNEp1vsgSfwp3Xf9zww5/ANgu4cMxe4KgsZh0+jReWe7lmzoTkT1jwhgaEkU6AmexK49hkvdA9D5gamQorgNyAQ7YkIWJD0OzIFp0g5FmWQVhdOgY6Ti0QfQ9sg91IpXBkd1b5B41j2jqHcntrku0lPxoftmvOJvjjQshrK2ECQVewMDtBQy9yoPPxz5XBafsoKoEdK5ozZ/8RlBIivRuo0ZHZcg4/warJYTmpWniHtxDQgsTCJD1qsA6uaK1vNRzuxDrA2pytppBPI02HXB6TuG3ZZxahRRXxkoLe7QAFG1GLP6l9srX10zLp8Ua+ulzATQY/NWtD8QP+Z+990MrlLz+WTEtAceGYrcuOOBWazLUotHSQdYSqWY5t/m8piImD0x5HhqkhapEbX/Gioxue7TvRErk7C18XWReBVxaBAGPcodpAOlSVDhEt24i8+4RueImRu5XpcZo3zqRUTZ7sBbLX/k6yo+Ao3UveDeTHnoYgWOw7mJdW6ojoJ1YI09zsw76moxqMC3w5VSdsWtYDIIFDv3bzAnwu2UVYEyYFywRyIfe2y140qVcaSq+gTmWsN31xgD",
+            "page_age": null
+          }
+        ],
+        "caller": {
+          "type": "direct"
+        }
+      },
+      {
+        "type": "text",
+        "text": "Here is a comprehensive overview of the **market-leading prestige real estate agencies in Perth** for luxury off-the-plan developments, penthouses, and architectural project marketing:\n\n---\n\n## 🏆 1. Jones Realty & Projects — *Perth's #1 Off-The-Plan Agency*\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Jones Realty & Projects has secured a REIWA hat-trick after being named Top Office – Residential Project Marketing for the third consecutive year, wit...",
+            "url": "https://newshub.medianet.com.au/2026/09/perth-project-sales-agency-completes-reiwa-hat-trick-with-third-straight-win/172823/",
+            "title": "Perth project sales agency completes REIWA hat-trick with third straight win",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDDxCRLXpBB608JTxGBoMKMCZzBgNtOyKUQWnIjBsVAKFNy+1rM4RCxndGktEosUHcU2dMSGWlCgAqwDm2K6l0n1Xqdgc8ZI0rYuD99MqFEhPcfK/Xrix80vpHgvSeI1THxVhGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "Jones Realty & Projects has secured a REIWA hat-trick after being named **Top Office – Residential Project Marketing for the third consecutive year**, with Director and Licensee Nicole Jones also claiming the **Top Salesperson – Residential Project Marketing** award."
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Jones Realty & Projects has grown from its first development to a team of eight, with more than $1.5 billion in sales across its project portfolio.\n\n",
+            "url": "https://newshub.medianet.com.au/2026/09/perth-project-sales-agency-completes-reiwa-hat-trick-with-third-straight-win/172823/",
+            "title": "Perth project sales agency completes REIWA hat-trick with third straight win",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDOLqyyLo68LphpkOYRoMjPfWPe3wrx00fBigIjCBsdvFTvOFZYqgp/0HqHyq6b/a5wYgp8CVWEcQ7nHtHi2coYht5EivP3VAgwfF/o4qFKvABXjRluYg0Ew2zOhHIOUUI7+SGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "Jones Realty & Projects has grown from its first development to a team of eight, with **more than $1.5 billion in sales** across its project portfolio."
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "2026 REIA Marketer of the year – Hayley Patrick\n\n$1 Billion\n\nof projects sold & selling\n\nUp to 10%\n\nincrease in development returns\n\n## off-the-plan s...",
+            "url": "https://www.joneshq.com.au/developers/project-marketing-sales/",
+            "title": "Project Marketing & Sales Perth",
+            "encrypted_index": "EpIBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDIr8kuv6DBD8cU9lfBoMLfZyQ9gOGZqawM6lIjDyfeUToCcPSsep9SFqBXCxyv+kBOdjDpHO+Frp58ritPt7Jr9yTTo4oIlHoZK7DLcqFiUX1iU6FxH2RCZscuKpmKfTITnW2KIYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "They were also named **Residential Sales Team of the Year at both the 2026 REIA and 2025 REIWA Awards**, while Marketing Director Hayley Patrick took out **Marketer of the Year** at both awards."
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Specialising in Perth’s premium western, inner-city, and coastal suburbs, contact us for a free property appraisal or to discuss your needs.\n\n",
+            "url": "https://www.jonesrealty.com.au/",
+            "title": "Jones Realty & Projects",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDHppSQLI3Fry2hPB5BoM/K/xxCaRpEQh2iZVIjC1VguBb8FqrDx6T+JZKGTLyLShJuI4r9syclpwnmYBuEjlC4h43dR5kHuzleYOxGYqFa09VXxOD/DpDqVhx1rdU3OFJMEXPBgE"
+          }
+        ],
+        "type": "text",
+        "text": "They specialise in **Perth's premium western, inner-city, and coastal suburbs**."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n## 🏙️ 2. Colliers Residential Perth — *National Scale, Local Luxury Expertise*\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Colliers Residential delivers specialist project marketing across Western Australia, partnering with developers throughout Perth and key Perth growth ...",
+            "url": "https://www.colliers.com.au/en-au/services/residential-and-living-transactions/project-marketing-and-sales",
+            "title": "Colliers",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDPMIHCOa53TrPSHboRoMgUUY2goUzHGBEZifIjCLVxGGUyn7K25FDI+0enlDN1VMwKJ/WvIlyOmykm81CtwlHNDD83ADHUbYJ3OwDYgqFNDsyAAmz/0PLLsTjKhrgIiW3vC+GAQ="
+          }
+        ],
+        "type": "text",
+        "text": "Colliers Residential delivers **specialist project marketing across Western Australia**, partnering with developers throughout Perth and key growth corridors, coastal and lifestyle markets, and regional WA areas."
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "# Project Marketing & Sales\n## Speak with our Residential Project Marketing Experts\nWe specialise in apartment project marketing, house and land commu...",
+            "url": "https://www.colliers.com.au/en-au/services/residential-and-living-transactions/project-marketing-and-sales",
+            "title": "Colliers",
+            "encrypted_index": "EpIBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDJHr5CPWDgzWnyVKZBoMEs+r21i3SoTibwQjIjAS08bMRlOBYDYlj9K+wDMED2RlFblbayc4VMUpc6O5+JCwMkFvnNs9b6eC4EPSh7gqFpOKWW9tLuGUZeAviFgxDFuf+4S8OakYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "They specialise in **apartment project marketing, house and land communities, and townhouse developments**, tailoring strategy, product positioning, and sales execution to each local market — backed by **30 years of residential expertise**."
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Combining local experience with the strength of the Colliers platform, our Perth team supports apartment, townhouse and masterplanned projects end to ...",
+            "url": "https://www.colliers.com.au/en-au/services/residential-and-living-transactions/project-marketing-and-sales",
+            "title": "Colliers",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDI6aa0svT480tUqcCRoMrzxeBngAes4n14FbIjDMYM0aip1XYtgL5ckVVSfUzjtpSWJyqxxOflZVoFXAl0sh+VDbsQPxysobi/iRAJcqFPYsu5B13b0jwNq1vf8h2SAUnCuyGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "Combining local experience with the strength of the Colliers platform, their Perth team supports apartment, townhouse, and masterplanned projects **end-to-end from product strategy and marketing through to sales and settlement**."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n## 🏢 3. PRD Real Estate Perth — *$1 Billion+ in Project Sales*\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "… We’re Perth’s leading residential project marketing business, achieving over $1billion in sales and counting.\n\n",
+            "url": "https://www.prdperth.com.au/property-developers/",
+            "title": "Property Developers - PRD Real Estate",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDGQkJGbly+l5jnAj5BoMpAqhSSWktJnJXsmsIjBIT/+h5Qf0Pc3q3N8SjM+g0qPgLR5yXPd6MAw7YwNu/RY6ZdEYQ5p9hiqVZEGnZ3kqFA+F18gEO3RbjpEVFoQalfnqZVrnGAQ="
+          },
+          {
+            "type": "web_search_result_location",
+            "cited_text": "### PROVEN RECORD\nWe’re Perth’s leading residential project marketing business, achieving over $1billion in sales and counting.\n\n### COMPLETE SUPPORT\n...",
+            "url": "https://www.prdperth.com.au/property-developers/",
+            "title": "Property Developers - PRD Real Estate",
+            "encrypted_index": "EpIBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDH5ZAs14qX3AK8G5QxoMOtUWskTJX12kR4rHIjB7r0sqIh2lnLY9YvQaIeT5z0n4wVztg81k8Xa6n6EagRoJ20khKD9wiA3Fj/dnXSUqFpxdGxTKMQBECOWNJpIiMDjmJUy5oiUYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "PRD Real Estate positions itself as **Perth's leading residential project marketing business**, achieving **over $1 billion in sales** and offering a full-service, end-to-end project marketing model with a dedicated team."
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Under Angus’ leadership, PRD Perth has sold close to $1 billion worth of apartments off-the-plan and at completion, through his high-performing retail...",
+            "url": "https://www.prdperth.com.au/property-developers/",
+            "title": "Property Developers - PRD Real Estate",
+            "encrypted_index": "EpMBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDDux/UUsyF1Ol2bvbBoMCYKJm0N8IBzWAneMIjCMCDgTIbVdWa4Q5cSENAx5DP3Qsz7QPPyA8VQvbVUSeaeV6/ilzt2Uu3vV3RFCvZsqF3uvjcoNxDUzGAY6OR0YXIuT+SJHN2l9GAQ="
+          }
+        ],
+        "type": "text",
+        "text": "Under CEO Angus Murray's leadership, PRD Perth has sold close to $1 billion worth of apartments off-the-plan and at completion, with success highlights including **The Towers at Elizabeth Quay, Perth Hub, and NV Apartments**."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n## 🌟 4. Realestate 88 — *Perth's #1 Inner City Boutique Agency*\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Realestate 88 is a sophisticated boutique real estate company based in Perth, Western Australia. Specialising in selected metropolitan and lifestyle l...",
+            "url": "https://re88.com.au/",
+            "title": "Realestate 88",
+            "encrypted_index": "EpIBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDC2jKgP+Iq9K/yXQ6BoM9AhoR/gu+8THHngSIjC7t31/ebvb98J3aToAaYRnFqmfQl8JqQuMMCkLI6p8Rj/QnDlkBpZ7wVvdQ+79gX4qFqF1OyUmi5suM9KxP95ki7dfzrFyNy0YBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Realestate 88 is a sophisticated boutique real estate company based in Perth, Western Australia, specialising in selected metropolitan and lifestyle locations — and positioning itself as **Perth's No. 1 Inner City Agency**."
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "From studio apartments to luxury penthouses, we bring the same level of dedication, professionalism, and attention to detail to every sale.\n\n\n\nWe beli...",
+            "url": "https://re88.com.au/",
+            "title": "Realestate 88",
+            "encrypted_index": "EpIBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDL+HVWIzYWN8ihY69hoMqyrrCHNtjRmoSkm+IjBTuHSCrDb7DWT8sD+Z8ZP5uTLy7KGGWeBG005CrBp1b075zCTb52qoNnI9ejrb0O8qFk/xdexwLTF7tWzayuuRM5Meq+VaQwMYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "From studio apartments to **luxury penthouses**, they bring dedication and attention to detail to every sale, and are recognised as **leaders in new project sales**, having successfully sold numerous apartment complexes working with some of Western Australia's biggest developers."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n## 💎 5. Luxury Real Estate Sales (Meryl Carter) — *Ultra-Prestige & International Reach*\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Meryl's network of luxury agents offers unparalleled exposure of your property to a qualified, discerning audience of local and international buyers. ...",
+            "url": "https://www.luxuryrealestatesales.com.au/",
+            "title": "Meryl Carter",
+            "encrypted_index": "EpIBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDDDYi9SXi3bYR2SISBoMcrt7z3niJiGC+3OQIjARzjoZ+8/8vZyt8o3xmL84GwuBJ+ZNI5DQju3KBN18lqNCht89ZuJ+8QmaDbwvO78qFgUOs05w07fZdUFvcHulOTj0+hlaUfYYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Meryl Carter's network of luxury agents offers unparalleled exposure to a qualified, discerning audience of local and international buyers, with **an active approach to international marketing** — putting Western Australia's finest properties on a worldwide stage."
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "## Exclusive Apartment Residences\nFrom elevated penthouses to design-led boutique residences, Meryl's current apartment projects reflect the very best...",
+            "url": "https://www.luxuryrealestatesales.com.au/",
+            "title": "Meryl Carter",
+            "encrypted_index": "EpIBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDH0UWpsUfYgvMnsPchoMkTpQK7B0piEzQuDxIjAYY7Rlgnrpjdl6C2YtZx7asX9R+xyb4EA44ZTi58GlhZNMfi3xzq2+eDYcw7IoWfkqFuzUky2GYM/WjzXmdiAZBqO+lUeNAIUYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Her focus on **elevated penthouses and design-led boutique residences** is anchored in thoughtful marketing, intelligent pricing, and measured negotiation to ensure exceptional outcomes."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n## 🏗️ 6. WA Property Project Marketing — *Specialist International Project Marketer*\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Welcome to WA Property Project Marketing, one of Perth's most innovative and talented Real Estate Agencies and International Project Marketing special...",
+            "url": "https://www.designrush.com/agency/profile/wa-property-project-marketing",
+            "title": "WA Property Project Marketing Reviews and Clients",
+            "encrypted_index": "EpIBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDCK1f9ukbiCKmXf7thoMMJPLRXHHQt37xXbDIjAoaeVGaDf8AhlHOaNAkeOwH7y0yUtPWVHJ8AjcZGl3lzHZpDBaRDtK17YDlbS63UoqFtKYmbmZrea0Zdu0YIrbup0iGWGvcHwYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "WA Property Project Marketing is described as one of **Perth's most innovative real estate agencies and an international project marketing specialist**, with a highly motivated and professional team based in Applecross, Perth."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n## 🎨 7. Boutique Realty Perth — *Narrative-Driven Prestige Project Campaigns*\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Our projects team, led by a dedicated Projects Manager, brings boutique campaign quality to every development we take on. Your project gets the same c...",
+            "url": "https://www.boutiquerealtyperth.com.au/services/project-marketing/",
+            "title": "Project Marketing Perth",
+            "encrypted_index": "EpIBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDI3EdfZv/50y+NtVXxoMA2zuMLLEwMN2CuRpIjCuEnPm8AwrPNYqu2a2/UJakM5wCEJC5zQe4nUnEtKwfbn5/qFvpxTIxvLUQDT+CjkqFgpCXpb05zc+TRNYIpvyapENDKYiI1YYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Boutique Realty Perth's dedicated projects team brings **boutique campaign quality** to every development, with the same care for narrative, presentation, and buyer experience that their prestige home campaigns receive."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Yes, our projects team manages off-the-plan sales including contract administration and buyer communication through to settlement.\n\n",
+            "url": "https://www.boutiquerealtyperth.com.au/services/project-marketing/",
+            "title": "Project Marketing Perth",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDENtavVoI7sGV5IncBoM2ev6KFjPD1zetmT/IjCkDyVd+j3/V4WAo8Siw3xBYYQCdupglRKmOzFYizx+PLmOx+t7Ko5euCsFVVBZsH0qFc/MmYOjR+za19h5+4ldCWFaOKfbyhgE"
+          }
+        ],
+        "type": "text",
+        "text": "They also manage **off-the-plan sales** including contract administration and buyer communication through to settlement."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n## Summary Table\n\n| Agency | Key Strength | Notable Achievement |\n|---|---|---|\n| **Jones Realty & Projects** | Off-the-plan sales leadership | 3x REIWA Top Office, $1.5B+ in sales |\n| **Colliers Residential** | National scale & strategy | 30 years expertise, WA-wide reach |\n| **PRD Real Estate Perth** | Volume project marketing | $1B+ in apartment sales |\n| **Realestate 88** | Inner-city penthouses & new projects | Perth's #1 Inner City Agency |\n| **Luxury Real Estate Sales** | Ultra-prestige & international buyers | Penthouses & architectural residences |\n| **WA Property Project Marketing** | International project marketing | Applecross-based specialist agency |\n| **Boutique Realty Perth** | Prestige narrative campaigns | Off-the-plan & boutique developments |\n\nFor **pure off-the-plan and project marketing dominance**, **Jones Realty & Projects** currently stands as the undisputed market leader in Perth based on recent REIWA and REIA award recognition. For **ultra-luxury penthouses and international buyer reach**, **Luxury Real Estate Sales (Meryl Carter)** and **Realestate 88** are standout specialists."
+      }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 15354,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1679,
+      "service_tier": "standard",
+      "inference_geo": "global",
+      "speed": "standard",
+      "server_tool_use": {
+        "web_search_requests": 2,
+        "web_fetch_requests": 0
+      }
+    },
+    "diagnostics": null
+  }
+}

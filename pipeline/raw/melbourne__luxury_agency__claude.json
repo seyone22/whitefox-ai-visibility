@@ -1,0 +1,311 @@
+{
+  "slug": "melbourne",
+  "pk": "luxury_agency",
+  "plat": "claude",
+  "text": "Who are the best luxury real estate agencies in Melbourne? Give me a shortlist of specific prestige property agencies with reasons.",
+  "loc": 1000567,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\melbourne__luxury_agency__claude.json",
+  "at": "2026-10-21T05:10:38.600Z",
+  "cost": 0,
+  "result": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011CgEoiUzsf9rxaLn5qvPgL",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "server_tool_use",
+        "id": "srvtoolu_01HtyFTv73D4gVJnke2SxzbJ",
+        "name": "web_search",
+        "input": {
+          "query": "best luxury prestige real estate agencies Melbourne 2025"
+        }
+      },
+      {
+        "type": "web_search_tool_result",
+        "tool_use_id": "srvtoolu_01HtyFTv73D4gVJnke2SxzbJ",
+        "content": [
+          {
+            "type": "web_search_result",
+            "title": "Prestige Real Estate",
+            "url": "https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/",
+            "encrypted_content": "EsMICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDNBpqhCz+okLlJS6HBoM9Ycju0GVG/MXWasgIjBOn3tPNKl5hqOtS54ze9zQS84Fx+jUUc7ojKCnyYxNZ0iZ8wu7ZnzWPSdL/rTLh04qxgeuHcPHsiXy3b6Gr+xq4zxxkwf0U1BLELK0fVdMStfK9T/cWPX6SPLmqCyP88q91Q2Nu99OIn3YU96mEduoDslta2XxJMkW29wBxQUBMaCRr9w2PsZO7gOFAr0CSMOypxK/96fnlfr2ukp5Z36+2VEKS4AZuNMGdXopyITxcIj0WA9VGJWZkRAFvkwe/BZXD03w5NBq3Pt+vARKjBqcAMnittO3BEESBVsoDhJm/BzTvz7GdX6n2mxsDOjZi8/nzkZbFdLzTqdmpL0LlwlL2JDps38dE49ZMfNFs6yYCbQpVgJAmFqNsY0NNHOuc90L4mqrSnjpsKpqzOLASs3LluTALhqsmy5FpiKs0jQ61iUxDbuED72tYimA5w+8pJs3RMst+bPLbnAnU2SuVfD8u6GiYaU+qWFEb9iFz91/nphoXdkpkTwu9jRML+p/bpQ88zppcA7cRH9YfoqJSN6HOBuHv4BHdkNk00us8THHEKD0mr/CpR+B8F+5NoBxpwJLtaJp8aSE1LZpXg2Jv1y0JZBTCCZnYA9+js0DyBElXV8hkbnxvWwf+8xKX8zw+jGvgZCiyOhYQAJ8UzM+/s2plagHfZ2eZufTz6v9t9jm0Prb0e2bQvqcvhm94cqJYFIZX4UPqZ1u6wyR2Pi00tExaQFdeJyIid/Q4FeVT7cmbfv92lVVY6bx2AlUuPr/SzsA2rVsAuO995rnrRhN5jmhUZzM6X1iXtBiSCOJN6DU6VifJSr4HtRjRcWzVygTJxrRJ6d/ZUEWOANXLgu4r4h1o2ZwSZ1xUg16doDn/S7vD+jv8SNfdFkCKs6X+jm3Ap8LeHnBTC5297V2WcjPnMlonE5Q6tWBm9QQTrD6LDOL1Dj8nPOdDZbZ3g7eLwBCP1gQvY8thBiZM8kXIXw478nCKuPT/X6cUy78cJ+GuP0CpkqCysW/h+KDhv+ktiSHeBdDlEI/1v405cal0nNZC53SBq6frluPWsNzJkh2YCb0Nyz2x/JmLKhwh8uhOcYUFsDaO0PLmxmvPqJkecvyL0tEJKRiTw4Nb8mcc5CENDKLzu1gll9cs9NK5cbDStdEgnvJqulBJ3X09zaoHmF+miK7HQ8Fc157sJUbFGOs+cy5/LaY2bbXNwewUblU46coJan+YiVxAQpRg2oM3uX5AW4/yWwkWwPczXQbBFoy5v36G7UeDf4vBeYX0LhNL5LRE97/mJSykb4Z5Rzg/g3ZtdrYhb1SgG3UpMXM/KImT9pZJLXO4Dwn5/uJjAVGI/djj/VcWK0suFrQ5NoYAw==",
+            "page_age": "2701 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Best Luxury Real Estate Agents in Melbourne",
+            "url": "https://www.marshallwhite.com.au/",
+            "encrypted_content": "EocECioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDM5mB5W4pwiVpg1C3BoMe0uUfaTVFNVztI3+IjAqafIy2r2X6TmYeKb/Dpj7UBkdcpJAh0i1VOD6TvCmg2lJJiu7ZovZr7HTn7/2kjEqigOI6NYw1YYZ89K5Y1UJMY2LupZox+sa4i6vmV2qG5T7Y9FLaQqxG6wNoavN9s6jtxfiLPCcJzXHSP8wpBK0YjHzioNT4ncLqtpaq3hl9b1EIbyWXrj3gP/jGYtSze5+TLGaQo6W6XbH0NPqwygmGbP4wn1fRro7cb7Vj5Dla+cAeOk7/vuL4ytGP5QAf+YqXcoDuajxWTAr7F7K80XRcWLg1vnLwnJuNIPOciVLkmSo3JPxUFn5IzU90S/2UDUEnKu5qfqPXt8QZMKS/RANCldKoXq4DXqiVXWUVNHvWzG0Nka/+ScS6p36B2/ydSsF6jfFmbPKgXD5GIz86PiW8at7OeJo1b41ABZZmswAG/GupVHNW7sMuvpVs9IzS5pll0ZeoqNbTaws/3jHw1Ipq0ljSlhjsFZvs3J++nyKfzRpFQ9v2BzMzAAeRDyDA7WTPBaA/eA7EcWKEaLHTSc+AggR2W2vMVY92tDglmJfqpnQ8mkBWWLekcOZUkKcv1bduH3DNe2C3fNsvA9CGAM=",
+            "page_age": "2 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Private Property Global, Luxury real estate agency in Sydney, Melbourne and Gold Coast, Australia",
+            "url": "https://www.forbesglobalproperties.com/members/private-property-global",
+            "encrypted_content": "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",
+            "page_age": "90 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Luxury real estate Melbourne",
+            "url": "https://www.kayburton.com.au/",
+            "encrypted_content": "EskHCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDFnhc/Q26w1z9Z7LqxoMh9rtyQJzZ9gzLBi1IjCuSojkRBIoDNs4p0LJq+eIFM3GzSHMxmPkc8PgZHO9cItNmXzWNC5PdTjh0DV9pRQqzAbPbKZbClRCwzlW7+BG0XrqoMJwIuXeFJXBc77giTJ9EbtFFlEr7gxN+He55L0nDp/N2qPbTf75E+nt6BAplXNg4XhV0YKdZoQR7U5Sqw/vilJ+Cr6IpecxPsEo25w0SVoF4jBS0nO2VCPf99tidAc7gVeFU3P/WHhVSwW/HyZWC+3S+0pYckqJJDvgwFT4+zX3N0mJT3K5Cg4GdO/AOIrH+xRk3WTwkQK50SZKjh1h2HRodEmAymbXFV0/8ep7fXcw47B/nPN3DddwvlX14QrqAm/K5JVYlR4BerLM0t4+NPOm3kn5DwXXDsgdZujo6N5G7x78RaWgNmqwdtj8LVoo47viNU3Z5TH/1uk3lY4tmeur9EKKa7djwJaHPPO1ATmsm9KeB22c83xsbFmTryM/eBIuWl7nDmpoHejIIg1oPnlJwaQUGFboY0Yu9tlQ/N3H1TU3im8Zx7/8m7Z5eNSBlg/POMxULtoOSqWFlKOIGWG90Bcl15Dm0czz4zYCxAFL9R1roQLvLyCBD2tUemIrAYmf7KAmV1M1wQ1Gl7/vpo2odMQWthBas+/uzHtD9uLdg26x63spxN3CxztlYTdp7MwAU2ho4RzWG6BGSjTsa1hDZY+bnBNPP4sIxEctwoELEulwcsaGaaIcc44yWtFrcq6/OAbUvYtcS+uK32FKSJzyVeXu/3jFmVqSTniPH/pGbi5wEeN0mVNIVESkeMhYUwm48YRvBzNcTaFK7uoEwO2qRqC4W60zZNPZuTpAWZpmZe+4dxCnwmP/0VPvm6oJQ8FlCFA53Gp4JvHEfl2npjxarIH9iRCrHMzVHQJzDP8cJ6I9ux/c3Soar8EHnlFIXEFd+Rfg4Ja3LP/w90iLa9Q00NwIKbCbHjg0gUbr/Q05wd1R85Mxac2MHDxxWeeFLbWRuaAR3Qs2QIVN9Q0X+Xuq4M2cllldF2OzJ+JRYyZQSPPAx1OKVPHuLQiHngw6T2U8jYxXtyerJHoIGio/M1S5CbIlI2GhEr1r7S1lPIGtPCUmIK4Oo3zfu7uMw9M6vz8a2CyIOkC7n8E8iChXci/QxgpeYn+ZT8DeyuEb0+VwOnSUL67kEv6Q1Sc/r/LT/5XHCh3INSHvWfa1GAM=",
+            "page_age": "481 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Top 10 Real Estate Companies in Melbourne 2026 Guide",
+            "url": "https://www.starinvestment.com.au/top-real-estate-companies-melbourne/",
+            "encrypted_content": "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",
+            "page_age": "329 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Top 13 Luxury real estate brokers based in Melbourne, Australia",
+            "url": "https://revenuebase.ai/companies/luxury-real-estate-brokers/australia/melbourne",
+            "encrypted_content": "EuAQCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDP/Fnn47guHyTJ+mVBoMNs6eqBbK4VpBioskIjBlkWFQZ26oPGuYYbBDbgHXvJviPdxZOAiph5T/HP9KpCTFCRvH7XyTx4vv1+Rjp80q4w8NUuQvTdIaai1ynEujKHZZfp7jkky79BI9h7MscXsMFxF6SQ6lGrvpZPF8RvMxdvl9/v0qqKJy+t6c1w+s0XrbREWE6q53QIpvBFAfICQ3HwNAmJrpI8+KCV5ibJmXVO/BPw6Oqj/GoNRfE7mCmwoqpWeXAHfT3oIUdXkYJTeuxMEcGP3ewaVbuN/zQ/Jt0c5qQkqeEPmoezCHzAhNfpKSN2PeIet/tkELJtANHN6Ne7rmM3ah1ofDeBxFEXf6FO2AWRge3fgQJyI/CXHbAeDA0HJzLL0pr14/YRfVW0U7eZfMdIRd8hgQGjdf5kw5nSvKXa+jsN2w2a90evYUCETjQvSVEh2TNWMg1R+oCCciE2yDQIsHhnnupLDwyPUf7IH570AUsnuJ7NKz6V6+U7v0JtecQNIW15vLn9mk1zPsME0L+llddK3GukeSAoQeuS25oh9Mv/8dPVee9/i1cxqqaAIB68rBm921m8cgatNpHYAhc+uFX4jVdO5CDXM6KMO3ZbBMGsIeHPgHE64XqbL1+TYz2BZDHM4UnWslXeartFiffNfY12qDcYDxF0G88xH1sf7MV+jz5d7enpCCATsjpByClZbcrYkl591KDKSoqc+bzz3Iqm5P4aoosCSkY3mPf80Q2oL1rGHEqObwqy03yOaCc8NbywA9OJqRiSaYguwxaqDtM/SkqNwIr4xZmgnIpWr3FEgfA1CMnEtSqyeFQb8sO2Naocw1qu1WR8tXeWfOA+a9Vy3ROKK0dfUspBpaP9lJFJe7TDKloe24u8SXqZeHfhNbO5BDdT79sdap8Z83MEnpqrGYKmhohgJPp+WacOzr75+NMzEZ/6PUu7dJ0xzPWOM/MbgPkafwF37FshICv8c0jjgHDgVLy8iDO+jneGG/VSZKbPyU4qff/xC/cSPB9B9WH9b+Ufi5E6POFhBW1c2HPg/BxtYluQce5XCSLFZfEL11ccS+VWF8KcEU+q1N4HFc+hy5LuBvku/WgLuJT67wb8eDiesy2/780x6WiDKsq7Ot/zaGH3nALAJvxP9EDbsMKykGh6U+LYldipAApgxvcgfHDQhC3KrBYbSiROZjJGNiRmRyMPWB7CM1VtOjfg2daR+hxLLGbI7JWKwufre+xd9eZ8NPpJbtBcudq61G4fSuB2/+sHQ3P86W9HsRSIt0A+2ZI+wjcvHQ260pFVTv8UvSlvULe+C0QAK2CFMxihMx247VwBDBX6x1Awn6Ef1loDtkbHygdyPFpZjLrjQhYWAXQxlTQWFzCkvxCcTtZdtLZQLATjGODcn/J1eukvKPf4T1CBUUjH/MxifvDSICtDRAQUwebQIyBaFWRTYobCFt1OeXY2hLtY//yZ45CYZ6+cP/6FlihTbOxvBi19RLqPMKWA7LpRM0CF9wadD9Kpseq9p6WageZKh4xl5M+vzQq7iRTkfzEuXNpXHYQjRFAwySe9EX+g2Hb7/i8J7srYF2AlqfmAee6BsuyaRwNOOXV6xqjiGNoAT7T7YyRDoW5Zz2ZHP9geYDHSTVnSlgbyZj/pUhzJwBnWD85zvzv6eaoPAZAhf2OkxbJ0cpsoWpf73dlq0rebG6tvmYiwYjOrYpNdue6DLoOgEgyXSeHbkAGPgFEQna7p/t69KZcs3kY16cP+uuHUH8dFPC6iwyxgwzgwUT6JSyxHawxfN84jTJBKcN5UjA27/r45XjLrxV/cSEWPz02k5+CJm3Tcp1REx3AhWStXmYbRLQOvXO4HmiwwHrCnN+uBSas/Fbzw5ROuSQCBVOUG6KdbPuh1FzS6vre3OYQ7mfBQGxEACxeRqauFBwWbzWAGZKnF+7Eux5l0ogSAUscEF7mu/NqxSqHYoYnmkV9bgzU8/6U0uV2GuHW6hZCMVjc3IxNb5dInQ8z7sW970lvChl5S9iTjgnBoPCpTV1sMFi6RNcTB1kzA630cdSP5b9WAOgnYVFnQP3xmFp9jdEL4rQo2CA1eyIoslVyKROQFJc1zrcSglWC1FnuzcqgrB5rMOEfYRw9nSZz+TdtV6amZNINqimGzqslXsSNdFVGVi3XEbCRLwzsDV32dpb+4DZ35b8Iuytr+kRB7XOQjCTYBJdoxqcs7HQ6gn8JM0z1j5mJ2MYQVHZCjatbNI69qQmgc3Ra3VhvYgud9i7GeD3nY56iW2PtA3vjOEWTR5QOur/MHQ9rrHd+KvOwWIROaIz9xM5GGXUh/DwYPW6qejuqR6s2ArJqMH8VjsCFfcasnoQRtZUbDhvPF1olC3C0lLD+A87Rb93sWpTGU+rAmMFSQ2tFcXFZb8+yc9E1o7u5LxV7T23qVWym7qQXy4DKnzAU6VaIovksM8BKZnb5aasoau/Jnt1nb2ErP1YygdJIoB6/kJ+CYOpys4zfoURqbjaC0WztESVnEE67qes8H4kytCs9rsvY/xcm/F/qEDzB1vnx6DS/Q/o8hK5PPjmqcDaa310mC7eOTAXaRLqnzOXAxSxgpia06FfhDvsBMH3pyc18/l5cBC/yC9EgJBIdvl6ZKeL6dHTVm1bx3zd3kePrJ+RuUtUSDQzhScCTm3EZ/oaW0zpKcw52UpK4JuN99P7m778+umwH6yglAtYemWGhtK2ohONOJF1zUq/IRilLcc0jji3Ph6W4x4qs5ov/gn4qb73u65kD/pMXeyPKnBUih5s/iApND4YAw==",
+            "page_age": "34 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Melbourne luxury real estate for sale",
+            "url": "https://boulevard.co/area/melbourne-luxury-property/",
+            "encrypted_content": "Et4KCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDIivmdGsBkOFx1SFqBoMim7aqv6fLFcjEUg8IjBTit3j2SYnezcxxef8sMHwZqhWigbPE1p3Agx2u0vKVIHFvsadoz8LJqfScGGV/1Yq4QmrbrGtX3t4tgYfCXRVmAIPGn7m3J+TElRPkJjq5vJLHqu2gssr83fR8Dl/5xhLXXVnfJdMzVRISKV6+ZhiTlNToG5T9h3NpZb18lx33+LSWivCU0srXO1Qb9lo3GE2HAaBRMy2crxpUcFDVpvjS0ouiTcyW5YVlVem2qhpgBSggJRgKAV2SxLaorKhlqIfb4pjNiBe3e4aey4224YHML5gZ4bzonKKMqvX9wKAIEqOzmDtoq5l2WpZw6CHVCRRLZNBQm+VqHDCTZITRxmGX2JZcI+EGPtl8os6qQvOaqF4Rzhfzraki8yAUDd3eUSCGkDnYuXHRoCHQxRPka9WWa6Q0+LvAU7TgCHZ0gFjcBjoMApvBySGnDCqsLM8TcRLG2LmVbiurau3b3A8lzfXVQZZneVCmFuy36VOI/XoiJFCFzzTu2p+mC2T1dqNz4055LkKveucKlo4f8hB4e/a7Vv7XJrCJjrTv517bvsXFZvlfyx3OaldWgC0z9kio1hLmBbghljWh55KXuydFFP1tCO6kKz1VDOs85V4ZOjzHdUM7dyncwW55SALUzvgG7PvtYHJbx4TcK5oqjP6zFVGhMnEXS7gpURM/ACcJv3r5zSEX+s+Pyufdt+qcn2QBQEOtti4A8iHNqGW8t5S045J+hlVv/a08yGjgXMuYA2ZyvY0q1wXkklGk0UrF1/ct4XtTJhfYPAcJUC0M6WIQEmn+bKdpKzBFCjqXhEkG/8nhoxBZ9UiOp0xAjRCC/KaxhvRRPE6a27yxRoeIcp/gV6VwG1U9M7/BzqQOMy31lsFqNE9mBImkbphsDleUeUZOEx5C5pbQ+VwCRJIe265ZEWTkt+1hZrBl+ibnbD77MT4v4aP1rIkRoXzrtLeKywjA+xSuHCfacLsCzli2Sq3du0bIkBAPAwLu3EteOsFBbD9M4WIK8gvST/iqrLLmmCm0jc/cIa+Nvb3Qk2jFUH/XncUI5Kpx1UK5RmmB32wavKj5E0Gq+lZUc1DmG4lBqcfMNZ+UAIi8jPew5Em8d70jgjpz0d6AYm/pg/zL5Cg991oXwNEC98XodnvKDiPIw5GBNvGk1l1FsrDYpcXAf5b7Sj5yeInkThPAwAti8IpofN3jWIh3IIhymdAIB+e0ixb1/ar1IOHOfJThgDYQq2WrddYDbasDtp5yKFGHhCQckWvIwjeWHbi04Tm4QHTaUBNoGz+gku0zpTO99gSNEjavRJhXtKBf6qpKC/9eAUQGw3afrUtuQ2LObpJSqND+yVq8HVgvcseB4QqcOcSjWbnR1aMf5p2N15qRPUi7Y4fgJd2plmUVpTWDWaNVZeo3HdJt8nTbY50GOAbl+zRzDTmdBcrda8ewtSat0KA6lxvhP/UUo/tGpOsNTvjh7tzw3NKSER/+8fN1okkcdwDXXOeI829Fl6gxzTHwYQps1AXTccUh7Rk2I0WnpNVR4DD87MNHmzrhLXBFfP7UOD7YwBl+x5/kHzQwej6QtW2gwF0zsrDQqhASSQSAYn8z0sG8zjPkUSFbuvegkqlBVnWgwH/jYChSDbibpHa5NUINNk1QgL9tg/6f6+rTvnm5ioe+OS37b/AAhAVg89yVnj3+Cp0rUlGWKpz80U0Z2oTuB/dMG9rxbBN0XyP2fKvCKrQyA6pzv4zoIQSGAM=",
+            "page_age": "899 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Top 18 Real Estate Agencies in Australia: Ranking the Best in Property Services",
+            "url": "https://www.starinvestment.com.au/top-real-estate-agencies-australia/",
+            "encrypted_content": "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",
+            "page_age": "372 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Top 10 Real Estate Agencies in Australia: Aussie Property Giants",
+            "url": "https://www.juwai.asia/main/news/7093",
+            "encrypted_content": "EqgGCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDIhr7/RY7HeC3Jg96RoM0H7E/hHoj2m5x/PeIjCDnIorCl+MWmdy8v5oOqvI47nDk761nbZHYp1bHIe2TWpxvapf6UMyo+pnfR3UKXgqqwVNoCwMgYOdJUAyNUb5mKai1OCOrBjjVm4tGVr32auDsoDbOrngtiTeDggiomOX0uVzJdGq3mGRHQuJisabjv5VrAqe2FedQ4j9LFi4vcZEjwbQmOfTGpaKPLDP6TSxMeUnTL6kqhsJ4VIFp+hToImtpHQ9RIL51/9Waa4HdTD5IxsN4bhm8enbbYdqQZPLVXfAmd7g6kyPRuVAvq8PKGqbHziCS6WaheH5+tHUw6i6eubh7yZgni5TSgqIpZ+gKzDTn7cImr0/ZdEVvylTrMsd0XmNdrheIuZrIgj8Elh9VDsr5Kmwd+nOUpHL0Haxg2muiwFZtrlUoibb82cTFIGAXIekl55QnHZKvDS50YHgJmuy7t02xb4Ohj98SqmmzrwLcoVAlTI9Q0yazsAu0tpCDazN1PYjaLRLIl3xqyVx5+pTjZeIN6gckcv2ACqB3cSZ9AaObFNdDOU5iNrLd2HyNjs1O6XLhSkswNYTlmnakGgSvdNX8Pc60pxIGEvNVpyu9kpOW9m1LNJDWpHqyoBl2msRgXduOr9O5ayNwU7Ed28+3W1zqP/M7kEHp2XqbexLf4/mDjS76CkaAGUQBDluriXakXlOobx6eC2hItzuH940q/MWtDdDVtfhG7LiIjuoGJsgTBMIu1zEclCh1jd+5WFEiNKQgXgyN9IGL+mWeSPNEEsKCJNMjBlkNzxfjuxoSTTMZ9ktX6vNtyYFfQsVbFGyFTbzXhzxaiAU1IiSDTSswiCc7MMaCT03GECr24XtAfB+MDy45SAoMq6m+eKo4+05FrBGzr0TCo5bpq10Gv/AAlIf8mzLMzVAf6koYdgMaaRa8iDbLaYxEMB7w09m/UHF513JtH7NbIozErK3HAf0cnjljBQJeJZSxrg0bx4SBLEwwYojdt7+8hgD",
+            "page_age": "296 days ago"
+          }
+        ],
+        "caller": {
+          "type": "direct"
+        }
+      },
+      {
+        "type": "text",
+        "text": "Here is a shortlist of the **best luxury and prestige real estate agencies in Melbourne**, with reasons for each:\n\n---\n\n### 🏆 1. **Kay & Burton**\n**Website:** kayburton.com.au\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "## LEADERS IN REAL ESTATE SINCE 1938\nAs trusted advisors to the most astute private clients, families and institutions, Kay & Burton occupies a rarefi...",
+            "url": "https://www.kayburton.com.au/",
+            "title": "Luxury real estate Melbourne",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDGWGxztaDnwS+PMGJhoMowVmB2kM/NJLM/mwIjAraivv9QA3PvQ0gORXoVQ/Qs3SunMgYFnzbh6IEy0QVyHs9yoBt11GLcbAcNGoq20qFatC1hdH1vy+14VQ95WIM0lQlH6o+RgE"
+          }
+        ],
+        "type": "text",
+        "text": "As trusted advisors to the most astute private clients, families and institutions, Kay & Burton occupies a rarefied position within the Australian property landscape. For more than eight decades, their specialist teams have embraced the opportunity to create enduring value for clients through specialist knowledge, impeccable service, trustworthy advice and extraordinary results."
+      },
+      {
+        "type": "text",
+        "text": "\n\n**Why choose them:** One of Melbourne's oldest and most blue-chip prestige agencies (established 1938), with deep roots in Toorak, South Yarra, Portsea and the Mornington Peninsula. Their name is virtually synonymous with top-tier luxury real estate in Melbourne.\n\n---\n\n### 🏆 2. **Marshall White**\n**Website:** marshallwhite.com.au\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Marshall White are the Leading Prestige Real Estate Agents for Luxury Properties in Melbourne.\n\n",
+            "url": "https://www.marshallwhite.com.au/",
+            "title": "Best Luxury Real Estate Agents in Melbourne",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDMqcrZfaQF2P08QuBhoM+hgp37WDideNcqzQIjCFrpwyF5We0bsu5WB9G/0aXihbMhs5l/SyknJ0eEFCPF6yNj7PYe5rn+mT0dXctmgqE1EV6YFoUEFUuoPZ/byEmskU2RwYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Marshall White are the leading prestige real estate agents for luxury properties in Melbourne."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "{\"name\":\"Marshall White\",\"description\":\"Pioneers of prestige since 1964\"}",
+            "url": "https://www.marshallwhite.com.au/",
+            "title": "Best Luxury Real Estate Agents in Melbourne",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDCtW2DqN5XmUYT6HiRoMhCGMSprGGNofL+wGIjAuK5X5H9fwm+rCDofMH794VeLpVh4MD9ThWlCCCptEZhXgcjS6Xgv0mHdio71rRpMqE/Uk6SEhCsphEnAnvMZeO9kuVhoYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "They describe themselves as \"pioneers of prestige since 1964.\""
+      },
+      {
+        "type": "text",
+        "text": "\n\n**Why choose them:** A consistently top-ranked prestige agency with a strong presence in Melbourne's inner-east suburbs such as Armadale, Malvern and Brighton. Known for exceptional auction results and high-profile listings.\n\n---\n\n### 🏆 3. **Jellis Craig**\n**Website:** jelliscraig.com.au\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Jellis Craig is one of Melbourne’s most respected prestige-focused real estate agencies, specializing in high-demand inner-city and eastern suburbs. T...",
+            "url": "https://www.starinvestment.com.au/top-real-estate-companies-melbourne/",
+            "title": "Top 10 Real Estate Companies in Melbourne 2026 Guide",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDJS+a9LE+SbcgzmukBoM8NlmSzPvdsF95jsuIjAEBg1DdgLCm4NqeYhyexhJ0ofJRkSvzCEHdbY2hfdr339n2aB0ualP9Nb/f+6sOrgqFcQV/TricimYxYsczWWGVKRmARMMPRgE"
+          }
+        ],
+        "type": "text",
+        "text": "Jellis Craig is one of Melbourne's most respected prestige-focused real estate agencies, specialising in high-demand inner-city and eastern suburbs, building trust with premium buyers and sellers, especially in areas of strong capital growth and tightly held family homes."
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "### Strength in High Competition, High Value Suburbs\nJellis Craig’s core footprint includes suburbs such as Hawthorn, Kew, Fitzroy, Brunswick, Richmon...",
+            "url": "https://www.starinvestment.com.au/top-real-estate-companies-melbourne/",
+            "title": "Top 10 Real Estate Companies in Melbourne 2026 Guide",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDPKcmeFxm6zltiId+BoMYARGuI6hNmCpKpqxIjD1lrTA9BiYP50rB9xCUhwVv+VMms8FbjMt2WU2lFD+jL+bwEvcQP2opoTbo2vLVlEqE17+qAG5wV08CwVkfFEvj/i7bqwYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Jellis Craig's core footprint includes suburbs such as Hawthorn, Kew, Fitzroy, Brunswick, Richmond, Brighton and South Yarra – areas of high competition and strong buyer demand."
+      },
+      {
+        "type": "text",
+        "text": "\n\n**Why choose them:** Renowned for sophisticated marketing campaigns and strong buyer networks. "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "The agency invests heavily in branding, photography, video storytelling, suburb-specific messaging and database-driven buyer matching.\n\n",
+            "url": "https://www.starinvestment.com.au/top-real-estate-companies-melbourne/",
+            "title": "Top 10 Real Estate Companies in Melbourne 2026 Guide",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDCJbRLmDsj9Y/6EpwRoM6hmhPHQGQKyNFFi/IjD7BLj2X2BFT3Z6fOqeIIP/rSS1MX9V0nWJ9O57lhkcWOTeTJqe+zZmOu4cp6M5OpQqFMDn1Sx97GsXpYGX2xUAqCVTik8TGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "The agency invests heavily in branding, photography, video storytelling, suburb-specific messaging and database-driven buyer matching."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n### 🏆 4. **Private Property Global**\n**Website:** forbesglobalproperties.com/members/private-property-global\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Private Property Global was established as an international bespoke advisory ...\n\n# Private Property Global Luxury real estate agency in Sydney, Melbo...",
+            "url": "https://www.forbesglobalproperties.com/members/private-property-global",
+            "title": "Private Property Global, Luxury real estate agency in Sydney, Melbourne and Gold Coast, Australia",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDKUyHL/U+UcrUQAPWRoMw4P8kk/iIypMKKJ3IjBSdt6ACqrYFf8Wne3LbtTWD3lgNFYpqGnvnKG2bcoeLYOz1LXH67NJmgcE2LiOPBUqE1ii0VbWpL0xBjUbAAR+zcIB9ZcYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Private Property Global was established as an international bespoke advisory service for owners and buyers of trophy homes and homes of historical significance and architectural merit, utilising Forbes Global Properties infrastructure and services."
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "We are the only Australian based residential real estate agency that specialise in the sale of property above $5,000,000 without geographical boundari...",
+            "url": "https://www.forbesglobalproperties.com/members/private-property-global",
+            "title": "Private Property Global, Luxury real estate agency in Sydney, Melbourne and Gold Coast, Australia",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDG8QCZfvCnILuvaPfxoMO511eLxPkIx6Yf9sIjA3ubAw/38gk6f+NQbilIlRrtoh7JGNeh1GxH5qFn/Gonkyk/pwLpWU4bq5M8wYHHoqEwx79pPV46X1q6BLHW33MSrDXLsYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "They are the only Australian-based residential real estate agency that specialises in the sale of property above $5,000,000 without geographical boundaries."
+      },
+      {
+        "type": "text",
+        "text": "\n\n**Why choose them:** Ideal for ultra-high-net-worth buyers and sellers of trophy homes. "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "The Private Property Global team has 20 years of record setting, recalibrating the Australian price benchmark 4 times and achieving the highest annual...",
+            "url": "https://www.forbesglobalproperties.com/members/private-property-global",
+            "title": "Private Property Global, Luxury real estate agency in Sydney, Melbourne and Gold Coast, Australia",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDHhfc2wnYVgpK/DJyRoMAhdFc0vHgMwLAbBSIjB2gvPZDpCr71EjssAZaTjA5xhrP8Gnf7yodpsoA15cMDMOPFdYIwOC4DCWmrssCoUqE1XqeL6++cyJDRUZt1vI5vkjCcsYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "The team has a 20-year track record of record-setting sales, recalibrating the Australian price benchmark 4 times and achieving the highest annual Australian sale in 9 of those years."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n### 🏆 5. **Belle Property**\n**Website:** belleproperty.com\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Belle Property\nBelle Property\n\n\n\nBelle Property specializes in premium properties and is known for its stylish branding and exceptional service.\n\n",
+            "url": "https://www.starinvestment.com.au/top-real-estate-agencies-australia/",
+            "title": "Top 18 Real Estate Agencies in Australia: Ranking the Best in Property Services",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDA8nIQ6P8cU8zIMgmRoMs/rA7tTxOOmdeO7iIjDf0Nd6XAqrksawBxvuPCMhfI4+evF0/VwYum9YYVnrc6Pq6b0BKfHLRwnf5Tz1GksqE0vGtGYC3Huj6rhM4lw4DVfvzIgYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Belle Property specialises in premium properties and is known for its stylish branding and exceptional service."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Belle Property is widely renowned for its specialized focus on premium lifestyle properties and \"beautiful marketing\" strategies that appeal to high-e...",
+            "url": "https://www.juwai.asia/main/news/7093",
+            "title": "Top 10 Real Estate Agencies in Australia: Aussie Property Giants",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDF7KSXyUiJdw3CAg6xoMesfe7xBt6nRJJdVKIjB2kzjVJfU7v1ZC/alQjihbKbojUMveS5NZkpxupLlmKeh65jg/ZOH1FHi1oDy60DAqE+iG4rGAuxDKZQp8OP/sLhcqockYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Belle Property is widely renowned for its specialised focus on premium lifestyle properties and \"beautiful marketing\" strategies that appeal to high-end buyers."
+      },
+      {
+        "type": "text",
+        "text": "\n\n**Why choose them:** A strong national network with a premium Melbourne presence. Particularly popular for its high-quality property presentation and lifestyle-oriented marketing.\n\n---\n\n### Summary Table\n\n| Agency | Est. | Best Known For |\n|---|---|---|\n| **Kay & Burton** | 1938 | Blue-chip prestige, Toorak & Mornington Peninsula |\n| **Marshall White** | 1964 | Inner-east luxury, strong auction results |\n| **Jellis Craig** | 1990s | High-competition suburbs, premium marketing |\n| **Private Property Global** | 2000s | Trophy homes $5M+, international reach |\n| **Belle Property** | 2000s | Lifestyle marketing, stylish branding |\n\n---\n\n**💡 Tip:** If you're buying or selling a trophy property (typically $5M+), Kay & Burton, Marshall White, and Private Property Global are the most specialised. For strong inner-city coverage and marketing reach, Jellis Craig and Belle Property are excellent options."
+      }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 9560,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1205,
+      "service_tier": "standard",
+      "inference_geo": "global",
+      "speed": "standard",
+      "server_tool_use": {
+        "web_search_requests": 1,
+        "web_fetch_requests": 0
+      }
+    },
+    "diagnostics": null
+  }
+}

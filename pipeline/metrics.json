@@ -1,0 +1,1465 @@
+{
+  "generatedAt": "2026-10-21T05:28:14.870Z",
+  "totalAnswers": 280,
+  "totalSerps": 56,
+  "wfMentioned": 26,
+  "wfRatePct": 9.3,
+  "wfTop3": 15,
+  "wfTop3Pct": 5.4,
+  "wfNum1": 11,
+  "wfNum1Pct": 3.9,
+  "wfCited": 9,
+  "wfCitedPct": 3.2,
+  "serpTop10Count": 1,
+  "serpTop20Count": 1,
+  "byPlat": {
+    "chatgpt": {
+      "total": 56,
+      "mentioned": 7,
+      "ratePct": 12.5,
+      "top3": 2,
+      "top3Pct": 3.6,
+      "num1": 2,
+      "cited": 2,
+      "avgChars": 11022,
+      "avgCitations": 38.9
+    },
+    "perplexity": {
+      "total": 56,
+      "mentioned": 8,
+      "ratePct": 14.3,
+      "top3": 6,
+      "top3Pct": 10.7,
+      "num1": 3,
+      "cited": 1,
+      "avgChars": 3123,
+      "avgCitations": 10
+    },
+    "aimode": {
+      "total": 56,
+      "mentioned": 3,
+      "ratePct": 5.4,
+      "top3": 1,
+      "top3Pct": 1.8,
+      "num1": 0,
+      "cited": 0,
+      "avgChars": 4927,
+      "avgCitations": 4.6
+    },
+    "gemini": {
+      "total": 56,
+      "mentioned": 8,
+      "ratePct": 14.3,
+      "top3": 6,
+      "top3Pct": 10.7,
+      "num1": 6,
+      "cited": 6,
+      "avgChars": 5318,
+      "avgCitations": 13.6
+    },
+    "claude": {
+      "total": 56,
+      "mentioned": 0,
+      "ratePct": 0,
+      "top3": 0,
+      "top3Pct": 0,
+      "num1": 0,
+      "cited": 0,
+      "avgChars": 4782,
+      "avgCitations": 7.7
+    }
+  },
+  "byCity": {
+    "melbourne": {
+      "name": "Melbourne",
+      "state": "VIC",
+      "total": 35,
+      "mentioned": 5,
+      "ratePct": 14.3,
+      "top3": 2,
+      "top3Pct": 5.7,
+      "num1": 1,
+      "serpTop10": 1,
+      "serpTotal": 7,
+      "gbp": {
+        "branchCount": 1,
+        "totalReviews": 30,
+        "maxRating": 4.6,
+        "minRating": 4.6,
+        "hasRatedGbp43Plus": true,
+        "inMapsPack20": false,
+        "mapsPackRank": null
+      },
+      "topFirms": [
+        {
+          "name": "Marshall White",
+          "count": 28,
+          "pct": 80
+        },
+        {
+          "name": "Kay & Burton",
+          "count": 24,
+          "pct": 68.6
+        },
+        {
+          "name": "RT Edgar",
+          "count": 19,
+          "pct": 54.3
+        },
+        {
+          "name": "Jellis Craig",
+          "count": 16,
+          "pct": 45.7
+        },
+        {
+          "name": "The Agency",
+          "count": 16,
+          "pct": 45.7
+        },
+        {
+          "name": "Forbes Global Properties",
+          "count": 11,
+          "pct": 31.4
+        },
+        {
+          "name": "Propertybuyer",
+          "count": 10,
+          "pct": 28.6
+        },
+        {
+          "name": "Sotheby's International Realty",
+          "count": 6,
+          "pct": 17.1
+        }
+      ]
+    },
+    "sydney": {
+      "name": "Sydney",
+      "state": "NSW",
+      "total": 35,
+      "mentioned": 2,
+      "ratePct": 5.7,
+      "top3": 0,
+      "top3Pct": 0,
+      "num1": 0,
+      "serpTop10": 0,
+      "serpTotal": 7,
+      "gbp": {
+        "branchCount": 1,
+        "totalReviews": 0,
+        "maxRating": 0,
+        "minRating": 0,
+        "hasRatedGbp43Plus": false,
+        "inMapsPack20": false,
+        "mapsPackRank": null
+      },
+      "topFirms": [
+        {
+          "name": "Ray White",
+          "count": 24,
+          "pct": 68.6
+        },
+        {
+          "name": "Sotheby's International Realty",
+          "count": 19,
+          "pct": 54.3
+        },
+        {
+          "name": "The Agency",
+          "count": 19,
+          "pct": 54.3
+        },
+        {
+          "name": "BresicWhitney",
+          "count": 16,
+          "pct": 45.7
+        },
+        {
+          "name": "McGrath Estate Agents",
+          "count": 11,
+          "pct": 31.4
+        },
+        {
+          "name": "Belle Property",
+          "count": 10,
+          "pct": 28.6
+        },
+        {
+          "name": "Propertybuyer",
+          "count": 9,
+          "pct": 25.7
+        },
+        {
+          "name": "Forbes Global Properties",
+          "count": 9,
+          "pct": 25.7
+        }
+      ]
+    },
+    "brisbane": {
+      "name": "Brisbane",
+      "state": "QLD",
+      "total": 35,
+      "mentioned": 3,
+      "ratePct": 8.6,
+      "top3": 3,
+      "top3Pct": 8.6,
+      "num1": 2,
+      "serpTop10": 0,
+      "serpTotal": 7,
+      "gbp": {
+        "branchCount": 1,
+        "totalReviews": 28,
+        "maxRating": 4.3,
+        "minRating": 4.3,
+        "hasRatedGbp43Plus": true,
+        "inMapsPack20": false,
+        "mapsPackRank": null
+      },
+      "topFirms": [
+        {
+          "name": "Ray White",
+          "count": 27,
+          "pct": 77.1
+        },
+        {
+          "name": "Place Estate Agents",
+          "count": 25,
+          "pct": 71.4
+        },
+        {
+          "name": "The Agency",
+          "count": 14,
+          "pct": 40
+        },
+        {
+          "name": "Sotheby's International Realty",
+          "count": 13,
+          "pct": 37.1
+        },
+        {
+          "name": "McGrath Estate Agents",
+          "count": 13,
+          "pct": 37.1
+        },
+        {
+          "name": "Propertybuyer",
+          "count": 10,
+          "pct": 28.6
+        },
+        {
+          "name": "Belle Property",
+          "count": 4,
+          "pct": 11.4
+        },
+        {
+          "name": "Cohen Handler",
+          "count": 4,
+          "pct": 11.4
+        }
+      ]
+    },
+    "goldcoast": {
+      "name": "Gold Coast",
+      "state": "QLD",
+      "total": 35,
+      "mentioned": 3,
+      "ratePct": 8.6,
+      "top3": 2,
+      "top3Pct": 5.7,
+      "num1": 1,
+      "serpTop10": 0,
+      "serpTotal": 7,
+      "gbp": {
+        "branchCount": 1,
+        "totalReviews": 3,
+        "maxRating": 1,
+        "minRating": 1,
+        "hasRatedGbp43Plus": false,
+        "inMapsPack20": false,
+        "mapsPackRank": null
+      },
+      "topFirms": [
+        {
+          "name": "Kollosche",
+          "count": 27,
+          "pct": 77.1
+        },
+        {
+          "name": "Amir Prestige",
+          "count": 27,
+          "pct": 77.1
+        },
+        {
+          "name": "Ray White",
+          "count": 18,
+          "pct": 51.4
+        },
+        {
+          "name": "Lucy Cole Prestige",
+          "count": 17,
+          "pct": 48.6
+        },
+        {
+          "name": "The Agency",
+          "count": 17,
+          "pct": 48.6
+        },
+        {
+          "name": "Sotheby's International Realty",
+          "count": 9,
+          "pct": 25.7
+        },
+        {
+          "name": "Harcourts",
+          "count": 5,
+          "pct": 14.3
+        },
+        {
+          "name": "McGrath Estate Agents",
+          "count": 5,
+          "pct": 14.3
+        }
+      ]
+    },
+    "perth": {
+      "name": "Perth",
+      "state": "WA",
+      "total": 35,
+      "mentioned": 1,
+      "ratePct": 2.9,
+      "top3": 1,
+      "top3Pct": 2.9,
+      "num1": 1,
+      "serpTop10": 0,
+      "serpTotal": 7,
+      "gbp": {
+        "branchCount": 1,
+        "totalReviews": 144,
+        "maxRating": 3.9,
+        "minRating": 3.9,
+        "hasRatedGbp43Plus": false,
+        "inMapsPack20": false,
+        "mapsPackRank": null
+      },
+      "topFirms": [
+        {
+          "name": "William Porteous Properties",
+          "count": 17,
+          "pct": 48.6
+        },
+        {
+          "name": "Ray White",
+          "count": 17,
+          "pct": 48.6
+        },
+        {
+          "name": "The Agency",
+          "count": 17,
+          "pct": 48.6
+        },
+        {
+          "name": "Belle Property",
+          "count": 12,
+          "pct": 34.3
+        },
+        {
+          "name": "Mack Hall Real Estate",
+          "count": 11,
+          "pct": 31.4
+        },
+        {
+          "name": "Resolve Property Solutions",
+          "count": 8,
+          "pct": 22.9
+        },
+        {
+          "name": "Space Real Estate",
+          "count": 7,
+          "pct": 20
+        },
+        {
+          "name": "Christie's International Real Estate",
+          "count": 4,
+          "pct": 11.4
+        }
+      ]
+    },
+    "adelaide": {
+      "name": "Adelaide",
+      "state": "SA",
+      "total": 35,
+      "mentioned": 5,
+      "ratePct": 14.3,
+      "top3": 3,
+      "top3Pct": 8.6,
+      "num1": 3,
+      "serpTop10": 0,
+      "serpTotal": 7,
+      "gbp": {
+        "branchCount": 1,
+        "totalReviews": 12,
+        "maxRating": 4.7,
+        "minRating": 4.7,
+        "hasRatedGbp43Plus": true,
+        "inMapsPack20": false,
+        "mapsPackRank": null
+      },
+      "topFirms": [
+        {
+          "name": "Giordano & Partners",
+          "count": 22,
+          "pct": 62.9
+        },
+        {
+          "name": "Williams Real Estate",
+          "count": 22,
+          "pct": 62.9
+        },
+        {
+          "name": "Toop&Toop",
+          "count": 20,
+          "pct": 57.1
+        },
+        {
+          "name": "The Agency",
+          "count": 13,
+          "pct": 37.1
+        },
+        {
+          "name": "Harris Real Estate",
+          "count": 9,
+          "pct": 25.7
+        },
+        {
+          "name": "Belle Property",
+          "count": 8,
+          "pct": 22.9
+        },
+        {
+          "name": "Ray White",
+          "count": 8,
+          "pct": 22.9
+        },
+        {
+          "name": "Fox Real Estate",
+          "count": 7,
+          "pct": 20
+        }
+      ]
+    },
+    "peninsula": {
+      "name": "Mornington Peninsula",
+      "state": "VIC",
+      "total": 35,
+      "mentioned": 4,
+      "ratePct": 11.4,
+      "top3": 2,
+      "top3Pct": 5.7,
+      "num1": 1,
+      "serpTop10": 0,
+      "serpTotal": 7,
+      "gbp": {
+        "branchCount": 1,
+        "totalReviews": 4,
+        "maxRating": 3.3,
+        "minRating": 3.3,
+        "hasRatedGbp43Plus": false,
+        "inMapsPack20": false,
+        "mapsPackRank": null
+      },
+      "topFirms": [
+        {
+          "name": "Marshall White",
+          "count": 23,
+          "pct": 65.7
+        },
+        {
+          "name": "Danckert Real Estate",
+          "count": 22,
+          "pct": 62.9
+        },
+        {
+          "name": "Kay & Burton",
+          "count": 21,
+          "pct": 60
+        },
+        {
+          "name": "Sotheby's International Realty",
+          "count": 19,
+          "pct": 54.3
+        },
+        {
+          "name": "Peninsula Sotheby's",
+          "count": 16,
+          "pct": 45.7
+        },
+        {
+          "name": "RT Edgar",
+          "count": 13,
+          "pct": 37.1
+        },
+        {
+          "name": "The Agency",
+          "count": 11,
+          "pct": 31.4
+        },
+        {
+          "name": "Jellis Craig",
+          "count": 7,
+          "pct": 20
+        }
+      ]
+    },
+    "national": {
+      "name": "Australia",
+      "state": "AU",
+      "total": 35,
+      "mentioned": 3,
+      "ratePct": 8.6,
+      "top3": 2,
+      "top3Pct": 5.7,
+      "num1": 2,
+      "serpTop10": 0,
+      "serpTotal": 7,
+      "gbp": {
+        "branchCount": 1,
+        "totalReviews": 30,
+        "maxRating": 4.6,
+        "minRating": 4.6,
+        "hasRatedGbp43Plus": true,
+        "inMapsPack20": false,
+        "mapsPackRank": null
+      },
+      "topFirms": [
+        {
+          "name": "Marshall White",
+          "count": 21,
+          "pct": 60
+        },
+        {
+          "name": "Ray White",
+          "count": 18,
+          "pct": 51.4
+        },
+        {
+          "name": "Kay & Burton",
+          "count": 16,
+          "pct": 45.7
+        },
+        {
+          "name": "McGrath Estate Agents",
+          "count": 13,
+          "pct": 37.1
+        },
+        {
+          "name": "Kollosche",
+          "count": 12,
+          "pct": 34.3
+        },
+        {
+          "name": "The Agency",
+          "count": 12,
+          "pct": 34.3
+        },
+        {
+          "name": "Amir Prestige",
+          "count": 11,
+          "pct": 31.4
+        },
+        {
+          "name": "Sotheby's International Realty",
+          "count": 10,
+          "pct": 28.6
+        }
+      ]
+    }
+  },
+  "byCat": {
+    "luxury_agency": {
+      "category": "Best Luxury Real Estate Agency",
+      "template": "Who are the best luxury real estate agencies in {city}? Give me a shortlist of specific prestige property agencies with reasons.",
+      "total": 40,
+      "mentioned": 4,
+      "ratePct": 10,
+      "top3": 0,
+      "num1": 0,
+      "topFirms": [
+        {
+          "name": "The Agency",
+          "count": 24,
+          "pct": 60
+        },
+        {
+          "name": "Sotheby's International Realty",
+          "count": 18,
+          "pct": 45
+        },
+        {
+          "name": "Ray White",
+          "count": 17,
+          "pct": 42.5
+        },
+        {
+          "name": "Belle Property",
+          "count": 15,
+          "pct": 37.5
+        },
+        {
+          "name": "Marshall White",
+          "count": 14,
+          "pct": 35
+        },
+        {
+          "name": "Kay & Burton",
+          "count": 11,
+          "pct": 27.5
+        }
+      ]
+    },
+    "prestige_selling": {
+      "category": "Selling a $5M–$20M+ Prestige Home",
+      "template": "I am selling a $10M luxury residential property in {city}. Which prestige real estate agencies have the strongest track record for high-end home sales?",
+      "total": 40,
+      "mentioned": 1,
+      "ratePct": 2.5,
+      "top3": 0,
+      "num1": 0,
+      "topFirms": [
+        {
+          "name": "The Agency",
+          "count": 23,
+          "pct": 57.5
+        },
+        {
+          "name": "Sotheby's International Realty",
+          "count": 20,
+          "pct": 50
+        },
+        {
+          "name": "Ray White",
+          "count": 20,
+          "pct": 50
+        },
+        {
+          "name": "McGrath Estate Agents",
+          "count": 15,
+          "pct": 37.5
+        },
+        {
+          "name": "Marshall White",
+          "count": 14,
+          "pct": 35
+        },
+        {
+          "name": "Kay & Burton",
+          "count": 12,
+          "pct": 30
+        }
+      ]
+    },
+    "boutique_luxury": {
+      "category": "Boutique & Design-Led Luxury Agencies",
+      "template": "Which boutique luxury real estate agencies in {city} are best known for modern social media marketing, high-impact video campaigns, and architectural homes?",
+      "total": 40,
+      "mentioned": 15,
+      "ratePct": 37.5,
+      "top3": 13,
+      "num1": 11,
+      "topFirms": [
+        {
+          "name": "WHITEFOX Real Estate",
+          "count": 15,
+          "pct": 37.5
+        },
+        {
+          "name": "The Agency",
+          "count": 12,
+          "pct": 30
+        },
+        {
+          "name": "Fox Real Estate",
+          "count": 10,
+          "pct": 25
+        },
+        {
+          "name": "Ray White",
+          "count": 6,
+          "pct": 15
+        },
+        {
+          "name": "Kay & Burton",
+          "count": 5,
+          "pct": 12.5
+        },
+        {
+          "name": "Place Estate Agents",
+          "count": 5,
+          "pct": 12.5
+        }
+      ]
+    },
+    "off_market": {
+      "category": "Off-Market Prestige & Private Sales",
+      "template": "Which luxury real estate agents and agencies in {city} specialise in confidential off-market prestige property sales and high-net-worth buyer networks?",
+      "total": 40,
+      "mentioned": 2,
+      "ratePct": 5,
+      "top3": 1,
+      "num1": 0,
+      "topFirms": [
+        {
+          "name": "The Agency",
+          "count": 19,
+          "pct": 47.5
+        },
+        {
+          "name": "Ray White",
+          "count": 19,
+          "pct": 47.5
+        },
+        {
+          "name": "Propertybuyer",
+          "count": 17,
+          "pct": 42.5
+        },
+        {
+          "name": "Marshall White",
+          "count": 11,
+          "pct": 27.5
+        },
+        {
+          "name": "Sotheby's International Realty",
+          "count": 10,
+          "pct": 25
+        },
+        {
+          "name": "Kay & Burton",
+          "count": 8,
+          "pct": 20
+        }
+      ]
+    },
+    "luxury_auctions": {
+      "category": "High-End Property Auctioneers",
+      "template": "Who are the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in {city}?",
+      "total": 40,
+      "mentioned": 3,
+      "ratePct": 7.5,
+      "top3": 0,
+      "num1": 0,
+      "topFirms": [
+        {
+          "name": "Ray White",
+          "count": 28,
+          "pct": 70
+        },
+        {
+          "name": "The Agency",
+          "count": 22,
+          "pct": 55
+        },
+        {
+          "name": "Belle Property",
+          "count": 18,
+          "pct": 45
+        },
+        {
+          "name": "Sotheby's International Realty",
+          "count": 17,
+          "pct": 42.5
+        },
+        {
+          "name": "Marshall White",
+          "count": 15,
+          "pct": 37.5
+        },
+        {
+          "name": "Kay & Burton",
+          "count": 15,
+          "pct": 37.5
+        }
+      ]
+    },
+    "buyers_advocacy": {
+      "category": "Luxury Buyers Advocacy & Advisory",
+      "template": "Which luxury real estate agencies or buyers advocates in {city} offer the best buyers advocacy and acquisition advisory for prestige homes?",
+      "total": 40,
+      "mentioned": 0,
+      "ratePct": 0,
+      "top3": 0,
+      "num1": 0,
+      "topFirms": [
+        {
+          "name": "Cohen Handler",
+          "count": 23,
+          "pct": 57.5
+        },
+        {
+          "name": "Propertybuyer",
+          "count": 22,
+          "pct": 55
+        },
+        {
+          "name": "Ray White",
+          "count": 9,
+          "pct": 22.5
+        },
+        {
+          "name": "The Agency",
+          "count": 6,
+          "pct": 15
+        },
+        {
+          "name": "Marshall White",
+          "count": 4,
+          "pct": 10
+        },
+        {
+          "name": "Resolve Property Solutions",
+          "count": 4,
+          "pct": 10
+        }
+      ]
+    },
+    "architectural_projects": {
+      "category": "Luxury Off-the-Plan & Penthouse Projects",
+      "template": "Which prestige real estate agencies in {city} are the market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing?",
+      "total": 40,
+      "mentioned": 1,
+      "ratePct": 2.5,
+      "top3": 1,
+      "num1": 0,
+      "topFirms": [
+        {
+          "name": "Ray White",
+          "count": 17,
+          "pct": 42.5
+        },
+        {
+          "name": "The Agency",
+          "count": 13,
+          "pct": 32.5
+        },
+        {
+          "name": "Marshall White",
+          "count": 12,
+          "pct": 30
+        },
+        {
+          "name": "Sotheby's International Realty",
+          "count": 10,
+          "pct": 25
+        },
+        {
+          "name": "Kay & Burton",
+          "count": 7,
+          "pct": 17.5
+        },
+        {
+          "name": "Kollosche",
+          "count": 7,
+          "pct": 17.5
+        }
+      ]
+    }
+  },
+  "leaderboard": [
+    {
+      "name": "The Agency",
+      "mentions": 119,
+      "top3": 69,
+      "num1": 23,
+      "byPlat": {
+        "chatgpt": 37,
+        "perplexity": 40,
+        "aimode": 5,
+        "gemini": 21,
+        "claude": 16
+      },
+      "byCity": {
+        "melbourne": 16,
+        "sydney": 19,
+        "brisbane": 14,
+        "goldcoast": 17,
+        "perth": 17,
+        "adelaide": 13,
+        "peninsula": 11,
+        "national": 12
+      },
+      "sharePct": 42.5,
+      "top3Pct": 24.6
+    },
+    {
+      "name": "Ray White",
+      "mentions": 116,
+      "top3": 76,
+      "num1": 30,
+      "byPlat": {
+        "chatgpt": 35,
+        "perplexity": 21,
+        "aimode": 18,
+        "gemini": 28,
+        "claude": 14
+      },
+      "byCity": {
+        "melbourne": 3,
+        "sydney": 24,
+        "brisbane": 27,
+        "goldcoast": 18,
+        "perth": 17,
+        "adelaide": 8,
+        "peninsula": 1,
+        "national": 18
+      },
+      "sharePct": 41.4,
+      "top3Pct": 27.1
+    },
+    {
+      "name": "Sotheby's International Realty",
+      "mentions": 82,
+      "top3": 46,
+      "num1": 13,
+      "byPlat": {
+        "chatgpt": 29,
+        "perplexity": 6,
+        "aimode": 14,
+        "gemini": 14,
+        "claude": 19
+      },
+      "byCity": {
+        "melbourne": 6,
+        "sydney": 19,
+        "brisbane": 13,
+        "goldcoast": 9,
+        "perth": 4,
+        "adelaide": 2,
+        "peninsula": 19,
+        "national": 10
+      },
+      "sharePct": 29.3,
+      "top3Pct": 16.4
+    },
+    {
+      "name": "Marshall White",
+      "mentions": 73,
+      "top3": 56,
+      "num1": 24,
+      "byPlat": {
+        "chatgpt": 16,
+        "perplexity": 12,
+        "aimode": 15,
+        "gemini": 17,
+        "claude": 13
+      },
+      "byCity": {
+        "melbourne": 28,
+        "adelaide": 1,
+        "peninsula": 23,
+        "national": 21
+      },
+      "sharePct": 26.1,
+      "top3Pct": 20
+    },
+    {
+      "name": "Kay & Burton",
+      "mentions": 61,
+      "top3": 50,
+      "num1": 23,
+      "byPlat": {
+        "chatgpt": 11,
+        "perplexity": 7,
+        "aimode": 11,
+        "gemini": 20,
+        "claude": 12
+      },
+      "byCity": {
+        "melbourne": 24,
+        "peninsula": 21,
+        "national": 16
+      },
+      "sharePct": 21.8,
+      "top3Pct": 17.9
+    },
+    {
+      "name": "Belle Property",
+      "mentions": 53,
+      "top3": 23,
+      "num1": 4,
+      "byPlat": {
+        "chatgpt": 9,
+        "perplexity": 21,
+        "aimode": 7,
+        "gemini": 4,
+        "claude": 12
+      },
+      "byCity": {
+        "melbourne": 6,
+        "sydney": 10,
+        "brisbane": 4,
+        "perth": 12,
+        "adelaide": 8,
+        "peninsula": 5,
+        "national": 8
+      },
+      "sharePct": 18.9,
+      "top3Pct": 8.2
+    },
+    {
+      "name": "Propertybuyer",
+      "mentions": 50,
+      "top3": 30,
+      "num1": 19,
+      "byPlat": {
+        "chatgpt": 12,
+        "perplexity": 7,
+        "aimode": 5,
+        "gemini": 7,
+        "claude": 19
+      },
+      "byCity": {
+        "melbourne": 10,
+        "sydney": 9,
+        "brisbane": 10,
+        "goldcoast": 4,
+        "perth": 3,
+        "adelaide": 4,
+        "peninsula": 1,
+        "national": 9
+      },
+      "sharePct": 17.9,
+      "top3Pct": 10.7
+    },
+    {
+      "name": "McGrath Estate Agents",
+      "mentions": 47,
+      "top3": 22,
+      "num1": 7,
+      "byPlat": {
+        "chatgpt": 16,
+        "perplexity": 12,
+        "aimode": 4,
+        "gemini": 7,
+        "claude": 8
+      },
+      "byCity": {
+        "melbourne": 4,
+        "sydney": 11,
+        "brisbane": 13,
+        "goldcoast": 5,
+        "perth": 1,
+        "national": 13
+      },
+      "sharePct": 16.8,
+      "top3Pct": 7.9
+    },
+    {
+      "name": "RT Edgar",
+      "mentions": 42,
+      "top3": 24,
+      "num1": 1,
+      "byPlat": {
+        "chatgpt": 8,
+        "perplexity": 7,
+        "aimode": 8,
+        "gemini": 15,
+        "claude": 4
+      },
+      "byCity": {
+        "melbourne": 19,
+        "peninsula": 13,
+        "national": 10
+      },
+      "sharePct": 15,
+      "top3Pct": 8.6
+    },
+    {
+      "name": "Amir Prestige",
+      "mentions": 41,
+      "top3": 28,
+      "num1": 5,
+      "byPlat": {
+        "chatgpt": 6,
+        "perplexity": 7,
+        "aimode": 8,
+        "gemini": 9,
+        "claude": 11
+      },
+      "byCity": {
+        "melbourne": 1,
+        "sydney": 2,
+        "goldcoast": 27,
+        "national": 11
+      },
+      "sharePct": 14.6,
+      "top3Pct": 10
+    },
+    {
+      "name": "Kollosche",
+      "mentions": 39,
+      "top3": 30,
+      "num1": 23,
+      "byPlat": {
+        "chatgpt": 12,
+        "perplexity": 5,
+        "aimode": 4,
+        "gemini": 13,
+        "claude": 5
+      },
+      "byCity": {
+        "goldcoast": 27,
+        "national": 12
+      },
+      "sharePct": 13.9,
+      "top3Pct": 10.7
+    },
+    {
+      "name": "Forbes Global Properties",
+      "mentions": 32,
+      "top3": 17,
+      "num1": 7,
+      "byPlat": {
+        "chatgpt": 1,
+        "perplexity": 0,
+        "aimode": 1,
+        "gemini": 17,
+        "claude": 13
+      },
+      "byCity": {
+        "melbourne": 11,
+        "sydney": 9,
+        "goldcoast": 2,
+        "peninsula": 1,
+        "national": 9
+      },
+      "sharePct": 11.4,
+      "top3Pct": 6.1
+    },
+    {
+      "name": "Cohen Handler",
+      "mentions": 31,
+      "top3": 25,
+      "num1": 14,
+      "byPlat": {
+        "chatgpt": 5,
+        "perplexity": 6,
+        "aimode": 5,
+        "gemini": 12,
+        "claude": 3
+      },
+      "byCity": {
+        "melbourne": 2,
+        "sydney": 7,
+        "brisbane": 4,
+        "goldcoast": 4,
+        "perth": 3,
+        "adelaide": 4,
+        "peninsula": 2,
+        "national": 5
+      },
+      "sharePct": 11.1,
+      "top3Pct": 8.9
+    },
+    {
+      "name": "Place Estate Agents",
+      "mentions": 31,
+      "top3": 26,
+      "num1": 5,
+      "byPlat": {
+        "chatgpt": 6,
+        "perplexity": 5,
+        "aimode": 6,
+        "gemini": 10,
+        "claude": 4
+      },
+      "byCity": {
+        "brisbane": 25,
+        "national": 6
+      },
+      "sharePct": 11.1,
+      "top3Pct": 9.3
+    },
+    {
+      "name": "Jellis Craig",
+      "mentions": 27,
+      "top3": 7,
+      "num1": 1,
+      "byPlat": {
+        "chatgpt": 5,
+        "perplexity": 9,
+        "aimode": 7,
+        "gemini": 3,
+        "claude": 3
+      },
+      "byCity": {
+        "melbourne": 16,
+        "peninsula": 7,
+        "national": 4
+      },
+      "sharePct": 9.6,
+      "top3Pct": 2.5
+    },
+    {
+      "name": "WHITEFOX Real Estate",
+      "mentions": 26,
+      "top3": 15,
+      "num1": 11,
+      "byPlat": {
+        "chatgpt": 7,
+        "perplexity": 8,
+        "aimode": 3,
+        "gemini": 8,
+        "claude": 0
+      },
+      "byCity": {
+        "melbourne": 5,
+        "sydney": 2,
+        "brisbane": 3,
+        "goldcoast": 3,
+        "perth": 1,
+        "adelaide": 5,
+        "peninsula": 4,
+        "national": 3
+      },
+      "sharePct": 9.3,
+      "top3Pct": 5.4
+    },
+    {
+      "name": "Danckert Real Estate",
+      "mentions": 24,
+      "top3": 14,
+      "num1": 5,
+      "byPlat": {
+        "chatgpt": 4,
+        "perplexity": 8,
+        "aimode": 2,
+        "gemini": 4,
+        "claude": 6
+      },
+      "byCity": {
+        "melbourne": 1,
+        "adelaide": 1,
+        "peninsula": 22
+      },
+      "sharePct": 8.6,
+      "top3Pct": 5
+    },
+    {
+      "name": "Christie's International Real Estate",
+      "mentions": 23,
+      "top3": 12,
+      "num1": 2,
+      "byPlat": {
+        "chatgpt": 8,
+        "perplexity": 0,
+        "aimode": 2,
+        "gemini": 2,
+        "claude": 11
+      },
+      "byCity": {
+        "melbourne": 4,
+        "sydney": 6,
+        "brisbane": 1,
+        "perth": 4,
+        "adelaide": 1,
+        "peninsula": 1,
+        "national": 6
+      },
+      "sharePct": 8.2,
+      "top3Pct": 4.3
+    },
+    {
+      "name": "Giordano & Partners",
+      "mentions": 22,
+      "top3": 16,
+      "num1": 5,
+      "byPlat": {
+        "chatgpt": 6,
+        "perplexity": 1,
+        "aimode": 4,
+        "gemini": 7,
+        "claude": 4
+      },
+      "byCity": {
+        "adelaide": 22
+      },
+      "sharePct": 7.9,
+      "top3Pct": 5.7
+    },
+    {
+      "name": "Williams Real Estate",
+      "mentions": 22,
+      "top3": 19,
+      "num1": 11,
+      "byPlat": {
+        "chatgpt": 3,
+        "perplexity": 2,
+        "aimode": 5,
+        "gemini": 7,
+        "claude": 5
+      },
+      "byCity": {
+        "adelaide": 22
+      },
+      "sharePct": 7.9,
+      "top3Pct": 6.8
+    },
+    {
+      "name": "CobdenHayson",
+      "mentions": 21,
+      "top3": 1,
+      "num1": 0,
+      "byPlat": {
+        "chatgpt": 13,
+        "perplexity": 1,
+        "aimode": 1,
+        "gemini": 6,
+        "claude": 0
+      },
+      "byCity": {
+        "melbourne": 1,
+        "sydney": 5,
+        "brisbane": 1,
+        "goldcoast": 1,
+        "perth": 3,
+        "adelaide": 5,
+        "peninsula": 3,
+        "national": 2
+      },
+      "sharePct": 7.5,
+      "top3Pct": 0.4
+    },
+    {
+      "name": "Toop&Toop",
+      "mentions": 21,
+      "top3": 15,
+      "num1": 6,
+      "byPlat": {
+        "chatgpt": 6,
+        "perplexity": 5,
+        "aimode": 4,
+        "gemini": 5,
+        "claude": 1
+      },
+      "byCity": {
+        "adelaide": 20,
+        "national": 1
+      },
+      "sharePct": 7.5,
+      "top3Pct": 5.4
+    },
+    {
+      "name": "BresicWhitney",
+      "mentions": 18,
+      "top3": 7,
+      "num1": 3,
+      "byPlat": {
+        "chatgpt": 3,
+        "perplexity": 3,
+        "aimode": 1,
+        "gemini": 8,
+        "claude": 3
+      },
+      "byCity": {
+        "sydney": 16,
+        "national": 2
+      },
+      "sharePct": 6.4,
+      "top3Pct": 2.5
+    },
+    {
+      "name": "Lucy Cole Prestige",
+      "mentions": 18,
+      "top3": 13,
+      "num1": 1,
+      "byPlat": {
+        "chatgpt": 4,
+        "perplexity": 3,
+        "aimode": 4,
+        "gemini": 1,
+        "claude": 6
+      },
+      "byCity": {
+        "goldcoast": 17,
+        "national": 1
+      },
+      "sharePct": 6.4,
+      "top3Pct": 4.6
+    },
+    {
+      "name": "Fox Real Estate",
+      "mentions": 17,
+      "top3": 6,
+      "num1": 1,
+      "byPlat": {
+        "chatgpt": 3,
+        "perplexity": 6,
+        "aimode": 1,
+        "gemini": 7,
+        "claude": 0
+      },
+      "byCity": {
+        "brisbane": 2,
+        "goldcoast": 1,
+        "perth": 1,
+        "adelaide": 7,
+        "peninsula": 4,
+        "national": 2
+      },
+      "sharePct": 6.1,
+      "top3Pct": 2.1
+    }
+  ],
+  "irls": {
+    "n": 280,
+    "positives": 26,
+    "iterations": 30,
+    "coefficients": [
+      {
+        "name": "Intercept (β₀)",
+        "beta": -5.101,
+        "se": 0.771,
+        "z": -6.61,
+        "or": null,
+        "ci95": null,
+        "pValue": "<0.001"
+      },
+      {
+        "name": "Boutique & Design-Led Positioning Query (X₁)",
+        "beta": 2.725,
+        "se": 0.494,
+        "z": 5.52,
+        "or": 15.26,
+        "ci95": [
+          5.79,
+          40.17
+        ],
+        "pValue": "<0.001"
+      },
+      {
+        "name": "Verified Local GBP ≥4.3★ & ≥10 Reviews (X₂)",
+        "beta": 0.736,
+        "se": 0.489,
+        "z": 1.51,
+        "or": 2.09,
+        "ci95": [
+          0.8,
+          5.44
+        ],
+        "pValue": "0.1320"
+      },
+      {
+        "name": "Multi-Source Web Grounding ≥10 Citations (X₃)",
+        "beta": 2.183,
+        "se": 0.673,
+        "z": 3.25,
+        "or": 8.87,
+        "ci95": [
+          2.37,
+          33.18
+        ],
+        "pValue": "0.0012"
+      }
+    ]
+  }
+}

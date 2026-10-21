@@ -1,0 +1,282 @@
+{
+  "slug": "adelaide",
+  "pk": "off_market",
+  "plat": "claude",
+  "text": "Which luxury real estate agents and agencies in Adelaide specialise in confidential off-market prestige property sales and high-net-worth buyer networks?",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\adelaide__off_market__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:19:21.876Z",
+  "cost": 0.065077,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10879,
+      "output_tokens": 1456,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.064477,
+      "datetime": "2026-10-21 05:19:21 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a comprehensive overview of the luxury real estate landscape in Adelaide, with a focus on agents and agencies known for confidential off-market prestige property sales and high-net-worth buyer networks:\n\n---\n\n## 🏡 Adelaide's Off-Market Prestige Property Market: Key Agents & Agencies\n\n### Understanding the Market First\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Off-market activity remains a defining characteristic of the Adelaide prestige market. A meaningful proportion of high-value transactions, particularly those involving trophy homes or tightly held family estates, occur before properties are formally listed.",
+              "annotations": [
+                {
+                  "title": "Adelaide's Prestige Residential Market: Confidence, Scarcity and a New Price Reality",
+                  "url": "https://opteonsolutions.com/au/insights/adelaides-prestige-residential-market-confidence-scarcity-and-a-new-price-reality",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Many of these properties are listed with prestige real estate agents who maintain their own buyer lists, rather than running marketing campaigns on online real estate platforms.",
+              "annotations": [
+                {
+                  "title": "Why The Top End Plays By Different Rules",
+                  "url": "https://opteonsolutions.com/au/insights/inside-prestige-property-valuations",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "High-net-worth buyers, particularly those relocating from Sydney and Melbourne, continue to view Adelaide's prestige suburbs as representing genuine relative value.",
+              "annotations": [
+                {
+                  "title": "Adelaide's Prestige Residential Market: Confidence, Scarcity and a New Price Reality",
+                  "url": "https://opteonsolutions.com/au/insights/adelaides-prestige-residential-market-confidence-scarcity-and-a-new-price-reality",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 🔑 Key Agencies & Agents to Know\n\n---\n\n#### 1. **Williams Luxury Real Estate (Williams Real Estate)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Williams Luxury Real Estate positions itself as South Australia's leading luxury real estate agency, with a focus on selling with \"Strategy, Style and Sophistication.\"",
+              "annotations": [
+                {
+                  "title": "Williams Luxury Real Estate",
+                  "url": "https://www.facebook.com/WILLIAMSLuxuryProperty/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Williams Luxury Real Estate",
+                  "url": "https://www.facebook.com/WILLIAMSLuxuryProperty/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Their agents, such as **Dee-Anne Hunt**, have been involved in some of South Australia's most significant prestige listings. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Hunt described one of their listings as \"one of the best quality properties on the market in South Australia at the moment,\" seeking buyers able to part with a sum in excess of $6.5 million.",
+              "annotations": [
+                {
+                  "title": "Adelaide Hills estate Glynhurst is where luxury meets lifestyle",
+                  "url": "https://www.commercialrealestate.com.au/news/adelaide-hills-estate-glynhurst-hits-the-market-with-6-5-price-tag-1433690/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Adelaide Hills estate Glynhurst is where luxury meets lifestyle",
+                  "url": "https://www.commercialrealestate.com.au/news/adelaide-hills-estate-glynhurst-hits-the-market-with-6-5-price-tag-1433690/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n#### 2. **Belle Property Australia (Adelaide)**\nBelle Property is a nationally recognised luxury brand with a strong Adelaide presence. They are active across premier prestige suburbs and are listed on international luxury platforms such as JamesEdition, indicating exposure to global high-net-worth buyers. Their agents — including **Neal Kelly**, **John McRostie**, and **Eric Jem** — handle prestige listings across suburbs like Wayville, Unley, Burnside, and Auldana.\n\n---\n\n#### 3. **Cohen Handler (Buyers' Agency)**\nWhile Cohen Handler operates on the *buyer* side rather than the selling side, they are a critical player for HNW buyers seeking confidential off-market access. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Cohen Handler is Australia's leading national property buyer's agent with decades of experience in Adelaide and across Australia, with a team deeply entrenched in the Adelaide market who have built relationships with local sales agents, property managers, and other key professionals.",
+              "annotations": [
+                {
+                  "title": "Buyers Agent Adelaide - Cohen Handler",
+                  "url": "https://cohenhandler.com.au/adelaide/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Through their Adelaide buyer's agency, they can access exclusive properties, both off-market and pre-market, and can secure properties others simply can't.",
+              "annotations": [
+                {
+                  "title": "Buyers Agent Adelaide - Cohen Handler",
+                  "url": "https://cohenhandler.com.au/adelaide/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n#### 4. **Harcourts Adelaide Hills**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Awarded by REB as the Top Regional Real Estate Office in Regional Australia, Harcourts Adelaide Hills covers residential properties, rural agribusiness, investments, commercial properties, and prestige luxury estates across the Adelaide Hills region.",
+              "annotations": [
+                {
+                  "title": "Harcourts Adelaide Hills",
+                  "url": "https://harcourts.net/au/office/adelaide-hills",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Harcourts Adelaide Hills",
+                  "url": "https://harcourts.net/au/office/adelaide-hills",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are well-suited for HNW buyers seeking privacy and lifestyle properties.\n\n---\n\n#### 5. **Adelaide Hills Real Estate (AHRE)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "AHRE holds an outstanding reputation as the prestige property leaders in Mount Barker and the Adelaide Hills, committed to providing homeowners, property buyers, and investors with first-class service based on integrity, innovation, expertise, and community.",
+              "annotations": [
+                {
+                  "title": "Adelaide Hills Real Estate - Home Page",
+                  "url": "https://www.ahre.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Adelaide Hills Real Estate - Home Page",
+                  "url": "https://www.ahre.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 📍 Top Prestige Suburbs to Target\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Luxury homes finished to a high standard in premium locations such as **Medindie, Glenelg, Tennyson, and Somerton Park** are selling quickly and regularly achieving sales of more than $5 million.",
+              "annotations": [
+                {
+                  "title": "Why The Top End Plays By Different Rules",
+                  "url": "https://opteonsolutions.com/au/insights/inside-prestige-property-valuations",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Other top suburbs include:\n- **Toorak Gardens & Medindie** – famous for luxury heritage homes with expansive gardens\n- **North Adelaide** – prime for luxury apartments and exclusive estates\n- **Glenelg & Henley Beach** – ideal for beachfront mansions with ocean views\n- **Burnside & Stirling** – popular for hillside homes with scenic landscapes and privacy",
+              "annotations": [
+                {
+                  "title": "Adelaide’s Most Luxurious Homes: Where to Find the Best High-End Properties",
+                  "url": "https://www.ozirealty.com.au/post/adelaide-s-most-luxurious-homes-where-to-find-the-best-high-end-properties",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 💡 Tips for Accessing Off-Market Prestige Properties in Adelaide\n\n1. **Engage a specialist buyer's agent** like Cohen Handler, who already have established relationships with listing agents and access to pre-market and off-market stock.\n2. **Work directly with boutique luxury agencies** like Williams Luxury Real Estate, who maintain private buyer registers.\n3. **Leverage international platforms** such as JamesEdition, where Adelaide luxury agents list properties for global HNW audiences.\n4. **Act quickly** — ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "the prestige market is largely driven by high-net-worth buyers prioritising asset security, lifestyle quality, and long-term capital preservation, further underpinned by the scarcity of trophy homes, which are typically tightly held and only brought to market following major lifestyle shifts or deliberate portfolio rebalancing.",
+              "annotations": [
+                {
+                  "title": "Why The Top End Plays By Different Rules",
+                  "url": "https://opteonsolutions.com/au/insights/inside-prestige-property-valuations",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n> **Note:** For the most current and confidential off-market opportunities, it is strongly recommended to contact these agencies directly and express your specific buyer brief, as the most exclusive properties often never appear publicly online.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "luxury real estate agents Adelaide off-market prestige property sales high-net-worth",
+        "Adelaide luxury real estate agencies confidential off-market property 2025"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "peninsula",
+  "pk": "boutique_luxury",
+  "plat": "perplexity",
+  "text": "Which boutique luxury real estate agencies in Mornington Peninsula are best known for modern social media marketing, high-impact video campaigns, and architectural homes?",
+  "loc": 9056918,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\peninsula__boutique_luxury__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:19:41.090Z",
+  "cost": 0.006268,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 36,
+      "output_tokens": 632,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005668,
+      "datetime": "2026-10-21 05:19:40 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "The strongest shortlist is **Danckert Real Estate, Scenic Property, WHITEFOX Peninsula, and Seachange Property**—with **Black Fox** and **Buxton Flinders** also worth considering for premium presentation and boutique service.\n\n- **Danckert Real Estate — best overall fit for luxury, lifestyle and international reach.** The Mount Martha agency builds a distinct brand and story around each prestige property, combining targeted editorial coverage, online and social-media promotion, data-led campaigns, and international buyer exposure.[1][10] Its positioning is particularly suited to architecturally distinctive coastal homes where narrative and lifestyle presentation matter.\n\n- **Scenic Property — strongest boutique, locally produced campaign approach.** Based in Dromana, Scenic describes itself as a boutique Mornington Peninsula agency and uses a curated team of local photographers, graphic designers and videographers to create premium marketing campaigns.[2] It is a good fit for vendors wanting polished visual content with strong Peninsula identity.\n\n- **WHITEFOX Peninsula — strongest social-media and high-impact video credentials.** WHITEFOX explicitly promotes in-house video production, deliberate social-media strategy, hyper-targeted digital campaigns and luxury-property presentation.[7] Its Peninsula presence includes Red Hill and Mornington listings, making it especially relevant for design-led or architecturally ambitious homes seeking a more fashion-forward campaign style.\n\n- **Seachange Property — strongest architectural-home specialisation.** Founder Geoff Oxford combines real-estate experience with a building background and specifically positions the agency around architecturally designed lifestyle homes, including evaluating design, quality and location.[9] This may suit owners who need an agent able to understand and communicate architectural value rather than simply market bedroom counts.\n\n- **Black Fox Real Estate — boutique premium-service alternative.** Black Fox describes itself as a boutique Mornington Peninsula agency offering tailored, high-end service, elite marketing campaigns and high-quality presentation.[4] Publicly available material supports its premium positioning, although less specific evidence is available on its video and social-media execution than for WHITEFOX or Danckert.\n\n- **Buxton Flinders — established boutique option with sophisticated technology.** The Flinders office has evolved from an intimate boutique agency into a Peninsula network leader, highlighting innovative marketing and sophisticated technology across coastal residences and lifestyle properties.[8] It is worth including when local reach and a larger Peninsula network are priorities.\n\n**Best match by priority**\n\n| Priority | Best fit |\n|---|---|\n| Modern social media and cinematic video | WHITEFOX Peninsula |\n| Luxury lifestyle storytelling and international exposure | Danckert Real Estate |\n| Architectural homes and design credibility | Seachange Property |\n| Boutique visual campaign production | Scenic Property |\n| High-touch premium service | Black Fox Real Estate |\n| Peninsula-wide network plus technology | Buxton Flinders |\n\nFor a genuinely architectural home, the most compelling first comparison would be **WHITEFOX Peninsula, Danckert and Seachange**: they offer the clearest combination of premium positioning, distinctive marketing and relevance to design-led properties.[1][7][9]",
+              "annotations": [
+                {
+                  "title": "MARKETING YOUR PRESTIGE PROPERTY",
+                  "url": "https://danckert.com.au/article/marketing-your-prestige-property",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Scenic Property | Real Estate Agency in Dromana, VIC 3936 - Domain",
+                  "url": "https://www.domain.com.au/real-estate-agencies/scenicproperty-35167/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "McNeill Real Estate: Mornington Real Estate Agents ...",
+                  "url": "https://www.mcneillrealestate.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Black Fox Real Estate – Experience the Black Fox difference",
+                  "url": "https://blackfoxrealestate.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Mt Martha Real Estate | Real Estate Mornington | Danckert ...",
+                  "url": "https://www.danckertaccess.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Portfolio",
+                  "url": "https://www.patchcreative.com.au/portfolio",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Ryan O'Connor",
+                  "url": "https://www.whitefoxrealestate.com.au/im/ryan-oconnor/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Flinders - Buxton Mornington Peninsula",
+                  "url": "https://buxtonmorningtonpeninsula.com.au/offices/flinders/11/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Geoff Oxford | LinkedIn",
+                  "url": "https://www.linkedin.com/in/geoff-oxford-919b8565",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Danckert Real Estate: Mornington Peninsula Real Estate Agents",
+                  "url": "https://danckert.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

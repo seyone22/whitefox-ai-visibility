@@ -1,0 +1,106 @@
+{
+  "slug": "national",
+  "pk": "off_market",
+  "plat": "perplexity",
+  "text": "Which luxury real estate agents and agencies in Australia specialise in confidential off-market prestige property sales and high-net-worth buyer networks?",
+  "loc": 2036,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\national__off_market__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:21:04.137Z",
+  "cost": 0.00619,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 33,
+      "output_tokens": 557,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.00559,
+      "datetime": "2026-10-21 05:21:04 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Several Australian agencies and specialists explicitly position themselves around **confidential off-market prestige sales** and access to high-net-worth buyer networks:\n\n- **North South Real Estate (NSRE)** — Brisbane, Gold Coast, Byron Bay and Northern NSW. Offers private prestige listings, off-market buyer advocacy, VIP access and a private alert program for trophy homes and luxury apartments.[3][5]\n- **BFP Property Group** — Sydney, Melbourne, Brisbane and Adelaide. A boutique luxury buyers’ agency focused on confidential acquisition of listed and off-market properties for high-net-worth clients.[1]\n- **Moove Luxury Buyers Agents** — Australia-wide buyer representation. Uses agent networks and private channels to source off-market and pre-market prestige properties while protecting buyer anonymity.[6]\n- **Brian McAllister Properties / The Agency** — Perth. Runs discreet, qualified-buyer campaigns that may involve no portal listing or signboard, supported by The Agency’s national database and interstate networks.[2]\n- **Levy Property Group** — Sydney’s eastern suburbs, including Double Bay and Vaucluse. Promotes private sales, qualified HNWI and international-investor networks, and direct buyer matching for tightly held prestige homes.[8][9]\n- **Nortons Real Estate** — Brisbane and Gold Coast. Combines luxury campaign execution with local, interstate and international buyer networks aimed at qualified high-net-worth purchasers.[10]\n- **North South Real Estate’s Nik and Aika Seirlis** — Particularly relevant where a principal-led service is preferred. They handle prestige sales and buyer advocacy personally and promote discreet opportunities across Queensland and Northern NSW.[3][5]\n- **Emily Barron / Noosa & Coast Buyers Agents** — Noosa and the Sunshine Coast. Focuses on discreet access to local off-market and pre-market opportunities through established relationships with agents, developers and community contacts.[4]\n\nFor a **seller**, the strongest apparent fits are NSRE, Brian McAllister/The Agency, Levy Property Group and Nortons. For a **buyer seeking confidential representation**, BFP, Moove, NSRE and Noosa & Coast Buyers Agents are the more directly relevant options.\n\nBefore appointing an agent, ask for:\n\n- Evidence of recent off-market prestige transactions in the relevant suburb.\n- The size and quality—not merely the size—of their qualified buyer database.\n- Their process for verifying funds, identity and confidentiality.\n- Whether they can use NDAs, controlled inspections and anonymised property information.\n- A clear comparison between an entirely private sale and a limited-access or “quiet” campaign.\n- Written disclosure of agency fees, conflicts of interest and whether the firm represents both buyer and seller.",
+              "annotations": [
+                {
+                  "title": "Luxury Buyers Agent Sydney | Contact Us | BFP Property",
+                  "url": "https://bfpproperty.com/luxury-buyers",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Luxury & Prestige Property Sales Perth — Discreet Campaigns",
+                  "url": "https://brianmcallisterproperties.com/luxury-property-sales/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Luxury Real Estate Agent | Brisbane, Gold Coast & Byron Bay",
+                  "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Unlocking the Secrets to Securing Your… | Emily Barron",
+                  "url": "https://www.buyersagents.com.au/agents/emily-barron/posts/unlocking-the-secrets-to-securing-your-dream-luxury-home-without-breaking-the-bank",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Buyers Agent Gold Coast | Buyers Advocate Brisbane & ...",
+                  "url": "https://www.nsre.com.au/buyers-agent-brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Luxury and Prestige Buyers",
+                  "url": "https://www.moove.com.au/service/prestige-buyers-agent",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 100 Luxury Real Estate Companies in Australia (2026)",
+                  "url": "https://ensun.io/search/luxury-real-estate/australia",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Real Estate Agent in Double Bay",
+                  "url": "https://www.levypropertygroup.com.au/suburb/double-bay/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Real Estate Agent Vaucluse",
+                  "url": "https://www.levypropertygroup.com.au/suburb/vaucluse/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Sell for Top Dollar - Gold Coast & Brisbane Real Estate",
+                  "url": "https://nortonsrealestate.com/luxury",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

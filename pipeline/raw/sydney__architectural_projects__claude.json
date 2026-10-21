@@ -1,0 +1,169 @@
+{
+  "slug": "sydney",
+  "pk": "architectural_projects",
+  "plat": "claude",
+  "text": "Which prestige real estate agencies in Sydney are the market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing?",
+  "loc": 1000286,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\sydney__architectural_projects__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:15:02.075Z",
+  "cost": 0.116587,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 27049,
+      "output_tokens": 1656,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.115987,
+      "datetime": "2026-10-21 05:15:02 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Based on my knowledge of the Sydney prestige real estate market, supplemented by the search results, here is a comprehensive overview of the **market-leading prestige real estate agencies in Sydney** for luxury off-the-plan developments, penthouses, and architectural project marketing:\n\n---\n\n## 🏙️ Sydney's Top Prestige Real Estate Agencies for Luxury Developments\n\n---\n\n### 1. **Ken Jacobs / Christie's International Real Estate**\nKen Jacobs is one of Australia's most recognised ultra-high-net-worth property specialists. Operating under the Christie's International Real Estate banner, the agency is synonymous with trophy homes, landmark penthouses, and discreet off-market sales. Ken Jacobs has handled some of Sydney's most significant residential transactions, including properties in Point Piper, Vaucluse, and Bellevue Hill.\n\n---\n\n### 2. **1st City Real Estate**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "1st City agents Brad Caldwell-Eyles and Yaron Foghel are actively marketing flagship luxury developments",
+              "annotations": [
+                {
+                  "title": "Sydney’s five standout penthouses for 2025",
+                  "url": "https://kanebridgenews.com/sydneys-five-standout-penthouses-for-2025/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " such as the **Origami** tower in Bondi Junction — ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "the highest-end new development in Bondi Junction, designed by legendary Japanese architect Koichi Takada, renowned for his award-winning, cutting-edge designs that have shaped the skylines of Sydney and the Gold Coast.",
+              "annotations": [
+                {
+                  "title": "Sydney’s five standout penthouses for 2025",
+                  "url": "https://kanebridgenews.com/sydneys-five-standout-penthouses-for-2025/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " 1st City is widely regarded as one of Sydney's premier boutique agencies for architecturally significant off-the-plan project marketing.\n\n---\n\n### 3. **Laing+Simmons Double Bay & Bondi Beach (D'Leanne Lewis)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "D'Leanne Lewis of Laing+Simmons Double Bay & Bondi Beach",
+              "annotations": [
+                {
+                  "title": "19 Luxury Apartments for Sale in Sydney",
+                  "url": "https://www.properstar.com.au/australia/sydney/buy/flat/luxury",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "19 Luxury Apartments for Sale in Sydney",
+                  "url": "https://www.properstar.com.au/australia/sydney/buy/flat/luxury",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " is one of Sydney's most celebrated prestige agents, consistently ranking among the top performers in the eastern suburbs luxury market. The agency handles high-end penthouses in locations like ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Point Piper",
+              "annotations": [
+                {
+                  "title": "19 Luxury Apartments for Sale in Sydney",
+                  "url": "https://www.properstar.com.au/australia/sydney/buy/flat/luxury",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " and Darling Point, as well as architecturally significant residences.\n\n---\n\n### 4. **Knight Frank Australia**\nKnight Frank is a globally respected agency with a strong Sydney presence, particularly in the super-prime and ultra-luxury segment. They are regularly appointed as project marketers for landmark residential towers and have been involved in major developments in Barangaroo, the CBD, and the Eastern Suburbs. Their international reach makes them a preferred choice for developers targeting overseas buyers.\n\n---\n\n### 5. **Sotheby's International Realty Australia**\nSotheby's International Realty is a key player in Sydney's prestige market, particularly for waterfront estates, penthouses, and luxury off-the-plan apartments. Their global brand recognition and international buyer network make them highly effective for marketing architectural projects to high-net-worth individuals locally and abroad.\n\n---\n\n### 6. **Private Property Global (Forbes Global Properties)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Private Property Global is a luxury real estate agency operating across Sydney, Melbourne, and the Gold Coast, established as an international bespoke advisory.",
+              "annotations": [
+                {
+                  "title": "Private Property Global, Luxury real estate agency in Sydney, Melbourne and Gold Coast, Australia",
+                  "url": "https://www.forbesglobalproperties.com/members/private-property-global",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Private Property Global, Luxury real estate agency in Sydney, Melbourne and Gold Coast, Australia",
+                  "url": "https://www.forbesglobalproperties.com/members/private-property-global",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " As a member of **Forbes Global Properties**, it markets ultra-premium penthouses and architectural residences to a global audience of high-net-worth buyers.\n\n---\n\n### 7. **CBRE Residential Projects**\nCBRE's dedicated residential projects division is one of the most active project marketing agencies in Sydney, handling large-scale luxury off-the-plan developments. They have been involved in some of Sydney's most iconic residential towers, including developments at **Barangaroo** and **One Sydney Harbour** — ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "the site of Australia's most expensive home sale to date, a penthouse at One Sydney Harbour, Barangaroo, which sold for $141.55 million, finalised in July 2025.",
+              "annotations": [
+                {
+                  "title": "Sydney’s Most Expensive Property Sales in 2025",
+                  "url": "https://www.cumberlandrg.com.au/post?post_id=16950",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Sydney’s Most Expensive Property Sales in 2025",
+                  "url": "https://www.cumberlandrg.com.au/post?post_id=16950",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 8. **JLL Residential (Jones Lang LaSalle)**\nJLL's residential arm is a major force in Sydney's luxury project marketing space, working with tier-one developers on premium apartment towers. Their data-driven approach and institutional relationships make them a go-to for large-scale prestige developments.\n\n---\n\n### 9. **BresicWhitney**\nWhile primarily known as a leading Sydney sales agency, BresicWhitney has carved a niche in architecturally significant homes and design-led properties across the Inner West, Eastern Suburbs, and Lower North Shore. They are increasingly involved in boutique luxury developments.\n\n---\n\n### 10. **Ray White Prestige / Ray White Double Bay**\nRay White's prestige division, particularly out of Double Bay, is a strong performer in the Sydney luxury apartment and penthouse market, with agents regularly handling multi-million dollar listings across the Eastern Suburbs.\n\n---\n\n## 🔑 Key Precincts These Agencies Focus On:\n| Precinct | Notable Luxury Activity |\n|---|---|\n| **Barangaroo** | Super-prime towers, record-breaking penthouses |\n| **Bondi Junction** | Architecturally led off-the-plan projects (e.g., Origami) |\n| **Point Piper / Darling Point** | Trophy waterfront penthouses |\n| **The Rocks / CBD** | Heritage redevelopments & sky-high penthouses |\n| **Mosman / Lower North Shore** | Boutique prestige developments |\n\n---\n\n> **💡 Pro Tip:** For off-the-plan project marketing specifically, agencies like **1st City**, **CBRE Residential Projects**, **Knight Frank**, and **JLL** tend to be appointed by developers at the project inception stage, while boutique agencies like **Ken Jacobs/Christie's**, **Private Property Global**, and **Sotheby's** excel in bespoke, discreet sales of completed penthouses and trophy homes.\n\nWould you like more detail on any specific agency, precinct, or type of development?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "prestige real estate agencies Sydney luxury off-the-plan developments penthouses 2025",
+        "top Sydney architectural project marketing luxury real estate agencies 2025",
+        "leading Sydney prestige real estate agencies luxury project marketing penthouses 2025",
+        "best luxury real estate agencies Sydney off-the-plan project marketing 2025 Sotheby's Knight Frank"
+      ]
+    }
+  ]
+}

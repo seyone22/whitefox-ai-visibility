@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane",
+  "pk": "boutique_luxury",
+  "plat": "perplexity",
+  "text": "Which boutique luxury real estate agencies in Brisbane are best known for modern social media marketing, high-impact video campaigns, and architectural homes?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\brisbane__boutique_luxury__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:15:00.404Z",
+  "cost": 0.006221,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 34,
+      "output_tokens": 587,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005621,
+      "datetime": "2026-10-21 05:15:00 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "The strongest Brisbane fits are **WHITEFOX Brisbane, Hutton & Hutton, Style Estate Agents, North South Real Estate, and selected high-profile agents at Place Estate Agents**. They combine boutique or premium positioning with strong visual presentation, digital reach, and experience selling contemporary, prestige, or architect-designed homes.\n\n- **WHITEFOX Brisbane** — Best for highly polished, design-led campaigns. Its Brisbane office focuses on luxury residential property and showcases architectural projects such as a Bardon home designed by Joe Adsett Architects and developed by GRAYA.[8]\n\n- **Hutton & Hutton** — One of the clearest boutique matches for contemporary inner-city homes and luxury apartments. The agency limits its active listings to a small number of luxury homes and boutique projects, supporting a more customised campaign approach.[4]\n\n- **Style Estate Agents** — Suited to sellers wanting a boutique agency specialising in inner Brisbane’s finer properties. Its marketing includes high-definition video tours, detailed online listings, floor plans, and premium print and digital exposure.[3]\n\n- **North South Real Estate** — A strong option for trophy homes, prestige apartments, landmark residences, and discreet high-value campaigns. It describes its model as principal-led, property-specific, and supported by professional media, private events, and tailored exposure.[6]\n\n- **Place Estate Agents — especially Drew Davies** — Best for maximum social reach and cinematic storytelling rather than a strictly small-agency model. Davies is reported to specialise in Brisbane’s prestige market, using lifestyle-led video and a substantial Instagram audience to amplify campaigns.[7]\n\n- **Remy’s Real Estate** — Worth considering for a genuinely boutique, personal-brand-led campaign, particularly in Brisbane’s southern suburbs. Its approach centres on storytelling, relationship marketing, and social content designed to build buyer trust before and during the campaign.[7]\n\n- **Plum Property — particularly Daniel Lee** — A good fit when high-production video and social storytelling are priorities but a larger independent agency platform is also valuable. Lee is described as an early adopter of entertaining property video and content-led marketing for Brisbane homes.[7]\n\n**Best shortlist by priority:**\n\n| Priority | Best fit |\n|---|---|\n| Architectural and design-led homes | WHITEFOX Brisbane, Hutton & Hutton |\n| Boutique luxury service | Hutton & Hutton, North South Real Estate |\n| High-impact social media and video | Place/Drew Davies, Plum Property/Daniel Lee |\n| Inner-Brisbane prestige homes | Style Estate Agents, WHITEFOX Brisbane |\n| Highly personalised southern-suburbs campaign | Remy’s Real Estate |\n\nFor a genuinely architectural home, the most targeted first conversations would be **WHITEFOX Brisbane, Hutton & Hutton, and North South Real Estate**, then **Drew Davies at Place** if maximum social visibility is the overriding goal.",
+              "annotations": [
+                {
+                  "title": "Eternal Media | Brisbane Creative Agency",
+                  "url": "https://eternalmedia.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AGNT Real Estate Media",
+                  "url": "https://agntmedia.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Style Estate Agents | LinkedIn",
+                  "url": "https://www.linkedin.com/in/style-estate-agents-41766491",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Hutton & Hutton page | PropertyMash",
+                  "url": "https://propertymash.com/industry-participants-cat/marketing-agents/hutton-hutton/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The 11 Best Real Estate Branding Agencies in Australia for ... - Flornt",
+                  "url": "https://flornt.com.au/blog/the-11-best-real-estate-branding-agencies-in-australia-for-independent-agents",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Luxury Real Estate Agent | Brisbane, Gold Coast & Byron Bay",
+                  "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Best Real Estate Agents in Brisbane: We Found the Top 5 (Marketing Edition)",
+                  "url": "https://theresearcher.com.au/best-real-estate-agents-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "WHITEFOX Brisbane - WHITEFOX Real Estate",
+                  "url": "https://brisbane.whitefoxrealestate.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "11 Best Digital Marketing Agencies in Brisbane (2026) - noir & blanco",
+                  "url": "https://noirandblanco.com/best-digital-marketing-agencies-in-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Sell for Top Dollar - Gold Coast & Brisbane Real Estate",
+                  "url": "https://nortonsrealestate.com/luxury",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

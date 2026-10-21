@@ -1,0 +1,180 @@
+{
+  "slug": "peninsula",
+  "pk": "boutique_luxury",
+  "plat": "aimode",
+  "text": "Which boutique luxury real estate agencies in Mornington Peninsula are best known for modern social media marketing, high-impact video campaigns, and architectural homes?",
+  "loc": 9056918,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\peninsula__boutique_luxury__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:19:46.920Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which boutique luxury real estate agencies in Mornington Peninsula are best known for modern social media marketing, high-impact video campaigns, and architectural homes?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 9056918,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20boutique%20luxury%20real%20estate%20agencies%20in%20Mornington%20Peninsula%20are%20best%20known%20for%20modern%20social%20media%20marketing%2C%20high-impact%20video%20campaigns%2C%20and%20architectural%20homes%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCQOoQ4mOxdVqEZXT2c1Pc_Yg",
+      "datetime": "2026-10-21 05:19:46 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "`Danckert Real Estate and Peninsula Sotheby's International Realty` lead the Mornington Peninsula luxury market for high-end architectural homes, leveraging polished social media and cinematic video production to showcase coastal design.\n\n### Standout Boutique Agencies\n\n\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLc2oaWe-QB6vBK656kGCOQ0t_EcvtLQc1LEBbAfrg1m9t_ct_ifjVHl7AGul8GD3CY8Gy5SrJiBSgujbyAACXr1IM9PZluwrHDOfaWNRpUhhAMECmdxUHfy1jqL2mzxrgFeruY9=s192-w192-h144-n-k-no)\nDanckert Real Estate 5.0 (50)  \nReal estate agent  \nOpen Mount Martha VIC  \nCall Directions Website An independent boutique agency known for a modern, design-forward digital footprint, high-production-value video walkthroughs, and specialized marketing campaigns tailored to contemporary coastal architectural properties.\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLeRpYiGhKKQmU-4u9Lq-eZhQ3KeguCuhQR8HnlRfAy1ErhhmmUYrtCnx5pFro_3LUpGgGvWWzyH947nmaWcEZqqrykOrwY4zrhG8-6KSC1jzcI2ixA5oxzLkGr0oCOx4NiNII7H5w=s192-w192-h144-n-k-no)\nPeninsula Sotheby’s International Realty 5.0 (14)  \nIndustrial real estate agency  \nClosed Sorrento VIC  \nCall Directions Website Combines a boutique local footprint with a global luxury network, frequently handling multi-million-dollar landmark and architect-designed designer estates via high-impact visual storytelling and targeted digital campaigns.\n\n---\n\n![](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QR5OpiTSUlc8aX2LNEx3tw&cb_client=search.gws-prod.grass&yaw=7.9838233&pitch=0&thumbfov=100&w=82&h=82)\nSeachange Property 32 Noah Cl  \nCall Directions Website A prominent local boutique agency recognized for strategic digital presentations, stylized property video reels, and deep expertise in lifestyle and bespoke coastal residences.[[1]](https://danckert.com.au/article/creative-flow)[[2]](https://www.instagram.com/danckert.realestate/)[[3]](https://www.instagram.com/reel/DcSrc-hTx12/)[[4]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdNek1IRnpiWGRzGAo)\n\nWould you like information on **specific agents** within these offices or examples of **recent architectural record sales** on the Peninsula?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Danckert Real Estate and Peninsula Sotheby's International Realty lead the Mornington Peninsula luxury market for high-end architectural homes, leveraging polished social media and cinematic video production to showcase coastal design.",
+              "markdown": "`Danckert Real Estate and Peninsula Sotheby's International Realty` lead the Mornington Peninsula luxury market for high-end architectural homes, leveraging polished social media and cinematic video production to showcase coastal design.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Standout Boutique Agencies",
+              "text": "Danckert Real Estate 5.0 (50) Real estate agent Open Mount Martha VIC Call Directions Website An independent boutique agency known for a modern, design-forward digital footprint, high-production-value video walkthroughs, and specialized marketing campaigns tailored to contemporary coastal architectural properties.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLc2oaWe-QB6vBK656kGCOQ0t_EcvtLQc1LEBbAfrg1m9t_ct_ifjVHl7AGul8GD3CY8Gy5SrJiBSgujbyAACXr1IM9PZluwrHDOfaWNRpUhhAMECmdxUHfy1jqL2mzxrgFeruY9=s192-w192-h144-n-k-no)\nDanckert Real Estate 5.0 (50)  \nReal estate agent  \nOpen Mount Martha VIC  \nCall Directions Website An independent boutique agency known for a modern, design-forward digital footprint, high-production-value video walkthroughs, and specialized marketing campaigns tailored to contemporary coastal architectural properties.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2oaWe-QB6vBK656kGCOQ0t_EcvtLQc1LEBbAfrg1m9t_ct_ifjVHl7AGul8GD3CY8Gy5SrJiBSgujbyAACXr1IM9PZluwrHDOfaWNRpUhhAMECmdxUHfy1jqL2mzxrgFeruY9=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Peninsula Sotheby’s International Realty 5.0 (14) Industrial real estate agency Closed Sorrento VIC Call Directions Website Combines a boutique local footprint with a global luxury network, frequently handling multi-million-dollar landmark and architect-designed designer estates via high-impact visual storytelling and targeted digital campaigns.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLeRpYiGhKKQmU-4u9Lq-eZhQ3KeguCuhQR8HnlRfAy1ErhhmmUYrtCnx5pFro_3LUpGgGvWWzyH947nmaWcEZqqrykOrwY4zrhG8-6KSC1jzcI2ixA5oxzLkGr0oCOx4NiNII7H5w=s192-w192-h144-n-k-no)\nPeninsula Sotheby’s International Realty 5.0 (14)  \nIndustrial real estate agency  \nClosed Sorrento VIC  \nCall Directions Website Combines a boutique local footprint with a global luxury network, frequently handling multi-million-dollar landmark and architect-designed designer estates via high-impact visual storytelling and targeted digital campaigns.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeRpYiGhKKQmU-4u9Lq-eZhQ3KeguCuhQR8HnlRfAy1ErhhmmUYrtCnx5pFro_3LUpGgGvWWzyH947nmaWcEZqqrykOrwY4zrhG8-6KSC1jzcI2ixA5oxzLkGr0oCOx4NiNII7H5w=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Seachange Property 32 Noah Cl Call Directions Website A prominent local boutique agency recognized for strategic digital presentations, stylized property video reels, and deep expertise in lifestyle and bespoke coastal residences.",
+              "markdown": "---\n\n![](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QR5OpiTSUlc8aX2LNEx3tw&cb_client=search.gws-prod.grass&yaw=7.9838233&pitch=0&thumbfov=100&w=82&h=82)\nSeachange Property 32 Noah Cl  \nCall Directions Website A prominent local boutique agency recognized for strategic digital presentations, stylized property video reels, and deep expertise in lifestyle and bespoke coastal residences.[[1]](https://danckert.com.au/article/creative-flow)[[2]](https://www.instagram.com/danckert.realestate/)[[3]](https://www.instagram.com/reel/DcSrc-hTx12/)[[4]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdNek1IRnpiWGRzGAo)",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QR5OpiTSUlc8aX2LNEx3tw&cb_client=search.gws-prod.grass&yaw=7.9838233&pitch=0&thumbfov=100&w=82&h=82"
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Danckert Real Estate",
+                  "domain": "danckert.com.au",
+                  "url": "https://danckert.com.au/article/creative-flow",
+                  "title": "CREATIVE FLOW - Danckert Real Estate",
+                  "text": "“Our services include branding and identity, web development, digital marketing, social media, campaign strategy, video and graphi..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Instagram",
+                  "domain": "www.instagram.com",
+                  "url": "https://www.instagram.com/danckert.realestate/",
+                  "title": "danckert.realestate - Mount Martha, VIC",
+                  "text": "@danckert.realestate is an independent Mornington Peninsula agency with offices in Mount Martha and Martha Cove, specialising in p..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Instagram",
+                  "domain": "www.instagram.com",
+                  "url": "https://www.instagram.com/reel/DcSrc-hTx12/",
+                  "title": "Set within one of Mount Martha's most coveted beachside ...",
+                  "text": "this exceptional, one year old architectural home combines privacy, convenience and a relaxed coastal lifestyle. 7 Ailsa Street, M..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdNek1IRnpiWGRzGAo",
+                  "title": "Seachange Property Real Estate",
+                  "text": "91 Watt Rd, Mornington VIC 3931 · Locally owned real estate agency specializing in property sales and buying support on the Mornin..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Would you like information on specific agents within these offices or examples of recent architectural record sales on the Peninsula?",
+              "markdown": "Would you like information on **specific agents** within these offices or examples of **recent architectural record sales** on the Peninsula?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Danckert Real Estate",
+              "domain": "danckert.com.au",
+              "url": "https://danckert.com.au/article/creative-flow",
+              "title": "CREATIVE FLOW - Danckert Real Estate",
+              "text": "“Our services include branding and identity, web development, digital marketing, social media, campaign strategy, video and graphic design."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Instagram",
+              "domain": "www.instagram.com",
+              "url": "https://www.instagram.com/danckert.realestate/",
+              "title": "danckert.realestate - Mount Martha, VIC",
+              "text": "@danckert.realestate is an independent Mornington Peninsula agency with offices in Mount Martha and Martha Cove, specialising in premium residential property. Have..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Instagram",
+              "domain": "www.instagram.com",
+              "url": "https://www.instagram.com/reel/DcSrc-hTx12/",
+              "title": "Set within one of Mount Martha's most coveted beachside ...",
+              "text": "this exceptional, one year old architectural home combines privacy, convenience and a relaxed coastal lifestyle. 7 Ailsa Street, Mount Martha"
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

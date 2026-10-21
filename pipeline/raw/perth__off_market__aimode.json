@@ -1,0 +1,178 @@
+{
+  "slug": "perth",
+  "pk": "off_market",
+  "plat": "aimode",
+  "text": "Which luxury real estate agents and agencies in Perth specialise in confidential off-market prestige property sales and high-net-worth buyer networks?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\perth__off_market__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:17:52.826Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which luxury real estate agents and agencies in Perth specialise in confidential off-market prestige property sales and high-net-worth buyer networks?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000676,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20luxury%20real%20estate%20agents%20and%20agencies%20in%20Perth%20specialise%20in%20confidential%20off-market%20prestige%20property%20sales%20and%20high-net-worth%20buyer%20networks%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCXPVOynVujIqEeBO3zW18AQF",
+      "datetime": "2026-10-21 05:17:52 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "In Perth's prestige property market, `elite agencies and specialized agents` leverage private databases, corporate networks, and discreet \"quiet\" campaigns to match high-net-worth buyers with luxury homes in areas like Peppermint Grove, Cottesloe, and Applecross without public portal exposure.[[1]](https://www.realestate.com.au/agent/jody-fewster-2120890)[[2]](https://brianmcallisterproperties.com/luxury-property-sales/)\n\n### Top Agencies & Specialists for Off-Market Sales\n\n\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLcYN1Ej2d1QWC_F77Mj_RZ8lLvUUAOjoOofUsNJzirvabiFLIzGVJPZHBpRXHxNwFwzhYpF8xA7vU1Hm8L21S3ogt3j8JfY9C_-I5zJQZfznDOYydbQzKZWlIiKB4x8-H3LTr78tA=s192-w192-h144-n-k-no)\nRay White Cottesloe 4.8 (298)  \nReal estate agency  \nOpen Cottesloe Central, Shop 8/460 Stirling Hwy  \nCall Directions Website Ray White Cottesloe | Mosman Park (Led by [Jody Fewster](https://www.realestate.com.au/agent/jody-fewster-2120890) ) – Dominates Perth’s western riverside and oceanfront enclaves (Peppermint Grove, Mosman Park, Cottesloe) with an extensive, highly active private database of local and international high-net-worth buyers.\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLeuFd9pQzhbTyQjl849__K7OTgzqCt7pp_TP7elZTKEXP-64TPXCREKfqGpulaEgtqMavxdsDhQO8XGGisToAfGcWwwjuMiSvfgGxRFX_H2YY_RQiLf-3B3YcVxsPAPKl-8JJp9=s192-w192-h144-n-k-no)\nThe Agency WA 4.8 (2.3K)  \nReal estate agent  \nOpen Level 2/1 Cambridge St  \nCall Directions Website The Agency WA (Featuring specialists like [Brian McAllister](https://brianmcallisterproperties.com/luxury-property-sales/) ) – Offers structured quiet campaigns, keeping multi-million-dollar riverside and coastal properties entirely off public internet portals while marketing directly to vetted, high-calibre databases.\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLce7ZYVDmt6A3Zg4jgX0gTkDXyAW7B38lBIam2jlNtLNqHvxRAZ7zhkZbGnyyMsQ07PYaQ14Dk40IpQf0uJEwt2cFFMijWGnqcxCCJg8ImbZIexZQvt4z1k60M13xBQHAy9xrw=s192-w192-h144-n-k-no)\nActon 4.8 (96)  \nReal estate agent  \nOpen 160 Stirling Hwy  \nCall Directions Website Acton | Belle Property Cottesloe & Dalkeith – Deeply entrenched in the historic luxury corridors of Dalkeith, Nedlands, and the western beaches, specializing in discreet vendor representation and private buyer introductions.\n\n---\n\nMeryl Carter Luxury Real Estate Sales Meryl Carter Luxury Real Estate Sales – Focuses explicitly on discrete, confidential appraisals and private negotiations for high-end residential assets across prime Perth locations.[[1]](https://raywhitecottesloemosmanpark.com.au/agents/jody-fewster/109787)[[2]](https://www.realestate.com.au/agent/jody-fewster-2120890)[[3]](https://brianmcallisterproperties.com/luxury-property-sales/)[[4]](https://www.belleproperty.com/cottesloe)[[5]](https://www.luxuryrealestatesales.com.au/)\n\nIf you are looking to buy or sell, tell me whether you are seeking **discretion as a vendor** or looking for **access to off-market listings as a buyer** , and I can tailor the next steps.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "In Perth's prestige property market, elite agencies and specialized agents leverage private databases, corporate networks, and discreet \"quiet\" campaigns to match high-net-worth buyers with luxury homes in areas like Peppermint Grove, Cottesloe, and Applecross without public portal exposure.",
+              "markdown": "In Perth's prestige property market, `elite agencies and specialized agents` leverage private databases, corporate networks, and discreet \"quiet\" campaigns to match high-net-worth buyers with luxury homes in areas like Peppermint Grove, Cottesloe, and Applecross without public portal exposure.[[1]](https://www.realestate.com.au/agent/jody-fewster-2120890)[[2]](https://brianmcallisterproperties.com/luxury-property-sales/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Real Estate",
+                  "domain": "www.realestate.com.au",
+                  "url": "https://www.realestate.com.au/agent/jody-fewster-2120890",
+                  "title": "Jody Fewster - Ray White - Cottesloe | Mosman Park - realestate.com.au",
+                  "text": "$3.52M median sold price. Suburb specialist in Mosman Park, Cottesloe, and leading sales agent for Peppermint Grove; rated 5.0 fro..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "brianmcallisterproperties.com",
+                  "domain": "brianmcallisterproperties.com",
+                  "url": "https://brianmcallisterproperties.com/luxury-property-sales/",
+                  "title": "Luxury & Prestige Property Sales Perth — Discreet Campaigns",
+                  "text": "Luxury real estate agent for Perth's riverside suburbs. Prestige homes in Perth's riverside suburbs are sold with discreet, proper..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Top Agencies & Specialists for Off-Market Sales",
+              "text": "Ray White Cottesloe 4.8 (298) Real estate agency Open Cottesloe Central, Shop 8/460 Stirling Hwy Call Directions Website Ray White Cottesloe | Mosman Park (Led by Jody Fewster ) – Dominates Perth’s western riverside and oceanfront enclaves (Peppermint Grove, Mosman Park, Cottesloe) with an extensive, highly active private database of local and international high-net-worth buyers.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLcYN1Ej2d1QWC_F77Mj_RZ8lLvUUAOjoOofUsNJzirvabiFLIzGVJPZHBpRXHxNwFwzhYpF8xA7vU1Hm8L21S3ogt3j8JfY9C_-I5zJQZfznDOYydbQzKZWlIiKB4x8-H3LTr78tA=s192-w192-h144-n-k-no)\nRay White Cottesloe 4.8 (298)  \nReal estate agency  \nOpen Cottesloe Central, Shop 8/460 Stirling Hwy  \nCall Directions Website Ray White Cottesloe | Mosman Park (Led by [Jody Fewster](https://www.realestate.com.au/agent/jody-fewster-2120890) ) – Dominates Perth’s western riverside and oceanfront enclaves (Peppermint Grove, Mosman Park, Cottesloe) with an extensive, highly active private database of local and international high-net-worth buyers.",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Jody Fewster",
+                  "description": null,
+                  "url": "https://www.realestate.com.au/agent/jody-fewster-2120890",
+                  "domain": "www.realestate.com.au"
+                }
+              ],
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcYN1Ej2d1QWC_F77Mj_RZ8lLvUUAOjoOofUsNJzirvabiFLIzGVJPZHBpRXHxNwFwzhYpF8xA7vU1Hm8L21S3ogt3j8JfY9C_-I5zJQZfznDOYydbQzKZWlIiKB4x8-H3LTr78tA=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "The Agency WA 4.8 (2.3K) Real estate agent Open Level 2/1 Cambridge St Call Directions Website The Agency WA (Featuring specialists like Brian McAllister ) – Offers structured quiet campaigns, keeping multi-million-dollar riverside and coastal properties entirely off public internet portals while marketing directly to vetted, high-calibre databases.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLeuFd9pQzhbTyQjl849__K7OTgzqCt7pp_TP7elZTKEXP-64TPXCREKfqGpulaEgtqMavxdsDhQO8XGGisToAfGcWwwjuMiSvfgGxRFX_H2YY_RQiLf-3B3YcVxsPAPKl-8JJp9=s192-w192-h144-n-k-no)\nThe Agency WA 4.8 (2.3K)  \nReal estate agent  \nOpen Level 2/1 Cambridge St  \nCall Directions Website The Agency WA (Featuring specialists like [Brian McAllister](https://brianmcallisterproperties.com/luxury-property-sales/) ) – Offers structured quiet campaigns, keeping multi-million-dollar riverside and coastal properties entirely off public internet portals while marketing directly to vetted, high-calibre databases.",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Brian McAllister",
+                  "description": null,
+                  "url": "https://brianmcallisterproperties.com/luxury-property-sales/",
+                  "domain": "brianmcallisterproperties.com"
+                }
+              ],
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeuFd9pQzhbTyQjl849__K7OTgzqCt7pp_TP7elZTKEXP-64TPXCREKfqGpulaEgtqMavxdsDhQO8XGGisToAfGcWwwjuMiSvfgGxRFX_H2YY_RQiLf-3B3YcVxsPAPKl-8JJp9=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Acton 4.8 (96) Real estate agent Open 160 Stirling Hwy Call Directions Website Acton | Belle Property Cottesloe & Dalkeith – Deeply entrenched in the historic luxury corridors of Dalkeith, Nedlands, and the western beaches, specializing in discreet vendor representation and private buyer introductions.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLce7ZYVDmt6A3Zg4jgX0gTkDXyAW7B38lBIam2jlNtLNqHvxRAZ7zhkZbGnyyMsQ07PYaQ14Dk40IpQf0uJEwt2cFFMijWGnqcxCCJg8ImbZIexZQvt4z1k60M13xBQHAy9xrw=s192-w192-h144-n-k-no)\nActon 4.8 (96)  \nReal estate agent  \nOpen 160 Stirling Hwy  \nCall Directions Website Acton | Belle Property Cottesloe & Dalkeith – Deeply entrenched in the historic luxury corridors of Dalkeith, Nedlands, and the western beaches, specializing in discreet vendor representation and private buyer introductions.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLce7ZYVDmt6A3Zg4jgX0gTkDXyAW7B38lBIam2jlNtLNqHvxRAZ7zhkZbGnyyMsQ07PYaQ14Dk40IpQf0uJEwt2cFFMijWGnqcxCCJg8ImbZIexZQvt4z1k60M13xBQHAy9xrw=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you are looking to buy or sell, tell me whether you are seeking discretion as a vendor or looking for access to off-market listings as a buyer, and I can tailor the next steps.",
+              "markdown": "If you are looking to buy or sell, tell me whether you are seeking **discretion as a vendor** or looking for **access to off-market listings as a buyer** , and I can tailor the next steps.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Ray White Cottesloe Mosman Park",
+              "domain": "raywhitecottesloemosmanpark.com.au",
+              "url": "https://raywhitecottesloemosmanpark.com.au/agents/jody-fewster/109787",
+              "title": "Jody Fewster - Owner",
+              "text": "Jody Fewster is an award winning Sales Executive, Jody has a network of buyers that is second to none. her extensive experience in the corporate world."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Belle Property",
+              "domain": "www.belleproperty.com",
+              "url": "https://www.belleproperty.com/cottesloe",
+              "title": "Acton | Belle Property Cottesloe. - Real Estate Agents",
+              "text": "| Belle Property brand, 160 Stirling Highway, Nedlands WA 6009 · 08 9386 8255. Email us. Request an appraisal Our listings Our offices. Cottesloe, WA."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Real Estate",
+              "domain": "www.realestate.com.au",
+              "url": "https://www.realestate.com.au/agent/jody-fewster-2120890",
+              "title": "Jody Fewster - Ray White - Cottesloe | Mosman Park - realestate.com.au",
+              "text": "Jody Fewster, Owner/Director and Sales Agent at Ray White - Cottesloe | Mosman Park with 8 years experience; with $3.52M median sold price. Suburb specialist in Mo..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "slug": "adelaide",
+  "pk": "prestige_selling",
+  "plat": "aimode",
+  "text": "I am selling a $10M luxury residential property in Adelaide. Which prestige real estate agencies have the strongest track record for high-end home sales?",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\adelaide__prestige_selling__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:18:39.474Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "I am selling a $10M luxury residential property in Adelaide. Which prestige real estate agencies have the strongest track record for high-end home sales?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000422,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=I%20am%20selling%20a%20%2410M%20luxury%20residential%20property%20in%20Adelaide.%20Which%20prestige%20real%20estate%20agencies%20have%20the%20strongest%20track%20record%20for%20high-end%20home%20sales%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCeekA6PXzrBqEVM-HE5YcI2z",
+      "datetime": "2026-10-21 05:18:38 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "For a $10M luxury property in Adelaide, **Williams Real Estate**, **TOOP+TOOP** , and **Giordano & Partners** have the strongest market presence and high-end sales records.[[1]](https://www.realestate.com.au/agent/stephanie-williams-749355)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdaNlptWXlNM3BqGAo)[[3]](https://www.toop.com.au/)\n\n### Top Prestige Agencies in Adelaide\n\n\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLchLvYsxTDbsK6n-BuLOA7DC6fP5PDSCSq34A4Pt4GKUPxaKbTF1yC7ZZw2qSYLf63j_uZPsqlPsdvM577AdZWk3FWhsqoN4qRgjokYnUA1yXTcMkIkKO__E0J5xF4YvaBAJjR3bw=s192-w192-h144-n-k-no)\nWilliams Real Estate 4.3 (88)  \nReal estate agency  \nOpen 60 Kensington Rd  \nCall Directions Website Widely recognized as a market leader in South Australian luxury real estate. Partner Stephanie Williams holds notable state records, including being the first agent in SA to negotiate a residential sale over $10M, backed by a multi-million dollar median sale average and extensive high-net-worth database.\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10210518-2877-0139-0000-ae5bbda2cb08:12)\nTOOP+TOOP Real Estate 4.3 (87)  \nReal estate agency  \nOpen 23 The Parade  \nCall Directions Website A premier independent South Australian agency. Recognized nationally as a top large residential agency, they consistently hold numerous prestige suburb records across Adelaide’s elite parkside and coastal belts.\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10210518-2877-0139-0000-ae5bbda2cb08:13)\nGiordano & Partners 4.8 (72)  \nReal estate agency  \nOpen 429 Pulteney St  \nCall Directions Website A specialized boutique luxury agency handling high-value multi-million dollar transactions, known for discreet off-market negotiations and targeted international marketing for architectural and legacy estates.\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10210518-2877-0139-0000-ae5bbda2cb08:14)\nTurner Prestige 4.8 (1.5K)  \nReal estate agency  \nOpen 49 Greenhill Rd  \nCall Directions Website A dedicated high-end division leveraging decades of local market experience to manage and transact prestige family homes in blue-chip inner-ring suburbs like Toorak Gardens and Unley.[[1]](https://www.realestate.com.au/agent/stephanie-williams-749355)[[2]](https://www.williamsproperty.com.au/592041/stephanie-williams)[[3]](https://www.toop.com.au/)[[4]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdaNlptWXlNM3BqGAo)[[5]](https://www.turnerrealestate.com.au/prestige-sales/)\n\nIf you'd like, let me know:\n\n- The **specific suburb** your property is located in\n- Whether you prefer an **auction or expression of interest** campaign\n\nI can help you narrow down **which specific lead partner** at these agencies aligns best with your property type.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "For a $10M luxury property in Adelaide, Williams Real Estate, TOOP+TOOP, and Giordano & Partners have the strongest market presence and high-end sales records.",
+              "markdown": "For a $10M luxury property in Adelaide, **Williams Real Estate**, **TOOP+TOOP** , and **Giordano & Partners** have the strongest market presence and high-end sales records.[[1]](https://www.realestate.com.au/agent/stephanie-williams-749355)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdaNlptWXlNM3BqGAo)[[3]](https://www.toop.com.au/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Real Estate",
+                  "domain": "www.realestate.com.au",
+                  "url": "https://www.realestate.com.au/agent/stephanie-williams-749355",
+                  "title": "Stephanie Williams - WILLIAMS Real Estate - RLA 247163 - realestate.com.au",
+                  "text": "64 properties sold in the last 12 months ($3.15M median sold price, 26 median days advertised); 57 houses ($3.25M median price, 24..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdaNlptWXlNM3BqGAo",
+                  "title": "Giordano & Partners | Luxury Real Estate Collection",
+                  "text": "429 Pulteney St, Adelaide SA 5000 · Professional luxury real estate agency offering expert property sales and personalized managem..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "TOOP+TOOP Real Estate",
+                  "domain": "www.toop.com.au",
+                  "url": "https://www.toop.com.au/",
+                  "title": "TOOP+TOOP Real Estate",
+                  "text": "#1 Large Residential Agency, Buying, selling, renting, and property management across South Australia, including ToopVault, auctio..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Top Prestige Agencies in Adelaide",
+              "text": "Williams Real Estate 4.3 (88) Real estate agency Open 60 Kensington Rd Call Directions Website Widely recognized as a market leader in South Australian luxury real estate. Partner Stephanie Williams holds notable state records, including being the first agent in SA to negotiate a residential sale over $10M, backed by a multi-million dollar median sale average and extensive high-net-worth database.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLchLvYsxTDbsK6n-BuLOA7DC6fP5PDSCSq34A4Pt4GKUPxaKbTF1yC7ZZw2qSYLf63j_uZPsqlPsdvM577AdZWk3FWhsqoN4qRgjokYnUA1yXTcMkIkKO__E0J5xF4YvaBAJjR3bw=s192-w192-h144-n-k-no)\nWilliams Real Estate 4.3 (88)  \nReal estate agency  \nOpen 60 Kensington Rd  \nCall Directions Website Widely recognized as a market leader in South Australian luxury real estate. Partner Stephanie Williams holds notable state records, including being the first agent in SA to negotiate a residential sale over $10M, backed by a multi-million dollar median sale average and extensive high-net-worth database.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLchLvYsxTDbsK6n-BuLOA7DC6fP5PDSCSq34A4Pt4GKUPxaKbTF1yC7ZZw2qSYLf63j_uZPsqlPsdvM577AdZWk3FWhsqoN4qRgjokYnUA1yXTcMkIkKO__E0J5xF4YvaBAJjR3bw=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "TOOP+TOOP Real Estate 4.3 (87) Real estate agency Open 23 The Parade Call Directions Website A premier independent South Australian agency. Recognized nationally as a top large residential agency, they consistently hold numerous prestige suburb records across Adelaide’s elite parkside and coastal belts.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10210518-2877-0139-0000-ae5bbda2cb08:6)\nTOOP+TOOP Real Estate 4.3 (87)  \nReal estate agency  \nOpen 23 The Parade  \nCall Directions Website A premier independent South Australian agency. Recognized nationally as a top large residential agency, they consistently hold numerous prestige suburb records across Adelaide’s elite parkside and coastal belts.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10210518-2877-0139-0000-ae5bbda2cb08:7"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Giordano & Partners 4.8 (72) Real estate agency Open 429 Pulteney St Call Directions Website A specialized boutique luxury agency handling high-value multi-million dollar transactions, known for discreet off-market negotiations and targeted international marketing for architectural and legacy estates.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10210518-2877-0139-0000-ae5bbda2cb08:8)\nGiordano & Partners 4.8 (72)  \nReal estate agency  \nOpen 429 Pulteney St  \nCall Directions Website A specialized boutique luxury agency handling high-value multi-million dollar transactions, known for discreet off-market negotiations and targeted international marketing for architectural and legacy estates.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10210518-2877-0139-0000-ae5bbda2cb08:9"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Turner Prestige 4.8 (1.5K) Real estate agency Open 49 Greenhill Rd Call Directions Website A dedicated high-end division leveraging decades of local market experience to manage and transact prestige family homes in blue-chip inner-ring suburbs like Toorak Gardens and Unley.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10210518-2877-0139-0000-ae5bbda2cb08:10)\nTurner Prestige 4.8 (1.5K)  \nReal estate agency  \nOpen 49 Greenhill Rd  \nCall Directions Website A dedicated high-end division leveraging decades of local market experience to manage and transact prestige family homes in blue-chip inner-ring suburbs like Toorak Gardens and Unley.[[1]](https://www.realestate.com.au/agent/stephanie-williams-749355)[[2]](https://www.williamsproperty.com.au/592041/stephanie-williams)[[3]](https://www.toop.com.au/)[[4]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdaNlptWXlNM3BqGAo)[[5]](https://www.turnerrealestate.com.au/prestige-sales/)",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10210518-2877-0139-0000-ae5bbda2cb08:11"
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Real Estate",
+                  "domain": "www.realestate.com.au",
+                  "url": "https://www.realestate.com.au/agent/stephanie-williams-749355",
+                  "title": "Stephanie Williams - WILLIAMS Real Estate - RLA 247163 - realestate.com.au",
+                  "text": "19 years experience; 5.0 rating (50 reviews). Performance: 64 properties sold in the last 12 months ($3.15M median sold price, 26 median days advertised); 57 house..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Williams Real Estate",
+                  "domain": "www.williamsproperty.com.au",
+                  "url": "https://www.williamsproperty.com.au/592041/stephanie-williams",
+                  "title": "Stephanie Williams | Williams Real Estate",
+                  "text": "One Real Estate Agent in Luxury Property Sales in South Australia. Contact: Phone 0413 874 888, email stephanie@williamsluxury.com..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "TOOP+TOOP Real Estate",
+                  "domain": "www.toop.com.au",
+                  "url": "https://www.toop.com.au/",
+                  "title": "TOOP+TOOP Real Estate",
+                  "text": "#1 Large Residential Agency, Buying, selling, renting, and property management across South Australia, including ToopVault, auctio..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdaNlptWXlNM3BqGAo",
+                  "title": "Giordano & Partners | Luxury Real Estate Collection",
+                  "text": "429 Pulteney St, Adelaide SA 5000 · Professional luxury real estate agency offering expert property sales and personalized managem..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Turner Real Estate",
+                  "domain": "www.turnerrealestate.com.au",
+                  "url": "https://www.turnerrealestate.com.au/prestige-sales/",
+                  "title": "Prestige Sales - Turner Real Estate",
+                  "text": "Turner Prestige Sales is a dedicated luxury property service in Adelaide, backed by 33 years of Turner's experience and currently ..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you'd like, let me know:",
+              "markdown": "If you'd like, let me know:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "The specific suburb your property is located in Whether you prefer an auction or expression of interest campaign",
+              "markdown": "- The **specific suburb** your property is located in\n- Whether you prefer an **auction or expression of interest** campaign",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "I can help you narrow down which specific lead partner at these agencies aligns best with your property type.",
+              "markdown": "I can help you narrow down **which specific lead partner** at these agencies aligns best with your property type.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Real Estate",
+              "domain": "www.realestate.com.au",
+              "url": "https://www.realestate.com.au/agent/stephanie-williams-749355",
+              "title": "Stephanie Williams - WILLIAMS Real Estate - RLA 247163 - realestate.com.au",
+              "text": "19 years experience; 5.0 rating (50 reviews). Performance: 64 properties sold in the last 12 months ($3.15M median sold price, 26 median days advertised); 57 house..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Turner Real Estate",
+              "domain": "www.turnerrealestate.com.au",
+              "url": "https://www.turnerrealestate.com.au/prestige-sales/",
+              "title": "Prestige Sales - Turner Real Estate",
+              "text": "Turner Prestige Sales is a dedicated luxury property service in Adelaide, backed by 33 years of Turner's experience and currently managing 75 prestige properties."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Williams Real Estate",
+              "domain": "www.williamsproperty.com.au",
+              "url": "https://www.williamsproperty.com.au/592041/stephanie-williams",
+              "title": "Stephanie Williams | Williams Real Estate",
+              "text": "One Real Estate Agent in Luxury Property Sales in South Australia. Contact: Phone 0413 874 888, email stephanie@williamsluxury.com.au."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

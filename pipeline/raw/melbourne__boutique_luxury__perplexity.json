@@ -1,0 +1,105 @@
+{
+  "slug": "melbourne",
+  "pk": "boutique_luxury",
+  "plat": "perplexity",
+  "text": "Which boutique luxury real estate agencies in Melbourne are best known for modern social media marketing, high-impact video campaigns, and architectural homes?",
+  "loc": 1000567,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\melbourne__boutique_luxury__perplexity.json",
+  "at": "2026-10-21T05:10:18.350Z",
+  "cost": 0.006167,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 34,
+      "output_tokens": 533,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005567,
+      "datetime": "2026-10-21 05:10:18 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "The strongest shortlist is **Z. Real Estate, Jellis Craig’s prestige teams, Loutakis Real Estate, Lambert Fisher Private Office, and Harcourts Storyhouse**. They stand out for different combinations of social-first branding, cinematic campaigns, and design-led or architectural properties.\n\n- **Z. Real Estate** — Best fit for a highly modern, social-led luxury brand. It positions itself around strategic social media, advanced technology, precision marketing, and architectural collaboration.[7]\n- **Jellis Craig Prestige** — A strong choice for established prestige-market reach, particularly in Melbourne’s inner city and eastern suburbs. Its premium campaigns combine photography, video storytelling, targeted messaging, and expertise in contemporary architecture and luxury residences.[1]\n- **Loutakis Real Estate** — Particularly notable for fashion-influenced, cinematic property campaigns. A documented campaign used a hero film, reel, and carousel designed specifically for social platforms, with a polished luxury aesthetic suited to distinctive homes.[4]\n- **Lambert Fisher Private Office** — A boutique, personality-driven option in Melbourne’s premium market. Its campaigns are built around the agent’s identity and storytelling rather than conventional listing presentation, making it suitable for architecturally significant homes requiring a bespoke narrative.[4]\n- **Harcourts Storyhouse** — Strong for narrative-led campaigns that communicate the story and lifestyle behind a home, not merely its rooms. Its portfolio includes campaign work with Jellis Craig and other Melbourne agencies, including architectural and design-focused properties.[4]\n- **Whitehouse Estate Agents** — Worth considering for high-end homes where cinematic video, vendor storytelling, drone footage, and dusk photography are important campaign elements.[4]\n\n**Best overall matches by priority:**\n\n| Priority | Best candidates |\n|---|---|\n| Social-media-first luxury branding | Z. Real Estate |\n| Architectural and prestige-home expertise | Jellis Craig Prestige |\n| Cinematic, high-impact video | Loutakis Real Estate |\n| Boutique, highly personalised campaigns | Lambert Fisher Private Office |\n| Lifestyle and narrative storytelling | Harcourts Storyhouse |\n\nFor an architectural home, the most compelling brief would likely go to **Z. Real Estate** for digital reach, **Loutakis** for a cinematic campaign, or **Jellis Craig Prestige** for the combination of buyer database, prestige credibility, and contemporary-home expertise. The quality of the final video will also depend heavily on the production partner: Melbourne specialists such as MK Visuals describe their work as architectural filmmaking with cinematic video and aerial coverage.[2]",
+              "annotations": [
+                {
+                  "title": "Top 10 Real Estate Companies in Melbourne 2026 Guide",
+                  "url": "https://www.starinvestment.com.au/top-real-estate-companies-melbourne/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "MK Visuals | Real Estate Media",
+                  "url": "https://mkvisuals.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 25 Luxury real estate marketing agencies based in ...",
+                  "url": "https://revenuebase.ai/companies/luxury-real-estate-marketing-agencies/australia/melbourne",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Real Estate Videography Melbourne | Full Property Campaigns ...",
+                  "url": "https://www.flipfilms.com.au/realestate",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Property Digital Marketing Agency Melbourne - nimbl",
+                  "url": "https://nimbl.com.au/industry/property/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top Real Estate Marketing Agencies in Australia",
+                  "url": "https://digitalagencynetwork.com/agencies/australia/industry/real-estate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Zed Real Estate: Real Estate Melbourne",
+                  "url": "https://zedrealestate.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Footer",
+                  "url": "https://revenuebase.ai/companies/luxury-home-marketing-agencies/australia/melbourne",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Social Media Marketing Real Estate Agencies In Melbourne",
+                  "url": "https://agencies.semrush.com/list/smm/real-estate/melbourne/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Footer",
+                  "url": "https://revenuebase.ai/companies/luxury-property-branding-agencies/australia/melbourne",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

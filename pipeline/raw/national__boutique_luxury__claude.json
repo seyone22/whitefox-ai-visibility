@@ -1,0 +1,201 @@
+{
+  "slug": "national",
+  "pk": "boutique_luxury",
+  "plat": "claude",
+  "text": "Which boutique luxury real estate agencies in Australia are best known for modern social media marketing, high-impact video campaigns, and architectural homes?",
+  "loc": 2036,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\national__boutique_luxury__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:21:22.198Z",
+  "cost": 0.083824,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 18363,
+      "output_tokens": 1209,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.083224,
+      "datetime": "2026-10-21 05:21:22 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Great question! Here's a curated overview of boutique luxury real estate agencies and related specialist firms in Australia that are best known for their modern social media marketing, high-impact video campaigns, and representation of architectural homes:\n\n---\n\n## 🏡 Boutique Luxury Real Estate Agencies & Specialists in Australia\n\n### 1. **Ken Jacobs (Christie's International Real Estate – Sydney)**\nOne of Australia's most prestigious boutique luxury agencies, Ken Jacobs is the exclusive affiliate of Christie's International Real Estate in NSW. They are renowned for marketing Sydney's finest architectural and prestige homes, with editorial-quality visual campaigns that appeal to high-net-worth buyers both locally and internationally.\n\n---\n\n### 2. **Nic & North Real Estate (Melbourne)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "A boutique agency in Melbourne's inner west, Nic & North Real Estate is known for its innovative, campaign-ecosystem approach to property marketing — positioning properties as rare lifestyle opportunities rather than just listings.",
+              "annotations": [
+                {
+                  "title": "Real Estate Video Production Melbourne",
+                  "url": "https://www.flipfilms.com.au/realestate",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They work with cinematic video production partners to craft full campaign suites.\n\n---\n\n### 3. **Agent Social (Sydney & Australia-wide)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Agent Social specialises in real estate marketing by making daily social media posts for real estate offices and agents, creating social media ad campaigns, producing video, photography, and graphic design.",
+              "annotations": [
+                {
+                  "title": "Agent Social - Real Estate Marketing",
+                  "url": "https://www.agentsocial.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They help clients across Australia reach more vendors and buyers through tailored real estate marketing content that's unique to each brand.",
+              "annotations": [
+                {
+                  "title": "Agent Social - Real Estate Marketing",
+                  "url": "https://www.agentsocial.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are particularly known for luxury Sydney properties, ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "including architectural photography campaigns for high-end homes sold at multi-million dollar price points.",
+              "annotations": [
+                {
+                  "title": "Agent Social - Real Estate Marketing",
+                  "url": "https://www.agentsocial.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. **23rd Street (Australia-wide)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "23rd Street is Australia's leading digital marketing agency tailored exclusively for real estate agents, and for over three years has been the trusted partner of Australia's top-performing real estate agents, empowering them to dominate social media.",
+              "annotations": [
+                {
+                  "title": "23rd Street",
+                  "url": "https://www.23rdst.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are particularly celebrated for their social media content strategies for prestige agents.\n\n---\n\n### 5. **Flip Films (Melbourne)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Flip Films has collaborated with some of Australia's leading property agencies and top-performing agents, creating cinematic content and visual identities built to stand out. Each campaign combines cinematic property films, social media reels, aerial cinematography, and lifestyle storytelling to market properties with strategy, creativity, and impact.",
+              "annotations": [
+                {
+                  "title": "Real Estate Video Production Melbourne",
+                  "url": "https://www.flipfilms.com.au/realestate",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are a go-to production partner for boutique luxury agencies wanting high-impact video.\n\n---\n\n### 6. **AC Media (Australia)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "AC Media doesn't just take photos — they capture presence, atmosphere, and story. Their photography team blends technical precision with an editorial eye to create striking, high-impact imagery that elevates every listing, specialising in clean, timeless visuals from luxury homes to boutique spaces that command attention.",
+              "annotations": [
+                {
+                  "title": "Real Estate Marketing - Videography, Photography & Content Creation",
+                  "url": "https://www.acmediaau.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 7. **iGrowix (Sydney)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "iGrowix is an executive growth strategy firm for Sydney luxury home builders, master residential construction contractors, and prestige architectural builders, known for design-led digital engineering, high-intent local SEO, and cinematic Meta advertising funnels that capture affluent residential clients.",
+              "annotations": [
+                {
+                  "title": "High-End Custom Home Builders & Architectural Construction Client Acquisition in Sydney: Luxury SEO, Meta Ads Funnels, and Design-Led Web Portals",
+                  "url": "https://www.igrowix.com/blog/luxury-custom-home-builders-architectural-construction-seo-ads-sydney-au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They deploy 4K video storytelling showcasing architectural craftsmanship to capture affluent Sydney homeowners during leisure hours.",
+              "annotations": [
+                {
+                  "title": "High-End Custom Home Builders & Architectural Construction Client Acquisition in Sydney: Luxury SEO, Meta Ads Funnels, and Design-Led Web Portals",
+                  "url": "https://www.igrowix.com/blog/luxury-custom-home-builders-architectural-construction-seo-ads-sydney-au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 🔑 Key Traits to Look For in This Space\n\nWhen evaluating boutique luxury agencies in Australia for architectural homes and modern marketing, look for:\n\n- **Cinematic video production** (aerial drone, 4K walkthroughs, lifestyle reels)\n- **Strong Instagram & social presence** with consistent editorial-quality content\n- **Architectural property specialisation** (modernist, award-winning, or designer homes)\n- **Bespoke campaign strategies** rather than cookie-cutter listings\n- **International buyer reach** through global luxury networks\n\n---\n\nWould you like me to dig deeper into any specific city (Sydney, Melbourne, Brisbane, Perth) or a particular agency's marketing style?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "boutique luxury real estate agencies Australia modern social media marketing video campaigns architectural homes",
+        "best luxury real estate agencies Australia high-end property marketing 2024 2025",
+        "top boutique luxury real estate agencies Australia architectural homes Instagram video marketing 2025"
+      ]
+    }
+  ]
+}

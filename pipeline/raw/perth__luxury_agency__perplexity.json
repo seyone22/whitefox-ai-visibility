@@ -1,0 +1,106 @@
+{
+  "slug": "perth",
+  "pk": "luxury_agency",
+  "plat": "perplexity",
+  "text": "Who are the best luxury real estate agencies in Perth? Give me a shortlist of specific prestige property agencies with reasons.",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\perth__luxury_agency__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:17:11.258Z",
+  "cost": 0.00639,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 31,
+      "output_tokens": 759,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.00579,
+      "datetime": "2026-10-21 05:17:11 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For Perth prestige property, the strongest shortlist is **Mack Hall Real Estate, W. Porteous, Acton | Belle Property, The Agency, and Contessi Properties**. The best choice depends on the suburb, property type, and whether you prioritise discreet off-market selling, global reach, or high-volume local marketing.\n\n- **Mack Hall Real Estate — best for established western-suburbs prestige**\n  - A specialist in Perth’s luxury residential market, particularly riverfront homes, western-suburbs estates and high-value architectural residences.\n  - Its partnership with Knight Frank adds international reach through Knight Frank’s global office network, useful for attracting interstate and overseas buyers.[10]\n  - A strong first call for properties in Peppermint Grove, Dalkeith, Cottesloe, Nedlands, Swanbourne and nearby suburbs.\n\n- **W. Porteous — best for premium family homes and architectural property**\n  - A long-established Perth prestige agency with a strong focus on custom homes, coastal residences, riverfront properties and western-suburbs estates.[6]\n  - Director Olivia Porteous is described as having more than two decades of international and Perth experience and a recognised profile among Australia’s top-selling agents.[6]\n  - Particularly suitable when the home requires sophisticated positioning rather than a generic high-volume campaign.\n\n- **Acton | Belle Property — best for polished marketing and broad buyer reach**\n  - Combines Acton’s established Western Australian network with Belle Property’s premium, lifestyle-oriented branding and presentation-led marketing.\n  - The broader Belle network is positioned toward prestige homes, lifestyle property and design-conscious campaigns, while Perth-focused agencies such as Acton are identified among the city’s established networks.[1][3]\n  - Worth comparing for high-end homes, apartments and lifestyle property where photography, branding and digital exposure matter.\n\n- **The Agency — best for a prominent, high-energy campaign**\n  - The Agency appears among Perth’s leading agencies by recent sales activity, although volume rankings should not be treated as a direct measure of prestige expertise.[7]\n  - Its model can suit sellers wanting strong personal branding, broad database exposure and an assertive campaign.\n  - Interview the specific listing agent carefully: in luxury property, the individual’s recent comparable sales matter more than the agency logo.\n\n- **Contessi Properties — best for boutique, personalised service**\n  - Based in Claremont, it specifically lists luxury and prestige sales, off-market sales, buyer advocacy and project marketing among its specialties.[5]\n  - Its smaller, client-focused positioning may suit owners who prefer close senior-agent involvement and a discreet approach.\n  - A credible option for western-suburbs homes and sellers who value tailored negotiation over a large franchise structure.\n\n## Practical shortlist by scenario\n\n| Your priority | Agencies to interview |\n|---|---|\n| Global exposure and international buyers | Mack Hall in association with Knight Frank |\n| Western-suburbs estates and riverfront homes | Mack Hall, W. Porteous |\n| Custom or architect-designed residence | W. Porteous, Mack Hall |\n| Premium presentation and lifestyle marketing | Acton \\| Belle Property |\n| Boutique and discreet service | Contessi Properties |\n| Broad campaign energy and database reach | The Agency |\n\nBefore appointing one, ask each agency for **three recent comparable sales**, the proportion sold through private treaty versus auction, evidence of genuine buyer demand in your suburb, the proposed marketing plan, and the names of the agents who will personally handle the campaign. In Perth’s luxury segment, suburb-specific buyer networks and the individual agent’s track record are more useful indicators than a generic “best agency” ranking.[6][7]",
+              "annotations": [
+                {
+                  "title": "Real estate agencies in Australia: AI ranking",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Perth's Top Luxury Real Estate Agencies",
+                  "url": "https://smartrealty.com.au/perths-top-luxury-real-estate-agencies-6/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Savills in real estate companies: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/savills",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Australia's Best Luxury Real Estate Agents | UltraPrime",
+                  "url": "https://ultraprime.com.au/agents",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Contessi Properties Perth - Contessi Properties",
+                  "url": "https://contessi.com.au/agency/contessi-perth/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Perth's Top Real Estate Agents for Luxury Property",
+                  "url": "https://customhomesonline.com.au/perths-top-real-estate-agents/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Real Estate Agents Perth, WA - Top Agents List [2026]",
+                  "url": "https://whichrealestateagent.com.au/real-estate-agents-perth/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Contessi Properties Perth",
+                  "url": "https://contessi.com.au/agency/contessi-perth/page/6/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Prestige Property Perth - Real estate agencies - Domain",
+                  "url": "https://www.domain.com.au/real-estate-agencies/prestigepropertyperth-18352/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Knight Frank Perth and Mack Hall Real Estate enter into partnership",
+                  "url": "https://eliteagent.com/knight-frank-perth-and-mack-hall-real-estate-enter-into-partnership/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "goldcoast",
+  "pk": "boutique_luxury",
+  "plat": "perplexity",
+  "text": "Which boutique luxury real estate agencies in Gold Coast are best known for modern social media marketing, high-impact video campaigns, and architectural homes?",
+  "loc": 1000665,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\goldcoast__boutique_luxury__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:16:08.917Z",
+  "cost": 0.006032,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 35,
+      "output_tokens": 397,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005432,
+      "datetime": "2026-10-21 05:16:08 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "The strongest matches are **Phillis Real Estate Queensland, Tomain Residences, JW. Prestige Agents, and North South Real Estate (NSRE)**. They combine boutique positioning with prestige-property expertise and tailored digital campaigns.\n\n- **Phillis Real Estate Queensland / Alex Phillis Luxury Real Estate** — Best fit for a social-first, high-exposure approach. The agency says it specialises in social-media marketing and reports substantially higher average property views, while also positioning itself as an award-winning boutique luxury agency.[1]\n- **Tomain Residences** — Best fit for architecturally distinctive and design-led homes. Led by Ross Tomain, a developer and prestige agent with more than 20 years’ experience, the agency highlights strategic premium marketing and firsthand luxury-property knowledge.[2]\n- **JW. Prestige Agents** — Strong option for remarkable, high-end homes requiring bespoke campaigns. It describes itself as a boutique agency dedicated to selling exceptional properties and promotes customised marketing strategies designed to build interest and improve price outcomes.[4]\n- **North South Real Estate** — Best for trophy homes, prestige apartments, developments, and discreet high-value sales. Its Gold Coast operation promises principal-level service, professional media, private events, global exposure, and campaigns tailored to each property.[9]\n\nFor **high-impact video specifically**, ask each agency to show recent campaign examples—not just listing photography, reels, or claims about social reach. Fōcl, a Gold Coast creative agency, identifies Phillis Real Estate as a client for high-class property videos, which makes Phillis particularly worth investigating for cinematic campaigns.[8]\n\n**Shortlist by priority:**\n\n| Priority | Agency |\n|---|---|\n| Most social-media-led | Phillis Real Estate |\n| Design and architectural-property expertise | Tomain Residences |\n| Boutique bespoke campaign | JW. Prestige Agents |\n| Trophy homes and discreet luxury sales | NSRE |",
+              "annotations": [
+                {
+                  "title": "Phillis Real Estate Queensland - Paradise Point",
+                  "url": "https://view.com.au/real-estate-agency/phillis-real-estate-queensland-26889/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Tomain Residences",
+                  "url": "https://www.tomain.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Golden State Agency",
+                  "url": "https://www.goldenstateagency.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "JW Prestige Agents | Prestige Real Estate Agents | Gold Coast",
+                  "url": "https://prestigeagents.com.au/about-jw-prestige-agents-gold-coast-real-estate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Real Estate Advertising Agencies in Australia 2026 | Semrush",
+                  "url": "https://agencies.semrush.com/list/advertising/real-estate/australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Advertising Agencies in Gold Coast 2026 | Semrush",
+                  "url": "https://agencies.semrush.com/list/advertising/gold-coast/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Paradise Real Estate | LinkedIn",
+                  "url": "https://www.linkedin.com/in/paradise-real-estate-1a93aa3b3",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Focl Agency | A full-service marketing & media agency | Gold Coast & Brisbane",
+                  "url": "https://focl.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Luxury Real Estate Agent | Brisbane, Gold Coast & Byron Bay",
+                  "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Rebecca Coleman | LinkedIn",
+                  "url": "https://www.linkedin.com/in/rebeccaacoleman",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

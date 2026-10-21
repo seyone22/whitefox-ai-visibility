@@ -1,0 +1,237 @@
+{
+  "slug": "sydney",
+  "pk": "buyers_advocacy",
+  "plat": "claude",
+  "text": "Which luxury real estate agencies or buyers advocates in Sydney offer the best buyers advocacy and acquisition advisory for prestige homes?",
+  "loc": 1000286,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\sydney__buyers_advocacy__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:14:47.631Z",
+  "cost": 0.092506,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 19577,
+      "output_tokens": 1545,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.091906,
+      "datetime": "2026-10-21 05:14:47 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a comprehensive overview of the **best luxury buyers' advocates and acquisition advisory firms in Sydney** for prestige homes, based on current market information:\n\n---\n\n## 🏆 Top Luxury Buyers' Advocates & Acquisition Advisory Firms in Sydney\n\n---\n\n### 1. 🥇 **Cohen Handler**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Widely regarded as Sydney's premier buyer's agency, **Cohen Handler** has been a dominant force in the market since 2009. Founded by industry leader **Simon Cohen**, the firm has grown into Australia's largest residential property buyer's agency, having assisted clients in purchasing over $10 billion worth of property as of 2025.",
+              "annotations": [
+                {
+                  "title": "Top 10 Buyer’s Agents in Sydney (2026 Updated) - Buyer Agents in Sydney",
+                  "url": "https://buyeragentssydney.au/top-10-buyers-agents-in-sydney-2026-updated/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "**Core specialisation:** Luxury property acquisitions in Sydney's Eastern Suburbs and North Shore, as well as investment and commercial portfolios.",
+              "annotations": [
+                {
+                  "title": "Top 10 Buyer’s Agents in Sydney (2026 Updated) - Buyer Agents in Sydney",
+                  "url": "https://buyeragentssydney.au/top-10-buyers-agents-in-sydney-2026-updated/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Best for:** Ultra-high-net-worth buyers seeking trophy homes in Point Piper, Vaucluse, and Bellevue Hill.\n\n---\n\n### 2. 🥈 **Propertybuyer** *(Most Awarded)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Boasting over 50 Awards for Excellence, **Propertybuyer** stands as Australia's most awarded buyer's agency. Under the leadership of CEO and Founder **Rich Harvey**—a professional economist and seasoned investor with over 20 years of experience—the firm was notably recognised as the *2025 REB Buyers Agency of the Year*.",
+              "annotations": [
+                {
+                  "title": "Top 10 Buyer’s Agents in Sydney (2026 Updated) - Buyer Agents in Sydney",
+                  "url": "https://buyeragentssydney.au/top-10-buyers-agents-in-sydney-2026-updated/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "**Specialist expertise:** A large, dedicated team covering prestige property, commercial, development, and expat buyer services across Sydney.",
+              "annotations": [
+                {
+                  "title": "Top 10 Buyer’s Agents in Sydney (2026 Updated) - Buyer Agents in Sydney",
+                  "url": "https://buyeragentssydney.au/top-10-buyers-agents-in-sydney-2026-updated/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Propertybuyer is Australia's largest buyers-agency brand by team size, with dedicated pods for prestige homes, commercial assets and development sites. Its Sydney division leverages 20+ staff, including auctioneers and former valuers, to cover every sub-market.",
+              "annotations": [
+                {
+                  "title": "Best Buyers Agents in Sydney (2026)",
+                  "url": "https://whichrealestateagent.com.au/buyers-agent/best-buyers-agents-in-sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Best for:** Buyers wanting a data-driven, full-service acquisition approach with deep market coverage.\n\n---\n\n### 3. 🥉 **HighSpec Properties**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "HighSpec focuses on lifestyle and surf-coast prestige across Sydney's Northern Beaches, Eastern Suburbs and up to Byron Bay. Director **Jack Anderson** previously spent a decade as a project manager for Tier-1 builders, giving the team a forensic eye for structural issues and renovation budgets. Clients receive building-cost breakdowns alongside valuations — critical when planning knock-backs or extensions.",
+              "annotations": [
+                {
+                  "title": "Best Buyers Agents in Sydney (2026)",
+                  "url": "https://whichrealestateagent.com.au/buyers-agent/best-buyers-agents-in-sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- **Best for:** Prestige buyers on the Northern Beaches or Eastern Suburbs who want deep due diligence on property condition and renovation potential.\n\n---\n\n### 4. **Grantham Buyers Agents** *(Boutique)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Led by **Dan Grantham**, this boutique agency operates from strategically positioned offices in Crows Nest and Double Bay. By combining deep data analysis with long-standing industry relationships, the firm provides clients with a distinct competitive edge across the Sydney property landscape.",
+              "annotations": [
+                {
+                  "title": "Top 10 Buyer’s Agents in Sydney (2026 Updated) - Buyer Agents in Sydney",
+                  "url": "https://buyeragentssydney.au/top-10-buyers-agents-in-sydney-2026-updated/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- **Best for:** Buyers seeking a highly personalised, boutique advisory experience in Sydney's North Shore and Eastern Suburbs prestige markets.\n\n---\n\n### 5. **Truth Group** *(Full-Stack Advisory)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Truth Group combines licensed buyer's advocacy with in-house mortgage broking, a rare full-stack service that aligns finance pre-approval with acquisition strategy.",
+              "annotations": [
+                {
+                  "title": "Best Buyers Agents in Sydney (2026)",
+                  "url": "https://whichrealestateagent.com.au/buyers-agent/best-buyers-agents-in-sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Founder **Deepak Shukla** has closed more than 350 Sydney transactions since 2018, ranging from first-home apartments in Parramatta to waterfront prestige in Drummoyne.",
+              "annotations": [
+                {
+                  "title": "Best Buyers Agents in Sydney (2026)",
+                  "url": "https://whichrealestateagent.com.au/buyers-agent/best-buyers-agents-in-sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Best for:** Prestige buyers who want integrated finance and acquisition strategy under one roof.\n\n---\n\n## 🏙️ Key Prestige Markets These Firms Cover\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Sydney's luxury property market has seen premium homes across Mosman, Kirribilli, Point Piper, Vaucluse, Rose Bay and Bellevue Hill commanding unprecedented prices.",
+              "annotations": [
+                {
+                  "title": "Sydney’s Top 12 Luxury Home Sales of 2025 - Premier Home Finders",
+                  "url": "https://www.premierhomefinders.com.au/sydneys-top-12-luxury-home-sales-of-2025/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " The best buyers' advocates will have strong off-market networks in these suburbs.\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Rather than chasing quick capital gains, today's prestige buyers are focused on generational value. That's driving continued interest in long-held, tightly held pockets such as **Bellevue Hill, Vaucluse and Mosman**.",
+              "annotations": [
+                {
+                  "title": "Five trends shaping Sydney’s prestige property market in 2025",
+                  "url": "https://www.catalyst.com.au/five-trends-shaping-sydneys-prestige-property-market-in-2025/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 💡 What to Look for in a Prestige Buyers' Advocate\n\n| Feature | Why It Matters |\n|---|---|\n| Off-market access | Many prestige homes never list publicly |\n| Local suburb expertise | Pricing nuances vary street by street |\n| Due diligence capability | Structural, legal & planning checks |\n| Negotiation track record | Critical at auction or in private treaty |\n| Integrated finance advisory | Aligns strategy with liquidity needs |\n| Discretion & confidentiality | Essential for HNW clients |\n\n---\n\n## 📌 Summary Recommendation\n\n- **For the absolute top end ($10M+):** Cohen Handler or Propertybuyer\n- **For boutique, personalised service:** Grantham Buyers Agents\n- **For Northern Beaches/Eastern Suburbs with renovation focus:** HighSpec Properties\n- **For integrated finance + acquisition advisory:** Truth Group\n\nWould you like more detail on any specific firm, suburb, or price range?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best luxury buyers advocates Sydney prestige homes 2024 2025",
+        "top luxury real estate acquisition advisory Sydney buyers agency",
+        "Sydney prestige buyers advocates luxury acquisition advisory firms 2025 2026"
+      ]
+    }
+  ]
+}

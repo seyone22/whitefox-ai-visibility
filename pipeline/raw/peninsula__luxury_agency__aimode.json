@@ -1,0 +1,167 @@
+{
+  "slug": "peninsula",
+  "pk": "luxury_agency",
+  "plat": "aimode",
+  "text": "Who are the best luxury real estate agencies in Mornington Peninsula? Give me a shortlist of specific prestige property agencies with reasons.",
+  "loc": 9056918,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\peninsula__luxury_agency__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:19:32.302Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the best luxury real estate agencies in Mornington Peninsula? Give me a shortlist of specific prestige property agencies with reasons.",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 9056918,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Who%20are%20the%20best%20luxury%20real%20estate%20agencies%20in%20Mornington%20Peninsula%3F%20Give%20me%20a%20shortlist%20of%20specific%20prestige%20property%20agencies%20with%20reasons.&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCQOoQ4mOxdVqEZXT2c1Pc_Yg",
+      "datetime": "2026-10-21 05:19:31 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "Leading luxury real estate agencies on the Mornington Peninsula include Peninsula Sotheby's International Realty, [Kay & Burton](https://www.kayburton.com.au/) , and Marshall White . These firms specialize in high-end coastal retreats, multi-million dollar acreages, and premium beachfront architecture.\n\n### Top Prestige Property Agencies\n\n- **Peninsula Sotheby's International Realty** : Offers unmatched global reach and local expertise across high-end pockets like Sorrento, Portsea, and Mount Eliza. Best for connecting luxury local properties with international ultra-high-net-worth buyers through an exclusive worldwide network.[[1]](https://coastalagents.com.au/)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVc1bk56TmtNWGMxGAo)\n- **Kay & Burton** : A premier Victorian heritage luxury brand with a dedicated Mornington Peninsula presence. Best for intergenerational client relationships, discreet private wealth advisory, and high-end lifestyle or rural holdings.[[1]](https://www.kayburton.com.au/)\n- **Marshall White** : Brings a powerhouse Melbourne luxury pedigree (particularly from Stonnington and Boroondara) directly to Peninsula hotspots like Mount Eliza and Mornington. Best for high-impact auction campaigns and sophisticated metro-buyer pipelines.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVc1bk56TmtNWGMxGAo)\n- **Jellis Craig Mornington / Mount Martha** : Highly regarded for deep local roots and dominant market share in coastal corridors. Best for precise, data-driven local valuations and premium contemporary family residences.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVc1bk56TmtNWGMxGAo)\n- **Buxton Mornington Peninsula** : Operates specialized regional offices (including Flinders, Sorrento, and Mount Eliza) handling elite coastal architecture and country estates. Best for localized, multi-office regional reach across diverse micro-markets.[[1]](https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdOZmQzSXdYdxgK)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVc1bk56TmtNWGMxGAo)\n\nIf you are planning to buy or sell, let me know:\n\n- Are you looking in a **specific town** (e.g., Portsea, Sorrento, Flinders, Mount Eliza)?\n- Are you looking to **buy or sell** a prestige property?\n\nI can provide **more targeted agent recommendations** for that specific pocket.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Leading luxury real estate agencies on the Mornington Peninsula include Peninsula Sotheby's International Realty, Kay & Burton, and Marshall White. These firms specialize in high-end coastal retreats, multi-million dollar acreages, and premium beachfront architecture.",
+              "markdown": "Leading luxury real estate agencies on the Mornington Peninsula include Peninsula Sotheby's International Realty, [Kay & Burton](https://www.kayburton.com.au/) , and Marshall White . These firms specialize in high-end coastal retreats, multi-million dollar acreages, and premium beachfront architecture.",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Kay & Burton",
+                  "description": null,
+                  "url": "https://www.kayburton.com.au/",
+                  "domain": "www.kayburton.com.au"
+                }
+              ],
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Top Prestige Property Agencies",
+              "text": "Peninsula Sotheby's International Realty : Offers unmatched global reach and local expertise across high-end pockets like Sorrento, Portsea, and Mount Eliza. Best for connecting luxury local properties with international ultra-high-net-worth buyers through an exclusive worldwide network. Kay & Burton : A premier Victorian heritage luxury brand with a dedicated Mornington Peninsula presence. Best for intergenerational client relationships, discreet private wealth advisory, and high-end lifestyle or rural holdings. Marshall White : Brings a powerhouse Melbourne luxury pedigree (particularly from Stonnington and Boroondara) directly to Peninsula hotspots like Mount Eliza and Mornington. Best for high-impact auction campaigns and sophisticated metro-buyer pipelines. Jellis Craig Mornington / Mount Martha : Highly regarded for deep local roots and dominant market share in coastal corridors. Best for precise, data-driven local valuations and premium contemporary family residences. Buxton Mornington Peninsula : Operates specialized regional offices (including Flinders, Sorrento, and Mount Eliza) handling elite coastal architecture and country estates. Best for localized, multi-office regional reach across diverse micro-markets.",
+              "markdown": "- **Peninsula Sotheby's International Realty** : Offers unmatched global reach and local expertise across high-end pockets like Sorrento, Portsea, and Mount Eliza. Best for connecting luxury local properties with international ultra-high-net-worth buyers through an exclusive worldwide network.[[1]](https://coastalagents.com.au/)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVc1bk56TmtNWGMxGAo)\n- **Kay & Burton** : A premier Victorian heritage luxury brand with a dedicated Mornington Peninsula presence. Best for intergenerational client relationships, discreet private wealth advisory, and high-end lifestyle or rural holdings.[[1]](https://www.kayburton.com.au/)\n- **Marshall White** : Brings a powerhouse Melbourne luxury pedigree (particularly from Stonnington and Boroondara) directly to Peninsula hotspots like Mount Eliza and Mornington. Best for high-impact auction campaigns and sophisticated metro-buyer pipelines.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVc1bk56TmtNWGMxGAo)\n- **Jellis Craig Mornington / Mount Martha** : Highly regarded for deep local roots and dominant market share in coastal corridors. Best for precise, data-driven local valuations and premium contemporary family residences.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVc1bk56TmtNWGMxGAo)\n- **Buxton Mornington Peninsula** : Operates specialized regional offices (including Flinders, Sorrento, and Mount Eliza) handling elite coastal architecture and country estates. Best for localized, multi-office regional reach across diverse micro-markets.[[1]](https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdOZmQzSXdYdxgK)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVc1bk56TmtNWGMxGAo)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Coastal Agents",
+                  "domain": "coastalagents.com.au",
+                  "url": "https://coastalagents.com.au/",
+                  "title": "Coastal Agents | Premium Properties in the Mornington ...",
+                  "text": "Liz helped with our display, excellent communication and very patient. selling our beautiful home in Mt Eliza. Coastal Agents were..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVc1bk56TmtNWGMxGAo",
+                  "title": "Peninsula Sotheby's International Realty",
+                  "text": "158 Ocean Beach Rd, Sorrento VIC 3943"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Kay & Burton",
+                  "domain": "www.kayburton.com.au",
+                  "url": "https://www.kayburton.com.au/",
+                  "title": "Luxury real estate Melbourne | Kay & Burton",
+                  "text": "Kay & Burton (established 1938); luxury real estate agency in Australia. Services: Advisory, property appraisal, market insights, ..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you are planning to buy or sell, let me know:",
+              "markdown": "If you are planning to buy or sell, let me know:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Are you looking in a specific town (e.g., Portsea, Sorrento, Flinders, Mount Eliza)? Are you looking to buy or sell a prestige property?",
+              "markdown": "- Are you looking in a **specific town** (e.g., Portsea, Sorrento, Flinders, Mount Eliza)?\n- Are you looking to **buy or sell** a prestige property?",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "I can provide more targeted agent recommendations for that specific pocket.",
+              "markdown": "I can provide **more targeted agent recommendations** for that specific pocket.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Kay & Burton",
+              "domain": "www.kayburton.com.au",
+              "url": "https://www.kayburton.com.au/",
+              "title": "Luxury real estate Melbourne | Kay & Burton",
+              "text": "Kay & Burton (established 1938); luxury real estate agency in Australia. Services: Advisory, property appraisal, market insights, and wealth network. Victoria's Mo..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Coastal Agents",
+              "domain": "coastalagents.com.au",
+              "url": "https://coastalagents.com.au/",
+              "title": "Coastal Agents | Premium Properties in the Mornington ...",
+              "text": "Liz helped with our display, excellent communication and very patient. selling our beautiful home in Mt Eliza. Coastal Agents were excellent in selling our propert..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Google",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVc1bk56TmtNWGMxGAo",
+              "title": "Peninsula Sotheby's International Realty",
+              "text": "158 Ocean Beach Rd, Sorrento VIC 3943"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Google",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdOZmQzSXdYdxgK",
+              "title": "Buxton Mornington Peninsula Mount Eliza",
+              "text": "3/84 Mount Eliza Way, Mount Eliza VIC 3930 · Professional real estate agency specializing in residential sales and property management."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "slug": "melbourne",
+  "pk": "off_market",
+  "plat": "aimode",
+  "text": "Which luxury real estate agents and agencies in Melbourne specialise in confidential off-market prestige property sales and high-net-worth buyer networks?",
+  "loc": 1000567,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\melbourne__off_market__aimode.json",
+  "at": "2026-10-21T05:10:34.354Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which luxury real estate agents and agencies in Melbourne specialise in confidential off-market prestige property sales and high-net-worth buyer networks?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000567,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20luxury%20real%20estate%20agents%20and%20agencies%20in%20Melbourne%20specialise%20in%20confidential%20off-market%20prestige%20property%20sales%20and%20high-net-worth%20buyer%20networks%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCYH9EQ-vQtZqEeDnjCF1VgQF",
+      "datetime": "2026-10-21 05:10:33 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "Melbourne’s prestige property market relies heavily on discreet, unlisted transactions. Key luxury agencies and specialized advisory networks managing confidential off-market sales and ultra-high-net-worth (UHNW) buyer networks include Marshall White, Christie’s International Real Estate Victoria , and specialized advisory firms like [Industry Insider Property](https://www.industryinsider.com.au/services/buyers-agent-melbourne/).\n\n### Leading Prestige Agencies & Agents\n\n- **Marshall White (Prestige Branch)** : A dominant force in Melbourne’s luxury corridor (Toorak, South Yarra, Armadale, and Bayside), renowned for generational vendor relationships and a proprietary database facilitating major off-market and pre-release transactions.\n- **Christie’s International Real Estate Victoria** : Led by Principal Sean Cussell in South Yarra, this affiliate specialises directly in super-prime luxury residential estates, trophy homes, and international high-net-worth client acquisition.[[1]](https://www.christiesrealestate.com/real-estate-offices/melbourne/328/)[[2]](https://cirevictoria.com.au/team-profiles)\n- **RT Edgar (Prestige Division)** : Deeply entrenched in historical blue-chip inner-east and coastal Mornington Peninsula markets, managing private portfolios and confidential vendor-buyer alignments.\n\n### Confidential Buyer & Vendor Advisory Networks\n\n- **Industry Insider Property** : Directed by Andrew Date and team in Toorak, operating heavily on a referral basis to source unlisted luxury properties and run vendor advocacy for high-end clients.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdOdWVEVnJjMkl3GAo)\n- **LP Advisory** : Specialises in discreet luxury buyer and vendor representation, focusing on private inspections, strict privacy parameters, and data-driven valuations across Melbourne’s elite postcodes.[[1]](https://lpadvisory.com.au/luxury-homes/)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVcxMk1UUnpkRGcyGAo)[[3]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVcxMk1UUnpkRGcyGAo)[[4]](https://elitebuyeragents.com.au/luxury-homes/)\n\nIf you can share whether you are looking to **buy or sell** , along with your **target suburb** (e.g., Toorak, Brighton, or Port Phillip) and **price threshold** , I can help narrow down the specific specialist best suited to your portfolio.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Melbourne’s prestige property market relies heavily on discreet, unlisted transactions. Key luxury agencies and specialized advisory networks managing confidential off-market sales and ultra-high-net-worth (UHNW) buyer networks include Marshall White, Christie’s International Real Estate Victoria, and specialized advisory firms like Industry Insider Property.",
+              "markdown": "Melbourne’s prestige property market relies heavily on discreet, unlisted transactions. Key luxury agencies and specialized advisory networks managing confidential off-market sales and ultra-high-net-worth (UHNW) buyer networks include Marshall White, Christie’s International Real Estate Victoria , and specialized advisory firms like [Industry Insider Property](https://www.industryinsider.com.au/services/buyers-agent-melbourne/).",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Industry Insider Property",
+                  "description": null,
+                  "url": "https://www.industryinsider.com.au/services/buyers-agent-melbourne/",
+                  "domain": "www.industryinsider.com.au"
+                }
+              ],
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Leading Prestige Agencies & Agents",
+              "text": "Marshall White (Prestige Branch) : A dominant force in Melbourne’s luxury corridor (Toorak, South Yarra, Armadale, and Bayside), renowned for generational vendor relationships and a proprietary database facilitating major off-market and pre-release transactions. Christie’s International Real Estate Victoria : Led by Principal Sean Cussell in South Yarra, this affiliate specialises directly in super-prime luxury residential estates, trophy homes, and international high-net-worth client acquisition. RT Edgar (Prestige Division) : Deeply entrenched in historical blue-chip inner-east and coastal Mornington Peninsula markets, managing private portfolios and confidential vendor-buyer alignments.",
+              "markdown": "- **Marshall White (Prestige Branch)** : A dominant force in Melbourne’s luxury corridor (Toorak, South Yarra, Armadale, and Bayside), renowned for generational vendor relationships and a proprietary database facilitating major off-market and pre-release transactions.\n- **Christie’s International Real Estate Victoria** : Led by Principal Sean Cussell in South Yarra, this affiliate specialises directly in super-prime luxury residential estates, trophy homes, and international high-net-worth client acquisition.[[1]](https://www.christiesrealestate.com/real-estate-offices/melbourne/328/)[[2]](https://cirevictoria.com.au/team-profiles)\n- **RT Edgar (Prestige Division)** : Deeply entrenched in historical blue-chip inner-east and coastal Mornington Peninsula markets, managing private portfolios and confidential vendor-buyer alignments.",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Christie's International Real Estate",
+                  "domain": "www.christiesrealestate.com",
+                  "url": "https://www.christiesrealestate.com/real-estate-offices/melbourne/328/",
+                  "title": "Melbourne | Christie's International Real Estate",
+                  "text": "Location: 2 Daly Street, South Yarra, Australia, 3141 (Phone: +61 425787979). Team: Christie's International Real Estate Victoria,"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "cirevictoria.com.au",
+                  "domain": "cirevictoria.com.au",
+                  "url": "https://cirevictoria.com.au/team-profiles",
+                  "title": "Our Team - Christie's International Real Estate Victoria",
+                  "text": "Sean Cussell Principal +61 425 787 979 Email Chris Paul Head of Development Advisory +61 412226073 Email Olga Hemmerich Office Man..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Confidential Buyer & Vendor Advisory Networks",
+              "text": "Industry Insider Property : Directed by Andrew Date and team in Toorak, operating heavily on a referral basis to source unlisted luxury properties and run vendor advocacy for high-end clients. LP Advisory : Specialises in discreet luxury buyer and vendor representation, focusing on private inspections, strict privacy parameters, and data-driven valuations across Melbourne’s elite postcodes.",
+              "markdown": "- **Industry Insider Property** : Directed by Andrew Date and team in Toorak, operating heavily on a referral basis to source unlisted luxury properties and run vendor advocacy for high-end clients.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdOdWVEVnJjMkl3GAo)\n- **LP Advisory** : Specialises in discreet luxury buyer and vendor representation, focusing on private inspections, strict privacy parameters, and data-driven valuations across Melbourne’s elite postcodes.[[1]](https://lpadvisory.com.au/luxury-homes/)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVcxMk1UUnpkRGcyGAo)[[3]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVcxMk1UUnpkRGcyGAo)[[4]](https://elitebuyeragents.com.au/luxury-homes/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdOdWVEVnJjMkl3GAo",
+                  "title": "Industry Insider Property",
+                  "text": "Level 3/489 Toorak Rd, Toorak VIC 3142 · Industry Insider Property is Melbourne's trusted buyer's and vendor advocacy firm, specia..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "LP Advisory",
+                  "domain": "lpadvisory.com.au",
+                  "url": "https://lpadvisory.com.au/luxury-homes/",
+                  "title": "Luxury Buyers Agent Melbourne",
+                  "text": "We arrange private inspections and assess quality, condition, provenance and value before you commit. negotiate at auction or priv..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVcxMk1UUnpkRGcyGAo",
+                  "title": "Belle Property Melbourne",
+                  "text": "Located in the heart of Australia’s most liveable city, Belle Property Melbourne provides a boutique, premium real estate agency s..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Elite Buyer Agents",
+                  "domain": "elitebuyeragents.com.au",
+                  "url": "https://elitebuyeragents.com.au/luxury-homes/",
+                  "title": "Luxury Homes",
+                  "text": "Many high-net-worth vendors actively choose not to list publicly, preferring to protect their privacy, security, and the exclusivi..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you can share whether you are looking to buy or sell, along with your target suburb (e.g., Toorak, Brighton, or Port Phillip) and price threshold, I can help narrow down the specific specialist best suited to your portfolio.",
+              "markdown": "If you can share whether you are looking to **buy or sell** , along with your **target suburb** (e.g., Toorak, Brighton, or Port Phillip) and **price threshold** , I can help narrow down the specific specialist best suited to your portfolio.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "LP Advisory",
+              "domain": "lpadvisory.com.au",
+              "url": "https://lpadvisory.com.au/luxury-homes/",
+              "title": "Luxury Buyers Agent Melbourne",
+              "text": "We arrange private inspections and assess quality, condition, provenance and value before you commit. negotiate at auction or privately"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Christie's International Real Estate",
+              "domain": "www.christiesrealestate.com",
+              "url": "https://www.christiesrealestate.com/real-estate-offices/melbourne/328/",
+              "title": "Melbourne | Christie's International Real Estate",
+              "text": "Location: 2 Daly Street, South Yarra, Australia, 3141 (Phone: +61 425787979). Team: Christie's International Real Estate Victoria, Notable sales include a $30 mill..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Elite Buyer Agents",
+              "domain": "elitebuyeragents.com.au",
+              "url": "https://elitebuyeragents.com.au/luxury-homes/",
+              "title": "Luxury Homes",
+              "text": "Many high-net-worth vendors actively choose not to list publicly, preferring to protect their privacy, security, and the exclusivity of their home."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

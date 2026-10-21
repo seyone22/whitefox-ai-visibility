@@ -1,0 +1,187 @@
+{
+  "slug": "perth",
+  "pk": "luxury_agency",
+  "plat": "aimode",
+  "text": "Who are the best luxury real estate agencies in Perth? Give me a shortlist of specific prestige property agencies with reasons.",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\perth__luxury_agency__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:17:16.917Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the best luxury real estate agencies in Perth? Give me a shortlist of specific prestige property agencies with reasons.",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000676,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Who%20are%20the%20best%20luxury%20real%20estate%20agencies%20in%20Perth%3F%20Give%20me%20a%20shortlist%20of%20specific%20prestige%20property%20agencies%20with%20reasons.&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCXPVOynVujIqEeBO3zW18AQF",
+      "datetime": "2026-10-21 05:17:16 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "Perth’s top luxury real estate options are anchored by specialized boutique firms and high-performing prestige networks dominating the affluent western suburbs and riverside enclaves. The standout agencies for high-net-worth transactions include [William Porteous Properties International](https://porteous.com.au/), Ray White Dalkeith | Claremont (led by elite performers like Vivien Yap), and Inhabit Property.\n\n### Leading Prestige Agencies\n\n\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10210517-2877-0139-0000-3ba02a2cae83:16)\nWilliam Porteous Properties International 4.4 (58)  \nReal estate agency  \nOpen c4/87 Waratah Ave  \nCall Directions Website William Porteous Properties International\n\n- **Location:** Dalkeith\n- **Why they excel:** A legendary name in Perth's ultra-luxury sector. They specialize in landmark riverside estates, architectural masterpieces, and high-value historical properties across Dalkeith, Mosman Park, and Peppermint Grove.\n- **Key strength:** Decades of entrenched local dominance, unrivaled database of high-net-worth buyers, and specialized discretion for off-market multi-million dollar transactions.\n\n\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10210517-2877-0139-0000-3ba02a2cae83:17)\nRay White Dalkeith | Claremont 4.6 (153)  \nReal estate agency  \nOpen Unit 3/87 Waratah Ave  \nCall Directions Website\n\n- **Location:** Claremont / Dalkeith\n- **Why they excel:** Powerhouse high-end performance combining a globally recognized brand name with localized market dominance. Vivien Yap consistently ranks among Australia’s top-selling principals for luxury corridor properties.\n- **Key strength:** Exceptional digital marketing reach, international buyer networks (particularly across Asia), and immense volume in high-end suburban property sales.\n\n\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10210517-2877-0139-0000-3ba02a2cae83:18)\nInhabit Property Real estate agent  \nOpen Suite 5/40 St Quentin Ave  \nCall Directions Website Inhabit Property\n\n- **Location:** Perth CBD / Western Suburbs\n- **Why they excel:** Founded by high-profile luxury specialist Brendon Habak, this boutique agency brings a sharp, modern, and data-driven edge to Perth’s prestige market.\n- **Key strength:** Highly personalized vendor advisory, elite negotiation precision, and contemporary multi-channel marketing campaigns tailored for affluent modern homes.\n\n\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10210517-2877-0139-0000-3ba02a2cae83:19)\nThe Agency (Perth)4.8 (2.3K)  \nReal estate agent  \nOpen Level 2/1 Cambridge St  \nCall Directions Website\n\n- **Location:** West Leederville\n- **Why they excel:** A national hybrid model that houses several of Western Australia’s leading high-value lifestyle and prestige property agents under one collaborative network.\n- **Key strength:** Scaled cross-listing exposure paired with high-caliber individual agent expertise spanning coastal strips to inner-city penthouses.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4Y0hSNGNXSXpOVE0YCg)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdkdFkycHVPR3BzGAo)\n\nIf you have a **specific suburb** or **price bracket** in mind, or if you are looking to **buy versus sell** , let me know so I can point you toward the exact lead specialist best suited for that asset class.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Perth’s top luxury real estate options are anchored by specialized boutique firms and high-performing prestige networks dominating the affluent western suburbs and riverside enclaves. The standout agencies for high-net-worth transactions include William Porteous Properties International, Ray White Dalkeith | Claremont (led by elite performers like Vivien Yap), and Inhabit Property.",
+              "markdown": "Perth’s top luxury real estate options are anchored by specialized boutique firms and high-performing prestige networks dominating the affluent western suburbs and riverside enclaves. The standout agencies for high-net-worth transactions include [William Porteous Properties International](https://porteous.com.au/), Ray White Dalkeith | Claremont (led by elite performers like Vivien Yap), and Inhabit Property.",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "William Porteous Properties International",
+                  "description": null,
+                  "url": "https://porteous.com.au/",
+                  "domain": "porteous.com.au"
+                }
+              ],
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Leading Prestige Agencies",
+              "text": "William Porteous Properties International 4.4 (58) Real estate agency Open c4/87 Waratah Ave Call Directions Website William Porteous Properties InternationalLocation: Dalkeith\nWhy they excel: A legendary name in Perth's ultra-luxury sector. They specialize in landmark riverside estates, architectural masterpieces, and high-value historical properties across Dalkeith, Mosman Park, and Peppermint Grove.\nKey strength: Decades of entrenched local dominance, unrivaled database of high-net-worth buyers, and specialized discretion for off-market multi-million dollar transactions.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10210517-2877-0139-0000-3ba02a2cae83:8)\nWilliam Porteous Properties International 4.4 (58)  \nReal estate agency  \nOpen c4/87 Waratah Ave  \nCall Directions Website William Porteous Properties International\n\n- **Location:** Dalkeith\n- **Why they excel:** A legendary name in Perth's ultra-luxury sector. They specialize in landmark riverside estates, architectural masterpieces, and high-value historical properties across Dalkeith, Mosman Park, and Peppermint Grove.\n- **Key strength:** Decades of entrenched local dominance, unrivaled database of high-net-worth buyers, and specialized discretion for off-market multi-million dollar transactions.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10210517-2877-0139-0000-3ba02a2cae83:9"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Ray White Dalkeith | Claremont 4.6 (153) Real estate agency Open Unit 3/87 Waratah Ave Call Directions WebsiteLocation: Claremont / Dalkeith\nWhy they excel: Powerhouse high-end performance combining a globally recognized brand name with localized market dominance. Vivien Yap consistently ranks among Australia’s top-selling principals for luxury corridor properties.\nKey strength: Exceptional digital marketing reach, international buyer networks (particularly across Asia), and immense volume in high-end suburban property sales.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10210517-2877-0139-0000-3ba02a2cae83:10)\nRay White Dalkeith | Claremont 4.6 (153)  \nReal estate agency  \nOpen Unit 3/87 Waratah Ave  \nCall Directions Website\n\n- **Location:** Claremont / Dalkeith\n- **Why they excel:** Powerhouse high-end performance combining a globally recognized brand name with localized market dominance. Vivien Yap consistently ranks among Australia’s top-selling principals for luxury corridor properties.\n- **Key strength:** Exceptional digital marketing reach, international buyer networks (particularly across Asia), and immense volume in high-end suburban property sales.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10210517-2877-0139-0000-3ba02a2cae83:11"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Inhabit Property Real estate agent Open Suite 5/40 St Quentin Ave Call Directions Website Inhabit PropertyLocation: Perth CBD / Western Suburbs\nWhy they excel: Founded by high-profile luxury specialist Brendon Habak, this boutique agency brings a sharp, modern, and data-driven edge to Perth’s prestige market.\nKey strength: Highly personalized vendor advisory, elite negotiation precision, and contemporary multi-channel marketing campaigns tailored for affluent modern homes.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10210517-2877-0139-0000-3ba02a2cae83:12)\nInhabit Property Real estate agent  \nOpen Suite 5/40 St Quentin Ave  \nCall Directions Website Inhabit Property\n\n- **Location:** Perth CBD / Western Suburbs\n- **Why they excel:** Founded by high-profile luxury specialist Brendon Habak, this boutique agency brings a sharp, modern, and data-driven edge to Perth’s prestige market.\n- **Key strength:** Highly personalized vendor advisory, elite negotiation precision, and contemporary multi-channel marketing campaigns tailored for affluent modern homes.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10210517-2877-0139-0000-3ba02a2cae83:13"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "The Agency (Perth) 4.8 (2.3K) Real estate agent Open Level 2/1 Cambridge St Call Directions WebsiteLocation: West Leederville\nWhy they excel: A national hybrid model that houses several of Western Australia’s leading high-value lifestyle and prestige property agents under one collaborative network.\nKey strength: Scaled cross-listing exposure paired with high-caliber individual agent expertise spanning coastal strips to inner-city penthouses.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10210517-2877-0139-0000-3ba02a2cae83:14)\nThe Agency (Perth)4.8 (2.3K)  \nReal estate agent  \nOpen Level 2/1 Cambridge St  \nCall Directions Website\n\n- **Location:** West Leederville\n- **Why they excel:** A national hybrid model that houses several of Western Australia’s leading high-value lifestyle and prestige property agents under one collaborative network.\n- **Key strength:** Scaled cross-listing exposure paired with high-caliber individual agent expertise spanning coastal strips to inner-city penthouses.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4Y0hSNGNXSXpOVE0YCg)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdkdFkycHVPR3BzGAo)",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10210517-2877-0139-0000-3ba02a2cae83:15"
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4Y0hSNGNXSXpOVE0YCg",
+                  "title": "William Porteous Properties International",
+                  "text": "c4/87 Waratah Ave, Dalkeith WA 6009 · Professional real estate agency providing seamless property sales and dedicated leasing mana..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdkdFkycHVPR3BzGAo",
+                  "title": "Prestige Property Perth",
+                  "text": "Prestige Property Perth is a trusted real estate agency providing residential property sales and property management services acro..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you have a specific suburb or price bracket in mind, or if you are looking to buy versus sell, let me know so I can point you toward the exact lead specialist best suited for that asset class.",
+              "markdown": "If you have a **specific suburb** or **price bracket** in mind, or if you are looking to **buy versus sell** , let me know so I can point you toward the exact lead specialist best suited for that asset class.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Google",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4Y0hSNGNXSXpOVE0YCg",
+              "title": "William Porteous Properties International",
+              "text": "c4/87 Waratah Ave, Dalkeith WA 6009 · Professional real estate agency providing seamless property sales and dedicated leasing management services."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Google",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdkdFkycHVPR3BzGAo",
+              "title": "Prestige Property Perth",
+              "text": "Prestige Property Perth is a trusted real estate agency providing residential property sales and property management services across Perth. Our experienced team assists homeowners, buyers, sellers, landlords and property investors with residential property sales, apartments, vacant land, investment properties and long-term property management. We are committed to delivering personalised service, expert advice and communication throughout every stage of your real estate journey. Whether you are selling your home, purchasing a property, growing your investment portfolio or seeking property management, we offer local market knowledge, industry expertise and a client-focused approach. At Prestige Property Perth, our priority is always you."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Google",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4TVhoa2F6SXpiSGsYCg",
+              "title": "Professionals Prowest Real Estate",
+              "text": "Professional real estate agency specializing in residential property sales and leasing management."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

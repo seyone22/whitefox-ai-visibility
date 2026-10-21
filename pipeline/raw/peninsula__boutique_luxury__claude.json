@@ -1,0 +1,233 @@
+{
+  "slug": "peninsula",
+  "pk": "boutique_luxury",
+  "plat": "claude",
+  "text": "Which boutique luxury real estate agencies in Mornington Peninsula are best known for modern social media marketing, high-impact video campaigns, and architectural homes?",
+  "loc": 9056918,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\peninsula__boutique_luxury__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:20:11.284Z",
+  "cost": 0.083743,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 18271,
+      "output_tokens": 1222,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.083143,
+      "datetime": "2026-10-21 05:20:11 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Great question! Based on available research, here is a curated overview of the **boutique luxury real estate agencies on the Mornington Peninsula** that are best known for modern social media marketing, high-impact video campaigns, and architectural/luxury homes:\n\n---\n\n## 🏡 Top Boutique Luxury Real Estate Agencies on the Mornington Peninsula\n\n---\n\n### 1. 🏠 **Danckert Real Estate** *(Mount Martha)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Established in 2017, Danckert are leaders in Mornington Peninsula real estate, with over 50 years' of combined experience and an intimate knowledge of luxury homes and premium real estate on the Peninsula.",
+              "annotations": [
+                {
+                  "title": "Mornington Peninsula Real Estate Agents",
+                  "url": "https://danckert.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Mornington Peninsula Real Estate Agents",
+                  "url": "https://danckert.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They maintain an active presence across Instagram, Facebook, YouTube, and LinkedIn",
+              "annotations": [
+                {
+                  "title": "Mornington Peninsula Real Estate Agents",
+                  "url": "https://danckert.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — making them one of the more digitally engaged boutique agencies in the region. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They guide clients with precision, professionalism, and a commitment to exceptional outcomes.",
+              "annotations": [
+                {
+                  "title": "Mornington Peninsula Real Estate Agents",
+                  "url": "https://danckert.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. 🏠 **Buxton Mornington Peninsula**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Buxton Mornington Peninsula is a real estate agency operating across Flinders, Sorrento, Mount Eliza, and Balnarring",
+              "annotations": [
+                {
+                  "title": "Buxton Mornington Peninsula",
+                  "url": "https://www.facebook.com/buxtonmp/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — some of the Peninsula's most prestigious and architecturally rich enclaves. As part of the broader Buxton network, they combine boutique local knowledge with professional marketing resources, including video and digital campaigns.\n\n---\n\n### 3. 🏠 **Coastal Agents** *(Mornington Peninsula)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Coastal Agents understand the value of dedicated service and the importance of discretion, striving to cultivate an experience founded on professionalism and integrity to achieve exceptional results.",
+              "annotations": [
+                {
+                  "title": "Coastal Agents",
+                  "url": "https://coastalagents.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Coastal Agents",
+                  "url": "https://coastalagents.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They specialise in architectural coastal luxury with resort-style living",
+              "annotations": [
+                {
+                  "title": "Coastal Agents",
+                  "url": "https://coastalagents.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", making them a strong choice for buyers and sellers of high-end, design-forward homes.\n\n---\n\n### 4. 🏠 **Daniel Robinson at Area Specialist** *(Mount Martha)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Daniel Robinson has built an \"attraction business\" model on the Mornington Peninsula — centred on constant marketing through social media, letterbox drops, and signage rather than cost-cutting.",
+              "annotations": [
+                {
+                  "title": "Daniel Robinson",
+                  "url": "https://eliteagent.com/daniel-robinson-building-an-attraction-business-model/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Currently ranked fourth on realestate.com.au across the entire Mornington Peninsula, his achievement is even more impressive considering he operates with just himself and one team member, competing against agents with teams of three to five people.",
+              "annotations": [
+                {
+                  "title": "Daniel Robinson",
+                  "url": "https://eliteagent.com/daniel-robinson-building-an-attraction-business-model/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " His approach makes him a standout for modern, high-visibility marketing.\n\n---\n\n### 5. 🏠 **Seachange Property** *(Mornington)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Seachange Property is a unique real estate service designed to ensure homeowners and developers maximise profit when selling or renting their homes, with an aim to achieve better sales results in a quicker space of time.",
+              "annotations": [
+                {
+                  "title": "Real Estate Agent Mornington",
+                  "url": "https://www.seachangeproperty.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer real estate for sale in Mornington, Mt Eliza, Mt Martha, and surrounding areas",
+              "annotations": [
+                {
+                  "title": "Real Estate Agent Mornington",
+                  "url": "https://www.seachangeproperty.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", with a focus on high-quality property presentation.\n\n---\n\n## 💡 What to Look For in a High-Impact Agency\n\nWhen evaluating any of these agencies for **video campaigns and social media marketing**, consider:\n\n- ✅ **Active Instagram & YouTube presence** with cinematic property videos\n- ✅ **Drone footage and architectural photography** as standard offerings\n- ✅ **Targeted Meta/Google ad campaigns** reaching Melbourne's high-net-worth buyers\n- ✅ **Consistent, brand-led content** that reflects the Peninsula's coastal lifestyle\n\n---\n\n> **Pro Tip:** For the most current and visually impressive marketing, browse each agency's **Instagram feed and YouTube channel** directly — the quality of their video production and visual storytelling will speak for itself. Agencies like Danckert and Coastal Agents are particularly worth reviewing for their digital presence in the architectural luxury segment.\n\nWould you like more detail on any specific agency, suburb, or price bracket?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "boutique luxury real estate agencies Mornington Peninsula modern social media marketing video campaigns architectural homes",
+        "best luxury real estate agents Mornington Peninsula Instagram video marketing 2024 2025",
+        "top boutique luxury real estate agencies Mornington Peninsula architectural homes video marketing"
+      ]
+    }
+  ]
+}

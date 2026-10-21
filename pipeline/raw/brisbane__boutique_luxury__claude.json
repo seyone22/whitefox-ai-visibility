@@ -1,0 +1,308 @@
+{
+  "slug": "brisbane",
+  "pk": "boutique_luxury",
+  "plat": "claude",
+  "text": "Which boutique luxury real estate agencies in Brisbane are best known for modern social media marketing, high-impact video campaigns, and architectural homes?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\brisbane__boutique_luxury__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:15:31.787Z",
+  "cost": 0.061543,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10581,
+      "output_tokens": 1280,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.060943,
+      "datetime": "2026-10-21 05:15:31 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Great question! Brisbane's luxury real estate scene has a number of standout boutique agencies and agents that are leading the way in modern social media marketing, cinematic video campaigns, and the marketing of architectural homes. Here's a breakdown of the best-known names:\n\n---\n\n## 🏡 Top Boutique Luxury Real Estate Agencies & Agents in Brisbane\n\n### 1. **Plum Property — Daniel Lee**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "What sets Daniel Lee apart is a relentless focus on content. He was an early mover on entertaining, high-production property video and social storytelling, using it to make listings travel far further than a portal ad ever could.",
+              "annotations": [
+                {
+                  "title": "The Best Real Estate Agents in Brisbane: We Found the Top 5 (Marketing Edition)",
+                  "url": "https://theresearcher.com.au/best-real-estate-agents-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Backing that creative firepower with the scale and systems of a 45-strong agency, he offers sellers the best of both worlds: a big marketing engine and a genuinely personal, story-led campaign.",
+              "annotations": [
+                {
+                  "title": "The Best Real Estate Agents in Brisbane: We Found the Top 5 (Marketing Edition)",
+                  "url": "https://theresearcher.com.au/best-real-estate-agents-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. **Drew Davies — Boutique Agent (National Media Profile)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "His campaigns are built for attention: cinematic video, lifestyle storytelling, and a personal brand that pulls thousands of eyes to every listing.",
+              "annotations": [
+                {
+                  "title": "The Best Real Estate Agents in Brisbane: We Found the Top 5 (Marketing Edition)",
+                  "url": "https://theresearcher.com.au/best-real-estate-agents-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "That reach regularly spills well beyond the property pages — his homes and campaigns have featured across national media including the *Today* show, *Sunrise*, Nine News, and the *Courier-Mail*.",
+              "annotations": [
+                {
+                  "title": "The Best Real Estate Agents in Brisbane: We Found the Top 5 (Marketing Edition)",
+                  "url": "https://theresearcher.com.au/best-real-estate-agents-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. **Remy's Real Estate — Remy Durieux**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Remy Durieux has built his own boutique agency, Remy's Real Estate, in Brisbane's southern suburbs around Carina, on the strength of a distinctive personal brand.",
+              "annotations": [
+                {
+                  "title": "The Best Real Estate Agents in Brisbane: We Found the Top 5 (Marketing Edition)",
+                  "url": "https://theresearcher.com.au/best-real-estate-agents-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Remy leans hard on personal-brand marketing and social content to build trust and reach before a campaign even launches, which matters more than ever now buyers are taking their time.",
+              "annotations": [
+                {
+                  "title": "The Best Real Estate Agents in Brisbane: We Found the Top 5 (Marketing Edition)",
+                  "url": "https://theresearcher.com.au/best-real-estate-agents-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "For sellers in Brisbane's south who want a boutique, high-touch agent with a marketing edge and international polish, Remy is a genuine standout.",
+              "annotations": [
+                {
+                  "title": "The Best Real Estate Agents in Brisbane: We Found the Top 5 (Marketing Edition)",
+                  "url": "https://theresearcher.com.au/best-real-estate-agents-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. **NGU Real Estate — Jason Yang**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Jason Yang has made social media and digital advertising his signature at NGU Real Estate, one of the market leaders in that space.",
+              "annotations": [
+                {
+                  "title": "The Best Real Estate Agents in Brisbane: We Found the Top 5 (Marketing Edition)",
+                  "url": "https://theresearcher.com.au/best-real-estate-agents-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "With a background in commerce and IT, Jason brings an analytics-led, data-driven approach to marketing a home — targeting the right buyers, in the right channels, with a precision most agents simply don't have.",
+              "annotations": [
+                {
+                  "title": "The Best Real Estate Agents in Brisbane: We Found the Top 5 (Marketing Edition)",
+                  "url": "https://theresearcher.com.au/best-real-estate-agents-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. **MOTIV Group**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "MOTIV is a leading project sales and marketing agency based in Southeast Queensland. They interrogate the opportunity for each individual client and provide independent strategy and customised creativity on every project.",
+              "annotations": [
+                {
+                  "title": "Homepage",
+                  "url": "https://motivgroup.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are particularly well known for boutique luxury developments and high-end architectural properties across the Brisbane and Gold Coast region.\n\n---\n\n## 🎬 Notable Marketing Specialists Supporting Brisbane's Luxury Market\n\nThese agencies power the video and social campaigns behind many of Brisbane's top luxury listings:\n\n- **Sprint Marketing** — ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "A forward-thinking agency specialising in premium videography and digital marketing for luxury residential real estate in South East Queensland, crafting cinematic property experiences that showcase homes with sophistication, capturing the detail, atmosphere, and lifestyle that set each listing apart.",
+              "annotations": [
+                {
+                  "title": "Sprint Marketing",
+                  "url": "https://www.sprintmarketing.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- **Nrth Media** — ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their team of experienced videographers craft cinematic property stories that highlight lifestyle, architecture, and emotion — essential ingredients for capturing attention in today's digital-first market.",
+              "annotations": [
+                {
+                  "title": "Real Estate Videography Brisbane",
+                  "url": "https://www.nrthmedia.com/real-estate-videography-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "From aerial drone footage to seamless interior walkthroughs, every shot is designed to elevate listings and drive engagement.",
+              "annotations": [
+                {
+                  "title": "Real Estate Videography Brisbane",
+                  "url": "https://www.nrthmedia.com/real-estate-videography-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 💡 Why This Matters in Brisbane's Luxury Market\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "High-quality videography and strategic social media marketing are essential in luxury residential real estate, where first impressions shape buyer perception and drive enquiry.",
+              "annotations": [
+                {
+                  "title": "Sprint Marketing",
+                  "url": "https://www.sprintmarketing.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "According to recent Australian property marketing studies, listings with professional video tours receive up to 403% more enquiries than those without.",
+              "annotations": [
+                {
+                  "title": "Real Estate Videography Brisbane",
+                  "url": "https://www.nrthmedia.com/real-estate-videography-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n**In summary**, if you're looking for boutique luxury agencies in Brisbane that combine architectural home expertise with cutting-edge social media and video marketing, **Plum Property (Daniel Lee)**, **Remy's Real Estate**, and **NGU Real Estate (Jason Yang)** are the most prominent names — while **MOTIV Group** leads in the luxury development/project marketing space. Would you like more detail on any of these?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "boutique luxury real estate agencies Brisbane modern social media marketing video campaigns architectural homes",
+        "best luxury real estate agents Brisbane architectural properties high-end marketing 2024 2025"
+      ]
+    }
+  ]
+}

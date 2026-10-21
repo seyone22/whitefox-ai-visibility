@@ -1,0 +1,344 @@
+{
+  "slug": "brisbane",
+  "pk": "off_market",
+  "plat": "claude",
+  "text": "Which luxury real estate agents and agencies in Brisbane specialise in confidential off-market prestige property sales and high-net-worth buyer networks?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\brisbane__off_market__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:15:45.271Z",
+  "cost": 0.062371,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 9427,
+      "output_tokens": 1566,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.061771,
+      "datetime": "2026-10-21 05:15:45 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a comprehensive overview of luxury real estate agents and agencies in Brisbane that specialise in **confidential off-market prestige property sales** and **high-net-worth (HNW) buyer networks**:\n\n---\n\n## 🏡 Top Brisbane Luxury & Off-Market Prestige Property Specialists\n\n---\n\n### 1. **North South Real Estate (NSRE)**\n**Website:** nsre.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "North South Real Estate is a boutique prestige property agency, proudly serving high-net-worth clients across South East QLD and Northern NSW with prestige and premium real estate across Brisbane, the Gold Coast, and Byron Bay.",
+              "annotations": [
+                {
+                  "title": "Prestige Property",
+                  "url": "https://www.nsre.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They specialise in luxury real estate advisory, bespoke property development, and strategic investment consulting for Family Offices, HNWIs, and UHNWIs.",
+              "annotations": [
+                {
+                  "title": "Prestige Property",
+                  "url": "https://www.nsre.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their team consistently delivers outstanding results for clients who expect world-class service, discretion, and deep market expertise, with over $1.2 billion in property and development transactions across Southeast Queensland and Northern NSW.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agent",
+                  "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Key offering:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Exclusive access to off-market deals and opportunities unavailable to the broader market, with discreet handling of exclusive acquisitions or sales ensuring confidentiality and maximum value for premium assets.",
+              "annotations": [
+                {
+                  "title": "Prestige Property",
+                  "url": "https://www.nsre.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Director:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Nik Seirlis is the Selling Principal and Director of NSRE, a leading authority on Brisbane, Gold Coast & Byron Bay real estate markets.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agent",
+                  "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. **Prestige by Propertybuyer**\n**Website:** prestigepropertybuyer.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Prestige by Propertybuyer is Australia's most trusted prestige buyer's agency, serving discerning clients with unparalleled discretion and expertise since 2001.",
+              "annotations": [
+                {
+                  "title": "Prestige Property Buyers Agent",
+                  "url": "https://prestigepropertybuyer.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer an **Anonymous Acquisition** service, acting as a shield so that the buyer's name never appears on public registers or is known by selling agents until the property is secured — perfect for celebrities, CEOs, and high-net-worth individuals who demand absolute privacy and discretion.",
+              "annotations": [
+                {
+                  "title": "Prestige Property Buyers Agent",
+                  "url": "https://prestigepropertybuyer.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They also provide access to off-market and silent listings invisible to the public, noting that across Australia's prestige markets, a large majority of extraordinary homes over $10M–$20M are sold via silent sales — no signs and no online listings.",
+              "annotations": [
+                {
+                  "title": "Prestige Property Buyers Agent",
+                  "url": "https://prestigepropertybuyer.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Brisbane Principal:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Glen Sainsbury serves as Principal Buyers Advocate for Brisbane.",
+              "annotations": [
+                {
+                  "title": "Prestige Property Buyers Agent",
+                  "url": "https://prestigepropertybuyer.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. **Adcock Prestige**\n**Website:** adcockprestige.com\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Adcock Prestige is committed to selling Brisbane's most prestigious property and delivering exceptional results in Brisbane's finest suburbs.",
+              "annotations": [
+                {
+                  "title": "Adcock Prestige",
+                  "url": "https://adcockprestige.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are a well-known boutique agency focused exclusively on the top end of the Brisbane residential market.\n\n---\n\n### 4. **Moore Buyers Agency**\n**Website:** moorebuyersagency.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Founded in 2018 by Lauren Moore, Moore Buyers Agency focuses on off-market property acquisitions and is renowned for its intuitive negotiating style and access to exclusive properties, often connecting clients with luxury homes before they hit the public market.",
+              "annotations": [
+                {
+                  "title": "The Best Buyers Agents in Brisbane - Real Estate Agents",
+                  "url": "https://www.top10realestateagent.com.au/the-best-buyers-agents-in-brisbane.html",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. **BFP Property Group**\n**Website:** bfpproperty.com\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "As a boutique luxury property buyer's agent, BFP Property Group represents clients purchasing top-tier homes and blue-chip investments in Brisbane and other major cities, specialising in listed and off-market luxury properties, high-end strategy, and end-to-end service tailored to the unique needs of prestige buyers.",
+              "annotations": [
+                {
+                  "title": "Luxury Property Buyers in NSW,Australia",
+                  "url": "https://bfpproperty.com/luxury-buyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their network gives buyers access to off-market luxury homes in Brisbane, many of which never reach public sale.",
+              "annotations": [
+                {
+                  "title": "Luxury Property Buyers in NSW,Australia",
+                  "url": "https://bfpproperty.com/luxury-buyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 6. **Your Property Hound (Matt Reeves)**\n**Website:** yourpropertyhound.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Brisbane Buyer's Agent Matt Reeves specialises in navigating the unique challenges of prestige property buying in Brisbane, including low stock levels, off-market sales, properties with no list price, auction bidding, and buyer anonymity.",
+              "annotations": [
+                {
+                  "title": "Buying a Prestige or Luxury Home in Brisbane?",
+                  "url": "https://www.yourpropertyhound.com.au/buying-a-prestige-or-luxury-home-in-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 🔑 Key Things to Know About Brisbane's Off-Market Prestige Market\n\n- **Privacy is paramount:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Privacy is paramount when transacting prestige property",
+              "annotations": [
+                {
+                  "title": "Prestige Real Estate",
+                  "url": "https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", and the best agencies are built around this principle.\n- **Silent sales dominate the top end:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Many prestige homes are sold off-market to protect the privacy of vendors and avoid public attention.",
+              "annotations": [
+                {
+                  "title": "Luxury Property Buyers in NSW,Australia",
+                  "url": "https://bfpproperty.com/luxury-buyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Referral networks matter:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "NSRE, for example, reports that 86% of their clients are repeat clients or referrals",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agent",
+                  "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — a hallmark of trust in this discreet segment of the market.\n\n---\n\n## 💡 Tips for Engaging These Agencies\n\n1. **Use a buyer's agent** rather than approaching selling agents directly — it adds a layer of anonymity.\n2. **Ask specifically about their off-market network** and how many transactions they complete that never appear publicly.\n3. **Request references** from past HNW clients (often provided confidentially).\n4. **Look for agencies with international connections**, as Brisbane's prestige market increasingly attracts overseas buyers and expats.\n\nWould you like more detail on any specific agency, suburb focus areas, or price brackets?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "luxury real estate agents Brisbane off-market prestige property sales high-net-worth",
+        "Brisbane luxury property agencies confidential off-market sales 2024 2025"
+      ]
+    }
+  ]
+}

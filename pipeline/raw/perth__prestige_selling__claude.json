@@ -1,0 +1,220 @@
+{
+  "slug": "perth",
+  "pk": "prestige_selling",
+  "plat": "claude",
+  "text": "I am selling a $10M luxury residential property in Perth. Which prestige real estate agencies have the strongest track record for high-end home sales?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\perth__prestige_selling__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:17:51.039Z",
+  "cost": 0.122833,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 30001,
+      "output_tokens": 1482,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.122233,
+      "datetime": "2026-10-21 05:17:50 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Great question! Selling a $10M property in Perth requires a very different approach than a standard residential sale. Here's a comprehensive guide to the top prestige agencies and key considerations for your sale:\n\n---\n\n## 🏡 Perth's $10M+ Property Market at a Glance\n\nFirst, some important context:\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Perth is among the strongest luxury home markets in Australia, having recorded the highest growth in luxury residential property among Australian capitals over recent years.",
+              "annotations": [
+                {
+                  "title": "Australia's prestige property powerhouses: Inside the 2025 shake-up",
+                  "url": "https://www.brokernews.com.au/news/breaking-news/australias-prestige-property-powerhouses-inside-the-2025-shakeup-288585.aspx",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "In 2024, Perth achieved its highest-ever number of $5 million-plus home sales — a 69% increase year-on-year, according to Westpac's Prestige Property Report.",
+              "annotations": [
+                {
+                  "title": "Perth joins Australia’s prestige property elite - Resolve Property Solutions",
+                  "url": "https://resolvepropertysolutions.com.au/perth-joins-australias-prestige-property-elite/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Knight Frank's Prime Global Cities Index ranked Perth as the country's best-performing luxury market in the 12 months to March, with prices up 3.8%.",
+              "annotations": [
+                {
+                  "title": "Perth joins Australia’s prestige property elite - Resolve Property Solutions",
+                  "url": "https://resolvepropertysolutions.com.au/perth-joins-australias-prestige-property-elite/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Peppermint Grove remains Perth's most expensive suburb, with a median house price of $6,575,000 (REIWA, 12 months to June 2026).",
+              "annotations": [
+                {
+                  "title": "Perth's Prestige Property Market: Riding the Peak as the Cycle Turns",
+                  "url": "https://opteonsolutions.com/au/insights/perths-prestige-property-market-riding-the-peak-as-the-cycle-turns",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 🏢 Top Prestige Real Estate Agencies in Perth\n\n### 1. **Mont Property**\nMont Property is one of Perth's most prominent boutique prestige agencies, particularly strong along the Swan River corridor. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Premium homes, particularly waterfront properties in Attadale, Applecross, Bicton and Mount Pleasant, are in high demand, with notable Mont sales including 1 The Strand, Applecross for $6.1 million and 23 Strome Road, Applecross for $5.2 million.",
+              "annotations": [
+                {
+                  "title": "Perth leading Australia’s luxury homes market: new global report",
+                  "url": "https://www.montproperty.com.au/news-at-mont/perth-leading-australias-luxury-homes-market-new-global-report/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n### 2. **Luxury Real Estate Sales (Meryl Carter)**\nA highly regarded boutique operator focused exclusively on the top end of the Perth market. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Meryl Carter is widely regarded as one of Western Australia's most accomplished and discreet luxury real estate agents, with over $100 million in residential sales achieved across a focused five-year career.",
+              "annotations": [
+                {
+                  "title": "Meryl Carter",
+                  "url": "https://www.luxuryrealestatesales.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Her network of luxury agents offers exposure of properties to a qualified, discerning audience of local and international buyers, with an active approach to international marketing.",
+              "annotations": [
+                {
+                  "title": "Meryl Carter",
+                  "url": "https://www.luxuryrealestatesales.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n### 3. **Ray White Dalkeith | Claremont**\nRay White's prestige-focused offices in Perth's western suburbs are consistently among the highest-performing for $5M+ sales in WA, with strong databases of high-net-worth buyers and a track record in suburbs like Dalkeith, Nedlands, and Claremont.\n\n### 4. **Realmark Coastal / Realmark Prestige**\nRealmark has a well-established prestige division operating across Perth's most sought-after coastal and riverside suburbs, including Cottesloe, Mosman Park, and City Beach.\n\n### 5. **Abode Real Estate**\nA boutique western suburbs agency with a strong reputation in the $3M–$10M+ bracket, particularly in Cottesloe, Swanbourne, and Peppermint Grove.\n\n### 6. **DUET Property Group**\nA boutique agency known for ultra-discreet, off-market prestige sales in Perth's western suburbs.\n\n---\n\n## ⚠️ Critical Consideration: Off-Market vs. On-Market\n\nThis is arguably the most important decision you'll make. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Between 50% and 80% of Perth residences asking $10 million or more are estimated to transact off-market, according to buyers' agent Rich Harvey of propertybuyer.com.au.",
+              "annotations": [
+                {
+                  "title": "Perth's Prestige Property Market: Riding the Peak as the Cycle Turns",
+                  "url": "https://opteonsolutions.com/au/insights/perths-prestige-property-market-riding-the-peak-as-the-cycle-turns",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "For ultra-prestige vendors at $10 million-plus, experts recommend running a discreet, buyer-feedback or off-market campaign.",
+              "annotations": [
+                {
+                  "title": "Perth's Prestige Property Market: Riding the Peak as the Cycle Turns",
+                  "url": "https://opteonsolutions.com/au/insights/perths-prestige-property-market-riding-the-peak-as-the-cycle-turns",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\nThis means the agency you choose should have:\n- A **deep private database** of qualified $10M+ buyers\n- Strong **interstate and international buyer networks**\n- Experience with **discreet, confidential campaigns**\n\n---\n\n## 🔑 Tips for Choosing the Right Agent\n\n1. **Ask for comparable sales** — Request evidence of personally negotiated sales above $5M–$10M in your suburb or nearby prestige suburbs.\n2. **Assess their buyer database** — At this price point, who they know matters more than their marketing budget.\n3. **Consider international reach** — ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "For high-income buyers, Perth is offering both capital growth and relative affordability compared with the east coast,",
+              "annotations": [
+                {
+                  "title": "Australia's prestige property powerhouses: Inside the 2025 shake-up",
+                  "url": "https://www.brokernews.com.au/news/breaking-news/australias-prestige-property-powerhouses-inside-the-2025-shakeup-288585.aspx",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " making it attractive to interstate and overseas buyers who need to be reached through the right networks.\n4. **Interview multiple agents** — Don't sign with the first agency. The difference in outcome at this price point can be millions of dollars.\n\nWould you like more specific advice on any of these agencies, or guidance on how to structure your sales campaign?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "prestige luxury real estate agencies Perth $10M+ residential sales 2025",
+        "top high end property agents Perth Western Australia track record",
+        "best prestige real estate agencies Perth luxury homes Dalkeith Peppermint Grove Cottesloe",
+        "top prestige real estate agents Perth luxury property sales Dalkeith Mosman Park 2025 2026"
+      ]
+    }
+  ]
+}

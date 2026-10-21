@@ -1,0 +1,198 @@
+{
+  "slug": "perth",
+  "pk": "luxury_auctions",
+  "plat": "aimode",
+  "text": "Who are the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in Perth?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\perth__luxury_auctions__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:17:57.178Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in Perth?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000676,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Who%20are%20the%20leading%20luxury%20real%20estate%20agencies%20and%20top-performing%20auctioneers%20for%20prestige%20residential%20properties%20in%20Perth%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCXPVOynVujIqEeBO3zW18AQF",
+      "datetime": "2026-10-21 05:17:56 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "Leading luxury real estate agencies in Perth specializing in prestige residential properties across the western suburbs and riverside enclaves include `William Porteous Properties International, Christie's International Real Estate WA & SA, Acton | Belle Property Dalkeith / Cottesloe, Fine & Country Perth, and DUET Property Group`.[[1]](https://christiesrealestatewasa.com/)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdkMlptZDRNbmRxGAo)\n\n### Leading Luxury Real Estate Agencies\n\n- **William Porteous Properties International** : Long-established authority handling ultra-prime properties and historic estates in Dalkeith, Mosman Park, and Peppermint Grove.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdkMlptZDRNbmRxGAo)\n- **Christie's International Real Estate WA & SA** : High-end global affiliate with a Perth headquarters, connecting local prestige properties to an international luxury network.[[1]](https://www.christiesrealestate.com/de/network/christies-international-real-estate-western-australia-and-south-australia/182/)[[2]](https://christiesrealestatewasa.com/)\n- **Acton | Belle Property (Dalkeith / Cottesloe)** : Dominant premium footprint throughout Perth’s affluent river and coastal corridors.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdkMlptZDRNbmRxGAo)\n- **Fine & Country Perth** : International brokerage located on Stirling Highway in Cottesloe, tailored to high-net-worth global marketing.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdkMlptZDRNbmRxGAo)\n- **DUET Property Group** : Boutique agency focusing on high-end architectural and luxury residential transactions in Nedlands and surrounding golden triangle suburbs.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdkMlptZDRNbmRxGAo)\n\n### Top-Performing Prestige Specialists & Auctioneers\n\n- **Peter Robertson** : Highly regarded luxury specialist and elite performer based in Dalkeith, renowned for handling landmark residential transactions.\n- **Jody Fewster** : Consistently high-performing western suburbs agent specializing in premium coastal properties from Cottesloe down to Dalkeith.\n- **Ray White (Dalkeith / Claremont / Cottesloe groups)** : Frequently manages high-volume prestige auction campaigns and high-value competitive bidding environments across the western suburbs.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdkMlptZDRNbmRxGAo)\n\nIf you are looking to buy or sell, let me know:\n\n- **The specific suburb or price bracket** you are targeting\n- Whether you prefer an **auction or private treaty** sale process\n\nI can help narrow down the **ideal agent or firm** for your specific property type.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Leading luxury real estate agencies in Perth specializing in prestige residential properties across the western suburbs and riverside enclaves include William Porteous Properties International, Christie's International Real Estate WA & SA, Acton | Belle Property Dalkeith / Cottesloe, Fine & Country Perth, and DUET Property Group.",
+              "markdown": "Leading luxury real estate agencies in Perth specializing in prestige residential properties across the western suburbs and riverside enclaves include `William Porteous Properties International, Christie's International Real Estate WA & SA, Acton | Belle Property Dalkeith / Cottesloe, Fine & Country Perth, and DUET Property Group`.[[1]](https://christiesrealestatewasa.com/)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdkMlptZDRNbmRxGAo)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "christiesrealestatewasa.com",
+                  "domain": "christiesrealestatewasa.com",
+                  "url": "https://christiesrealestatewasa.com/",
+                  "title": "Christie's International Real Estate Western Australia and South Australia",
+                  "text": "Founded in 1766, Christie's provides live/online auctions and private sales for art, luxury goods, watches, jewelry, wine, spirits..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdkMlptZDRNbmRxGAo",
+                  "title": "Dalkeith & Nedlands Real Estate Agent: Peter Robertson",
+                  "text": "Professional real estate agency specializing in expert market knowledge and seamless property sales."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Leading Luxury Real Estate Agencies",
+              "text": "William Porteous Properties International : Long-established authority handling ultra-prime properties and historic estates in Dalkeith, Mosman Park, and Peppermint Grove. Christie's International Real Estate WA & SA : High-end global affiliate with a Perth headquarters, connecting local prestige properties to an international luxury network. Acton | Belle Property (Dalkeith / Cottesloe) : Dominant premium footprint throughout Perth’s affluent river and coastal corridors. Fine & Country Perth : International brokerage located on Stirling Highway in Cottesloe, tailored to high-net-worth global marketing. Fine & Country Perth Fine & Country Perth DUET Property Group : Boutique agency focusing on high-end architectural and luxury residential transactions in Nedlands and surrounding golden triangle suburbs.",
+              "markdown": "- **William Porteous Properties International** : Long-established authority handling ultra-prime properties and historic estates in Dalkeith, Mosman Park, and Peppermint Grove.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdkMlptZDRNbmRxGAo)\n- **Christie's International Real Estate WA & SA** : High-end global affiliate with a Perth headquarters, connecting local prestige properties to an international luxury network.[[1]](https://www.christiesrealestate.com/de/network/christies-international-real-estate-western-australia-and-south-australia/182/)[[2]](https://christiesrealestatewasa.com/)\n- **Acton | Belle Property (Dalkeith / Cottesloe)** : Dominant premium footprint throughout Perth’s affluent river and coastal corridors.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdkMlptZDRNbmRxGAo)\n- **Fine & Country Perth** : International brokerage located on Stirling Highway in Cottesloe, tailored to high-net-worth global marketing.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdkMlptZDRNbmRxGAo)\n- **DUET Property Group** : Boutique agency focusing on high-end architectural and luxury residential transactions in Nedlands and surrounding golden triangle suburbs.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdkMlptZDRNbmRxGAo)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdkMlptZDRNbmRxGAo",
+                  "title": "Dalkeith & Nedlands Real Estate Agent: Peter Robertson",
+                  "text": "Professional real estate agency specializing in expert market knowledge and seamless property sales."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Christie's International Real Estate",
+                  "domain": "www.christiesrealestate.com",
+                  "url": "https://www.christiesrealestate.com/de/network/christies-international-real-estate-western-australia-and-south-australia/182/",
+                  "title": "Christie's International Real Estate Western Australia and ...",
+                  "text": "Christie's International Real Estate WA & SA specializes in luxury properties across Western and South Australia. connecting clien..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "christiesrealestatewasa.com",
+                  "domain": "christiesrealestatewasa.com",
+                  "url": "https://christiesrealestatewasa.com/",
+                  "title": "Christie's International Real Estate Western Australia and South Australia",
+                  "text": "Founded in 1766, Christie's provides live/online auctions and private sales for art, luxury goods, watches, jewelry, wine, spirits, and accessories."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Top-Performing Prestige Specialists & Auctioneers",
+              "text": "Peter Robertson : Highly regarded luxury specialist and elite performer based in Dalkeith, renowned for handling landmark residential transactions. Peter Robertson Jody Fewster : Consistently high-performing western suburbs agent specializing in premium coastal properties from Cottesloe down to Dalkeith. Jody Fewster Ray White (Dalkeith / Claremont / Cottesloe groups) : Frequently manages high-volume prestige auction campaigns and high-value competitive bidding environments across the western suburbs. Ray White (Dalkeith / Claremont / Cottesloe groups)",
+              "markdown": "- **Peter Robertson** : Highly regarded luxury specialist and elite performer based in Dalkeith, renowned for handling landmark residential transactions.\n- **Jody Fewster** : Consistently high-performing western suburbs agent specializing in premium coastal properties from Cottesloe down to Dalkeith.\n- **Ray White (Dalkeith / Claremont / Cottesloe groups)** : Frequently manages high-volume prestige auction campaigns and high-value competitive bidding environments across the western suburbs.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdkMlptZDRNbmRxGAo)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdkMlptZDRNbmRxGAo",
+                  "title": "Dalkeith & Nedlands Real Estate Agent: Peter Robertson",
+                  "text": "Professional real estate agency specializing in expert market knowledge and seamless property sales."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you are looking to buy or sell, let me know:",
+              "markdown": "If you are looking to buy or sell, let me know:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "The specific suburb or price bracket you are targeting Whether you prefer an auction or private treaty sale process",
+              "markdown": "- **The specific suburb or price bracket** you are targeting\n- Whether you prefer an **auction or private treaty** sale process",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "I can help narrow down the ideal agent or firm for your specific property type.",
+              "markdown": "I can help narrow down the **ideal agent or firm** for your specific property type.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Christie's International Real Estate",
+              "domain": "www.christiesrealestate.com",
+              "url": "https://www.christiesrealestate.com/de/network/christies-international-real-estate-western-australia-and-south-australia/182/",
+              "title": "Christie's International Real Estate Western Australia and ...",
+              "text": "Christie's International Real Estate WA & SA specializes in luxury properties across Western and South Australia. connecting clients to exclusive properties worldw..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "christiesrealestatewasa.com",
+              "domain": "christiesrealestatewasa.com",
+              "url": "https://christiesrealestatewasa.com/",
+              "title": "Christie's International Real Estate Western Australia and South Australia",
+              "text": "Founded in 1766, Christie's provides live/online auctions and private sales for art, luxury goods, watches, jewelry, wine, spirits, and accessories."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Google",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdkMlptZDRNbmRxGAo",
+              "title": "Dalkeith & Nedlands Real Estate Agent: Peter Robertson",
+              "text": "Professional real estate agency specializing in expert market knowledge and seamless property sales."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Google",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdnME9XdGlZakl3GAo",
+              "title": "Fine & Country Perth",
+              "text": "595 Stirling Hwy, Cottesloe WA 6011 · With 300 locations worldwide, Fine & Country is Perth’s first truly global residential real estate brokerage. Our ability to market your property globally and locally is an added layer of exposure for your property rarely offered with other agencies. Specialising in luxury real estate, we deliver bespoke marketing strategies with a deliberate focus on presentation to maximise your property’s value."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

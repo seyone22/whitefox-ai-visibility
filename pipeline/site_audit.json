@@ -1,0 +1,2599 @@
+{
+  "auditedAt": "2026-10-21T05:00:36.586Z",
+  "baseOrigin": "https://www.whitefoxrealestate.com.au",
+  "mappedUrlCount": 200,
+  "mappedUrls": [
+    "https://www.whitefoxrealestate.com.au",
+    "https://whitefoxrealestate.com.au/category/company",
+    "https://whitefoxrealestate.com.au/category/around-town",
+    "https://whitefoxrealestate.com.au/category/video",
+    "https://whitefoxrealestate.com.au/category/podcast",
+    "https://whitefoxrealestate.com.au/category/sustainability",
+    "https://whitefoxrealestate.com.au/category/properties",
+    "https://whitefoxrealestate.com.au/category/media",
+    "https://whitefoxrealestate.com.au/category/design",
+    "https://whitefoxrealestate.com.au/article/two-years-of-whitefox-gold-coast",
+    "https://whitefoxrealestate.com.au/article/one-year-of-essendon",
+    "https://whitefoxrealestate.com.au/article/two-years-of-brisbane",
+    "https://whitefoxrealestate.com.au/article/one-year-of-whitefox-applecross",
+    "https://whitefoxrealestate.com.au/article/welcome-to-whitefox-northcote",
+    "https://whitefoxrealestate.com.au/article/welcome-to-whitefox-advocacy",
+    "https://whitefoxrealestate.com.au/article/leadership-summit-2026",
+    "https://whitefoxrealestate.com.au/article/welcome-to-dunedin",
+    "https://whitefoxrealestate.com.au/article/melbourne-buyers-flood-back-for-strongest-auction-weekend-in-months",
+    "https://whitefoxrealestate.com.au/article/the-2026-budget-wont-fix-housing",
+    "https://whitefoxrealestate.com.au/article/whitefox-x-by-sarah-the-partnership-adelaide-has-been-waiting-for",
+    "https://whitefoxrealestate.com.au/article/whitefox-expands-to-sydney",
+    "https://whitefoxrealestate.com.au/article/one-year-of-whitefox-gold-coast",
+    "https://whitefoxrealestate.com.au/article/whitefox-2025",
+    "https://whitefoxrealestate.com.au/article/block-judge-marty-fox-eyes-500m-expansion-into-dubai",
+    "https://whitefoxrealestate.com.au/article/wtf-ryan-serhant-founder-and-ceo-of-serhant",
+    "https://whitefoxrealestate.com.au/article/welcome-to-whitefox-essendon",
+    "https://whitefoxrealestate.com.au/article/welcome-to-whitefox-applecross",
+    "https://whitefoxrealestate.com.au/article/1-year-of-whitefox-northside",
+    "https://whitefoxrealestate.com.au/article/wtf-shaun-wilson-co-founder-and-former-ceo-of-bondi-sands",
+    "https://whitefoxrealestate.com.au/article/whitefox-leadership-summit",
+    "https://whitefoxrealestate.com.au/article/wtf-mitchell-jones-from-made-for-studio",
+    "https://whitefoxrealestate.com.au/article/wtf-jack-henderson-from-henderson-advisory",
+    "https://whitefoxrealestate.com.au/article/tiffany-lane",
+    "https://whitefoxrealestate.com.au/article/wtf-julia-marget",
+    "https://whitefoxrealestate.com.au/article/wtf-erin-deering",
+    "https://whitefoxrealestate.com.au/article/the-birth-of-business-media-lana-samuels-stuns-at-arec-2025",
+    "https://whitefoxrealestate.com.au/article/orchard-piper",
+    "https://whitefoxrealestate.com.au/article/wtf-nick-russian-the-nightclub-king",
+    "https://whitefoxrealestate.com.au/article/wtf-jesse-jones",
+    "https://whitefoxrealestate.com.au/article/a-labour-of-love-for-Chrissie-Swan",
+    "https://whitefoxrealestate.com.au/article/launching-enclave-by-graya",
+    "https://whitefoxrealestate.com.au/article/wtf-journalist-and-newsreader-tom-steinfort",
+    "https://whitefoxrealestate.com.au/article/dylan-francis-speaks-on-wtf",
+    "https://whitefoxrealestate.com.au/article/wtf-aidan-anderson",
+    "https://whitefoxrealestate.com.au/article/one-year-of-whitefox-perth",
+    "https://whitefoxrealestate.com.au/article/Selling-Owens-castle",
+    "https://whitefoxrealestate.com.au/article/an-agent-on-the-rise",
+    "https://whitefoxrealestate.com.au/article/the-block-2024-auction-day-sees-all-homes-sold-to-one-buyer",
+    "https://whitefoxrealestate.com.au/article/Ryan-Teece-on-his-life-in-real-estate",
+    "https://whitefoxrealestate.com.au/article/A-stunner-in-Applecross",
+    "https://whitefoxrealestate.com.au/article/Flipping-Red-Hill",
+    "https://whitefoxrealestate.com.au/article/a-landmark-brighton-transformation",
+    "https://whitefoxrealestate.com.au/article/a-permanent-spot-on-the-block",
+    "https://whitefoxrealestate.com.au/article/welcome-to-WHITEFOX-adelaide",
+    "https://whitefoxrealestate.com.au/article/with-the-fox-live",
+    "https://whitefoxrealestate.com.au/article/from-bold-to-sold",
+    "https://whitefoxrealestate.com.au/article/one-year-of-whitefox-new-zealand",
+    "https://whitefoxrealestate.com.au/article/marty-fox-gives-mansion-global-his-5-best-suburbs-for-affluent-purchasers",
+    "https://whitefoxrealestate.com.au/article/2023-reinz-december-data",
+    "https://whitefoxrealestate.com.au/article/melbourne-housing-forecast-suburbs-to-watch-in-2024-martys-thoughts",
+    "https://whitefoxrealestate.com.au/article/revolutionising-the-real-estate-industry",
+    "https://whitefoxrealestate.com.au/article/post-election-what-comes-next-in-new-zealand",
+    "https://whitefoxrealestate.com.au/article/whitefox-advocacy-the-3-stage-approach-to-auctions",
+    "https://whitefoxrealestate.com.au/article/kates-take-the-local-property-tide-is-turning",
+    "https://whitefoxrealestate.com.au/article/the-new-kid-on-the-block",
+    "https://whitefoxrealestate.com.au/article/are-we-on-the-verge-of-a-housing-crisis",
+    "https://whitefoxrealestate.com.au/article/kates-take-winding-up-for-winter",
+    "https://whitefoxrealestate.com.au/article/auctions-driving-action",
+    "https://whitefoxrealestate.com.au/article/why-use-a-property-advocate",
+    "https://whitefoxrealestate.com.au/article/marshalling-a-new-change",
+    "https://whitefoxrealestate.com.au/article/whitefox-inside-the-foxs-den-spring-edition",
+    "https://whitefoxrealestate.com.au/article/wtf-020-jordan-lewis-media-commentator-director",
+    "https://whitefoxrealestate.com.au/article/Bruce-Keebaugh-of-the-Big-Group",
+    "https://whitefoxrealestate.com.au/article/a-test-of-marketing",
+    "https://whitefoxrealestate.com.au/article/Inside-the-Foxes-Den",
+    "https://whitefoxrealestate.com.au/article/block-judge",
+    "https://whitefoxrealestate.com.au/article/the-cremorne-house",
+    "https://whitefoxrealestate.com.au/article/sold-at-first-sight",
+    "https://whitefoxrealestate.com.au/article/curve-appeal",
+    "https://whitefoxrealestate.com.au/property/25b-wordsworth-avenue-yokine-wa-pp3303",
+    "https://whitefoxrealestate.com.au/property/5-12-16-shackel-avenue-brookvale-nsw-sp239",
+    "https://whitefoxrealestate.com.au/property/28-ewing-street-brunswick-vic-mp4164",
+    "https://whitefoxrealestate.com.au/property/1605-118-goodwood-parade-burswood-wa-pp4002",
+    "https://whitefoxrealestate.com.au/property/96-53-vernon-terrace-teneriffe-qld-bp345",
+    "https://whitefoxrealestate.com.au/property/17-darling-street-south-perth-wa-pp2554",
+    "https://whitefoxrealestate.com.au/property/9-crusoe-lane-eglinton-wa-pp4136",
+    "https://whitefoxrealestate.com.au/property/116c-mars-street-carlisle-wa-pp4046",
+    "https://whitefoxrealestate.com.au/property/79-armstrong-street-middle-park-vic-mp3992",
+    "https://whitefoxrealestate.com.au/property/2-romea-street-the-gap-qld-bp401",
+    "https://whitefoxrealestate.com.au/property/43-koornalla-crescent-mount-eliza-vic-mp3624",
+    "https://whitefoxrealestate.com.au/property/5-hillbrook-approach-caversham-wa-pp2916",
+    "https://whitefoxrealestate.com.au/property/32-duchart-way-coogee-wa-pp4145",
+    "https://whitefoxrealestate.com.au/property/2c-francis-street-ascot-vale-vic-mp4171",
+    "https://whitefoxrealestate.com.au/property/10-fenton-street-ascot-vale-vic-mp4006",
+    "https://whitefoxrealestate.com.au/property/1a-the-crescent-ascot-vale-vic-mp4163",
+    "https://whitefoxrealestate.com.au/property/52b-bassingham-road-balcatta-wa-pp4073",
+    "https://whitefoxrealestate.com.au/property/3-parsons-way-innaloo-wa-pp813",
+    "https://whitefoxrealestate.com.au/property/153-woodside-street-doubleview-wa-pp4155",
+    "https://whitefoxrealestate.com.au/property/6-karralika-crescent-martin-wa-pp4082",
+    "https://whitefoxrealestate.com.au/property/50-roberts-street-essendon-vic-mp3397",
+    "https://whitefoxrealestate.com.au/property/16-steane-avenue-arthurs-seat-vic-mp2778",
+    "https://whitefoxrealestate.com.au/property/55-river-road-bayswater-wa-pp4229",
+    "https://whitefoxrealestate.com.au/property/2-imogene-street-north-coogee-wa-pp4144",
+    "https://whitefoxrealestate.com.au/property/1-21-carlisle-avenue-balaclava-vic-mp4086",
+    "https://whitefoxrealestate.com.au/property/171b-huntriss-road-doubleview-wa-pp4250",
+    "https://whitefoxrealestate.com.au/property/3-396-albert-street-balcatta-wa-pp3855",
+    "https://whitefoxrealestate.com.au/property/15-grace-street-moonee-ponds-vic-mp4008",
+    "https://whitefoxrealestate.com.au/property/117b-matheson-road-applecross-wa-pp3668",
+    "https://whitefoxrealestate.com.au/property/12-60-buckley-street-essendon-vic-mp4313",
+    "https://whitefoxrealestate.com.au/property/the-deal-large-plot-partial-lake-view-594639833396",
+    "https://whitefoxrealestate.com.au/property/4-bedrooms-corner-lot-upgraded-vacant-594638245142",
+    "https://whitefoxrealestate.com.au/property/175-westgarth-street-northcote-vic-mp3859",
+    "https://whitefoxrealestate.com.au/property/40-lind-street-strathmore-vic-mp4266",
+    "https://whitefoxrealestate.com.au/property/8-trinity-place-robina-qld-bp305",
+    "https://whitefoxrealestate.com.au/property/66-hedderwick-street-essendon-vic-mp4014",
+    "https://whitefoxrealestate.com.au/property/37-naval-parade-ocean-reef-wa-pp4239",
+    "https://whitefoxrealestate.com.au/property/8a-davy-street-alfred-cove-wa-pp3937",
+    "https://whitefoxrealestate.com.au/property/196-gordon-street-coburg-vic-mp4108",
+    "https://whitefoxrealestate.com.au/property/106-70-clifton-street-richmond-vic-mp4017",
+    "https://whitefoxrealestate.com.au/property/21203-600-coronation-drive-toowong-qld-bp410",
+    "https://whitefoxrealestate.com.au/property/11-north-street-mount-lawley-wa-pp3985",
+    "https://whitefoxrealestate.com.au/property/15-ethel-street-north-perth-wa-pp3931",
+    "https://whitefoxrealestate.com.au/property/135-wilding-street-doubleview-wa-pp4224",
+    "https://whitefoxrealestate.com.au/property/9-cleve-road-pascoe-vale-south-vic-mp3972",
+    "https://whitefoxrealestate.com.au/property/109-st-leonards-avenue-west-leederville-wa-pp4199",
+    "https://whitefoxrealestate.com.au/property/29-nautilus-crescent-scarborough-wa-pp3746",
+    "https://whitefoxrealestate.com.au/property/57-gildercliffe-street-scarborough-wa-pp4197",
+    "https://whitefoxrealestate.com.au/property/89-campbell-street-sorrento-qld-bp242",
+    "https://whitefoxrealestate.com.au/property/90-pandora-drive-jindalee-wa-pp4038",
+    "https://whitefoxrealestate.com.au/property/58-lesmurdie-road-east-kalamunda-wa-pp4181",
+    "https://whitefoxrealestate.com.au/property/502-9-wren-street-mount-pleasant-wa-pp4178",
+    "https://whitefoxrealestate.com.au/property/38b-renmark-street-balcatta-wa-pp2807",
+    "https://whitefoxrealestate.com.au/property/31-simper-street-wembley-wa-pp4218",
+    "https://whitefoxrealestate.com.au/property/33a-first-avenue-strathmore-vic-mp3941",
+    "https://whitefoxrealestate.com.au/property/9-46-gibbs-road-aubin-grove-wa-pp4208",
+    "https://whitefoxrealestate.com.au/property/15-craig-street-keilor-east-vic-mp4302",
+    "https://whitefoxrealestate.com.au/property/181-west-road-bassendean-wa-pp4008",
+    "https://whitefoxrealestate.com.au/property/63-surf-street-mermaid-waters-qld-bp459",
+    "https://whitefoxrealestate.com.au/property/16-peters-street-airport-west-vic-mp4238",
+    "https://whitefoxrealestate.com.au/property/8-ford-street-north-ryde-nsw-sp263",
+    "https://whitefoxrealestate.com.au/property/9-16-soldiers-avenue-freshwater-nsw-sp221",
+    "https://whitefoxrealestate.com.au/property/6-122-north-road-brighton-vic-mp4217",
+    "https://whitefoxrealestate.com.au/property/7b-cecil-street-bentleigh-east-vic-mp4218",
+    "https://whitefoxrealestate.com.au/property/3-114-blyth-street-brunswick-vic-mp4241",
+    "https://whitefoxrealestate.com.au/property/6-seymour-street-preston-vic-mp4227",
+    "https://whitefoxrealestate.com.au/property/5-second-avenue-woodbridge-wa-pp4206",
+    "https://whitefoxrealestate.com.au/property/71-95-rouse-street-port-melbourne-vic-mp3688",
+    "https://whitefoxrealestate.com.au/property/89-sydenham-road-doubleview-wa-pp3911",
+    "https://whitefoxrealestate.com.au/property/5-10-langwells-parade-northcote-vic-mp4222",
+    "https://whitefoxrealestate.com.au/property/b101-88-birriga-road-bellevue-hill-nsw-sp258",
+    "https://whitefoxrealestate.com.au/property/5-4-macdonald-street-kangaroo-point-qld-bp483",
+    "https://whitefoxrealestate.com.au/property/7-liscard-street-elsternwick-vic-mp4030",
+    "https://whitefoxrealestate.com.au/property/13-taylor-close-leda-wa-pp4107",
+    "https://whitefoxrealestate.com.au/property/15-little-ogrady-street-albert-park-vic-mp3360",
+    "https://whitefoxrealestate.com.au/property/59-oakover-road-preston-vic-mp4157",
+    "https://whitefoxrealestate.com.au/property/30-albatross-avenue-mermaid-beach-qld-bp471",
+    "https://whitefoxrealestate.com.au/property/328-lower-plateau-road-bilgola-plateau-nsw-sp249",
+    "https://whitefoxrealestate.com.au/property/13-2-20-kerr-street-fitzroy-vic-mp3982",
+    "https://whitefoxrealestate.com.au/property/16-howitt-street-glen-iris-vic-mp4005",
+    "https://whitefoxrealestate.com.au/property/5-maritime-drive-jindalee-wa-pp2042",
+    "https://whitefoxrealestate.com.au/property/14-felstead-crescent-hamersley-wa-pp4149",
+    "https://whitefoxrealestate.com.au/property/12-35-41-napier-street-fitzroy-vic-mp3998",
+    "https://whitefoxrealestate.com.au/property/1-4-macdonald-street-kangaroo-point-qld-bp482",
+    "https://whitefoxrealestate.com.au/property/sorrento-wa-6020-pp4176",
+    "https://whitefoxrealestate.com.au/property/b204-88-birriga-road-bellevue-hill-nsw-sp257",
+    "https://whitefoxrealestate.com.au/property/jumeirah-islands-the-investors-lakefront-canvas-elevated-plot-573880100252",
+    "https://whitefoxrealestate.com.au/property/21-lynella-circuit-banksia-grove-wa-pp3892",
+    "https://whitefoxrealestate.com.au/property/8-109-wyuna-avenue-freshwater-nsw-sp253",
+    "https://whitefoxrealestate.com.au/property/211-19-pentridge-boulevard-coburg-vic-mp4206",
+    "https://whitefoxrealestate.com.au/property/4-alister-street-fitzroy-north-vic-mp4018",
+    "https://whitefoxrealestate.com.au/property/opera-grand-iconic-burj-khalifa-views-588209437529",
+    "https://whitefoxrealestate.com.au/property/25-williamson-road-kardinya-wa-pp4043",
+    "https://whitefoxrealestate.com.au/property/153-capricorn-esplanade-yanchep-wa-pp4198",
+    "https://whitefoxrealestate.com.au/property/30-zingarello-street-pearsall-wa-pp3930",
+    "https://whitefoxrealestate.com.au/property/38-south-terrace-pooraka-sa-ap526",
+    "https://whitefoxrealestate.com.au/property/10b-statters-street-coburg-vic-mp4207",
+    "https://whitefoxrealestate.com.au/property/7-birrell-street-norwood-sa-ap539",
+    "https://whitefoxrealestate.com.au/property/2-heron-walk-mawson-lakes-sa-ap529",
+    "https://whitefoxrealestate.com.au/property/208-1-bristol-lane-mindarie-wa-pp4146",
+    "https://whitefoxrealestate.com.au/property/86-robey-street-maroubra-nsw-sp251",
+    "https://whitefoxrealestate.com.au/property/94-seagull-avenue-mermaid-beach-qld-bp414",
+    "https://whitefoxrealestate.com.au/property/12a-clovelly-avenue-glenroy-vic-mp3923",
+    "https://whitefoxrealestate.com.au/property/15-6-ibera-way-success-wa-pp3968",
+    "https://whitefoxrealestate.com.au/property/54-fulham-road-alphington-vic-mp4202",
+    "https://whitefoxrealestate.com.au/property/102-358-moreland-road-brunswick-west-vic-mp4201",
+    "https://whitefoxrealestate.com.au/property/35b-linden-street-altona-meadows-vic-mp4188",
+    "https://whitefoxrealestate.com.au/property/2-bolt-street-beaconsfield-wa-pp3608",
+    "https://whitefoxrealestate.com.au/property/54a-dinah-parade-keilor-east-vic-mp4187",
+    "https://whitefoxrealestate.com.au/property/12a-leonard-street-preston-vic-mp4180",
+    "https://whitefoxrealestate.com.au/property/220-maribyrnong-road-moonee-ponds-vic-mp4193",
+    "https://whitefoxrealestate.com.au/property/30-mckenzies-road-locksley-vic-mp4178",
+    "https://whitefoxrealestate.com.au/property/27c-norman-street-innaloo-wa-pp2590",
+    "https://whitefoxrealestate.com.au/property/532a-murray-road-preston-vic-mp4023",
+    "https://whitefoxrealestate.com.au/property/1-3-halleur-road-harkaway-vic-mp4173",
+    "https://whitefoxrealestate.com.au/property/144-roberts-street-northcote-vic-mp3662",
+    "https://whitefoxrealestate.com.au/property/33-john-street-northbridge-wa-pp4114",
+    "https://whitefoxrealestate.com.au/property/102-2-macfarlane-street-glenelg-north-sa-ap533",
+    "https://whitefoxrealestate.com.au/property/4-pallium-way-jindalee-wa-pp4140",
+    "https://whitefoxrealestate.com.au/property/25-mistral-meander-currambine-wa-pp3771",
+    "https://whitefoxrealestate.com.au/property/505-the-panorama-tallai-qld-bp453"
+  ],
+  "brokenInternalLinks": [],
+  "pageAudits": [
+    {
+      "url": "https://www.whitefoxrealestate.com.au/",
+      "httpStatus": 200,
+      "title": "WHITEFOX Real Estate - Australia | WHITEFOX",
+      "jsonLdCount": 1,
+      "jsonLdBlocks": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://whitefoxrealestate.com.au#website",
+              "url": "https://whitefoxrealestate.com.au",
+              "name": "WHITEFOX ",
+              "publisher": {
+                "@id": "https://whitefoxrealestate.com.au#organization"
+              },
+              "description": "Making homes more expensive since 2017"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://whitefoxrealestate.com.au#organization",
+              "name": "WHITEFOX ",
+              "url": "https://whitefoxrealestate.com.au",
+              "sameAs": [
+                "https://www.facebook.com/MarshallWhiteRE/",
+                "https://twitter.com/marshallwhitere"
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://whitefoxrealestate.com.au/#webpage",
+              "url": "https://whitefoxrealestate.com.au/",
+              "isPartOf": {
+                "@id": "https://whitefoxrealestate.com.au#website"
+              },
+              "breadcrumb": {
+                "@id": "https://whitefoxrealestate.com.au/#breadcrumb"
+              },
+              "name": "Australia"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://whitefoxrealestate.com.au/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://whitefoxrealestate.com.au"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Australia",
+                  "item": "https://whitefoxrealestate.com.au/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "hasPlaceholderPhone": false,
+      "deadHashAnchors": []
+    },
+    {
+      "url": "https://www.whitefoxrealestate.com.au/about-us",
+      "httpStatus": 200,
+      "title": "About Us | WHITEFOX",
+      "jsonLdCount": 1,
+      "jsonLdBlocks": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://whitefoxrealestate.com.au#website",
+              "url": "https://whitefoxrealestate.com.au",
+              "name": "WHITEFOX ",
+              "publisher": {
+                "@id": "https://whitefoxrealestate.com.au#organization"
+              },
+              "description": "Making homes more expensive since 2017"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://whitefoxrealestate.com.au#organization",
+              "name": "WHITEFOX ",
+              "url": "https://whitefoxrealestate.com.au",
+              "sameAs": [
+                "https://www.facebook.com/MarshallWhiteRE/",
+                "https://twitter.com/marshallwhitere"
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://whitefoxrealestate.com.au/about-us#webpage",
+              "url": "https://whitefoxrealestate.com.au/about-us",
+              "isPartOf": {
+                "@id": "https://whitefoxrealestate.com.au#website"
+              },
+              "breadcrumb": {
+                "@id": "https://whitefoxrealestate.com.au/about-us#breadcrumb"
+              },
+              "name": "About Us"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://whitefoxrealestate.com.au/about-us#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://whitefoxrealestate.com.au"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "About Us",
+                  "item": "https://whitefoxrealestate.com.au/about-us"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "hasPlaceholderPhone": false,
+      "deadHashAnchors": []
+    },
+    {
+      "url": "https://www.whitefoxrealestate.com.au/contact-us",
+      "httpStatus": 404,
+      "title": "",
+      "jsonLdCount": 0,
+      "jsonLdBlocks": [],
+      "hasPlaceholderPhone": false,
+      "deadHashAnchors": []
+    },
+    {
+      "url": "https://www.whitefoxrealestate.com.au",
+      "httpStatus": 200,
+      "title": "WHITEFOX Real Estate - Australia | WHITEFOX",
+      "jsonLdCount": 1,
+      "jsonLdBlocks": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://whitefoxrealestate.com.au#website",
+              "url": "https://whitefoxrealestate.com.au",
+              "name": "WHITEFOX ",
+              "publisher": {
+                "@id": "https://whitefoxrealestate.com.au#organization"
+              },
+              "description": "Making homes more expensive since 2017"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://whitefoxrealestate.com.au#organization",
+              "name": "WHITEFOX ",
+              "url": "https://whitefoxrealestate.com.au",
+              "sameAs": [
+                "https://www.facebook.com/MarshallWhiteRE/",
+                "https://twitter.com/marshallwhitere"
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://whitefoxrealestate.com.au/#webpage",
+              "url": "https://whitefoxrealestate.com.au/",
+              "isPartOf": {
+                "@id": "https://whitefoxrealestate.com.au#website"
+              },
+              "breadcrumb": {
+                "@id": "https://whitefoxrealestate.com.au/#breadcrumb"
+              },
+              "name": "Australia"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://whitefoxrealestate.com.au/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://whitefoxrealestate.com.au"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Australia",
+                  "item": "https://whitefoxrealestate.com.au/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "hasPlaceholderPhone": false,
+      "deadHashAnchors": []
+    },
+    {
+      "url": "https://whitefoxrealestate.com.au/category/company",
+      "httpStatus": 200,
+      "title": "Company | WHITEFOX",
+      "jsonLdCount": 1,
+      "jsonLdBlocks": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://whitefoxrealestate.com.au#website",
+              "url": "https://whitefoxrealestate.com.au",
+              "name": "WHITEFOX ",
+              "publisher": {
+                "@id": "https://whitefoxrealestate.com.au#organization"
+              },
+              "description": "Making homes more expensive since 2017"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://whitefoxrealestate.com.au#organization",
+              "name": "WHITEFOX ",
+              "url": "https://whitefoxrealestate.com.au",
+              "sameAs": [
+                "https://www.facebook.com/MarshallWhiteRE/",
+                "https://twitter.com/marshallwhitere"
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://whitefoxrealestate.com.au/category/company#webpage",
+              "url": "https://whitefoxrealestate.com.au/category/company",
+              "isPartOf": {
+                "@id": "https://whitefoxrealestate.com.au#website"
+              },
+              "breadcrumb": {
+                "@id": "https://whitefoxrealestate.com.au/category/company#breadcrumb"
+              },
+              "name": "Company"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://whitefoxrealestate.com.au/category/company#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://whitefoxrealestate.com.au"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Company",
+                  "item": "https://whitefoxrealestate.com.au/category/company"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "hasPlaceholderPhone": false,
+      "deadHashAnchors": []
+    },
+    {
+      "url": "https://whitefoxrealestate.com.au/category/around-town",
+      "httpStatus": 200,
+      "title": "Around Town | WHITEFOX",
+      "jsonLdCount": 1,
+      "jsonLdBlocks": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://whitefoxrealestate.com.au#website",
+              "url": "https://whitefoxrealestate.com.au",
+              "name": "WHITEFOX ",
+              "publisher": {
+                "@id": "https://whitefoxrealestate.com.au#organization"
+              },
+              "description": "Making homes more expensive since 2017"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://whitefoxrealestate.com.au#organization",
+              "name": "WHITEFOX ",
+              "url": "https://whitefoxrealestate.com.au",
+              "sameAs": [
+                "https://www.facebook.com/MarshallWhiteRE/",
+                "https://twitter.com/marshallwhitere"
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://whitefoxrealestate.com.au/category/around-town#webpage",
+              "url": "https://whitefoxrealestate.com.au/category/around-town",
+              "isPartOf": {
+                "@id": "https://whitefoxrealestate.com.au#website"
+              },
+              "breadcrumb": {
+                "@id": "https://whitefoxrealestate.com.au/category/around-town#breadcrumb"
+              },
+              "name": "Around Town"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://whitefoxrealestate.com.au/category/around-town#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://whitefoxrealestate.com.au"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Around Town",
+                  "item": "https://whitefoxrealestate.com.au/category/around-town"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "hasPlaceholderPhone": false,
+      "deadHashAnchors": []
+    },
+    {
+      "url": "https://whitefoxrealestate.com.au/category/video",
+      "httpStatus": 200,
+      "title": "Video | WHITEFOX",
+      "jsonLdCount": 1,
+      "jsonLdBlocks": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://whitefoxrealestate.com.au#website",
+              "url": "https://whitefoxrealestate.com.au",
+              "name": "WHITEFOX ",
+              "publisher": {
+                "@id": "https://whitefoxrealestate.com.au#organization"
+              },
+              "description": "Making homes more expensive since 2017"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://whitefoxrealestate.com.au#organization",
+              "name": "WHITEFOX ",
+              "url": "https://whitefoxrealestate.com.au",
+              "sameAs": [
+                "https://www.facebook.com/MarshallWhiteRE/",
+                "https://twitter.com/marshallwhitere"
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://whitefoxrealestate.com.au/category/video#webpage",
+              "url": "https://whitefoxrealestate.com.au/category/video",
+              "isPartOf": {
+                "@id": "https://whitefoxrealestate.com.au#website"
+              },
+              "breadcrumb": {
+                "@id": "https://whitefoxrealestate.com.au/category/video#breadcrumb"
+              },
+              "name": "Video"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://whitefoxrealestate.com.au/category/video#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://whitefoxrealestate.com.au"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Video",
+                  "item": "https://whitefoxrealestate.com.au/category/video"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "hasPlaceholderPhone": false,
+      "deadHashAnchors": []
+    },
+    {
+      "url": "https://whitefoxrealestate.com.au/category/podcast",
+      "httpStatus": 200,
+      "title": "Podcast  | WHITEFOX",
+      "jsonLdCount": 1,
+      "jsonLdBlocks": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://whitefoxrealestate.com.au#website",
+              "url": "https://whitefoxrealestate.com.au",
+              "name": "WHITEFOX ",
+              "publisher": {
+                "@id": "https://whitefoxrealestate.com.au#organization"
+              },
+              "description": "Making homes more expensive since 2017"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://whitefoxrealestate.com.au#organization",
+              "name": "WHITEFOX ",
+              "url": "https://whitefoxrealestate.com.au",
+              "sameAs": [
+                "https://www.facebook.com/MarshallWhiteRE/",
+                "https://twitter.com/marshallwhitere"
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://whitefoxrealestate.com.au/category/podcast#webpage",
+              "url": "https://whitefoxrealestate.com.au/category/podcast",
+              "isPartOf": {
+                "@id": "https://whitefoxrealestate.com.au#website"
+              },
+              "breadcrumb": {
+                "@id": "https://whitefoxrealestate.com.au/category/podcast#breadcrumb"
+              },
+              "name": "Podcast "
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://whitefoxrealestate.com.au/category/podcast#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://whitefoxrealestate.com.au"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Podcast ",
+                  "item": "https://whitefoxrealestate.com.au/category/podcast"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "hasPlaceholderPhone": false,
+      "deadHashAnchors": []
+    },
+    {
+      "url": "https://whitefoxrealestate.com.au/category/sustainability",
+      "httpStatus": 200,
+      "title": "Sustainability | WHITEFOX",
+      "jsonLdCount": 1,
+      "jsonLdBlocks": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://whitefoxrealestate.com.au#website",
+              "url": "https://whitefoxrealestate.com.au",
+              "name": "WHITEFOX ",
+              "publisher": {
+                "@id": "https://whitefoxrealestate.com.au#organization"
+              },
+              "description": "Making homes more expensive since 2017"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://whitefoxrealestate.com.au#organization",
+              "name": "WHITEFOX ",
+              "url": "https://whitefoxrealestate.com.au",
+              "sameAs": [
+                "https://www.facebook.com/MarshallWhiteRE/",
+                "https://twitter.com/marshallwhitere"
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://whitefoxrealestate.com.au/category/sustainability#webpage",
+              "url": "https://whitefoxrealestate.com.au/category/sustainability",
+              "isPartOf": {
+                "@id": "https://whitefoxrealestate.com.au#website"
+              },
+              "breadcrumb": {
+                "@id": "https://whitefoxrealestate.com.au/category/sustainability#breadcrumb"
+              },
+              "name": "Sustainability"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://whitefoxrealestate.com.au/category/sustainability#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://whitefoxrealestate.com.au"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Sustainability",
+                  "item": "https://whitefoxrealestate.com.au/category/sustainability"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "hasPlaceholderPhone": false,
+      "deadHashAnchors": []
+    },
+    {
+      "url": "https://whitefoxrealestate.com.au/category/properties",
+      "httpStatus": 200,
+      "title": "Properties | WHITEFOX",
+      "jsonLdCount": 1,
+      "jsonLdBlocks": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://whitefoxrealestate.com.au#website",
+              "url": "https://whitefoxrealestate.com.au",
+              "name": "WHITEFOX ",
+              "publisher": {
+                "@id": "https://whitefoxrealestate.com.au#organization"
+              },
+              "description": "Making homes more expensive since 2017"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://whitefoxrealestate.com.au#organization",
+              "name": "WHITEFOX ",
+              "url": "https://whitefoxrealestate.com.au",
+              "sameAs": [
+                "https://www.facebook.com/MarshallWhiteRE/",
+                "https://twitter.com/marshallwhitere"
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://whitefoxrealestate.com.au/category/properties#webpage",
+              "url": "https://whitefoxrealestate.com.au/category/properties",
+              "isPartOf": {
+                "@id": "https://whitefoxrealestate.com.au#website"
+              },
+              "breadcrumb": {
+                "@id": "https://whitefoxrealestate.com.au/category/properties#breadcrumb"
+              },
+              "name": "Properties"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://whitefoxrealestate.com.au/category/properties#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://whitefoxrealestate.com.au"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Properties",
+                  "item": "https://whitefoxrealestate.com.au/category/properties"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "hasPlaceholderPhone": false,
+      "deadHashAnchors": []
+    },
+    {
+      "url": "https://whitefoxrealestate.com.au/category/media",
+      "httpStatus": 200,
+      "title": "Media | WHITEFOX",
+      "jsonLdCount": 1,
+      "jsonLdBlocks": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://whitefoxrealestate.com.au#website",
+              "url": "https://whitefoxrealestate.com.au",
+              "name": "WHITEFOX ",
+              "publisher": {
+                "@id": "https://whitefoxrealestate.com.au#organization"
+              },
+              "description": "Making homes more expensive since 2017"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://whitefoxrealestate.com.au#organization",
+              "name": "WHITEFOX ",
+              "url": "https://whitefoxrealestate.com.au",
+              "sameAs": [
+                "https://www.facebook.com/MarshallWhiteRE/",
+                "https://twitter.com/marshallwhitere"
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://whitefoxrealestate.com.au/category/media#webpage",
+              "url": "https://whitefoxrealestate.com.au/category/media",
+              "isPartOf": {
+                "@id": "https://whitefoxrealestate.com.au#website"
+              },
+              "breadcrumb": {
+                "@id": "https://whitefoxrealestate.com.au/category/media#breadcrumb"
+              },
+              "name": "Media"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://whitefoxrealestate.com.au/category/media#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://whitefoxrealestate.com.au"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Media",
+                  "item": "https://whitefoxrealestate.com.au/category/media"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "hasPlaceholderPhone": false,
+      "deadHashAnchors": []
+    },
+    {
+      "url": "https://whitefoxrealestate.com.au/category/design",
+      "httpStatus": 200,
+      "title": "Design | WHITEFOX",
+      "jsonLdCount": 1,
+      "jsonLdBlocks": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://whitefoxrealestate.com.au#website",
+              "url": "https://whitefoxrealestate.com.au",
+              "name": "WHITEFOX ",
+              "publisher": {
+                "@id": "https://whitefoxrealestate.com.au#organization"
+              },
+              "description": "Making homes more expensive since 2017"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://whitefoxrealestate.com.au#organization",
+              "name": "WHITEFOX ",
+              "url": "https://whitefoxrealestate.com.au",
+              "sameAs": [
+                "https://www.facebook.com/MarshallWhiteRE/",
+                "https://twitter.com/marshallwhitere"
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://whitefoxrealestate.com.au/category/design#webpage",
+              "url": "https://whitefoxrealestate.com.au/category/design",
+              "isPartOf": {
+                "@id": "https://whitefoxrealestate.com.au#website"
+              },
+              "breadcrumb": {
+                "@id": "https://whitefoxrealestate.com.au/category/design#breadcrumb"
+              },
+              "name": "Design"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://whitefoxrealestate.com.au/category/design#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://whitefoxrealestate.com.au"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Design",
+                  "item": "https://whitefoxrealestate.com.au/category/design"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "hasPlaceholderPhone": false,
+      "deadHashAnchors": []
+    },
+    {
+      "url": "https://whitefoxrealestate.com.au/article/two-years-of-whitefox-gold-coast",
+      "httpStatus": 200,
+      "title": "THE DEAL: Two Years of WHITEFOX Gold Coast | WHITEFOX",
+      "jsonLdCount": 1,
+      "jsonLdBlocks": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://whitefoxrealestate.com.au#website",
+              "url": "https://whitefoxrealestate.com.au",
+              "name": "WHITEFOX ",
+              "publisher": {
+                "@id": "https://whitefoxrealestate.com.au#organization"
+              },
+              "description": "Making homes more expensive since 2017"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://whitefoxrealestate.com.au#organization",
+              "name": "WHITEFOX ",
+              "url": "https://whitefoxrealestate.com.au",
+              "sameAs": [
+                "https://www.facebook.com/MarshallWhiteRE/",
+                "https://twitter.com/marshallwhitere"
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://whitefoxrealestate.com.au/article/two-years-of-whitefox-gold-coast#webpage",
+              "url": "https://whitefoxrealestate.com.au/article/two-years-of-whitefox-gold-coast",
+              "isPartOf": {
+                "@id": "https://whitefoxrealestate.com.au#website"
+              },
+              "breadcrumb": {
+                "@id": "https://whitefoxrealestate.com.au/article/two-years-of-whitefox-gold-coast#breadcrumb"
+              },
+              "name": "THE DEAL: Two Years of WHITEFOX Gold Coast",
+              "mainEntity": {
+                "@id": "https://whitefoxrealestate.com.au/article/two-years-of-whitefox-gold-coast#article"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://whitefoxrealestate.com.au/article/two-years-of-whitefox-gold-coast#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://whitefoxrealestate.com.au"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "THE DEAL: Two Years of WHITEFOX Gold Coast",
+                  "item": "https://whitefoxrealestate.com.au/article/two-years-of-whitefox-gold-coast"
+                }
+              ]
+            },
+            {
+              "@type": "Article",
+              "@id": "https://whitefoxrealestate.com.au/article/two-years-of-whitefox-gold-coast#article",
+              "url": "https://whitefoxrealestate.com.au/article/two-years-of-whitefox-gold-coast",
+              "publisher": {
+                "@type": "Organization",
+                "name": "WHITEFOX "
+              },
+              "author": {
+                "@type": "Organization",
+                "name": "WHITEFOX "
+              },
+              "headline": "THE DEAL: Two Years of WHITEFOX Gold Coast",
+              "mainEntityOfPage": "https://whitefoxrealestate.com.au/article/two-years-of-whitefox-gold-coast",
+              "datePublished": "2026-10-12T04:17:07.826+01:00",
+              "dateModified": "2026-10-12T04:17:06.319+01:00",
+              "articleSection": "Company"
+            }
+          ]
+        }
+      ],
+      "hasPlaceholderPhone": false,
+      "deadHashAnchors": []
+    },
+    {
+      "url": "https://whitefoxrealestate.com.au/article/one-year-of-essendon",
+      "httpStatus": 200,
+      "title": "THE DEAL: One Year Of Essendon  | WHITEFOX",
+      "jsonLdCount": 1,
+      "jsonLdBlocks": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://whitefoxrealestate.com.au#website",
+              "url": "https://whitefoxrealestate.com.au",
+              "name": "WHITEFOX ",
+              "publisher": {
+                "@id": "https://whitefoxrealestate.com.au#organization"
+              },
+              "description": "Making homes more expensive since 2017"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://whitefoxrealestate.com.au#organization",
+              "name": "WHITEFOX ",
+              "url": "https://whitefoxrealestate.com.au",
+              "sameAs": [
+                "https://www.facebook.com/MarshallWhiteRE/",
+                "https://twitter.com/marshallwhitere"
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://whitefoxrealestate.com.au/article/one-year-of-essendon#webpage",
+              "url": "https://whitefoxrealestate.com.au/article/one-year-of-essendon",
+              "isPartOf": {
+                "@id": "https://whitefoxrealestate.com.au#website"
+              },
+              "breadcrumb": {
+                "@id": "https://whitefoxrealestate.com.au/article/one-year-of-essendon#breadcrumb"
+              },
+              "name": "THE DEAL: One Year Of Essendon ",
+              "mainEntity": {
+                "@id": "https://whitefoxrealestate.com.au/article/one-year-of-essendon#article"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://whitefoxrealestate.com.au/article/one-year-of-essendon#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://whitefoxrealestate.com.au"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "THE DEAL: One Year Of Essendon ",
+                  "item": "https://whitefoxrealestate.com.au/article/one-year-of-essendon"
+                }
+              ]
+            },
+            {
+              "@type": "Article",
+              "@id": "https://whitefoxrealestate.com.au/article/one-year-of-essendon#article",
+              "url": "https://whitefoxrealestate.com.au/article/one-year-of-essendon",
+              "publisher": {
+                "@type": "Organization",
+                "name": "WHITEFOX "
+              },
+              "author": {
+                "@type": "Organization",
+                "name": "WHITEFOX "
+              },
+              "headline": "THE DEAL: One Year Of Essendon ",
+              "mainEntityOfPage": "https://whitefoxrealestate.com.au/article/one-year-of-essendon",
+              "datePublished": "2026-10-08T23:00:03.310+01:00",
+              "dateModified": "2026-10-07T01:53:26.095+01:00",
+              "articleSection": "Company"
+            }
+          ]
+        }
+      ],
+      "hasPlaceholderPhone": false,
+      "deadHashAnchors": []
+    },
+    {
+      "url": "https://whitefoxrealestate.com.au/article/two-years-of-brisbane",
+      "httpStatus": 200,
+      "title": "THE DEAL: Two Years of WHITEFOX Brisbane | WHITEFOX",
+      "jsonLdCount": 1,
+      "jsonLdBlocks": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://whitefoxrealestate.com.au#website",
+              "url": "https://whitefoxrealestate.com.au",
+              "name": "WHITEFOX ",
+              "publisher": {
+                "@id": "https://whitefoxrealestate.com.au#organization"
+              },
+              "description": "Making homes more expensive since 2017"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://whitefoxrealestate.com.au#organization",
+              "name": "WHITEFOX ",
+              "url": "https://whitefoxrealestate.com.au",
+              "sameAs": [
+                "https://www.facebook.com/MarshallWhiteRE/",
+                "https://twitter.com/marshallwhitere"
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://whitefoxrealestate.com.au/article/two-years-of-brisbane#webpage",
+              "url": "https://whitefoxrealestate.com.au/article/two-years-of-brisbane",
+              "isPartOf": {
+                "@id": "https://whitefoxrealestate.com.au#website"
+              },
+              "breadcrumb": {
+                "@id": "https://whitefoxrealestate.com.au/article/two-years-of-brisbane#breadcrumb"
+              },
+              "name": "THE DEAL: Two Years of WHITEFOX Brisbane",
+              "mainEntity": {
+                "@id": "https://whitefoxrealestate.com.au/article/two-years-of-brisbane#article"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://whitefoxrealestate.com.au/article/two-years-of-brisbane#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://whitefoxrealestate.com.au"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "THE DEAL: Two Years of WHITEFOX Brisbane",
+                  "item": "https://whitefoxrealestate.com.au/article/two-years-of-brisbane"
+                }
+              ]
+            },
+            {
+              "@type": "Article",
+              "@id": "https://whitefoxrealestate.com.au/article/two-years-of-brisbane#article",
+              "url": "https://whitefoxrealestate.com.au/article/two-years-of-brisbane",
+              "publisher": {
+                "@type": "Organization",
+                "name": "WHITEFOX "
+              },
+              "author": {
+                "@type": "Organization",
+                "name": "WHITEFOX "
+              },
+              "headline": "THE DEAL: Two Years of WHITEFOX Brisbane",
+              "mainEntityOfPage": "https://whitefoxrealestate.com.au/article/two-years-of-brisbane",
+              "datePublished": "2026-10-05T06:15:36.382+01:00",
+              "dateModified": "2026-10-05T06:15:34.899+01:00",
+              "articleSection": "Company"
+            }
+          ]
+        }
+      ],
+      "hasPlaceholderPhone": false,
+      "deadHashAnchors": []
+    }
+  ],
+  "officePages": [
+    {
+      "path": "/office/whitefox-hq",
+      "status": 200,
+      "title": "WHITEFOX HQ Toorak | Real Estate Stonnington Melbourne | WHITEFOX",
+      "snippet": "Corporate &gt; Australia &gt; Offices &gt; HQ HQ Anchored in Toorak - the most prestigious address in the state - our flagship office is a testament to timeless elegance. View Region Website HQ Suite 1.01/ 428c Toorak Road Toorak VIC +61 3 9068 4850 Email Housed in a heritage Art Deco building, the space masterfully blends its storied past with con",
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://whitefoxrealestate.com.au#website",
+              "url": "https://whitefoxrealestate.com.au",
+              "name": "WHITEFOX ",
+              "publisher": {
+                "@id": "https://whitefoxrealestate.com.au#organization"
+              },
+              "description": "Making homes more expensive since 2017"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://whitefoxrealestate.com.au#organization",
+              "name": "WHITEFOX ",
+              "url": "https://whitefoxrealestate.com.au",
+              "sameAs": [
+                "https://www.facebook.com/MarshallWhiteRE/",
+                "https://twitter.com/marshallwhitere"
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://whitefoxrealestate.com.au/office/whitefox-hq#webpage",
+              "url": "https://whitefoxrealestate.com.au/office/whitefox-hq",
+              "isPartOf": {
+                "@id": "https://whitefoxrealestate.com.au#website"
+              },
+              "breadcrumb": {
+                "@id": "https://whitefoxrealestate.com.au/office/whitefox-hq#breadcrumb"
+              },
+              "name": "HQ Office | Real Estate Agency HQ",
+              "mainEntity": {
+                "@id": "https://whitefoxrealestate.com.au/office/whitefox-hq#realestateagent"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://whitefoxrealestate.com.au/office/whitefox-hq#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://whitefoxrealestate.com.au"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "HQ Office | Real Estate Agency HQ",
+                  "item": "https://whitefoxrealestate.com.au/office/whitefox-hq"
+                }
+              ]
+            },
+            {
+              "@type": "RealEstateAgent",
+              "@id": "https://whitefoxrealestate.com.au/office/whitefox-hq#realestateagent",
+              "name": "WHITEFOX  HQ",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Suite 1.01/428c  Toorak Road",
+                "addressLocality": "Toorak",
+                "addressRegion": "Victoria",
+                "postalCode": "3142",
+                "addressCountry": "Australia"
+              },
+              "url": "https://whitefoxrealestate.com.au/office/whitefox-hq",
+              "telephone": "+61 3 9068 4850",
+              "email": "stonnington@whitefoxrealestate.com.au",
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": -37.84118119999999,
+                "longitude": 145.0083273
+              },
+              "image": [
+                "https://imagesv1.asteroidcdn.com/___imageconn/eyJ1IjoiaHR0cHM6Ly93d3cuZGF0b2Ntcy1hc3NldHMuY29tLzE1MTQ1OS8xNzUzMTQ5MDU1LWhxLWJhbm5lci5qcGc_dz0xMDAwJmg9NTI3JmZtPWpwZyIsImUiOjMxNTM2MDAwMDB9.qyA6rc0iuHYdG8yRHTMttC1WzwqxKFXckuTPXCjOrKo/151459/1753149055-hq-banner.jpg?w=1000&h=527&fm=jpg&nf_w=1000&nf_h=527&nf_fm=jpg"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/office/stonnington",
+      "status": 200,
+      "title": "WHITEFOX Stonnington | Real Estate Agents Toorak &amp; South Yarra | WHITEFOX",
+      "snippet": "Corporate &gt; Australia &gt; Offices &gt; Stonnington Stonnington Anchored in Toorak - the most prestigious address in the state - our flagship office is a testament to timeless elegance. View Region Website Stonnington Suite 1 428C Toorak Road Toorak VIC +61 3 9068 4850 Email Housed in a heritage Art Deco building, the space masterfully blends it",
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://whitefoxrealestate.com.au#website",
+              "url": "https://whitefoxrealestate.com.au",
+              "name": "WHITEFOX ",
+              "publisher": {
+                "@id": "https://whitefoxrealestate.com.au#organization"
+              },
+              "description": "Making homes more expensive since 2017"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://whitefoxrealestate.com.au#organization",
+              "name": "WHITEFOX ",
+              "url": "https://whitefoxrealestate.com.au",
+              "sameAs": [
+                "https://www.facebook.com/MarshallWhiteRE/",
+                "https://twitter.com/marshallwhitere"
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://whitefoxrealestate.com.au/office/stonnington#webpage",
+              "url": "https://whitefoxrealestate.com.au/office/stonnington",
+              "isPartOf": {
+                "@id": "https://whitefoxrealestate.com.au#website"
+              },
+              "breadcrumb": {
+                "@id": "https://whitefoxrealestate.com.au/office/stonnington#breadcrumb"
+              },
+              "name": "Stonnington Office | Real Estate Agency Stonnington",
+              "mainEntity": {
+                "@id": "https://whitefoxrealestate.com.au/office/stonnington#realestateagent"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://whitefoxrealestate.com.au/office/stonnington#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://whitefoxrealestate.com.au"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Stonnington Office | Real Estate Agency Stonnington",
+                  "item": "https://whitefoxrealestate.com.au/office/stonnington"
+                }
+              ]
+            },
+            {
+              "@type": "RealEstateAgent",
+              "@id": "https://whitefoxrealestate.com.au/office/stonnington#realestateagent",
+              "name": "WHITEFOX  Stonnington",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Suite 1 428C Toorak Road",
+                "addressLocality": "Toorak",
+                "addressRegion": "VIC",
+                "postalCode": "3142",
+                "addressCountry": "Australia"
+              },
+              "url": "https://whitefoxrealestate.com.au/office/stonnington",
+              "telephone": "+61 3 9068 4850",
+              "email": "stonnington@whitefoxrealestate.com.au",
+              "image": [
+                "https://imagesv1.asteroidcdn.com/___imageconn/eyJ1IjoiaHR0cHM6Ly93d3cuZGF0b2Ntcy1hc3NldHMuY29tLzE1MTQ1OS8xNzUzMTQ5MDU1LWhxLWJhbm5lci5qcGc_dz0xMDAwJmg9NTI3JmZtPWpwZyIsImUiOjMxNTM2MDAwMDB9.qyA6rc0iuHYdG8yRHTMttC1WzwqxKFXckuTPXCjOrKo/151459/1753149055-hq-banner.jpg?w=1000&h=527&fm=jpg&nf_w=1000&nf_h=527&nf_fm=jpg"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/office/bayside",
+      "status": 200,
+      "title": "WHITEFOX Bayside | Real Estate Agents Brighton &amp; Melbourne Bayside | WHITEFOX",
+      "snippet": "Corporate &gt; Australia &gt; Offices &gt; Bayside Bayside Located in the heart of Brighton on Carpenter Street, our office is perfectly positioned to serve every corner of Bayside’s luxury market. View Region Website Bayside 1/ 36 Carpenter Street Brighton VIC +61 3 9068 4850 Email Backed by a team of seasoned professionals, we specialise in deliv",
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://whitefoxrealestate.com.au#website",
+              "url": "https://whitefoxrealestate.com.au",
+              "name": "WHITEFOX ",
+              "publisher": {
+                "@id": "https://whitefoxrealestate.com.au#organization"
+              },
+              "description": "Making homes more expensive since 2017"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://whitefoxrealestate.com.au#organization",
+              "name": "WHITEFOX ",
+              "url": "https://whitefoxrealestate.com.au",
+              "sameAs": [
+                "https://www.facebook.com/MarshallWhiteRE/",
+                "https://twitter.com/marshallwhitere"
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://whitefoxrealestate.com.au/office/bayside#webpage",
+              "url": "https://whitefoxrealestate.com.au/office/bayside",
+              "isPartOf": {
+                "@id": "https://whitefoxrealestate.com.au#website"
+              },
+              "breadcrumb": {
+                "@id": "https://whitefoxrealestate.com.au/office/bayside#breadcrumb"
+              },
+              "name": "Bayside Office | Real Estate Agency Bayside",
+              "mainEntity": {
+                "@id": "https://whitefoxrealestate.com.au/office/bayside#realestateagent"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://whitefoxrealestate.com.au/office/bayside#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://whitefoxrealestate.com.au"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Bayside Office | Real Estate Agency Bayside",
+                  "item": "https://whitefoxrealestate.com.au/office/bayside"
+                }
+              ]
+            },
+            {
+              "@type": "RealEstateAgent",
+              "@id": "https://whitefoxrealestate.com.au/office/bayside#realestateagent",
+              "name": "WHITEFOX  Bayside",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1/36 Carpenter Street",
+                "addressLocality": "Brighton",
+                "addressRegion": "VIC",
+                "postalCode": "3186",
+                "addressCountry": "Australia"
+              },
+              "url": "https://whitefoxrealestate.com.au/office/bayside",
+              "telephone": "+61 3 9068 4850",
+              "email": "bayside@whitefoxrealestate.com.au",
+              "image": [
+                "https://imagesv1.asteroidcdn.com/___imageconn/eyJ1IjoiaHR0cHM6Ly93d3cuZGF0b2Ntcy1hc3NldHMuY29tLzE1MTQ1OS8xNzUzMTQ5MDU2LWJheXNpZGUtYmFubmVyLmpwZz93PTEwMDAmaD01MjcmZm09anBnIiwiZSI6MzE1MzYwMDAwMH0.d1VL6KkNaGgsr60U9ucn47xGYiJe3UhfacRZ3sbitFM/151459/1753149056-bayside-banner.jpg?w=1000&h=527&fm=jpg&nf_w=1000&nf_h=527&nf_fm=jpg"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/office/port-phillip",
+      "status": 200,
+      "title": "WHITEFOX Port Phillip | Real Estate Agents Albert Park &amp; South Melbourne | WHITEFOX",
+      "snippet": "Corporate &gt; Australia &gt; Offices &gt; Port Phillip Port Phillip Nestled in the heart of Albert Park village, our office occupies one of Melbourne’s most enviable positions. View Region Website Port Phillip 317A Montague Street Albert Park VIC +61 3 9645 9699 Email A place where cosmopolitan energy meets bayside charm. Light-filled and welcomin",
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://whitefoxrealestate.com.au#website",
+              "url": "https://whitefoxrealestate.com.au",
+              "name": "WHITEFOX ",
+              "publisher": {
+                "@id": "https://whitefoxrealestate.com.au#organization"
+              },
+              "description": "Making homes more expensive since 2017"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://whitefoxrealestate.com.au#organization",
+              "name": "WHITEFOX ",
+              "url": "https://whitefoxrealestate.com.au",
+              "sameAs": [
+                "https://www.facebook.com/MarshallWhiteRE/",
+                "https://twitter.com/marshallwhitere"
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://whitefoxrealestate.com.au/office/port-phillip#webpage",
+              "url": "https://whitefoxrealestate.com.au/office/port-phillip",
+              "isPartOf": {
+                "@id": "https://whitefoxrealestate.com.au#website"
+              },
+              "breadcrumb": {
+                "@id": "https://whitefoxrealestate.com.au/office/port-phillip#breadcrumb"
+              },
+              "name": "Port Phillip Office | Real Estate Agency Port Phillip",
+              "mainEntity": {
+                "@id": "https://whitefoxrealestate.com.au/office/port-phillip#realestateagent"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://whitefoxrealestate.com.au/office/port-phillip#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://whitefoxrealestate.com.au"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Port Phillip Office | Real Estate Agency Port Phillip",
+                  "item": "https://whitefoxrealestate.com.au/office/port-phillip"
+                }
+              ]
+            },
+            {
+              "@type": "RealEstateAgent",
+              "@id": "https://whitefoxrealestate.com.au/office/port-phillip#realestateagent",
+              "name": "WHITEFOX  Port Phillip",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "317A Montague Street",
+                "addressLocality": "Albert Park",
+                "addressRegion": "VIC",
+                "postalCode": "3206",
+                "addressCountry": "Australia"
+              },
+              "url": "https://whitefoxrealestate.com.au/office/port-phillip",
+              "telephone": "+61 3 9645 9699",
+              "email": "stonnington@whitefoxrealestate.com.au",
+              "image": [
+                "https://imagesv1.asteroidcdn.com/___imageconn/eyJ1IjoiaHR0cHM6Ly93d3cuZGF0b2Ntcy1hc3NldHMuY29tLzE1MTQ1OS8xNzUzMTQ5MDU2LXBvcnQtcGhpbGxwLWJhbm5lci5qcGc_dz0xMDAwJmg9NTI3JmZtPWpwZyIsImUiOjMxNTM2MDAwMDB9.Fu9srgfNpw30aAh2KDScfds9_2htDN7YkYJjJ07oBes/151459/1753149056-port-phillp-banner.jpg?w=1000&h=527&fm=jpg&nf_w=1000&nf_h=527&nf_fm=jpg"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/office/carlton",
+      "status": 200,
+      "title": "WHITEFOX Carlton | Real Estate Agents Carlton &amp; Inner North Melbourne | WHITEFOX",
+      "snippet": "Corporate &gt; Australia &gt; Offices &gt; Carlton Carlton Housed in a striking converted bluestone watchhouse, our Carlton office stands as the heartbeat of our northern luxury operation. View Region Website Carlton 332 Drummond Street Carlton VIC +61 3 9068 4851 Email Under the leadership of Dylan Francis - one of the city’s most accomplished Sal",
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://whitefoxrealestate.com.au#website",
+              "url": "https://whitefoxrealestate.com.au",
+              "name": "WHITEFOX ",
+              "publisher": {
+                "@id": "https://whitefoxrealestate.com.au#organization"
+              },
+              "description": "Making homes more expensive since 2017"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://whitefoxrealestate.com.au#organization",
+              "name": "WHITEFOX ",
+              "url": "https://whitefoxrealestate.com.au",
+              "sameAs": [
+                "https://www.facebook.com/MarshallWhiteRE/",
+                "https://twitter.com/marshallwhitere"
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://whitefoxrealestate.com.au/office/carlton#webpage",
+              "url": "https://whitefoxrealestate.com.au/office/carlton",
+              "isPartOf": {
+                "@id": "https://whitefoxrealestate.com.au#website"
+              },
+              "breadcrumb": {
+                "@id": "https://whitefoxrealestate.com.au/office/carlton#breadcrumb"
+              },
+              "name": "Carlton Office | Real Estate Agency Carlton",
+              "mainEntity": {
+                "@id": "https://whitefoxrealestate.com.au/office/carlton#realestateagent"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://whitefoxrealestate.com.au/office/carlton#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://whitefoxrealestate.com.au"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Carlton Office | Real Estate Agency Carlton",
+                  "item": "https://whitefoxrealestate.com.au/office/carlton"
+                }
+              ]
+            },
+            {
+              "@type": "RealEstateAgent",
+              "@id": "https://whitefoxrealestate.com.au/office/carlton#realestateagent",
+              "name": "WHITEFOX  Carlton",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "332 Drummond Street",
+                "addressLocality": "Carlton",
+                "addressRegion": "VIC",
+                "postalCode": "3053",
+                "addressCountry": "Australia"
+              },
+              "url": "https://whitefoxrealestate.com.au/office/carlton",
+              "telephone": "+61 3 9068 4851",
+              "email": "northside@whitefoxrealestate.com.au",
+              "image": [
+                "https://imagesv1.asteroidcdn.com/___imageconn/eyJ1IjoiaHR0cHM6Ly93d3cuZGF0b2Ntcy1hc3NldHMuY29tLzE1MTQ1OS8xNzUzMTQ5MDU1LW5vcnRoLWJhbm5lci5qcGc_dz0xMDAwJmg9NTI3JmZtPWpwZyIsImUiOjMxNTM2MDAwMDB9.xup3hcCCvnT8hJQ_rkwTQnakEJ0ADQV5fYlba_o_AGE/151459/1753149055-north-banner.jpg?w=1000&h=527&fm=jpg&nf_w=1000&nf_h=527&nf_fm=jpg"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/office/essendon",
+      "status": 200,
+      "title": "WHITEFOX Essendon | Real Estate Agents Essendon &amp; Melbourne&#x27;s North | WHITEFOX",
+      "snippet": "Corporate &gt; Australia &gt; Offices &gt; Essendon Essendon Set on Fletcher Street, our Essendon office captures the energy, ambition, and growth of Melbourne’s Northside. View Region Website Essendon 1/ 50 Suite Fletcher Street Essendon VIC +61 3 7075 3440 Email Located on Fletcher Street, our Essendon office marks the next phase of WHITEFOX Nort",
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://whitefoxrealestate.com.au#website",
+              "url": "https://whitefoxrealestate.com.au",
+              "name": "WHITEFOX ",
+              "publisher": {
+                "@id": "https://whitefoxrealestate.com.au#organization"
+              },
+              "description": "Making homes more expensive since 2017"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://whitefoxrealestate.com.au#organization",
+              "name": "WHITEFOX ",
+              "url": "https://whitefoxrealestate.com.au",
+              "sameAs": [
+                "https://www.facebook.com/MarshallWhiteRE/",
+                "https://twitter.com/marshallwhitere"
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://whitefoxrealestate.com.au/office/essendon#webpage",
+              "url": "https://whitefoxrealestate.com.au/office/essendon",
+              "isPartOf": {
+                "@id": "https://whitefoxrealestate.com.au#website"
+              },
+              "breadcrumb": {
+                "@id": "https://whitefoxrealestate.com.au/office/essendon#breadcrumb"
+              },
+              "name": "Essendon Office | Real Estate Agency Essendon",
+              "mainEntity": {
+                "@id": "https://whitefoxrealestate.com.au/office/essendon#realestateagent"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://whitefoxrealestate.com.au/office/essendon#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://whitefoxrealestate.com.au"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Essendon Office | Real Estate Agency Essendon",
+                  "item": "https://whitefoxrealestate.com.au/office/essendon"
+                }
+              ]
+            },
+            {
+              "@type": "RealEstateAgent",
+              "@id": "https://whitefoxrealestate.com.au/office/essendon#realestateagent",
+              "name": "WHITEFOX  Essendon",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1/50 Suite Fletcher Street",
+                "addressLocality": "Essendon",
+                "addressRegion": "VIC",
+                "postalCode": "3040",
+                "addressCountry": "Australia"
+              },
+              "url": "https://whitefoxrealestate.com.au/office/essendon",
+              "telephone": "+61 3 7075 3440",
+              "email": "essendon@whitefoxrealestate.com.au",
+              "image": [
+                "https://imagesv1.asteroidcdn.com/___imageconn/eyJ1IjoiaHR0cHM6Ly93d3cuZGF0b2Ntcy1hc3NldHMuY29tLzE1MTQ1OS8xNzU3NTQ4NzE3LWVzc2VuZG9uLmpwZz93PTEwMDAmaD01MjcmZm09anBnIiwiZSI6MzE1MzYwMDAwMH0.qqqh6HkNxRTynSouaoCohNtPRSq6lMo3QStlJfuDK_w/151459/1757548717-essendon.jpg?w=1000&h=527&fm=jpg&nf_w=1000&nf_h=527&nf_fm=jpg"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/office/peninsula",
+      "status": 200,
+      "title": "WHITEFOX Peninsula | Real Estate Agents Mornington Peninsula | WHITEFOX",
+      "snippet": "Corporate &gt; Australia &gt; Offices &gt; Peninsula Peninsula Nestled in the heart of the Peninsula, our quaint office sits opposite the Red Hill Consolidated School - a welcoming retreat for clients and locals alike. View Region Website Peninsula Mornington/ Flinders Road Red Hill VIC +61 3 5989 2145 Email Designed for comfort and connection, thi",
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://whitefoxrealestate.com.au#website",
+              "url": "https://whitefoxrealestate.com.au",
+              "name": "WHITEFOX ",
+              "publisher": {
+                "@id": "https://whitefoxrealestate.com.au#organization"
+              },
+              "description": "Making homes more expensive since 2017"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://whitefoxrealestate.com.au#organization",
+              "name": "WHITEFOX ",
+              "url": "https://whitefoxrealestate.com.au",
+              "sameAs": [
+                "https://www.facebook.com/MarshallWhiteRE/",
+                "https://twitter.com/marshallwhitere"
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://whitefoxrealestate.com.au/office/peninsula#webpage",
+              "url": "https://whitefoxrealestate.com.au/office/peninsula",
+              "isPartOf": {
+                "@id": "https://whitefoxrealestate.com.au#website"
+              },
+              "breadcrumb": {
+                "@id": "https://whitefoxrealestate.com.au/office/peninsula#breadcrumb"
+              },
+              "name": "Peninsula Office | Real Estate Agency Peninsula",
+              "mainEntity": {
+                "@id": "https://whitefoxrealestate.com.au/office/peninsula#realestateagent"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://whitefoxrealestate.com.au/office/peninsula#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://whitefoxrealestate.com.au"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Peninsula Office | Real Estate Agency Peninsula",
+                  "item": "https://whitefoxrealestate.com.au/office/peninsula"
+                }
+              ]
+            },
+            {
+              "@type": "RealEstateAgent",
+              "@id": "https://whitefoxrealestate.com.au/office/peninsula#realestateagent",
+              "name": "WHITEFOX  Peninsula",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Mornington/Flinders Road",
+                "addressLocality": "Red Hill",
+                "addressRegion": "VIC",
+                "postalCode": "3937",
+                "addressCountry": "Australia"
+              },
+              "url": "https://whitefoxrealestate.com.au/office/peninsula",
+              "telephone": "+61 3 5989 2145",
+              "email": "peninsula@whitefoxrealestate.com.au",
+              "image": [
+                "https://imagesv1.asteroidcdn.com/___imageconn/eyJ1IjoiaHR0cHM6Ly93d3cuZGF0b2Ntcy1hc3NldHMuY29tLzE1MTQ1OS8xNzUzMTQ5MDU2LXBlbm5pc3VsYS1iYW5uZXIuanBnP3c9MTAwMCZoPTUyNyZmbT1qcGciLCJlIjozMTUzNjAwMDAwfQ.NDS72hVZI0xoFm-fmcuM7H-FhAbmnUCYCon6dQdjJkI/151459/1753149056-pennisula-banner.jpg?w=1000&h=527&fm=jpg&nf_w=1000&nf_h=527&nf_fm=jpg"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/office/northcote",
+      "status": 200,
+      "title": "Northcote Office | Real Estate Agency Northcote | WHITEFOX",
+      "snippet": "Corporate &gt; Australia &gt; Offices &gt; Northcote Northcote Set on the iconic High Street, our Northcote office places WHITEFOX at the heart of one of Melbourne&#x27;s most influential lifestyle and property destinations. View Region Website Northcote 176 High Street Northcote VIC 03 7082 8180 Email From Northcote to Thornbury, Fitzroy North and",
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://whitefoxrealestate.com.au#website",
+              "url": "https://whitefoxrealestate.com.au",
+              "name": "WHITEFOX ",
+              "publisher": {
+                "@id": "https://whitefoxrealestate.com.au#organization"
+              },
+              "description": "Making homes more expensive since 2017"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://whitefoxrealestate.com.au#organization",
+              "name": "WHITEFOX ",
+              "url": "https://whitefoxrealestate.com.au",
+              "sameAs": [
+                "https://www.facebook.com/MarshallWhiteRE/",
+                "https://twitter.com/marshallwhitere"
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://whitefoxrealestate.com.au/office/northcote#webpage",
+              "url": "https://whitefoxrealestate.com.au/office/northcote",
+              "isPartOf": {
+                "@id": "https://whitefoxrealestate.com.au#website"
+              },
+              "breadcrumb": {
+                "@id": "https://whitefoxrealestate.com.au/office/northcote#breadcrumb"
+              },
+              "name": "Northcote Office | Real Estate Agency Northcote",
+              "mainEntity": {
+                "@id": "https://whitefoxrealestate.com.au/office/northcote#realestateagent"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://whitefoxrealestate.com.au/office/northcote#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://whitefoxrealestate.com.au"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Northcote Office | Real Estate Agency Northcote",
+                  "item": "https://whitefoxrealestate.com.au/office/northcote"
+                }
+              ]
+            },
+            {
+              "@type": "RealEstateAgent",
+              "@id": "https://whitefoxrealestate.com.au/office/northcote#realestateagent",
+              "name": "WHITEFOX  Northcote",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "176 High Street",
+                "addressLocality": "Northcote",
+                "addressRegion": "VIC",
+                "postalCode": "3070",
+                "addressCountry": "Australia"
+              },
+              "url": "https://whitefoxrealestate.com.au/office/northcote",
+              "telephone": "03 7082 8180",
+              "email": "northcote@whitefoxrealestate.com.au",
+              "image": [
+                "https://imagesv1.asteroidcdn.com/___imageconn/eyJ1IjoiaHR0cHM6Ly93d3cuZGF0b2Ntcy1hc3NldHMuY29tLzE1MTQ1OS8xNzg5OTY4MDg5LW5vcnRoY290ZS0xLmpwZz93PTEwMDAmaD02NjcmZm09anBnIiwiZSI6MzE1MzYwMDAwMH0.tzc4ri4uQBlSRTf98tV4L5RmtjZ7ZcQOW-mjIGFAjmk/151459/1789968089-northcote-1.jpg?w=1000&h=667&fm=jpg&nf_w=1000&nf_h=667&nf_fm=jpg"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/office/sydney",
+      "status": 200,
+      "title": "WHITEFOX Sydney | Real Estate Agents Manly &amp; Northern Beaches | WHITEFOX",
+      "snippet": "Corporate &gt; Australia &gt; Offices &gt; Manly Manly In the heart of Manly, our office stands as a new coastal benchmark — where design, lifestyle, and luxury align. View Region Website Manly 46 East Esplanade Manly NSW +61 8320 7800 Email Located on East Esplanade, our Manly office marks WHITEFOX’s long-awaited arrival in Sydney, positioned oppo",
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://whitefoxrealestate.com.au#website",
+              "url": "https://whitefoxrealestate.com.au",
+              "name": "WHITEFOX ",
+              "publisher": {
+                "@id": "https://whitefoxrealestate.com.au#organization"
+              },
+              "description": "Making homes more expensive since 2017"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://whitefoxrealestate.com.au#organization",
+              "name": "WHITEFOX ",
+              "url": "https://whitefoxrealestate.com.au",
+              "sameAs": [
+                "https://www.facebook.com/MarshallWhiteRE/",
+                "https://twitter.com/marshallwhitere"
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://whitefoxrealestate.com.au/office/sydney#webpage",
+              "url": "https://whitefoxrealestate.com.au/office/sydney",
+              "isPartOf": {
+                "@id": "https://whitefoxrealestate.com.au#website"
+              },
+              "breadcrumb": {
+                "@id": "https://whitefoxrealestate.com.au/office/sydney#breadcrumb"
+              },
+              "name": "Manly Office | Real Estate Agency Manly",
+              "mainEntity": {
+                "@id": "https://whitefoxrealestate.com.au/office/sydney#realestateagent"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://whitefoxrealestate.com.au/office/sydney#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://whitefoxrealestate.com.au"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Manly Office | Real Estate Agency Manly",
+                  "item": "https://whitefoxrealestate.com.au/office/sydney"
+                }
+              ]
+            },
+            {
+              "@type": "RealEstateAgent",
+              "@id": "https://whitefoxrealestate.com.au/office/sydney#realestateagent",
+              "name": "WHITEFOX  Manly",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Shop 3, 46 East Esplanade",
+                "addressLocality": "Manly",
+                "addressRegion": "NSW",
+                "postalCode": "2095",
+                "addressCountry": "Australia"
+              },
+              "url": "https://whitefoxrealestate.com.au/office/sydney",
+              "telephone": "+61 8320 7800",
+              "email": "manly@whitefoxrealestate.com.au",
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": -33.7994054,
+                "longitude": 151.2851687
+              },
+              "image": [
+                "https://imagesv1.asteroidcdn.com/___imageconn/eyJ1IjoiaHR0cHM6Ly93d3cuZGF0b2Ntcy1hc3NldHMuY29tLzE1MTQ1OS8xNzc3NTEwOTkxLXVudGl0bGVkLWRlc2lnbi00OC5qcGc_dz0xMDAwJmg9NTYxJmZtPWpwZyIsImUiOjMxNTM2MDAwMDB9.UxpDS0w5ueEE59OEYIFYpkYYq_yaJ4ivW9l0QUBRRjM/151459/1777510991-untitled-design-48.jpg?w=1000&h=561&fm=jpg&nf_w=1000&nf_h=561&nf_fm=jpg"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/office/paddington-so2",
+      "status": 200,
+      "title": "Paddington Office | Real Estate Agency Paddington | WHITEFOX",
+      "snippet": "Corporate &gt; Australia &gt; Offices &gt; Paddington Paddington Expanding into Paddington, where Sydney’s Eastern Suburbs meet a new standard. View Region Website Paddington 16 William Street Paddington NSW +61 451 965 119 Email Our Paddington presence marks the next step in WHITEFOX’s Sydney expansion, bringing the brand into one of the city’s mo",
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://whitefoxrealestate.com.au#website",
+              "url": "https://whitefoxrealestate.com.au",
+              "name": "WHITEFOX ",
+              "publisher": {
+                "@id": "https://whitefoxrealestate.com.au#organization"
+              },
+              "description": "Making homes more expensive since 2017"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://whitefoxrealestate.com.au#organization",
+              "name": "WHITEFOX ",
+              "url": "https://whitefoxrealestate.com.au",
+              "sameAs": [
+                "https://www.facebook.com/MarshallWhiteRE/",
+                "https://twitter.com/marshallwhitere"
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://whitefoxrealestate.com.au/office/paddington-so2#webpage",
+              "url": "https://whitefoxrealestate.com.au/office/paddington-so2",
+              "isPartOf": {
+                "@id": "https://whitefoxrealestate.com.au#website"
+              },
+              "breadcrumb": {
+                "@id": "https://whitefoxrealestate.com.au/office/paddington-so2#breadcrumb"
+              },
+              "name": "Paddington Office | Real Estate Agency Paddington",
+              "mainEntity": {
+                "@id": "https://whitefoxrealestate.com.au/office/paddington-so2#realestateagent"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://whitefoxrealestate.com.au/office/paddington-so2#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://whitefoxrealestate.com.au"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Paddington Office | Real Estate Agency Paddington",
+                  "item": "https://whitefoxrealestate.com.au/office/paddington-so2"
+                }
+              ]
+            },
+            {
+              "@type": "RealEstateAgent",
+              "@id": "https://whitefoxrealestate.com.au/office/paddington-so2#realestateagent",
+              "name": "WHITEFOX  Paddington",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "16 William Street",
+                "addressLocality": "Paddington",
+                "addressRegion": "NSW",
+                "postalCode": "2021",
+                "addressCountry": "Australia"
+              },
+              "url": "https://whitefoxrealestate.com.au/office/paddington-so2",
+              "telephone": "+61 451 965 119",
+              "email": "paddington@whitefoxrealestate.com.au",
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": -33.885686,
+                "longitude": 151.2291833
+              },
+              "image": [
+                "https://imagesv1.asteroidcdn.com/___imageconn/eyJ1IjoiaHR0cHM6Ly93d3cuZGF0b2Ntcy1hc3NldHMuY29tLzE1MTQ1OS8xNzc3NTE4MTk2LXBhZGRpbmd0b24tc2lnbi1tb2NrdXAucG5nP3c9MTAwMCZoPTY2OCZmbT1qcGciLCJlIjozMTUzNjAwMDAwfQ.TQtgNFDb9HOrnW6rpwzFQ4OGse4SD7I85IAjp8oLO0c/151459/1777518196-paddington-sign-mockup.png?w=1000&h=668&fm=jpg&nf_w=1000&nf_h=668&nf_fm=jpg"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/office/brisbane",
+      "status": 200,
+      "title": "Brisbane Office | Real Estate Agency Brisbane | WHITEFOX",
+      "snippet": "Corporate &gt; Australia &gt; Offices &gt; Brisbane Brisbane Commanding one of the city’s most enviable addresses at 1 James Street, our Brisbane office sits at the crossroads of luxury and energy. View Region Website Brisbane 1 James Street Fortitude Valley QLD +61 7 2140 3800 Email Thousands pass through daily, but for Queensland’s elite - vendor",
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://whitefoxrealestate.com.au#website",
+              "url": "https://whitefoxrealestate.com.au",
+              "name": "WHITEFOX ",
+              "publisher": {
+                "@id": "https://whitefoxrealestate.com.au#organization"
+              },
+              "description": "Making homes more expensive since 2017"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://whitefoxrealestate.com.au#organization",
+              "name": "WHITEFOX ",
+              "url": "https://whitefoxrealestate.com.au",
+              "sameAs": [
+                "https://www.facebook.com/MarshallWhiteRE/",
+                "https://twitter.com/marshallwhitere"
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://whitefoxrealestate.com.au/office/brisbane#webpage",
+              "url": "https://whitefoxrealestate.com.au/office/brisbane",
+              "isPartOf": {
+                "@id": "https://whitefoxrealestate.com.au#website"
+              },
+              "breadcrumb": {
+                "@id": "https://whitefoxrealestate.com.au/office/brisbane#breadcrumb"
+              },
+              "name": "Brisbane Office | Real Estate Agency Brisbane",
+              "mainEntity": {
+                "@id": "https://whitefoxrealestate.com.au/office/brisbane#realestateagent"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://whitefoxrealestate.com.au/office/brisbane#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://whitefoxrealestate.com.au"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Brisbane Office | Real Estate Agency Brisbane",
+                  "item": "https://whitefoxrealestate.com.au/office/brisbane"
+                }
+              ]
+            },
+            {
+              "@type": "RealEstateAgent",
+              "@id": "https://whitefoxrealestate.com.au/office/brisbane#realestateagent",
+              "name": "WHITEFOX  Brisbane",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1 James Street",
+                "addressLocality": "Fortitude Valley",
+                "addressRegion": "Queensland",
+                "postalCode": "4006",
+                "addressCountry": "Australia"
+              },
+              "url": "https://whitefoxrealestate.com.au/office/brisbane",
+              "telephone": "+61 7 2140 3800",
+              "email": "brisbane@whitefoxrealestate.com.au",
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": -27.4557276,
+                "longitude": 153.038343
+              },
+              "image": [
+                "https://imagesv1.asteroidcdn.com/___imageconn/eyJ1IjoiaHR0cHM6Ly93d3cuZGF0b2Ntcy1hc3NldHMuY29tLzE1MTQ1OS8xNzUzMTc4OTY4LWJyaXNiYW5lLWJhbm5lci5qcGc_dz0xMDAwJmg9NTI3JmZtPWpwZyIsImUiOjMxNTM2MDAwMDB9.-bv2-CazMSTa3YVs5xTWC8uqB1giAVUr8UFGJoF7iWs/151459/1753178968-brisbane-banner.jpg?w=1000&h=527&fm=jpg&nf_w=1000&nf_h=527&nf_fm=jpg"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/office/gold-coast",
+      "status": 200,
+      "title": "Gold Coast Office | Real Estate Agency Gold Coast | WHITEFOX",
+      "snippet": "Corporate &gt; Australia &gt; Offices &gt; Gold Coast Gold Coast Commanding a prime position in the striking Oxley 1823 Atrium, our Mermaid Beach office embodies the sleek, sun-drenched luxury of the Gold Coast. View Region Website Gold Coast The Oxley 1823, Shop 5B/ 2217 Gold Coast Highway Mermaid Beach QLD +61 7 5606 6240 Email This sophisticated",
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://whitefoxrealestate.com.au#website",
+              "url": "https://whitefoxrealestate.com.au",
+              "name": "WHITEFOX ",
+              "publisher": {
+                "@id": "https://whitefoxrealestate.com.au#organization"
+              },
+              "description": "Making homes more expensive since 2017"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://whitefoxrealestate.com.au#organization",
+              "name": "WHITEFOX ",
+              "url": "https://whitefoxrealestate.com.au",
+              "sameAs": [
+                "https://www.facebook.com/MarshallWhiteRE/",
+                "https://twitter.com/marshallwhitere"
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://whitefoxrealestate.com.au/office/gold-coast#webpage",
+              "url": "https://whitefoxrealestate.com.au/office/gold-coast",
+              "isPartOf": {
+                "@id": "https://whitefoxrealestate.com.au#website"
+              },
+              "breadcrumb": {
+                "@id": "https://whitefoxrealestate.com.au/office/gold-coast#breadcrumb"
+              },
+              "name": "Gold Coast Office | Real Estate Agency Gold Coast",
+              "mainEntity": {
+                "@id": "https://whitefoxrealestate.com.au/office/gold-coast#realestateagent"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://whitefoxrealestate.com.au/office/gold-coast#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://whitefoxrealestate.com.au"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Gold Coast Office | Real Estate Agency Gold Coast",
+                  "item": "https://whitefoxrealestate.com.au/office/gold-coast"
+                }
+              ]
+            },
+            {
+              "@type": "RealEstateAgent",
+              "@id": "https://whitefoxrealestate.com.au/office/gold-coast#realestateagent",
+              "name": "WHITEFOX  Gold Coast",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Shop 5B/2217  Gold Coast Highway",
+                "addressLocality": "Mermaid Beach",
+                "addressRegion": "Queensland",
+                "postalCode": "4218",
+                "addressCountry": "Australia"
+              },
+              "url": "https://whitefoxrealestate.com.au/office/gold-coast",
+              "telephone": "+61 7 5606 6240",
+              "email": "goldcoast@whitefoxrealestate.com.au",
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": -28.059432,
+                "longitude": 153.4385529
+              },
+              "image": [
+                "https://imagesv1.asteroidcdn.com/___imageconn/eyJ1IjoiaHR0cHM6Ly93d3cuZGF0b2Ntcy1hc3NldHMuY29tLzE1MTQ1OS8xNzkxNTE2MDMyLWdjLW9mZmljZS10aHVtYi13Zi5qcGc_dz0xMDAwJmg9ODAwJmZtPWpwZyIsImUiOjMxNTM2MDAwMDB9.BN1X14jYsqnrYfxtj0OjNLXaIKmze4xrA_Z1-kAAak0/151459/1791516032-gc-office-thumb-wf.jpg?w=1000&h=800&fm=jpg&nf_w=1000&nf_h=800&nf_fm=jpg"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/office/adelaide",
+      "status": 200,
+      "title": "Adelaide Office | Real Estate Agency Adelaide | WHITEFOX",
+      "snippet": "Corporate &gt; Australia &gt; Offices &gt; Adelaide Adelaide Set on King William Road in the heart of Hyde Park, our Adelaide office embodies the charm and vibrancy of one of the city’s most coveted precincts. View Region Website Adelaide SHOP 3, / 183 King William Road Hyde Park SA +61 8 7092 0371 Email Surrounded by boutique shopping, leafy stree",
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://whitefoxrealestate.com.au#website",
+              "url": "https://whitefoxrealestate.com.au",
+              "name": "WHITEFOX ",
+              "publisher": {
+                "@id": "https://whitefoxrealestate.com.au#organization"
+              },
+              "description": "Making homes more expensive since 2017"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://whitefoxrealestate.com.au#organization",
+              "name": "WHITEFOX ",
+              "url": "https://whitefoxrealestate.com.au",
+              "sameAs": [
+                "https://www.facebook.com/MarshallWhiteRE/",
+                "https://twitter.com/marshallwhitere"
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://whitefoxrealestate.com.au/office/adelaide#webpage",
+              "url": "https://whitefoxrealestate.com.au/office/adelaide",
+              "isPartOf": {
+                "@id": "https://whitefoxrealestate.com.au#website"
+              },
+              "breadcrumb": {
+                "@id": "https://whitefoxrealestate.com.au/office/adelaide#breadcrumb"
+              },
+              "name": "Adelaide Office | Real Estate Agency Adelaide",
+              "mainEntity": {
+                "@id": "https://whitefoxrealestate.com.au/office/adelaide#realestateagent"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://whitefoxrealestate.com.au/office/adelaide#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://whitefoxrealestate.com.au"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Adelaide Office | Real Estate Agency Adelaide",
+                  "item": "https://whitefoxrealestate.com.au/office/adelaide"
+                }
+              ]
+            },
+            {
+              "@type": "RealEstateAgent",
+              "@id": "https://whitefoxrealestate.com.au/office/adelaide#realestateagent",
+              "name": "WHITEFOX  Adelaide",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "SHOP 3, /183 King William Road",
+                "addressLocality": "Hyde Park",
+                "addressRegion": "South Australia",
+                "postalCode": "5061",
+                "addressCountry": "Australia"
+              },
+              "url": "https://whitefoxrealestate.com.au/office/adelaide",
+              "telephone": " +61 8 7092 0371",
+              "email": "adelaide@whitefoxrealestate.com.au",
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": -34.9546919,
+                "longitude": 138.6003013
+              },
+              "image": [
+                "https://imagesv1.asteroidcdn.com/___imageconn/eyJ1IjoiaHR0cHM6Ly93d3cuZGF0b2Ntcy1hc3NldHMuY29tLzE1MTQ1OS8xNzUzMTQ1ODI3LW9mZmljZS1iYW5uZXIuanBnP3c9MTAwMCZoPTUyNyZmbT1qcGciLCJlIjozMTUzNjAwMDAwfQ.903uWy_8eBN1AYs_VxdQUTJr0sqkCdtZEnE_CTiCfj8/151459/1753145827-office-banner.jpg?w=1000&h=527&fm=jpg&nf_w=1000&nf_h=527&nf_fm=jpg"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/office/subiaco",
+      "status": 200,
+      "title": "Subiaco Office | Real Estate Agency Subiaco | WHITEFOX",
+      "snippet": "Corporate &gt; Australia &gt; Offices &gt; Subiaco Subiaco Quiet street. Big moves. That’s the WHITEFOX way. View Region Website Subiaco Unit 6/ 94 Rokeby Road Subiaco WA (08) 6186 8861 Email Our Subiaco office on Rokeby Road holds a special place in our story as the first WHITEFOX location outside Melbourne, and the vibrant heartbeat of our Perth ",
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://whitefoxrealestate.com.au#website",
+              "url": "https://whitefoxrealestate.com.au",
+              "name": "WHITEFOX ",
+              "publisher": {
+                "@id": "https://whitefoxrealestate.com.au#organization"
+              },
+              "description": "Making homes more expensive since 2017"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://whitefoxrealestate.com.au#organization",
+              "name": "WHITEFOX ",
+              "url": "https://whitefoxrealestate.com.au",
+              "sameAs": [
+                "https://www.facebook.com/MarshallWhiteRE/",
+                "https://twitter.com/marshallwhitere"
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://whitefoxrealestate.com.au/office/subiaco#webpage",
+              "url": "https://whitefoxrealestate.com.au/office/subiaco",
+              "isPartOf": {
+                "@id": "https://whitefoxrealestate.com.au#website"
+              },
+              "breadcrumb": {
+                "@id": "https://whitefoxrealestate.com.au/office/subiaco#breadcrumb"
+              },
+              "name": "Subiaco Office | Real Estate Agency Subiaco",
+              "mainEntity": {
+                "@id": "https://whitefoxrealestate.com.au/office/subiaco#realestateagent"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://whitefoxrealestate.com.au/office/subiaco#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://whitefoxrealestate.com.au"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Subiaco Office | Real Estate Agency Subiaco",
+                  "item": "https://whitefoxrealestate.com.au/office/subiaco"
+                }
+              ]
+            },
+            {
+              "@type": "RealEstateAgent",
+              "@id": "https://whitefoxrealestate.com.au/office/subiaco#realestateagent",
+              "name": "WHITEFOX  Subiaco",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Unit 6/94 Rokeby Road",
+                "addressLocality": "Subiaco",
+                "addressRegion": "Western Australia",
+                "postalCode": "6008",
+                "addressCountry": "Australia"
+              },
+              "url": "https://whitefoxrealestate.com.au/office/subiaco",
+              "telephone": "(08) 6186 8861",
+              "email": "perth@whitefoxrealestate.com.au",
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": -31.9477306,
+                "longitude": 115.8242147
+              },
+              "image": [
+                "https://imagesv1.asteroidcdn.com/___imageconn/eyJ1IjoiaHR0cHM6Ly93d3cuZGF0b2Ntcy1hc3NldHMuY29tLzE1MTQ1OS8xNzUyNjQwOTUzLXBlcnRoLmpwZz93PTEwMDAmaD02NjcmZm09anBnIiwiZSI6MzE1MzYwMDAwMH0.MYBxZWS_2pg1dkAdfkY88X4oRp_x-pt4SQXB0SLwVDQ/151459/1752640953-perth.jpg?w=1000&h=667&fm=jpg&nf_w=1000&nf_h=667&nf_fm=jpg"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/office/applecross",
+      "status": 200,
+      "title": "Applecross Office | Real Estate Agency Applecross | WHITEFOX",
+      "snippet": "Corporate &gt; Australia &gt; Offices &gt; Applecross Applecross Located on Ardross Street, our Applecross office reflects refined design and the next chapter of luxury south of the river. View Region Website Applecross 36B Ardross Street Applecross WA (08) 6275 9200 Email Our Applecross office on Ardross Street represents the next evolution of WHI",
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://whitefoxrealestate.com.au#website",
+              "url": "https://whitefoxrealestate.com.au",
+              "name": "WHITEFOX ",
+              "publisher": {
+                "@id": "https://whitefoxrealestate.com.au#organization"
+              },
+              "description": "Making homes more expensive since 2017"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://whitefoxrealestate.com.au#organization",
+              "name": "WHITEFOX ",
+              "url": "https://whitefoxrealestate.com.au",
+              "sameAs": [
+                "https://www.facebook.com/MarshallWhiteRE/",
+                "https://twitter.com/marshallwhitere"
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://whitefoxrealestate.com.au/office/applecross#webpage",
+              "url": "https://whitefoxrealestate.com.au/office/applecross",
+              "isPartOf": {
+                "@id": "https://whitefoxrealestate.com.au#website"
+              },
+              "breadcrumb": {
+                "@id": "https://whitefoxrealestate.com.au/office/applecross#breadcrumb"
+              },
+              "name": "Applecross Office | Real Estate Agency Applecross",
+              "mainEntity": {
+                "@id": "https://whitefoxrealestate.com.au/office/applecross#realestateagent"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://whitefoxrealestate.com.au/office/applecross#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://whitefoxrealestate.com.au"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Applecross Office | Real Estate Agency Applecross",
+                  "item": "https://whitefoxrealestate.com.au/office/applecross"
+                }
+              ]
+            },
+            {
+              "@type": "RealEstateAgent",
+              "@id": "https://whitefoxrealestate.com.au/office/applecross#realestateagent",
+              "name": "WHITEFOX  Applecross",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "36B Ardross Street",
+                "addressLocality": "Applecross",
+                "addressRegion": "WA",
+                "postalCode": "6153",
+                "addressCountry": "Australia"
+              },
+              "url": "https://whitefoxrealestate.com.au/office/applecross",
+              "telephone": "(08) 6275 9200",
+              "email": "applecross@whitefoxrealestate.com.au",
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": -32.0104857,
+                "longitude": 115.8351116
+              },
+              "image": [
+                "https://imagesv1.asteroidcdn.com/___imageconn/eyJ1IjoiaHR0cHM6Ly93d3cuZGF0b2Ntcy1hc3NldHMuY29tLzE1MTQ1OS8xNzYwMzI1NjgwLWJwcF8zNjMwLmpwZz93PTEwMDAmaD04MDAmZm09anBnIiwiZSI6MzE1MzYwMDAwMH0.eCMWLntLlj6HtrPi8has-sdTFI3GTGdMnBWs88g4y7E/151459/1760325680-bpp_3630.jpg?w=1000&h=800&fm=jpg&nf_w=1000&nf_h=800&nf_fm=jpg"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/office/advocacy",
+      "status": 200,
+      "title": "Advocacy Office | Real Estate Agency Advocacy | WHITEFOX",
+      "snippet": "Corporate &gt; Australia &gt; Offices &gt; Advocacy Advocacy Buying property is one of the biggest decisions you&#x27;ll ever make. We make sure you make the right one. View Region Website Advocacy 1/ 36 Carpenter Street Brighton VIC 0409 130 761 Email Jayde Morrison Head of Operations - Advocacy Advocacy Lara Nattrass Advocate Advocacy Nicholas Mo",
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "WebSite",
+              "@id": "https://whitefoxrealestate.com.au#website",
+              "url": "https://whitefoxrealestate.com.au",
+              "name": "WHITEFOX ",
+              "publisher": {
+                "@id": "https://whitefoxrealestate.com.au#organization"
+              },
+              "description": "Making homes more expensive since 2017"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://whitefoxrealestate.com.au#organization",
+              "name": "WHITEFOX ",
+              "url": "https://whitefoxrealestate.com.au",
+              "sameAs": [
+                "https://www.facebook.com/MarshallWhiteRE/",
+                "https://twitter.com/marshallwhitere"
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://whitefoxrealestate.com.au/office/advocacy#webpage",
+              "url": "https://whitefoxrealestate.com.au/office/advocacy",
+              "isPartOf": {
+                "@id": "https://whitefoxrealestate.com.au#website"
+              },
+              "breadcrumb": {
+                "@id": "https://whitefoxrealestate.com.au/office/advocacy#breadcrumb"
+              },
+              "name": "Advocacy Office | Real Estate Agency Advocacy",
+              "mainEntity": {
+                "@id": "https://whitefoxrealestate.com.au/office/advocacy#realestateagent"
+              }
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://whitefoxrealestate.com.au/office/advocacy#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://whitefoxrealestate.com.au"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Advocacy Office | Real Estate Agency Advocacy",
+                  "item": "https://whitefoxrealestate.com.au/office/advocacy"
+                }
+              ]
+            },
+            {
+              "@type": "RealEstateAgent",
+              "@id": "https://whitefoxrealestate.com.au/office/advocacy#realestateagent",
+              "name": "WHITEFOX  Advocacy",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1/36 Carpenter Street",
+                "addressLocality": "Brighton",
+                "addressRegion": "VIC",
+                "postalCode": "3186",
+                "addressCountry": "Australia"
+              },
+              "url": "https://whitefoxrealestate.com.au/office/advocacy",
+              "telephone": "0409 130 761",
+              "email": "jayde@whitefoxadvocacy.com",
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": -37.9140664,
+                "longitude": 144.9951705
+              },
+              "image": [
+                "https://imagesv1.asteroidcdn.com/___imageconn/eyJ1IjoiaHR0cHM6Ly93d3cuZGF0b2Ntcy1hc3NldHMuY29tLzE1MTQ1OS8xNzUzMTQ5MDU0LWJheXNpZGUtdGh1bWJuYWlsLmpwZz93PTEwMDAmaD03MTcmZm09anBnIiwiZSI6MzE1MzYwMDAwMH0.wDG3dqZg1Q_fredoQ0lcZJpA_BLJ_tndZX_BtkdT0gM/151459/1753149054-bayside-thumbnail.jpg?w=1000&h=717&fm=jpg&nf_w=1000&nf_h=717&nf_fm=jpg"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

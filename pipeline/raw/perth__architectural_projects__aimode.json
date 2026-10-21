@@ -1,0 +1,227 @@
+{
+  "slug": "perth",
+  "pk": "architectural_projects",
+  "plat": "aimode",
+  "text": "Which prestige real estate agencies in Perth are the market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\perth__architectural_projects__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:18:26.670Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which prestige real estate agencies in Perth are the market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000676,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20prestige%20real%20estate%20agencies%20in%20Perth%20are%20the%20market%20leaders%20for%20luxury%20off-the-plan%20developments%2C%20penthouses%2C%20and%20architectural%20project%20marketing%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCXPVOynVujIqEeBO3zW18AQF",
+      "datetime": "2026-10-21 05:18:26 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "Perth's market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing are specialized boutique and high-end agencies combining deep local western suburbs expertise with major international property networks. Key agency market leaders include `Mack Hall Real Estate, Limnios Property Group, KPR Perth, and Boutique Realty Perth`.\n\n### Luxury and Prestige Market Leaders\n\n\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLew3brirLAKWRPUiA3ZOneitHMVfTyKG33JUclqa65Bcv9peJQaPiu8CebQr0NlNqozw5UkNg97eXI6iMWnfvpneSc66x5yrS89JgIq9jYvxZZZHQfiwBLtK882os8yrbN4qi287zjjDipt=s192-w192-h144-n-k-no)\nMack Hall Real Estate 4.6 (134)  \nReal estate agency  \nOpen 35 Gugeri St  \nCall Directions Website Recognized as a premier specialist in Western Australia's finest western and inner-city suburbs, handling high-end residential sales, penthouses, and developer representation for luxury multi-dwelling projects. They also partner with international luxury property groups.\n\n---\n\nLimnios Property Group Long-standing pioneers in WA project marketing and off-the-plan sales since the early 1990s, boasting a massive track record exceeding $3.5 billion in apartment sales across major metropolitan developments.\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLdpgGISPblnEJnCNbOZemtSp7EPQAE59CwyQWNJJKhQgB9KibHWCb5dPRG7KagZ4RqV4LKvVR1Bw5IEeIPuDGkLS_j0nwPZzUgLSVq7uC1sA6LmEwwlzl98AP8ejz-zTQaag2nR25pz4Mo=s192-w192-h144-n-k-no)\nKPR Perth 4.5 (58)  \nReal estate agent  \nOpen 338 Beaufort St  \nCall Directions Website Strata and off-the-plan specialists who handle end-to-end project marketing from display suite execution and complex ownership structures to rapid buyer database nurturing.\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLfVpBl7pvCxZM9Tgg0MsciE09jxuzq_1Ninzu6a7FfkqaPY3mVn7EXszXNY03Bey8EFCkFWwyttABq5JLbQDchhQcJo2sv-izxHwoAkG0qlyKgspQ5iOkM017AW5XqQXbgU18zVm4hGYPA=s192-w192-h144-n-k-no)\nBoutique Realty Perth 4.6 (83)  \nReal estate agent  \nOpen Level 3, Suite 17/23 Railway Rd  \nCall Directions Website Focuses on senior-led, high-end design and architectural development campaigns, offering tailored pricing strategies and localized engagement for premium urban projects.\n\n---\n\nSpecialist Luxury Advisors High-profile independent operators like Meryl Carter Luxury Real Estate Sales frequently command ultra-high-end penthouse and riverfront apartment transactions across South Perth and the western suburbs.[[1]](https://www.kprperth.com.au/project-marketing-off-the-plan/)[[2]](https://mackhall.com.au/)[[3]](https://mackhall.com.au/mack-hall/)[[4]](https://limnios.com.au/project-sales-marketing/)[[5]](https://www.boutiquerealtyperth.com.au/services/project-marketing/)[[6]](https://www.boutiquerealtyperth.com.au/)[[7]](https://www.luxuryrealestatesales.com.au/)\n\nIf you are looking to buy or sell, would you like to focus on a specific **suburb (e.g., Cottesloe, South Perth, Nedlands)** or a **particular price tier** for your project?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Perth's market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing are specialized boutique and high-end agencies combining deep local western suburbs expertise with major international property networks. Key agency market leaders include Mack Hall Real Estate, Limnios Property Group, KPR Perth, and Boutique Realty Perth.",
+              "markdown": "Perth's market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing are specialized boutique and high-end agencies combining deep local western suburbs expertise with major international property networks. Key agency market leaders include `Mack Hall Real Estate, Limnios Property Group, KPR Perth, and Boutique Realty Perth`.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Luxury and Prestige Market Leaders",
+              "text": "Mack Hall Real Estate 4.6 (134) Real estate agency Open 35 Gugeri St Call Directions Website Recognized as a premier specialist in Western Australia's finest western and inner-city suburbs, handling high-end residential sales, penthouses, and developer representation for luxury multi-dwelling projects. They also partner with international luxury property groups.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLew3brirLAKWRPUiA3ZOneitHMVfTyKG33JUclqa65Bcv9peJQaPiu8CebQr0NlNqozw5UkNg97eXI6iMWnfvpneSc66x5yrS89JgIq9jYvxZZZHQfiwBLtK882os8yrbN4qi287zjjDipt=s192-w192-h144-n-k-no)\nMack Hall Real Estate 4.6 (134)  \nReal estate agency  \nOpen 35 Gugeri St  \nCall Directions Website Recognized as a premier specialist in Western Australia's finest western and inner-city suburbs, handling high-end residential sales, penthouses, and developer representation for luxury multi-dwelling projects. They also partner with international luxury property groups.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLew3brirLAKWRPUiA3ZOneitHMVfTyKG33JUclqa65Bcv9peJQaPiu8CebQr0NlNqozw5UkNg97eXI6iMWnfvpneSc66x5yrS89JgIq9jYvxZZZHQfiwBLtK882os8yrbN4qi287zjjDipt=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Limnios Property Group Long-standing pioneers in WA project marketing and off-the-plan sales since the early 1990s, boasting a massive track record exceeding $3.5 billion in apartment sales across major metropolitan developments.",
+              "markdown": "---\n\nLimnios Property Group Long-standing pioneers in WA project marketing and off-the-plan sales since the early 1990s, boasting a massive track record exceeding $3.5 billion in apartment sales across major metropolitan developments.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "KPR Perth 4.5 (58) Real estate agent Open 338 Beaufort St Call Directions Website Strata and off-the-plan specialists who handle end-to-end project marketing from display suite execution and complex ownership structures to rapid buyer database nurturing.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLdpgGISPblnEJnCNbOZemtSp7EPQAE59CwyQWNJJKhQgB9KibHWCb5dPRG7KagZ4RqV4LKvVR1Bw5IEeIPuDGkLS_j0nwPZzUgLSVq7uC1sA6LmEwwlzl98AP8ejz-zTQaag2nR25pz4Mo=s192-w192-h144-n-k-no)\nKPR Perth 4.5 (58)  \nReal estate agent  \nOpen 338 Beaufort St  \nCall Directions Website Strata and off-the-plan specialists who handle end-to-end project marketing from display suite execution and complex ownership structures to rapid buyer database nurturing.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdpgGISPblnEJnCNbOZemtSp7EPQAE59CwyQWNJJKhQgB9KibHWCb5dPRG7KagZ4RqV4LKvVR1Bw5IEeIPuDGkLS_j0nwPZzUgLSVq7uC1sA6LmEwwlzl98AP8ejz-zTQaag2nR25pz4Mo=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Boutique Realty Perth 4.6 (83) Real estate agent Open Level 3, Suite 17/23 Railway Rd Call Directions Website Focuses on senior-led, high-end design and architectural development campaigns, offering tailored pricing strategies and localized engagement for premium urban projects.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLfVpBl7pvCxZM9Tgg0MsciE09jxuzq_1Ninzu6a7FfkqaPY3mVn7EXszXNY03Bey8EFCkFWwyttABq5JLbQDchhQcJo2sv-izxHwoAkG0qlyKgspQ5iOkM017AW5XqQXbgU18zVm4hGYPA=s192-w192-h144-n-k-no)\nBoutique Realty Perth 4.6 (83)  \nReal estate agent  \nOpen Level 3, Suite 17/23 Railway Rd  \nCall Directions Website Focuses on senior-led, high-end design and architectural development campaigns, offering tailored pricing strategies and localized engagement for premium urban projects.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfVpBl7pvCxZM9Tgg0MsciE09jxuzq_1Ninzu6a7FfkqaPY3mVn7EXszXNY03Bey8EFCkFWwyttABq5JLbQDchhQcJo2sv-izxHwoAkG0qlyKgspQ5iOkM017AW5XqQXbgU18zVm4hGYPA=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Specialist Luxury Advisors High-profile independent operators like Meryl Carter Luxury Real Estate Sales frequently command ultra-high-end penthouse and riverfront apartment transactions across South Perth and the western suburbs.",
+              "markdown": "---\n\nSpecialist Luxury Advisors High-profile independent operators like Meryl Carter Luxury Real Estate Sales frequently command ultra-high-end penthouse and riverfront apartment transactions across South Perth and the western suburbs.[[1]](https://www.kprperth.com.au/project-marketing-off-the-plan/)[[2]](https://mackhall.com.au/)[[3]](https://mackhall.com.au/mack-hall/)[[4]](https://limnios.com.au/project-sales-marketing/)[[5]](https://www.boutiquerealtyperth.com.au/services/project-marketing/)[[6]](https://www.boutiquerealtyperth.com.au/)[[7]](https://www.luxuryrealestatesales.com.au/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "KPR Perth",
+                  "domain": "www.kprperth.com.au",
+                  "url": "https://www.kprperth.com.au/project-marketing-off-the-plan/",
+                  "title": "Project Marketing & Off the Plan Sales Perth | KPR",
+                  "text": "Selling a new development off the plan is a different discipline from selling an established property, and it is one that rewards ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Mack Hall Real Estate",
+                  "domain": "mackhall.com.au",
+                  "url": "https://mackhall.com.au/",
+                  "title": "Real Estate Agents and Property Managers WA | Mack Hall Real Estate",
+                  "text": "Company: Mack Hall Real Estate (Western Australia). Services: Sell, buy, manage, lease residential and commercial properties; inst..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Mack Hall Real Estate",
+                  "domain": "mackhall.com.au",
+                  "url": "https://mackhall.com.au/mack-hall/",
+                  "title": "Mack Hall, Principal at Mack Hall Real Estate",
+                  "text": "Mack Hall Real Estate is widely regarded as the Western suburbs' property specialists, with a reputation for marketing and selling..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Limnios Property Group",
+                  "domain": "limnios.com.au",
+                  "url": "https://limnios.com.au/project-sales-marketing/",
+                  "title": "Project Sales & Marketing | Limnios Property Group",
+                  "text": "Limnios Property Group: Pioneers in project marketing and off-the-plan sales in Western Australia since the early 1990s, achieving..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Boutique Realty Perth",
+                  "domain": "www.boutiquerealtyperth.com.au",
+                  "url": "https://www.boutiquerealtyperth.com.au/services/project-marketing/",
+                  "title": "Project Marketing Perth | Development Sales | Boutique Realty Perth",
+                  "text": "Services: Developer sales campaigns for townhouse, apartment, and land projects across Perth (western suburbs to northern coast) a..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Boutique Realty Perth",
+                  "domain": "www.boutiquerealtyperth.com.au",
+                  "url": "https://www.boutiquerealtyperth.com.au/",
+                  "title": "Boutique Realty Perth | Real Estate Agents Floreat, Hillarys & Beyond",
+                  "text": "Agency: Boutique Realty Perth (rated 5.0 on realestate.com.au and RateMyAgent, operating 24/7 from one central office). Services: ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Luxury Real Estate Sales",
+                  "domain": "www.luxuryrealestatesales.com.au",
+                  "url": "https://www.luxuryrealestatesales.com.au/",
+                  "title": "Home",
+                  "text": "Meryl Carter is an accomplished, discreet luxury real estate agent in Western Australia, achieving over $100 million in residentia..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you are looking to buy or sell, would you like to focus on a specific suburb (e.g., Cottesloe, South Perth, Nedlands) or a particular price tier for your project?",
+              "markdown": "If you are looking to buy or sell, would you like to focus on a specific **suburb (e.g., Cottesloe, South Perth, Nedlands)** or a **particular price tier** for your project?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "KPR Perth",
+              "domain": "www.kprperth.com.au",
+              "url": "https://www.kprperth.com.au/project-marketing-off-the-plan/",
+              "title": "Project Marketing & Off the Plan Sales Perth | KPR",
+              "text": "Selling a new development off the plan is a different discipline from selling an established property, and it is one that rewards a strata specialist. KPR provides..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Luxury Real Estate Sales",
+              "domain": "www.luxuryrealestatesales.com.au",
+              "url": "https://www.luxuryrealestatesales.com.au/",
+              "title": "Home",
+              "text": "Meryl Carter is an accomplished, discreet luxury real estate agent in Western Australia, achieving over $100 million in residential sales across five years with an..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Limnios Property Group",
+              "domain": "limnios.com.au",
+              "url": "https://limnios.com.au/project-sales-marketing/",
+              "title": "Project Sales & Marketing | Limnios Property Group",
+              "text": "Limnios Property Group: Pioneers in project marketing and off-the-plan sales in Western Australia since the early 1990s, achieving over $3.5 billion in total apart..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

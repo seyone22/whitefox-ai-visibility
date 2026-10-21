@@ -1,0 +1,186 @@
+{
+  "slug": "brisbane",
+  "pk": "prestige_selling",
+  "plat": "aimode",
+  "text": "I am selling a $10M luxury residential property in Brisbane. Which prestige real estate agencies have the strongest track record for high-end home sales?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\brisbane__prestige_selling__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:15:10.643Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "I am selling a $10M luxury residential property in Brisbane. Which prestige real estate agencies have the strongest track record for high-end home sales?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000339,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=I%20am%20selling%20a%20%2410M%20luxury%20residential%20property%20in%20Brisbane.%20Which%20prestige%20real%20estate%20agencies%20have%20the%20strongest%20track%20record%20for%20high-end%20home%20sales%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCbsg9lwEWpFrEcCE3vNaowIF",
+      "datetime": "2026-10-21 05:15:10 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "For a $10M luxury property in Brisbane, agencies with dominant ultra-prime track records include `Ray White New Farm` (led by top luxury specialists like Matt Lancashire), [Queensland Sotheby's International Realty](https://queenslandsothebysrealty.com/) , and Place Estate Agents (featuring high-profile agents like Drew Davies). These groups command high-net-worth buyer databases and elite prestige marketing.[[1]](https://queenslandsothebysrealty.com/)[[2]](https://theresearcher.com.au/best-real-estate-agents-brisbane/)\n\n### Top Prestige Agencies in Brisbane\n\n- **Ray White New Farm / Collective:** Renowned for handling landmark riverfront estates, heritage properties, and multi-million-dollar architectural homes, consistently setting top-tier price records in inner-east and riverside suburbs.[[1]](https://rwnf.com.au/agents/matt-lancashire/16194)[[2]](https://www.raywhite.com/matt-lancashire/real-estate-agent/matt.lancashire)\n- **Queensland Sotheby's International Realty:** Offers powerful international and domestic reach through a premier global luxury network, making them ideal for connecting ultra-high-net-worth or overseas buyers with local $10M+ properties.[[1]](https://queenslandsothebysrealty.com/)\n- **Place Estate Agents:** Strong local market share across Brisbane’s most affluent postcodes (such as Ascot, New Farm, and Hawthorne) with high-visibility digital campaigns and prominent high-end agents.[[1]](https://theresearcher.com.au/best-real-estate-agents-brisbane/)\n- **Hailey McGrath / Consistently Active Boutiques:** Specialized local luxury operators and independent high-end agencies also frequently handle private, off-market transactions for elite properties in the $10M bracket.\n\nIf you'd like, share:\n\n- The **suburb** your property is in\n- Whether it is **riverfront** or a land-size/architectural estate\n\nI can help tailor which **specific lead agent** within these agencies matches your property type.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "For a $10M luxury property in Brisbane, agencies with dominant ultra-prime track records include Ray White New Farm (led by top luxury specialists like Matt Lancashire ), Queensland Sotheby's International Realty, and Place Estate Agents (featuring high-profile agents like Drew Davies ). These groups command high-net-worth buyer databases and elite prestige marketing.",
+              "markdown": "For a $10M luxury property in Brisbane, agencies with dominant ultra-prime track records include `Ray White New Farm` (led by top luxury specialists like Matt Lancashire), [Queensland Sotheby's International Realty](https://queenslandsothebysrealty.com/) , and Place Estate Agents (featuring high-profile agents like Drew Davies). These groups command high-net-worth buyer databases and elite prestige marketing.[[1]](https://queenslandsothebysrealty.com/)[[2]](https://theresearcher.com.au/best-real-estate-agents-brisbane/)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Queensland Sotheby's International Realty",
+                  "description": null,
+                  "url": "https://queenslandsothebysrealty.com/",
+                  "domain": "queenslandsothebysrealty.com"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Queensland Sotheby's International Realty",
+                  "domain": "queenslandsothebysrealty.com",
+                  "url": "https://queenslandsothebysrealty.com/",
+                  "title": "Trusted Property Experts Queensland - Queensland Sotheby's International Realty",
+                  "text": "Queensland Sotheby's International Realty is a luxury real estate business providing residential, commercial, and development prop..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "theresearcher.com.au",
+                  "domain": "theresearcher.com.au",
+                  "url": "https://theresearcher.com.au/best-real-estate-agents-brisbane/",
+                  "title": "The Best Real Estate Agents in Brisbane: We Found the Top 5",
+                  "text": "1. Adam Oldham — Jump Real Estate. 2. Drew Davies — Place Estate Agents. 3. Daniel Lee — Plum Property. 4. Remy Durieux — Remy's R..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Top Prestige Agencies in Brisbane",
+              "text": "Ray White New Farm / Collective: Renowned for handling landmark riverfront estates, heritage properties, and multi-million-dollar architectural homes, consistently setting top-tier price records in inner-east and riverside suburbs. Queensland Sotheby's International Realty: Offers powerful international and domestic reach through a premier global luxury network, making them ideal for connecting ultra-high-net-worth or overseas buyers with local $10M+ properties. Place Estate Agents: Strong local market share across Brisbane’s most affluent postcodes (such as Ascot, New Farm, and Hawthorne) with high-visibility digital campaigns and prominent high-end agents. Hailey McGrath / Consistently Active Boutiques: Specialized local luxury operators and independent high-end agencies also frequently handle private, off-market transactions for elite properties in the $10M bracket.",
+              "markdown": "- **Ray White New Farm / Collective:** Renowned for handling landmark riverfront estates, heritage properties, and multi-million-dollar architectural homes, consistently setting top-tier price records in inner-east and riverside suburbs.[[1]](https://rwnf.com.au/agents/matt-lancashire/16194)[[2]](https://www.raywhite.com/matt-lancashire/real-estate-agent/matt.lancashire)\n- **Queensland Sotheby's International Realty:** Offers powerful international and domestic reach through a premier global luxury network, making them ideal for connecting ultra-high-net-worth or overseas buyers with local $10M+ properties.[[1]](https://queenslandsothebysrealty.com/)\n- **Place Estate Agents:** Strong local market share across Brisbane’s most affluent postcodes (such as Ascot, New Farm, and Hawthorne) with high-visibility digital campaigns and prominent high-end agents.[[1]](https://theresearcher.com.au/best-real-estate-agents-brisbane/)\n- **Hailey McGrath / Consistently Active Boutiques:** Specialized local luxury operators and independent high-end agencies also frequently handle private, off-market transactions for elite properties in the $10M bracket.",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Ray White New Farm",
+                  "domain": "rwnf.com.au",
+                  "url": "https://rwnf.com.au/agents/matt-lancashire/16194",
+                  "title": "Matt Lancashire - Principal - Ray White New Farm",
+                  "text": "Matt sells over $326 million in property each year and sold more than $66 million worth of property in a single weekend in 2025. T..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Ray White",
+                  "domain": "www.raywhite.com",
+                  "url": "https://www.raywhite.com/matt-lancashire/real-estate-agent/matt.lancashire",
+                  "title": "Matt Lancashire • Ray White",
+                  "text": "Ray White Principal and Brisbane luxury real estate agent selling over $326 million annually. Specializes in landmark, heritage, r..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Queensland Sotheby's International Realty",
+                  "domain": "queenslandsothebysrealty.com",
+                  "url": "https://queenslandsothebysrealty.com/",
+                  "title": "Trusted Property Experts Queensland - Queensland Sotheby's International Realty",
+                  "text": "Queensland Sotheby's International Realty is a luxury real estate business providing residential, commercial, and development property services across Queensland l..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "theresearcher.com.au",
+                  "domain": "theresearcher.com.au",
+                  "url": "https://theresearcher.com.au/best-real-estate-agents-brisbane/",
+                  "title": "The Best Real Estate Agents in Brisbane: We Found the Top 5",
+                  "text": "1. Adam Oldham — Jump Real Estate. 2. Drew Davies — Place Estate Agents. 3. Daniel Lee — Plum Property. 4. Remy Durieux — Remy's R..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you'd like, share:",
+              "markdown": "If you'd like, share:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "The suburb your property is in Whether it is riverfront or a land-size/architectural estate",
+              "markdown": "- The **suburb** your property is in\n- Whether it is **riverfront** or a land-size/architectural estate",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "I can help tailor which specific lead agent within these agencies matches your property type.",
+              "markdown": "I can help tailor which **specific lead agent** within these agencies matches your property type.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Ray White New Farm",
+              "domain": "rwnf.com.au",
+              "url": "https://rwnf.com.au/agents/matt-lancashire/16194",
+              "title": "Matt Lancashire - Principal - Ray White New Farm",
+              "text": "Matt sells over $326 million in property each year and sold more than $66 million worth of property in a single weekend in 2025. Two decades in real estate."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Ray White",
+              "domain": "www.raywhite.com",
+              "url": "https://www.raywhite.com/matt-lancashire/real-estate-agent/matt.lancashire",
+              "title": "Matt Lancashire • Ray White",
+              "text": "Ray White Principal and Brisbane luxury real estate agent selling over $326 million annually. Specializes in landmark, heritage, riverfront, and architectural prop..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Queensland Sotheby's International Realty",
+              "domain": "queenslandsothebysrealty.com",
+              "url": "https://queenslandsothebysrealty.com/",
+              "title": "Trusted Property Experts Queensland - Queensland Sotheby's International Realty",
+              "text": "Queensland Sotheby's International Realty is a luxury real estate business providing residential, commercial, and development property services across Queensland l..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

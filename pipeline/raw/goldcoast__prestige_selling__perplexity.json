@@ -1,0 +1,106 @@
+{
+  "slug": "goldcoast",
+  "pk": "prestige_selling",
+  "plat": "perplexity",
+  "text": "I am selling a $10M luxury residential property in Gold Coast. Which prestige real estate agencies have the strongest track record for high-end home sales?",
+  "loc": 1000665,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\goldcoast__prestige_selling__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:15:58.468Z",
+  "cost": 0.006175,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 37,
+      "output_tokens": 538,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005575,
+      "datetime": "2026-10-21 05:15:58 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For a **$10 million Gold Coast home**, the strongest shortlist appears to be:\n\n- **Amir Prestige Group** — The clearest evidence of ultra-high-value performance: it reports the Gold Coast’s record **$28 million residential sale** at Mermaid Beach, an **$11.15 million Palm Beach sale**, and a **$12.4 million Hope Island sale**. It also claims a database exceeding 120,000 contacts.[10]\n- **Lucy Cole Prestige** — A long-established independent luxury specialist, founded in 2000, with more than 25 years focused on Gold Coast prestige homes, including beachfront, waterfront and penthouse property.[2]\n- **JW Prestige Agents** — Led by Jordan Williams, who reports more than 22 years’ experience and over **$800 million in Gold Coast residential transactions**. This is a strong option where the principal’s direct involvement and local relationships matter.[1]\n- **John Reid Real Estate** — One of the area’s longest-established agencies, operating since 1978. Its recent reported average sale price is $2.4 million, although its history includes luxury-property sales in the Gold Coast’s premium suburbs.[6]\n- **Tomain Residences** — A boutique specialist led by Ross Tomain, with more than 20 years in Gold Coast property development, investment and prestige sales.[5]\n- **North South Prestige** — A luxury-focused agency covering the Gold Coast, Brisbane and Byron Bay, offering bespoke campaigns and off-market buyer access; however, the available evidence is less specific about completed $10 million-plus sales.[4]\n\n## Recommended approach\n\nInvite **Amir Prestige, Lucy Cole Prestige and JW Prestige** to provide competing proposals. Add **John Reid** if the property is in Broadbeach Waters, Mermaid Waters, Sovereign Islands or another northern prestige market, and **Tomain** if a highly personalised boutique campaign is preferred.\n\nAsk each agency for:\n\n- Their **three most recent comparable sales above $7 million**, including sale dates and suburbs.\n- The individual agent’s role in each transaction—not just the agency’s result.\n- Evidence of genuine qualified buyers currently seeking a $10 million-plus property.\n- Proposed price range, campaign strategy, database reach and off-market plan.\n- Commission, advertising costs, auction/private-treaty recommendation and expected campaign timeline.\n- References from recent sellers of comparable luxury homes.\n\nFor a property at this level, the deciding factor should be **recent, personally attributable sales of comparable homes**, not merely the agency’s overall transaction volume or marketing claims.",
+              "annotations": [
+                {
+                  "title": "JW Prestige Agents | Prestige Real Estate Agents | Gold Coast",
+                  "url": "https://prestigeagents.com.au/about-jw-prestige-agents-gold-coast-real-estate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Lucy Cole Prestige Properties",
+                  "url": "https://www.lucycole.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "JW Prestige Agents | Gold Coast Prestige Properties ...",
+                  "url": "https://prestigeagents.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Prestige Real Estate Experts | Brisbane and Gold Coast",
+                  "url": "https://www.northsouthprestige.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Tomain Residences",
+                  "url": "https://www.tomain.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "John Reid Real Estate - Broadbeach Waters",
+                  "url": "https://www.domain.com.au/real-estate-agencies/johnreidrealestate-23022/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Prestige Real Estate",
+                  "url": "https://theprestige.com.au/agency/the-prestige/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Christina James | Amir Prestige Group",
+                  "url": "https://www.amirprestige.com.au/team/698839",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Prestige Gold Coast Residential | Autumn 2026 Report ...",
+                  "url": "https://www.mcgrath.com.au/research/prestige-gold-coast-residential-winter-2026-report",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "2024: A Year In Review",
+                  "url": "https://www.amirprestige.com.au/2024-a-year-in-review/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "slug": "goldcoast",
+  "pk": "off_market",
+  "plat": "aimode",
+  "text": "Which luxury real estate agents and agencies in Gold Coast specialise in confidential off-market prestige property sales and high-net-worth buyer networks?",
+  "loc": 1000665,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\goldcoast__off_market__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:16:30.201Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which luxury real estate agents and agencies in Gold Coast specialise in confidential off-market prestige property sales and high-net-worth buyer networks?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000665,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20luxury%20real%20estate%20agents%20and%20agencies%20in%20Gold%20Coast%20specialise%20in%20confidential%20off-market%20prestige%20property%20sales%20and%20high-net-worth%20buyer%20networks%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCbdgXStHGpFrEXCv3vNaowID",
+      "datetime": "2026-10-21 05:16:29 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "On the Gold Coast, confidential off-market prestige sales and high-net-worth buyer networks are dominated by `high-performance boutique and international luxury agencies` that leverage private client databases rather than public portals.[[1]](https://kollosche.com.au/off-market/)[[2]](https://www.preqld.com.au/off-market)[[3]](https://queenslandsothebysrealty.com/)\n\n### Leading Agencies & Specialized Networks\n\n- **[Kollosche](https://kollosche.com.au/)** : Widely recognized as a market leader in Gold Coast luxury real estate, operating a dedicated [Kollosche Off Market Platform](https://kollosche.com.au/media-centre/prestige-property-drivers) that matches high-net-worth buyers with discreet sellers across high-value strips like Mermaid Beach and Sovereign Islands.[[1]](https://kollosche.com.au/)[[2]](https://kollosche.com.au/off-market/)[[3]](https://kollosche.com.au/media-centre/prestige-property-drivers)\n- **[Queensland Sotheby's International Realty](https://queenslandsothebysrealty.com/)** : Connects local prestige properties directly to an elite international and domestic database, managing private transactions utilizing global luxury networks.[[1]](https://queenslandsothebysrealty.com/)\n- **Ray White Main Beach** : Led by high-profile agents like Michael Willems, this office handles multi-million-dollar beachfront and riverfront portfolios, providing private client advisory and confidential sales.[[1]](https://www.realestate.com.au/agency/ray-white-main-beach-XRWXEW)\n- **[Phillis Real Estate Queensland](https://www.preqld.com.au/off-market)** : Specifically markets an exclusive Off-Market Service tailored to ultra-private owners across Sovereign Islands, Sanctuary Cove, and Hope Island who refuse public listing exposure.[[1]](https://www.preqld.com.au/off-market)\n- **[Lucy Cole Prestige](https://www.lucycole.com.au/)** : A boutique independent agency operating for over 25 years, specializing in discreet transactions for luxury penthouses and Main River estates.[[1]](https://www.lucycole.com.au/)\n- **[JW Prestige Agents](https://prestigeagents.com.au/)** : A specialized high-end agency focused on tailored marketing, private client advisory, and confidential record-breaking transactions across the coastal belt.[[1]](https://prestigeagents.com.au/)\n\nIf you can share whether you are **looking to buy or sell** , your **target suburb** (e.g., Mermaid Beach, Main Beach, Sanctuary Cove), and your **approximate price threshold** , I can help narrow down the best specific agent contact for your needs.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "On the Gold Coast, confidential off-market prestige sales and high-net-worth buyer networks are dominated by high-performance boutique and international luxury agencies that leverage private client databases rather than public portals.",
+              "markdown": "On the Gold Coast, confidential off-market prestige sales and high-net-worth buyer networks are dominated by `high-performance boutique and international luxury agencies` that leverage private client databases rather than public portals.[[1]](https://kollosche.com.au/off-market/)[[2]](https://www.preqld.com.au/off-market)[[3]](https://queenslandsothebysrealty.com/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Kollosche",
+                  "domain": "kollosche.com.au",
+                  "url": "https://kollosche.com.au/off-market/",
+                  "title": "Buy & Sell Off Market Real Estate Gold Coast | Kollosche",
+                  "text": "Provides exclusive access to off-market luxury properties before public listing. Benefits: Ensures privacy for high-profile seller..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Phillis Real Estate Queensland",
+                  "domain": "www.preqld.com.au",
+                  "url": "https://www.preqld.com.au/off-market",
+                  "title": "Off Market | Phillis Real Estate Queensland",
+                  "text": "They ask us to provide qualified buyers and conclude a private sale. Up to 20% of the most unique and beautiful properties are nev..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Queensland Sotheby's International Realty",
+                  "domain": "queenslandsothebysrealty.com",
+                  "url": "https://queenslandsothebysrealty.com/",
+                  "title": "Trusted Property Experts Queensland - Queensland Sotheby's International Realty",
+                  "text": "Sotheby's International Realty is a luxury real estate business … marketing, sales, and concierge services. The portfolio features..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Leading Agencies & Specialized Networks",
+              "text": "Kollosche : Widely recognized as a market leader in Gold Coast luxury real estate, operating a dedicated Kollosche Off Market Platform that matches high-net-worth buyers with discreet sellers across high-value strips like Mermaid Beach and Sovereign Islands. Queensland Sotheby's International Realty : Connects local prestige properties directly to an elite international and domestic database, managing private transactions utilizing global luxury networks. Ray White Main Beach : Led by high-profile agents like Michael Willems, this office handles multi-million-dollar beachfront and riverfront portfolios, providing private client advisory and confidential sales. Ray White Main Beach Ray White Main Beach Phillis Real Estate Queensland : Specifically markets an exclusive Off-Market Service tailored to ultra-private owners across Sovereign Islands, Sanctuary Cove, and Hope Island who refuse public listing exposure. Off-Market Service Lucy Cole Prestige : A boutique independent agency operating for over 25 years, specializing in discreet transactions for luxury penthouses and Main River estates. JW Prestige Agents : A specialized high-end agency focused on tailored marketing, private client advisory, and confidential record-breaking transactions across the coastal belt.",
+              "markdown": "- **[Kollosche](https://kollosche.com.au/)** : Widely recognized as a market leader in Gold Coast luxury real estate, operating a dedicated [Kollosche Off Market Platform](https://kollosche.com.au/media-centre/prestige-property-drivers) that matches high-net-worth buyers with discreet sellers across high-value strips like Mermaid Beach and Sovereign Islands.[[1]](https://kollosche.com.au/)[[2]](https://kollosche.com.au/off-market/)[[3]](https://kollosche.com.au/media-centre/prestige-property-drivers)\n- **[Queensland Sotheby's International Realty](https://queenslandsothebysrealty.com/)** : Connects local prestige properties directly to an elite international and domestic database, managing private transactions utilizing global luxury networks.[[1]](https://queenslandsothebysrealty.com/)\n- **Ray White Main Beach** : Led by high-profile agents like Michael Willems, this office handles multi-million-dollar beachfront and riverfront portfolios, providing private client advisory and confidential sales.[[1]](https://www.realestate.com.au/agency/ray-white-main-beach-XRWXEW)\n- **[Phillis Real Estate Queensland](https://www.preqld.com.au/off-market)** : Specifically markets an exclusive Off-Market Service tailored to ultra-private owners across Sovereign Islands, Sanctuary Cove, and Hope Island who refuse public listing exposure.[[1]](https://www.preqld.com.au/off-market)\n- **[Lucy Cole Prestige](https://www.lucycole.com.au/)** : A boutique independent agency operating for over 25 years, specializing in discreet transactions for luxury penthouses and Main River estates.[[1]](https://www.lucycole.com.au/)\n- **[JW Prestige Agents](https://prestigeagents.com.au/)** : A specialized high-end agency focused on tailored marketing, private client advisory, and confidential record-breaking transactions across the coastal belt.[[1]](https://prestigeagents.com.au/)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Kollosche",
+                  "description": null,
+                  "url": "https://kollosche.com.au/",
+                  "domain": "kollosche.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Kollosche Off Market Platform",
+                  "description": null,
+                  "url": "https://kollosche.com.au/media-centre/prestige-property-drivers",
+                  "domain": "kollosche.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Queensland Sotheby's International Realty",
+                  "description": null,
+                  "url": "https://queenslandsothebysrealty.com/",
+                  "domain": "queenslandsothebysrealty.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Phillis Real Estate Queensland",
+                  "description": null,
+                  "url": "https://www.preqld.com.au/off-market",
+                  "domain": "www.preqld.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Lucy Cole Prestige",
+                  "description": null,
+                  "url": "https://www.lucycole.com.au/",
+                  "domain": "www.lucycole.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "JW Prestige Agents",
+                  "description": null,
+                  "url": "https://prestigeagents.com.au/",
+                  "domain": "prestigeagents.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Kollosche",
+                  "domain": "kollosche.com.au",
+                  "url": "https://kollosche.com.au/",
+                  "title": "Gold Coast Luxury Real Estate Agency | Kollosche",
+                  "text": "Kollosche (Gold Coast luxury real estate leader, phone 1300 576 000); operates on integrity, collaboration via an open database mo..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Kollosche",
+                  "domain": "kollosche.com.au",
+                  "url": "https://kollosche.com.au/off-market/",
+                  "title": "Buy & Sell Off Market Real Estate Gold Coast | Kollosche",
+                  "text": "Provides exclusive access to off-market luxury properties before public listing. Benefits: Ensures privacy for high-profile seller..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Kollosche",
+                  "domain": "kollosche.com.au",
+                  "url": "https://kollosche.com.au/media-centre/prestige-property-drivers",
+                  "title": "Prestige Property Drivers | Kollosche",
+                  "text": "Kollosche's average sale price for the year was $3,256,599 and our team recorded an outstanding auction clearance rate of 93%."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Queensland Sotheby's International Realty",
+                  "domain": "queenslandsothebysrealty.com",
+                  "url": "https://queenslandsothebysrealty.com/",
+                  "title": "Trusted Property Experts Queensland - Queensland Sotheby's International Realty",
+                  "text": "Sotheby's International Realty is a luxury real estate business … marketing, sales, and concierge services. The portfolio features..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Real Estate",
+                  "domain": "www.realestate.com.au",
+                  "url": "https://www.realestate.com.au/agency/ray-white-main-beach-XRWXEW",
+                  "title": "Ray White Main Beach - Reviews & Properties - Realestate",
+                  "text": "Ray White Main Beach is a boutique office located in one of the Gold Coasts most exclusive beachfront enclaves, servicing prestige..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Phillis Real Estate Queensland",
+                  "domain": "www.preqld.com.au",
+                  "url": "https://www.preqld.com.au/off-market",
+                  "title": "Off Market | Phillis Real Estate Queensland",
+                  "text": "They ask us to provide qualified buyers and conclude a private sale. Up to 20% of the most unique and beautiful properties are nev..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Lucy Cole Prestige Properties",
+                  "domain": "www.lucycole.com.au",
+                  "url": "https://www.lucycole.com.au/",
+                  "title": "Lucy Cole Prestige | Prestige Real Estate Agents Gold Coast",
+                  "text": "Lucy Cole Prestige is an independent Gold Coast real estate agency specializing in luxury residential properties, beachfront/water..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "JW Prestige Agents",
+                  "domain": "prestigeagents.com.au",
+                  "url": "https://prestigeagents.com.au/",
+                  "title": "JW Prestige Agents | Gold Coast Prestige Properties | Prestige Agents",
+                  "text": "Prestige Agents (Gold Coast boutique agency established by Jordan Williams specializing in remarkable homes, high-end sales, and r..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you can share whether you are looking to buy or sell, your target suburb (e.g., Mermaid Beach, Main Beach, Sanctuary Cove), and your approximate price threshold, I can help narrow down the best specific agent contact for your needs.",
+              "markdown": "If you can share whether you are **looking to buy or sell** , your **target suburb** (e.g., Mermaid Beach, Main Beach, Sanctuary Cove), and your **approximate price threshold** , I can help narrow down the best specific agent contact for your needs.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Kollosche",
+              "domain": "kollosche.com.au",
+              "url": "https://kollosche.com.au/",
+              "title": "Gold Coast Luxury Real Estate Agency | Kollosche",
+              "text": "Kollosche (Gold Coast luxury real estate leader, phone 1300 576 000); operates on integrity, collaboration via an open database model, and community commitment."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Kollosche",
+              "domain": "kollosche.com.au",
+              "url": "https://kollosche.com.au/media-centre/prestige-property-drivers",
+              "title": "Prestige Property Drivers | Kollosche",
+              "text": "Kollosche's average sale price for the year was $3,256,599 and our team recorded an outstanding auction clearance rate of 93%."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Lucy Cole Prestige Properties",
+              "domain": "www.lucycole.com.au",
+              "url": "https://www.lucycole.com.au/",
+              "title": "Lucy Cole Prestige | Prestige Real Estate Agents Gold Coast",
+              "text": "Lucy Cole Prestige is an independent Gold Coast real estate agency specializing in luxury residential properties, beachfront/waterfront homes, apartments, and pent..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

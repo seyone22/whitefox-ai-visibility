@@ -1,0 +1,105 @@
+{
+  "slug": "sydney",
+  "pk": "prestige_selling",
+  "plat": "perplexity",
+  "text": "I am selling a $10M luxury residential property in Sydney. Which prestige real estate agencies have the strongest track record for high-end home sales?",
+  "loc": 1000286,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\sydney__prestige_selling__perplexity.json",
+  "at": "2026-10-21T05:11:24.682Z",
+  "cost": 0.006314,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 36,
+      "output_tokens": 678,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005714,
+      "datetime": "2026-10-21 05:11:24 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For a **$10 million Sydney home**, the strongest shortlist is likely **Ray White TRG/The Rubinstein Group, BresicWhitney, McGrath, Belle Property, Di Jones, Sotheby’s International Realty, and selected Eastern Suburbs boutiques such as Levy Property Group**. The right choice depends heavily on the suburb, property type, and whether you want a public auction, private treaty, or discreet off-market campaign.\n\n## Agencies worth interviewing\n\n- **Ray White TRG — The Rubinstein Group:** Particularly strong for luxury homes in Sydney’s Eastern Suburbs. Its advantages include high-end campaign presentation, auction expertise, and access to Ray White’s broader buyer network.[1]\n- **BresicWhitney:** A strong option for inner-city, harbourfront and lifestyle properties, with substantial campaign volume and an auction-led approach.[1]\n- **McGrath:** Worth considering where broad Sydney reach, a large buyer database and premium-market experience are important. Results can vary significantly by office and lead agent, so assess the specific proposed team.[3]\n- **Belle Property:** Suits design-led, coastal, character and lifestyle homes where polished branding and targeted presentation are central to the campaign.[3]\n- **Di Jones:** A credible boutique choice for premium North Shore and Eastern Suburbs property, especially where local relationships and senior-level service matter.[9]\n- **Sydney Sotheby’s International Realty:** Consider this if the property has an internationally marketable profile—water frontage, architectural significance, exceptional views or a trophy location.[9]\n- **Levy Property Group:** Particularly relevant in Sydney’s east for sellers considering a discreet or off-market strategy. The agency reports regular transactions in the $5 million–$20 million range, though those figures should be independently verified.[4]\n- **Highland Property Group:** More relevant for prestige coastal and family homes in the Sutherland Shire and nearby areas than for every central Sydney suburb.[1]\n\nSydney’s Eastern Suburbs remain the most important prestige submarket, accounting for 30.1% of Sydney transactions above $5 million in the cited 2025 prestige-property report.[10] That makes local expertise especially valuable if the property is in suburbs such as Vaucluse, Point Piper, Bellevue Hill, Rose Bay, Dover Heights, Woollahra or Double Bay.\n\n## How to choose between them\n\nAsk each agency to provide:\n\n- The **last five comparable sales** they personally handled between roughly $7 million and $15 million.\n- The lead agent’s **individual—not merely agency—track record**.\n- Evidence of access to qualified buyers, including interstate and international demand.\n- A recommended strategy: public auction, private treaty, expressions of interest or off-market.\n- A complete marketing proposal, including photography, video, styling, editorial placement and digital targeting.\n- The proposed commission, marketing costs, exclusivity period and termination terms.\n- References from vendors of comparable properties.\n\nFor a $10 million property, interview **three agencies**: one large prestige network, one established local boutique, and one agent known for discreet high-value transactions. Select the agent who can demonstrate the most relevant recent comparable sales—not simply the agency with the largest brand or highest general sales volume.",
+              "annotations": [
+                {
+                  "title": "7 Best Real Estate Agent Sydney Picks for 2026 - gregory.agency",
+                  "url": "https://www.gregory.agency/best-real-estate-agent-sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Sydney Cove Property",
+                  "url": "https://qxweb.com.au/en/company/sydney-cove-property-1",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "First National: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/first-national",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "What Real Estate Awards...",
+                  "url": "https://www.levypropertygroup.com.au/top-agent-in-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top End Plays By Different Rules - Inside Prestige Property Valuations",
+                  "url": "https://opteonsolutions.com/au/insights/inside-prestige-property-valuations",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Real Estate Agents In Sydney, NSW - Top Agents List [2026]",
+                  "url": "https://whichrealestateagent.com.au/real-estate-agents-sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Real Estate Agent Sydney | Kim Jones & Co",
+                  "url": "https://kimjonesandco.com/real-estate-agent-sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Sydney Prestige Properties - Local Real Estate Agency",
+                  "url": "https://www.allhomes.com.au/agency/sydney-prestige-properties-506793/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 20 Real Estate Agents in Sydney, NSW – Find the Best Agencies",
+                  "url": "https://www.salebyhomeowner.com.au/realestate/top-real-estate-agents-sydney-nsw/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "PRESTIGE PROPERTY REPORT - Westpac",
+                  "url": "https://www.westpac.com.au/content/dam/public/wbc/images/personal/services/premium/Prestige-Property-Report-2025.pdf",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

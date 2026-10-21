@@ -1,0 +1,1760 @@
+{
+  "melbourne": [
+    {
+      "title": "Ironfish Real Estate Melbourne",
+      "address": "Level 4/152 Elizabeth St, Melbourne VIC 3000",
+      "rating": 4.5,
+      "reviews": 1394,
+      "cid": "7694081114690446239",
+      "place_id": "ChIJ7culPEpd1moRn2MqQgLexmo",
+      "domain": "www.ironfishrealestate.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Forge Real Estate",
+      "address": "G/377 Little Lonsdale St, Melbourne VIC 3000",
+      "rating": 4.8,
+      "reviews": 509,
+      "cid": "14139404718628980459",
+      "place_id": "ChIJZWOWo-9d1moR68Zcha1BOcQ",
+      "domain": "www.forgeproperty.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Galldon Real Estate",
+      "address": "51 Hardware Ln, Melbourne VIC 3000",
+      "rating": 4.7,
+      "reviews": 151,
+      "cid": "2180939946715295019",
+      "place_id": "ChIJO4y5zEpd1moRK61skFNBRB4",
+      "domain": "www.galldon.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Melbourne CBD Real Estate",
+      "address": "G/365 Little Collins St, Melbourne VIC 3000",
+      "rating": 5,
+      "reviews": 10,
+      "cid": "391675785443865551",
+      "place_id": "ChIJSeprqzpD1moRz_OAOg2DbwU",
+      "domain": "melbournecbdrealestate.com.au",
+      "category": "Commercial real estate agency"
+    },
+    {
+      "title": "VICPROP CBD",
+      "address": "Level 2/179 Queen St, Melbourne VIC 3000",
+      "rating": 4.9,
+      "reviews": 471,
+      "cid": "16847764043427113529",
+      "place_id": "ChIJq6raPEtd1moROWoSXCJIz-k",
+      "domain": "vicprop.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "369 Home Broker - Melbourne",
+      "address": "Level 17, Tower 4/727 Collins St, Docklands VIC 3004",
+      "rating": 5,
+      "reviews": 20,
+      "cid": "27308622194796401",
+      "place_id": "ChIJWf8khGlD1moRcec5FQwFYQA",
+      "domain": "www.369homebroker.com.au",
+      "category": "Real estate consultant"
+    },
+    {
+      "title": "iCare Property Pty Ltd",
+      "address": "level 2/358 Lonsdale St, Melbourne VIC 3000",
+      "rating": 4.9,
+      "reviews": 304,
+      "cid": "16941697021319882342",
+      "place_id": "ChIJR--TV7VC1moRZqYQEK7_HOs",
+      "domain": "www.icareproperty.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Lifein Real Estate - Melbourne",
+      "address": "Level 1/217 Queen St, Melbourne VIC 3000",
+      "rating": 4,
+      "reviews": 201,
+      "cid": "77696187571260407",
+      "place_id": "ChIJq6pubEld1moR90uWXEUIFAE",
+      "domain": "lifein.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Grand Vision Group",
+      "address": "343 Little Collins St, Melbourne VIC 3000",
+      "rating": 5,
+      "reviews": 197,
+      "cid": "8794409458886834608",
+      "place_id": "ChIJuf0H-7RC1moRsPlI3s4EDHo",
+      "domain": "www.gv-group.com.au",
+      "category": "Property investment company"
+    },
+    {
+      "title": "Melbourne Residential Real Estate",
+      "address": "Level 14/460 Lonsdale St, Melbourne VIC 3000",
+      "rating": 4.9,
+      "reviews": 109,
+      "cid": "9556294539159952986",
+      "place_id": "ChIJJSKYKrJC1moRWl6if0DHnoQ",
+      "domain": "www.melbresidential.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Realta with PK - Property Buyers Agency",
+      "address": "Level 19/180 Lonsdale St, Melbourne VIC 3000",
+      "rating": 4.9,
+      "reviews": 278,
+      "cid": "141882796983700906",
+      "place_id": "ChIJJZFk3tvz1moRqs3z8aYR-AE",
+      "domain": "realtawithpk.com.au",
+      "category": "Real estate consultant"
+    },
+    {
+      "title": "AReal Property Melbourne",
+      "address": "Level 7/99 Queen St, Melbourne VIC 3000",
+      "rating": 4.8,
+      "reviews": 291,
+      "cid": "2654746733944488618",
+      "place_id": "ChIJT6bcnAxd1moRqsJjzRaO1yQ",
+      "domain": "www.areal.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Re-define Real Estate",
+      "address": "Level 24/570 Bourke St, Melbourne VIC 3000",
+      "rating": 4.8,
+      "reviews": 352,
+      "cid": "12907882532313980018",
+      "place_id": "ChIJZ5d3Qddd1moRclwLNcYCIrM",
+      "domain": "www.re-define.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "U Plus Real Estate CBD 优嘉地产",
+      "address": "187 Elizabeth St, Melbourne VIC 3000",
+      "rating": 5,
+      "reviews": 3,
+      "cid": "17631459848024019201",
+      "place_id": "ChIJoUDFtmtD1moRAdEI-VCHr_Q",
+      "domain": "www.u-plusrealestate.com",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Core Realty Pty Ltd",
+      "address": "284 La Trobe St, Melbourne VIC 3000",
+      "rating": 4.6,
+      "reviews": 324,
+      "cid": "13163644770616260445",
+      "place_id": "ChIJMVts_zRd1moRXbcCxiyprrY",
+      "domain": "www.corerealty.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Elite Real Estate (On QV)",
+      "address": "218 A'Beckett St, Melbourne VIC 3000",
+      "rating": 5,
+      "reviews": 10,
+      "cid": "18153828156086760299",
+      "place_id": "ChIJ8U_VLBFd1moRazMJXYZa7_s",
+      "domain": "ereal.com.au",
+      "category": "Industrial real estate agency"
+    },
+    {
+      "title": "Hileon Real Estate",
+      "address": "Ste 16.02/356 Collins St, Melbourne VIC 3000",
+      "rating": 4.4,
+      "reviews": 75,
+      "cid": "4757718445364774238",
+      "place_id": "ChIJkTfJ301d1moRXoVK9bfPBkI",
+      "domain": "hileonrealestate.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Cedar Elm Property",
+      "address": "Level 1/145 Russell St, Melbourne VIC 3000",
+      "rating": 4.8,
+      "reviews": 166,
+      "cid": "5063313927242851322",
+      "place_id": "ChIJp3nI1lxD1moR-iOZszCBREY",
+      "domain": "cedarelm.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "LJ Hooker City Residential",
+      "address": "Upper Ground Floor, Lonsdale Central Apartment Complex, 439 Lonsdale St, Melbourne VIC 3000",
+      "rating": 4.4,
+      "reviews": 198,
+      "cid": "6225384366375788535",
+      "place_id": "ChIJi9mquEpd1moR918ZBBkCZVY",
+      "domain": "cityresmelbourne.ljhooker.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Elitevista Property",
+      "address": "710/343 Little Collins St, Melbourne VIC 3000",
+      "rating": 5,
+      "reviews": 7,
+      "cid": "8742978384460253600",
+      "place_id": "ChIJK9Hcz66Qii8RoAmstIRMVXk",
+      "domain": "www.elitevista.org",
+      "category": "Real estate consultant"
+    }
+  ],
+  "sydney": [
+    {
+      "title": "Ray White Residential Sydney CBD",
+      "address": "Henry Davis York Building, Level 7/44 Martin Pl, Sydney NSW 2000",
+      "rating": 4.6,
+      "reviews": 46,
+      "cid": "4971223764437141425",
+      "place_id": "ChIJc6w78z-uEmsRsYdB0qxV_UQ",
+      "domain": "www.raywhiteresidentialsydneycbd.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Cocoon Luxury Properties",
+      "address": "90 Pitt St, Sydney NSW 2000",
+      "rating": 4.9,
+      "reviews": 19,
+      "cid": "10384865964296023749",
+      "place_id": "ChIJt6mNLACsEmsRxa7ouZJ0HpA",
+      "domain": "www.cocoonluxuryproperties.com",
+      "category": "Vacation home rental agency"
+    },
+    {
+      "title": "PropertyFox Pty Ltd",
+      "address": "Suite 8.03, Level 8/14 Martin Pl, Sydney NSW 2000",
+      "rating": 5,
+      "reviews": 144,
+      "cid": "12989498396063594998",
+      "place_id": "ChIJRXtvft2uEmsR9nngS_j3Q7Q",
+      "domain": "propertyfox.com.au",
+      "category": "Commercial real estate agency"
+    },
+    {
+      "title": "My Australian Property - Bất Động Sản Úc dành cho người Việt",
+      "address": "Level 20/135 King St, Sydney NSW 2000",
+      "rating": 5,
+      "reviews": 22,
+      "cid": "11384704084564744975",
+      "place_id": "ChIJiV-peHajEmsRD5tr0QuY_p0",
+      "domain": "myaustralianproperty.com",
+      "category": "Real estate consultant"
+    },
+    {
+      "title": "Belong Realty",
+      "address": "Ste 61.02, Level 61/25 Martin Pl, Sydney NSW 2000",
+      "rating": 4.4,
+      "reviews": 144,
+      "cid": "6754264354244711121",
+      "place_id": "ChIJOxDBRTmuEmsR0dLWAaX3u10",
+      "domain": "www.belongrealty.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Black Swan Property Group",
+      "address": "Ste 34.02, Level 34/31 Market St, Sydney NSW 2000",
+      "rating": 4.9,
+      "reviews": 66,
+      "cid": "16671212904795380705",
+      "place_id": "ChIJt4uu3UNVA08R4Zs8Hc8LXOc",
+      "domain": "blackswanpropertygroup.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Laing+Simmons Corporation",
+      "address": "Level 29/85 Castlereagh St, Sydney NSW 2000",
+      "rating": 3.7,
+      "reviews": 30,
+      "cid": "9737793572871178860",
+      "place_id": "ChIJCWCjL0CuEmsRbIoRV6mXI4c",
+      "domain": "lsre.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Service First Property Group",
+      "address": "Level 30, Suite 30.04/133 Castlereagh St, Sydney NSW 2000",
+      "rating": 4.7,
+      "reviews": 212,
+      "cid": "6910410610337158319",
+      "place_id": "ChIJfQmBGj-uEmsRr5Q8Uda15l8",
+      "domain": "sfpg.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Buyers Agency Sydney",
+      "address": "Level 3/50 York St, Sydney NSW 2000",
+      "rating": 5,
+      "reviews": 9,
+      "cid": "17971294095629213704",
+      "place_id": "ChIJK4naEz-uEmsRCOANlMPcZvk",
+      "domain": "buyersagencysydney.com.au",
+      "category": "Real estate consultant"
+    },
+    {
+      "title": "Laing+Simmons CBD",
+      "address": "Shop 2/31-43 King St, Sydney NSW 2000",
+      "rating": 4.8,
+      "reviews": 120,
+      "cid": "1701206679374561898",
+      "place_id": "ChIJMYygvD6uEmsRaoKkJXbmmxc",
+      "domain": "www.lsre.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Society Real Estate",
+      "address": "44 Martin Pl, Sydney NSW 2000",
+      "rating": null,
+      "reviews": 0,
+      "cid": "2694026076421225883",
+      "place_id": "ChIJVVUOMD-uEmsRm_25ZHEaYyU",
+      "domain": "www.societyrealestate.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "SIR Properties Group",
+      "address": "Ste 12 Level 6/70 Pitt St, City NSW 2000",
+      "rating": 4.9,
+      "reviews": 19,
+      "cid": "12891398503364584641",
+      "place_id": "ChIJzxeJhyqvEmsRwWQMI6Ny57I",
+      "domain": "www.sirproperties.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Boutique Property Agents",
+      "address": "Shop 1/251 Elizabeth St, Sydney NSW 2000",
+      "rating": 4.8,
+      "reviews": 171,
+      "cid": "5381038965157439819",
+      "place_id": "ChIJlTsLdj2uEmsRS6m-yG1KrUo",
+      "domain": "boutiquepropertyagents.com",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Propertybuyer Buyer's Agents, Sydney",
+      "address": "17/2 Chifley Square, Sydney NSW 2000",
+      "rating": 4.9,
+      "reviews": 102,
+      "cid": "3064255941591942882",
+      "place_id": "ChIJN9bXR2quEmsR4sZ3M4tshio",
+      "domain": "www.propertybuyer.com.au",
+      "category": "Real estate consultant"
+    },
+    {
+      "title": "Elementary Property",
+      "address": "Level 16/1 Martin Pl, Sydney NSW 2000",
+      "rating": 5,
+      "reviews": 9,
+      "cid": "6698742975763319708",
+      "place_id": "ChIJcahp342vEmsRnAsEuD639lw",
+      "domain": null,
+      "category": "Real estate consultant"
+    },
+    {
+      "title": "Johnson & Company Estate Agents",
+      "address": "19/29 Martin Pl, The Rocks NSW 2000",
+      "rating": 4.2,
+      "reviews": 10,
+      "cid": "10605619347791587224",
+      "place_id": "ChIJSauXGUCuEmsRmKcgGJu6LpM",
+      "domain": null,
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Premium Property Finders",
+      "address": "171 Clarence St, Sydney NSW 2000",
+      "rating": 5,
+      "reviews": 1,
+      "cid": "17813155388177893868",
+      "place_id": "ChIJfReN5z6uEmsR7MktiXIKNfc",
+      "domain": "www.premiumpropertyfinders.com.au",
+      "category": "Real estate consultant"
+    },
+    {
+      "title": "Your Empire",
+      "address": "level 11/66 Clarence St, Sydney NSW 2000",
+      "rating": 5,
+      "reviews": 163,
+      "cid": "1263601278239934533",
+      "place_id": "ChIJtZ3oVEeuEmsRRYg476o2iRE",
+      "domain": "www.yourempire.com.au",
+      "category": "Real estate consultant"
+    },
+    {
+      "title": "Sydney Realty Group",
+      "address": "3/368 Sussex St, Sydney NSW 2000",
+      "rating": 4.6,
+      "reviews": 155,
+      "cid": "9418731361053513976",
+      "place_id": "ChIJebslnzyuEmsR-BhtMkUOtoI",
+      "domain": "sydneyrealtygroup.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Get RARE Properties",
+      "address": "Ste 5.03/309 George St, Sydney NSW 2000",
+      "rating": 4.9,
+      "reviews": 202,
+      "cid": "3436590707179895577",
+      "place_id": "ChIJIwN0JAyrEmsRGbvdUwo5sS8",
+      "domain": "getrare.com.au",
+      "category": "Real estate agent"
+    }
+  ],
+  "brisbane": [
+    {
+      "title": "Square Real Estate",
+      "address": "L11/100 Edward St, Brisbane City QLD 4000",
+      "rating": 4.8,
+      "reviews": 69,
+      "cid": "16685422854260201410",
+      "place_id": "ChIJsSc7fLNbkWsRwhddy66Hjuc",
+      "domain": "www.squareqld.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Ray White City Living",
+      "address": "1/201 Elizabeth St, Brisbane City QLD 4000",
+      "rating": 4.5,
+      "reviews": 538,
+      "cid": "4773252684631041404",
+      "place_id": "ChIJi5VIHgxakWsRfOWc4gYAPkI",
+      "domain": "raywhitecityliving.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "North South Real Estate & North South Prestige",
+      "address": "Riparian Plaza, Level 38/71 Eagle St, Brisbane City QLD 4000",
+      "rating": 4.9,
+      "reviews": 44,
+      "cid": "18442476247549459232",
+      "place_id": "ChIJX5XehB9ZkWsRILvDSW_W8P8",
+      "domain": "nsre.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "East Point Property Buyers Agency",
+      "address": "324 Queen St, Brisbane City QLD 4000",
+      "rating": 5,
+      "reviews": 34,
+      "cid": "17320118573051881930",
+      "place_id": "ChIJMTu2-OhbkWsRyilnhhNsXfA",
+      "domain": "www.east-point.com.au",
+      "category": "Real estate consultant"
+    },
+    {
+      "title": "Midas Real Estate",
+      "address": "Waterfront Place, 1 Eagle St, Brisbane City QLD 4000",
+      "rating": 4.8,
+      "reviews": 111,
+      "cid": "17178840306712779599",
+      "place_id": "ChIJJQ73iRtakWsRTxvH1j2AZ-4",
+      "domain": "www.midasrealestate.com.au",
+      "category": "Property management company"
+    },
+    {
+      "title": "Golden Key Realty",
+      "address": "Level 19/10 Eagle St, Brisbane City QLD 4000",
+      "rating": 5,
+      "reviews": 33,
+      "cid": "53635364900673185",
+      "place_id": "ChIJf7wR88pbkWsRoZZNiBSNvgA",
+      "domain": "www.goldenkeyrealty.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "First Home Buyer Club",
+      "address": "160 Edward St, Brisbane City QLD 4000",
+      "rating": 4.7,
+      "reviews": 54,
+      "cid": "714134573752762700",
+      "place_id": "ChIJVVXxoBxakWsRTMFbdpwd6Qk",
+      "domain": "firsthomebuyerclub.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Minus The Agent",
+      "address": "Anzac Square Arcade, Suite 696 12B, 198 Adelaide St, Brisbane City QLD 4006",
+      "rating": 4.7,
+      "reviews": 110,
+      "cid": "8968624812033490652",
+      "place_id": "ChIJcQHwnO1ZkWsR3L4Crb_0dnw",
+      "domain": "www.minustheagent.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "SAI Real Estate Group",
+      "address": "Level 54/111 Eagle St, Brisbane City QLD 4000",
+      "rating": 5,
+      "reviews": 7,
+      "cid": "8944063065134483927",
+      "place_id": "ChIJv9cpBNY_zioR10kIVvixH3w",
+      "domain": "www.sairealestategroup.com.au",
+      "category": "Commercial real estate agency"
+    },
+    {
+      "title": "Opal Realty Group",
+      "address": "level 18/324 Queen St, Brisbane City QLD 4000",
+      "rating": 4.9,
+      "reviews": 127,
+      "cid": "18198405110388688691",
+      "place_id": "ChIJ__8vQRtakWsRMwdfUwe5jfw",
+      "domain": "opalrg.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "UHome International Realty",
+      "address": "Level 12/97 Creek St, Brisbane City QLD 4000",
+      "rating": 4.7,
+      "reviews": 12,
+      "cid": "18089011185080873887",
+      "place_id": "ChIJ3yRDyOBbkWsRnzPQSNUTCfs",
+      "domain": "uhomerealty.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Octave Realty",
+      "address": "222 Margaret St, Brisbane City QLD 4000",
+      "rating": 5,
+      "reviews": 10,
+      "cid": "9456747343864779587",
+      "place_id": "ChIJQxGPKl1ZkWsRQ9Ot8ZodPYM",
+      "domain": "www.octaverealty.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Sell and Live",
+      "address": "266 George St, Brisbane City QLD 4000",
+      "rating": null,
+      "reviews": 0,
+      "cid": "11087939310525636916",
+      "place_id": "ChIJpyxmIZw_82kRNGH4dg5G4Jk",
+      "domain": "www.sellandlive.com",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Edwards Real Estate Co",
+      "address": "43 Gloucester St, Highgate Hill QLD 4101",
+      "rating": 5,
+      "reviews": 35,
+      "cid": "505557161628675865",
+      "place_id": "ChIJ_9qOWfVbkWsRGS-IWI8ZBAc",
+      "domain": "edwardsrealestateco.com.au",
+      "category": "Property management company"
+    },
+    {
+      "title": "REMAX CENTRAL RESIDENTIAL",
+      "address": "Level 2/26 Wharf St, Brisbane City QLD 4000",
+      "rating": 4.9,
+      "reviews": 83,
+      "cid": "8203853601296668734",
+      "place_id": "ChIJ27EX0PNZkWsRPtiYbmLx2XE",
+      "domain": "www.remaxcentralres.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "People Estate Agents",
+      "address": "Ste 159, Level 14/167 Eagle St, Brisbane City QLD 4000",
+      "rating": 4.7,
+      "reviews": 31,
+      "cid": "9621920028952892759",
+      "place_id": "ChIJP2DVqVxbkWsRVxX0hknth4U",
+      "domain": "epeople.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Arcadia Buyers Agency",
+      "address": "18/324 Queen St, Brisbane City QLD 4000",
+      "rating": null,
+      "reviews": 0,
+      "cid": "11981524371215717667",
+      "place_id": "ChIJi2NEYbcDdgERI5X_Te_sRqY",
+      "domain": "www.arcadiabuyersagency.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Best Life Real Estate Agency",
+      "address": "900 Brunswick St, New Farm QLD 4005",
+      "rating": 5,
+      "reviews": 40,
+      "cid": "9124505460123445175",
+      "place_id": "ChIJEda2sk5ZkWsRtyfFTV_BoH4",
+      "domain": "bestlifeagency.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Karam Boutique Residential",
+      "address": "Ste 3, Level 15/100 Edward St, Brisbane City QLD 4000",
+      "rating": 3.4,
+      "reviews": 5,
+      "cid": "6698764654989659393",
+      "place_id": "ChIJAQCsph1akWsRAc2ZTvbK9lw",
+      "domain": "karambr.com.au",
+      "category": "Real estate developer"
+    },
+    {
+      "title": "Hugo Alexander Property Group",
+      "address": "shop 1/477 Brunswick St, Fortitude Valley QLD 4006",
+      "rating": 4.9,
+      "reviews": 289,
+      "cid": "5928770317279589545",
+      "place_id": "ChIJ-wFDGqNRkWsRqXRUDDE5R1I",
+      "domain": "www.hugoalexander.com.au",
+      "category": "Real estate agent"
+    }
+  ],
+  "goldcoast": [
+    {
+      "title": "LUXURE the Property People",
+      "address": "Gibraltar Dr, Surfers Paradise QLD 4217",
+      "rating": 5,
+      "reviews": 29,
+      "cid": "11478350432460703521",
+      "place_id": "ChIJdftm_hUFkWsRIYdFRudKS58",
+      "domain": "www.luxure.net.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Property Sphere Real Estate",
+      "address": "Level 9/1 Corporate Ct, Bundall QLD 4217",
+      "rating": 4.9,
+      "reviews": 106,
+      "cid": "12577209334394628860",
+      "place_id": "ChIJG0SbSGUPkWsR_KpRskA5i64",
+      "domain": "www.propertysphere.com.au",
+      "category": "Real estate consultant"
+    },
+    {
+      "title": "Lucy Cole Prestige Properties",
+      "address": "8 Upton St, Bundall QLD 4217",
+      "rating": 4.5,
+      "reviews": 123,
+      "cid": "16214723573769740358",
+      "place_id": "ChIJExi89RAFkWsRRqCyWS5FBuE",
+      "domain": "www.lucycole.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Smart Real Estate",
+      "address": "122 Regatta Parade, Southport QLD 4215",
+      "rating": 4.8,
+      "reviews": 558,
+      "cid": "1332171125694008504",
+      "place_id": "ChIJ3y3zp2sFkWsRuAwGp5TSfBI",
+      "domain": "www.smartrealestate.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Lucy Cole Prestige Properties",
+      "address": "112/89 Surf Parade, Broadbeach QLD 4218",
+      "rating": 4.9,
+      "reviews": 115,
+      "cid": "11526988326993735043",
+      "place_id": "ChIJGXVLSPwEkWsRgy2JkM8W-J8",
+      "domain": "www.lucycole.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Hiley - Gold Coast Buyers Agency",
+      "address": "Bamboo Ave, Benowa QLD 4217",
+      "rating": 5,
+      "reviews": 9,
+      "cid": "1681435679310484293",
+      "place_id": "ChIJHzf8DDAu-I4RRRP4edeoVRc",
+      "domain": null,
+      "category": "Real estate consultant"
+    },
+    {
+      "title": "Fox's Real Estate",
+      "address": "16 Nexus Way, Southport QLD 4215",
+      "rating": 4.9,
+      "reviews": 263,
+      "cid": "2635359382942769390",
+      "place_id": "ChIJv9EdFuwPkWsR7uDLY2WtkiQ",
+      "domain": "www.foxs.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Katrina Keegan and Penelope Nicholls Real Estate",
+      "address": "3262 Surfers Paradise Blvd, Surfers Paradise QLD 4217",
+      "rating": 5,
+      "reviews": 81,
+      "cid": "3032904306606261459",
+      "place_id": "ChIJ5aIUxv0EkWsR08QE2WUKFyo",
+      "domain": "www.katrina-penelope.com",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Black and White Property Group Pty Ltd",
+      "address": "Level 2/3 Alison St, Surfers Paradise QLD 4217",
+      "rating": 4.5,
+      "reviews": 48,
+      "cid": "5580255321449963847",
+      "place_id": "ChIJxSt-td8FkWsRRyECP6YMcU0",
+      "domain": "www.bwpg.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Crown Realty International",
+      "address": "3A, Q1 Building, 9 Hamilton Ave, Surfers Paradise QLD 4217",
+      "rating": 4.5,
+      "reviews": 79,
+      "cid": "18390004663009503125",
+      "place_id": "ChIJs9OGpQ0FkWsRlWd1fM5rNv8",
+      "domain": "www.crownrealty.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Deluxe Estate",
+      "address": "2460 Gold Coast Hwy, Mermaid Beach QLD 4218",
+      "rating": 5,
+      "reviews": 4,
+      "cid": "17615279287744026499",
+      "place_id": "ChIJq6p-9fQEkWsRg1dHtS4LdvQ",
+      "domain": "www.deluxeestate.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Luxury Real Estate Group",
+      "address": "Level 13/50 Cavill Ave, Surfers Paradise QLD 4217",
+      "rating": null,
+      "reviews": 0,
+      "cid": "8849240078928784848",
+      "place_id": "ChIJq6pqWm0FkWsR0C2zbPfQzno",
+      "domain": "luxuryrealestategroup.com.au",
+      "category": "Property management company"
+    },
+    {
+      "title": "Gold Coast Real Estate",
+      "address": "23 Cavill Ave, Surfers Paradise QLD 4217",
+      "rating": 3.8,
+      "reviews": 37,
+      "cid": "2401290647552011098",
+      "place_id": "ChIJLc8r6XIFkWsRWivOER8ZUyE",
+      "domain": "www.gcreq.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "LJ Hooker Southern Gold Coast - Real Estate Agency",
+      "address": "Shop 2/10 Fifth Ave, Palm Beach QLD 4221",
+      "rating": 4.9,
+      "reviews": 927,
+      "cid": "1793991314472391498",
+      "place_id": "ChIJLdLQ1jICkWsRSlNDdZiJ5Rg",
+      "domain": "southerngoldcoast.ljhooker.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Keys Realty Gold Coast",
+      "address": "13 Tedder Ave, Main Beach QLD 4217",
+      "rating": 4.7,
+      "reviews": 47,
+      "cid": "2510110961719713463",
+      "place_id": "ChIJn3t8L4gPkWsRtx4e3J601SI",
+      "domain": "www.keysrealty.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Housemark Gold Coast",
+      "address": "21 Crombie Ave, Bundall QLD 4217",
+      "rating": 4.8,
+      "reviews": 141,
+      "cid": "12790330907938872011",
+      "place_id": "ChIJU3bhfD0FkWsRy1pl1zFigLE",
+      "domain": "housemark.com.au",
+      "category": "Property management company"
+    },
+    {
+      "title": "Gold Coast Property Buyers - Gold Coast Buyers Agent",
+      "address": "Level 9/1 Corporate Ct, Bundall QLD 4217",
+      "rating": 4.9,
+      "reviews": 77,
+      "cid": "12371662381107124444",
+      "place_id": "ChIJhZIGQ0AFkWsR3Bj0QmP5sKs",
+      "domain": "www.gcpropertybuyers.com.au",
+      "category": "Real estate consultant"
+    },
+    {
+      "title": "Jordan Thams Real Estate Agent Surfers Paradise, Gold Coast - Ray White Advantage",
+      "address": "9/50 Cavill Ave, Surfers Paradise QLD 4218",
+      "rating": 5,
+      "reviews": 100,
+      "cid": "17066448792896488677",
+      "place_id": "ChIJH_ckOO8FkWsR5UT9VcE02Ow",
+      "domain": "raywhiteadvantage.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Coastal",
+      "address": "Unit 1/16 Queensland Ave, Broadbeach QLD 4218",
+      "rating": 4.2,
+      "reviews": 522,
+      "cid": "8973691471704183397",
+      "place_id": "ChIJM6MUxv0EkWsRZVLhTtn0iHw",
+      "domain": "www.coastal.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Queensland Lifestyle Real Estate",
+      "address": null,
+      "rating": 5,
+      "reviews": 113,
+      "cid": "14490361798036444581",
+      "place_id": "ChIJQSR6uRNdkWsRpVXaNkgbGMk",
+      "domain": "www.qlre.com.au",
+      "category": "Property management company"
+    }
+  ],
+  "perth": [
+    {
+      "title": "Tyler & Sons",
+      "address": "524 Hay St, Perth WA 6000",
+      "rating": 4.4,
+      "reviews": 54,
+      "cid": "12306449803623178299",
+      "place_id": "ChIJ_3nmGCi7MioRO6Ai3-RKyao",
+      "domain": "www.tylerandsons.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Inhabit Property",
+      "address": "Apartment 38/474 Murray St, Perth WA 6000",
+      "rating": 4.9,
+      "reviews": 293,
+      "cid": "10381308870592368947",
+      "place_id": "ChIJ_aoHzCylMioRMxFFT2rREZA",
+      "domain": "www.inhabitproperty.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Buyer Tenant Agency",
+      "address": "Suite 3679, 202/37 Barrack St, Perth WA 6000",
+      "rating": 5,
+      "reviews": 114,
+      "cid": "15260014101162197747",
+      "place_id": "ChIJR66Rt0tN2IER84I5V_l1xtM",
+      "domain": "buyertenantagency.com.au",
+      "category": "Real estate consultant"
+    },
+    {
+      "title": "Tuckey Property Group",
+      "address": "307 Murray St, Perth WA 6000",
+      "rating": 4.7,
+      "reviews": 31,
+      "cid": "8971535750952649358",
+      "place_id": "ChIJhSKQnHalMioRjgJAdTtMgXw",
+      "domain": null,
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Halyn Property",
+      "address": "231 Bulwer St, Perth WA 6000",
+      "rating": 4.8,
+      "reviews": 385,
+      "cid": "10404405144200193881",
+      "place_id": "ChIJdTzrQT-lMioRWadMj1rfY5A",
+      "domain": "halynproperty.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Limnios Property Group | Perth",
+      "address": "300 Newcastle St, Perth WA 6000",
+      "rating": 4.6,
+      "reviews": 279,
+      "cid": "17036231548259561149",
+      "place_id": "ChIJn3PR6M26MioRvW5Q0VTabOw",
+      "domain": "www.limnios.com",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Claude Iaconi Real Estate Agent",
+      "address": "624 Murray St, West Perth WA 6005",
+      "rating": 5,
+      "reviews": 78,
+      "cid": "5067081991464009246",
+      "place_id": "ChIJq6paDrS6MioRHr79hDnkUUY",
+      "domain": "www.claudeiaconi.com.au",
+      "category": "Real estate consultant"
+    },
+    {
+      "title": "The Agency | Perth",
+      "address": "Level 2/1 Cambridge St, West Leederville WA 6007",
+      "rating": 4.8,
+      "reviews": 2251,
+      "cid": "14613093312733570629",
+      "place_id": "ChIJ--L9ThivMioRReYex_EizMo",
+      "domain": "theagency.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Taj Real Estate Group",
+      "address": "Ste 51/50 St Georges Terrace, Perth WA 6000",
+      "rating": 5,
+      "reviews": 11,
+      "cid": "10533757351498669294",
+      "place_id": "ChIJ90EbrWSjMioR7tw8PoBsL5I",
+      "domain": "www.tajrealestate.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "One Percent Realty WA",
+      "address": "Unit 2/66 Lindsay St, Perth WA 6000",
+      "rating": 5,
+      "reviews": 162,
+      "cid": "15519178366588303841",
+      "place_id": "ChIJ4ZRrc9cyy68R4TlsEoAyX9c",
+      "domain": "www.onepercentrealtywa.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Luxury Real Estate",
+      "address": "9 Morrison St, Como WA 6152",
+      "rating": null,
+      "reviews": 0,
+      "cid": "3596790589947419335",
+      "place_id": "ChIJVVW5sVa7MioRx5pIJfxd6jE",
+      "domain": "www.luxuryrealestatesales.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Arena Real Estate Agents",
+      "address": "113 Newcastle St, Perth WA 6000",
+      "rating": 4.1,
+      "reviews": 325,
+      "cid": "10826772556480008591",
+      "place_id": "ChIJO0lTo267MioRj1HwBEdsQJY",
+      "domain": "www.arenare.com.au",
+      "category": "Real estate consultant"
+    },
+    {
+      "title": "Pentony Buyers Agent Perth",
+      "address": "62/50 St Georges Terrace, Perth WA 6000",
+      "rating": 5,
+      "reviews": 42,
+      "cid": "4178310978212411731",
+      "place_id": "ChIJUUc5Lc6_MioRUzl3cbJX_Dk",
+      "domain": "www.jpentony.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Lorven Buyers Agency",
+      "address": "Level 3/1060 Hay St, West Perth WA 6005",
+      "rating": 5,
+      "reviews": 18,
+      "cid": "2915866232929747396",
+      "place_id": "ChIJ44S96poFhk8RxIFV0uM8dyg",
+      "domain": "www.lorvenbuyersagency.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "The Perth Property Co.",
+      "address": "434 Fitzgerald St, North Perth WA 6006",
+      "rating": 4.9,
+      "reviews": 113,
+      "cid": "1459901393701415103",
+      "place_id": "ChIJ8Z10O7e6MioRv6irKpWcQhQ",
+      "domain": "www.theperthpropertyco.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Selling Perth Real Estate",
+      "address": "1 Palmerston St, Northbridge WA 6003",
+      "rating": 4.9,
+      "reviews": 61,
+      "cid": "18009250407519625306",
+      "place_id": "ChIJGxKSbna7MioRWiBEG9S17fk",
+      "domain": "www.sellingperth.realestate",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Claudette Swift Buyers Agent Perth",
+      "address": "39/50 St Georges Terrace, Perth WA 6000",
+      "rating": 4.1,
+      "reviews": 34,
+      "cid": "750520815513382988",
+      "place_id": "ChIJOV_IgTevMioRTDA2jbRiago",
+      "domain": "www.claudetteswift.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Century 21 Grand Alliance",
+      "address": "2/280 Lord St, Perth WA 6000",
+      "rating": 4.8,
+      "reviews": 115,
+      "cid": "15453908276147484618",
+      "place_id": "ChIJWWBhA926MioRync957JPd9Y",
+      "domain": "www.century21.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Realestate 88",
+      "address": "1/88 Terrace Rd, Perth WA 6004",
+      "rating": 4.4,
+      "reviews": 231,
+      "cid": "5383731964942997428",
+      "place_id": "ChIJSe_IbCS7MioRtNdXqLLbtko",
+      "domain": "www.re88.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "LJ Hooker Property Experience Central",
+      "address": "Unit 30/82 Royal St, East Perth WA 6004",
+      "rating": 4.4,
+      "reviews": 840,
+      "cid": "10162066482893311937",
+      "place_id": "ChIJRbSI6h-7MioRwU_CEKDpBo0",
+      "domain": "cityresperth.ljhooker.com.au",
+      "category": "Real estate agency"
+    }
+  ],
+  "adelaide": [
+    {
+      "title": "Giordano & Partners | Luxury Real Estate Collection",
+      "address": "429 Pulteney St, Adelaide SA 5000",
+      "rating": 4.8,
+      "reviews": 72,
+      "cid": "12877546575803543001",
+      "place_id": "ChIJdXEQgdvOsGoR2W1R7WE8trI",
+      "domain": "giordanopartners.com",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Leipzig Real Estate.",
+      "address": "Adelaide SA 5000",
+      "rating": 5,
+      "reviews": 12,
+      "cid": "4166109370129884925",
+      "place_id": "ChIJCe-VqEjJsGoR_aYELmb-0Dk",
+      "domain": null,
+      "category": "Real estate agency"
+    },
+    {
+      "title": "SY Luxury Real Estate",
+      "address": "Ground Floor/267 Hutt St, Adelaide SA 5000",
+      "rating": 4.5,
+      "reviews": 17,
+      "cid": "9850692345320691613",
+      "place_id": "ChIJq58WydbPsGoRndd_Mn-wtIg",
+      "domain": "www.syluxuryrealestate.com",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Huhme",
+      "address": "11A Carrington St, Adelaide SA 5000",
+      "rating": 5,
+      "reviews": 67,
+      "cid": "1044956366356347740",
+      "place_id": "ChIJV_rqlRjPsGoRXPtzXkdugA4",
+      "domain": "huhme.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Savills Adelaide",
+      "address": "Level 13/45 Pirie St, Adelaide SA 5000",
+      "rating": 3.2,
+      "reviews": 11,
+      "cid": "16467127195553060061",
+      "place_id": "ChIJ0ds2MdLOsGoR3VQdEvD8huQ",
+      "domain": "savills.com.au",
+      "category": "Real estate consultant"
+    },
+    {
+      "title": "Bluestone Buyers Agents",
+      "address": "Ground Floor/121 King William St, Adelaide SA 5000",
+      "rating": 5,
+      "reviews": 94,
+      "cid": "17029412332290499092",
+      "place_id": "ChIJbaqnpcPPsGoRFOLUX0qgVOw",
+      "domain": "bluestonebuyersagents.com.au",
+      "category": "Real estate consultant"
+    },
+    {
+      "title": "Kaide Real Estate",
+      "address": "Office 7/9-15 Field St, Adelaide SA 5000",
+      "rating": 4.8,
+      "reviews": 188,
+      "cid": "16190299426572842342",
+      "place_id": "ChIJq6p6Dw_PsGoRZrUVcIx_r-A",
+      "domain": "www.kaidere.com",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Keystone Real Estate",
+      "address": "Halifax St, Adelaide SA 5000",
+      "rating": 5,
+      "reviews": 2,
+      "cid": "15690310602912835957",
+      "place_id": "ChIJh-0z62GYp4ERdSkqzlwuv9k",
+      "domain": "keystonere.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Profile Real Estate",
+      "address": "244 Grenfell St, Adelaide SA 5000",
+      "rating": 4.7,
+      "reviews": 35,
+      "cid": "12156546639697977781",
+      "place_id": "ChIJF77nwk3JsGoRtaGqusK6tKg",
+      "domain": "www.profilegroup.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Harcourts Adelaide City",
+      "address": "1/137 Gouger St, Adelaide SA 5000",
+      "rating": 4.6,
+      "reviews": 346,
+      "cid": "5882093465161649483",
+      "place_id": "ChIJabCtg9DOsGoRS02bhtdkoVE",
+      "domain": "harcourts.net",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Colliers",
+      "address": "Level 9/121 King William St, Adelaide SA 5000",
+      "rating": 2.3,
+      "reviews": 7,
+      "cid": "16420643470359521377",
+      "place_id": "ChIJ3Ua-5NbOsGoRYegdajzY4eM",
+      "domain": "www.colliers.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "WILLIAMS Real Estate",
+      "address": "60 Kensington Rd, Rose Park SA 5067",
+      "rating": 4.3,
+      "reviews": 88,
+      "cid": "16549556875652466205",
+      "place_id": "ChIJ3b2-9OgWNQARHYZji0vWq-U",
+      "domain": "www.williamsproperty.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Belle Property Adelaide City",
+      "address": "153 Grote St, Adelaide SA 5000",
+      "rating": 3.7,
+      "reviews": 132,
+      "cid": "770746934144572819",
+      "place_id": "ChIJpyBg5OgWNQARk51oxUA-sgo",
+      "domain": "www.belleproperty.com",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "AC Real Estate",
+      "address": "235 Pulteney St, Adelaide SA 5000",
+      "rating": 4.6,
+      "reviews": 119,
+      "cid": "6922426615263117261",
+      "place_id": "ChIJjYJaVSjPsGoRzb93elRmEWA",
+      "domain": "www.acrealestate.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Turner Real Estate",
+      "address": "49 Greenhill Rd, Wayville SA 5000",
+      "rating": 4.8,
+      "reviews": 1466,
+      "cid": "15590963011090168525",
+      "place_id": "ChIJgU4ibdzOsGoRzbpIDkE6Xtg",
+      "domain": "www.turnerrealestate.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Alpha Real Property Group",
+      "address": "217 Flinders St, Adelaide SA 5000",
+      "rating": 5,
+      "reviews": 22,
+      "cid": "17809116305155172625",
+      "place_id": "ChIJq6oOIM7OsGoRESlkPOywJvc",
+      "domain": "alpharealproperty.com.au",
+      "category": "Real estate consultant"
+    },
+    {
+      "title": "Clarity Property Services",
+      "address": "Unit 510/96 North Terrace, Adelaide SA 5000",
+      "rating": 5,
+      "reviews": 1,
+      "cid": "4074974766172591650",
+      "place_id": "ChIJxRnA4UXnA6YRItZlrvU3jTg",
+      "domain": "claritypropertyservices.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Young Real Estate Adelaide SA",
+      "address": "9 Hutt St, Adelaide SA 5000",
+      "rating": 4.5,
+      "reviews": 16,
+      "cid": "10808292081870774256",
+      "place_id": "ChIJSXgx2WrPsGoR8B-TOGLE_pU",
+      "domain": "youngrealestatesa.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Ray White Adelaide City",
+      "address": "Unit 2/127 Hutt St, Adelaide SA 5000",
+      "rating": 4.7,
+      "reviews": 103,
+      "cid": "17516819692161454033",
+      "place_id": "ChIJ8_g5S8jPsGoR0c_ZsbM-GPM",
+      "domain": "raywhiteadelaidecity.com.au",
+      "category": "Real estate consultant"
+    },
+    {
+      "title": "R&D Real Estate",
+      "address": "91 King William St, Adelaide SA 5000",
+      "rating": 5,
+      "reviews": 1,
+      "cid": "15898797724839767622",
+      "place_id": "ChIJsTScRQnasGoRRu7cmEvgo9w",
+      "domain": "rdrealestate.com.au",
+      "category": "Real estate agency"
+    }
+  ],
+  "peninsula": [
+    {
+      "title": "CARMAN Real Estate",
+      "address": "10/22 Watt Rd, Mornington VIC 3931",
+      "rating": 4.9,
+      "reviews": 143,
+      "cid": "14040624291493629497",
+      "place_id": "ChIJqSbed0XZ1WoROc4yF2dR2sI",
+      "domain": "carmanre.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Abode Peninsula Real Estate - Mornington Peninsula",
+      "address": "4/33 Milgate Dr, Mornington VIC 3931",
+      "rating": 4.8,
+      "reviews": 122,
+      "cid": "18374667851294951730",
+      "place_id": "ChIJxQLUJAXb1WoRMsk5vg7v__4",
+      "domain": "www.abodepeninsula.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Seachange Property Real Estate",
+      "address": "91 Watt Rd, Mornington VIC 3931",
+      "rating": 5,
+      "reviews": 267,
+      "cid": "912080450598416576",
+      "place_id": "ChIJaUBfVUXZ1WoRwDB_YFZcqAw",
+      "domain": "www.seachangeproperty.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Jellis Craig Mount Martha - Real Estate Agency",
+      "address": "4/42 Lochiel Ave, Mount Martha VIC 3931",
+      "rating": 4.9,
+      "reviews": 304,
+      "cid": "4794252435397005833",
+      "place_id": "ChIJAQCwNFHZ1WoRCdJjXzCbiEI",
+      "domain": "www.jelliscraig.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Marshall White - Real Estate Mornington Peninsula",
+      "address": "98 Mount Eliza Way, Mount Eliza VIC 3930",
+      "rating": 4.9,
+      "reviews": 112,
+      "cid": "16496571971711280497",
+      "place_id": "ChIJu7OzImff1WoRcSWEQc6Y7-Q",
+      "domain": "www.marshallwhite.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "LynchCo Real Estate - Mornington Peninsula",
+      "address": "Level 1/5 Main St, Mornington VIC 3931",
+      "rating": 4.9,
+      "reviews": 29,
+      "cid": "4519441517510634993",
+      "place_id": "ChIJ50uh-NvZ1WoR8a1feh1IuD4",
+      "domain": "www.lynchco.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "The Agency | Mornington Peninsula",
+      "address": "195 Point Nepean Rd, Dromana VIC 3936",
+      "rating": 5,
+      "reviews": 11,
+      "cid": "12826694084231621142",
+      "place_id": "ChIJp-QIrnDF1WoRFuo6lU-SAbI",
+      "domain": "theagency.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Belle Property Mornington",
+      "address": "Level 1, 311/313 Main St, Mornington VIC 3931",
+      "rating": 4.8,
+      "reviews": 110,
+      "cid": "1666121169767528229",
+      "place_id": "ChIJQcV6OFDZ1WoRJXfAXGBAHxc",
+      "domain": "www.belleproperty.com",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "McNeill Real Estate",
+      "address": "14/33 Milgate Dr, Mornington VIC 3931",
+      "rating": 4.8,
+      "reviews": 53,
+      "cid": "15036846103212572069",
+      "place_id": "ChIJ54pwukXZ1WoRpb0zvNybrdA",
+      "domain": "www.mcneillrealestate.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Murnane Real Estate",
+      "address": "73 Watt Rd, Mornington VIC 3931",
+      "rating": 4.7,
+      "reviews": 111,
+      "cid": "6472675022423885543",
+      "place_id": "ChIJVScVRNl01moR54YeoqOP01k",
+      "domain": "www.murnane.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Lina Luppino Prentice Real Estate",
+      "address": "Mornington VIC 3931",
+      "rating": 5,
+      "reviews": 42,
+      "cid": "12889884801528143819",
+      "place_id": "ChIJ5Rp78-zb1WoRy5_K9u4R4rI",
+      "domain": "prenticerealestate.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "TH Exclusive Real Estate",
+      "address": null,
+      "rating": 5,
+      "reviews": 10,
+      "cid": "16214908009156947982",
+      "place_id": "ChIJUZyS2y0GSYgRDrBvj-zsBuE",
+      "domain": "thexclusive.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Karen Andrews - Hashtag Real Estate",
+      "address": "Somerset Dr, Mount Martha VIC 3934",
+      "rating": 5,
+      "reviews": 33,
+      "cid": "9698121726448462881",
+      "place_id": "ChIJN20UChPb1WoRIWx1zVOmloY",
+      "domain": "hashtag.realestate",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Lively Properties | Luxury Property Rentals | VIC & QLD",
+      "address": "Factory 1/26 Virginia St, Mornington VIC 3931",
+      "rating": 5,
+      "reviews": 458,
+      "cid": "5026473323817978282",
+      "place_id": "ChIJBzL5FBJkziURqsklS9uewUU",
+      "domain": "www.livelyproperties.com.au",
+      "category": "Property management company"
+    },
+    {
+      "title": "OBrien Real Estate Mornington",
+      "address": "Office 2/188 Main St, Mornington VIC 3931",
+      "rating": 4.6,
+      "reviews": 255,
+      "cid": "7153142406030156198",
+      "place_id": "ChIJYbx6pUXZ1WoRpuE1ix4RRWM",
+      "domain": "www.obrienrealestate.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Area Specialist Collective",
+      "address": "Ground Level, Suite 4/315 Main St, Mornington VIC 3931",
+      "rating": 5,
+      "reviews": 94,
+      "cid": "14065847375285195115",
+      "place_id": "ChIJc92B3CK2qi4RaxG87KntM8M",
+      "domain": "www.areaspecialistcollective.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Jacobs & Lowe Estate Agents - Mornington Peninsula",
+      "address": "160B Main St, Mornington VIC 3931",
+      "rating": 4.3,
+      "reviews": 40,
+      "cid": "15505128307357994801",
+      "place_id": "ChIJTXcISVDZ1WoRMU_tvAtILdc",
+      "domain": "www.jacobsandlowe.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Exclusive Property Management I Mornington Peninsula",
+      "address": "Level 1, Shop 3/9 Howey Rd, Mount Martha VIC 3934",
+      "rating": 5,
+      "reviews": 165,
+      "cid": "12902436851009018812",
+      "place_id": "ChIJfU6Hknzb1WoRvFtNufSpDrM",
+      "domain": "www.exclusivepm.com.au",
+      "category": "Property management company"
+    },
+    {
+      "title": "Peninsula Sales & Leasing",
+      "address": "Unit 18/33 Milgate Dr, Mornington VIC 3931",
+      "rating": 4.9,
+      "reviews": 139,
+      "cid": "3100359948698786146",
+      "place_id": "ChIJBYv45inZ1WoRYhkKavKwBis",
+      "domain": "pslproperty.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Mornington Peninsula Property Group",
+      "address": "1015 Point Nepean Rd, Rosebud VIC 3939",
+      "rating": 4.4,
+      "reviews": 44,
+      "cid": "9708102003087210642",
+      "place_id": "ChIJe8YEeWPJ1WoRknhFCVYbuoY",
+      "domain": "www.mppropertygroup.com.au",
+      "category": "Real estate agency"
+    }
+  ],
+  "national": [
+    {
+      "title": "Luxury Real Estate Agents",
+      "address": "Office 5, Level 2/203 Palmers Rd, Truganina VIC 3029",
+      "rating": 4.6,
+      "reviews": 46,
+      "cid": "17817366900058713891",
+      "place_id": "ChIJA3yxc06J1moRI2_NjssARPc",
+      "domain": "www.luxuryrea.com.au",
+      "category": "Industrial real estate agency"
+    },
+    {
+      "title": "Giordano & Partners | Luxury Real Estate Collection",
+      "address": "429 Pulteney St, Adelaide SA 5000",
+      "rating": 4.8,
+      "reviews": 72,
+      "cid": "12877546575803543001",
+      "place_id": "ChIJdXEQgdvOsGoR2W1R7WE8trI",
+      "domain": "giordanopartners.com",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "SY Luxury Real Estate",
+      "address": "Ground Floor/267 Hutt St, Adelaide SA 5000",
+      "rating": 4.5,
+      "reviews": 17,
+      "cid": "9850692345320691613",
+      "place_id": "ChIJq58WydbPsGoRndd_Mn-wtIg",
+      "domain": "www.syluxuryrealestate.com",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Cocoon Luxury Properties",
+      "address": "90 Pitt St, Sydney NSW 2000",
+      "rating": 4.9,
+      "reviews": 19,
+      "cid": "10384865964296023749",
+      "place_id": "ChIJt6mNLACsEmsRxa7ouZJ0HpA",
+      "domain": "www.cocoonluxuryproperties.com",
+      "category": "Vacation home rental agency"
+    },
+    {
+      "title": "ZJ REAL ESTATE",
+      "address": "Level 3/2 Brandon Park Dr, Wheelers Hill VIC 3150",
+      "rating": 5,
+      "reviews": 20,
+      "cid": "7773428865861021613",
+      "place_id": "ChIJrVZvOtsV1moRre9pPF7E4Gs",
+      "domain": "www.zjrealestate.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Exclusive Estates Australasia",
+      "address": "7 Frearson Pl, Mitcham SA 5062",
+      "rating": 5,
+      "reviews": 1,
+      "cid": "13610638419079544798",
+      "place_id": "ChIJAQAskGzOsGoR3j-Fp4ez4rw",
+      "domain": "exclusiveestatesaustralasia.com",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Australian Luxury Stays",
+      "address": "40 Sturdee St, Linden Park SA 5065",
+      "rating": 4.7,
+      "reviews": 12,
+      "cid": "17192948198902971872",
+      "place_id": "ChIJz9IOBtHOsGoR4L1NdUufme4",
+      "domain": "www.australianluxurystays.com.au",
+      "category": "Property management company"
+    },
+    {
+      "title": "Property Sphere Real Estate",
+      "address": "Level 9/1 Corporate Ct, Bundall QLD 4217",
+      "rating": 4.9,
+      "reviews": 106,
+      "cid": "12577209334394628860",
+      "place_id": "ChIJG0SbSGUPkWsR_KpRskA5i64",
+      "domain": "www.propertysphere.com.au",
+      "category": "Real estate consultant"
+    },
+    {
+      "title": "Luxury Real Estate Group",
+      "address": "Level 13/50 Cavill Ave, Surfers Paradise QLD 4217",
+      "rating": null,
+      "reviews": 0,
+      "cid": "8849240078928784848",
+      "place_id": "ChIJq6pqWm0FkWsR0C2zbPfQzno",
+      "domain": "luxuryrealestategroup.com.au",
+      "category": "Property management company"
+    },
+    {
+      "title": "Better Homes and Gardens Real Estate Luxury Living",
+      "address": "1/20 Old Northern Rd, Baulkham Hills NSW 2153",
+      "rating": 4.7,
+      "reviews": 92,
+      "cid": "5316337547178459235",
+      "place_id": "ChIJq5loRS6iEmsRY8Ck_dRsx0k",
+      "domain": "www.bhgre.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "WILLIAMS Real Estate",
+      "address": "60 Kensington Rd, Rose Park SA 5067",
+      "rating": 4.3,
+      "reviews": 88,
+      "cid": "16549556875652466205",
+      "place_id": "ChIJ3b2-9OgWNQARHYZji0vWq-U",
+      "domain": "www.williamsproperty.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Jindal Real Estate Investment Property Agency Brisbane | Property consultant in Brisbane",
+      "address": "52 Armoury Rd, Jordan Springs NSW 2747",
+      "rating": 4.9,
+      "reviews": 16,
+      "cid": "8759653226083329606",
+      "place_id": "ChIJNTVqKOiFEmsRRiZN0DKKkHk",
+      "domain": "jindalrealestate.com.au",
+      "category": "Industrial real estate agency"
+    },
+    {
+      "title": "Deluxe Estate",
+      "address": "2460 Gold Coast Hwy, Mermaid Beach QLD 4218",
+      "rating": 5,
+      "reviews": 4,
+      "cid": "17615279287744026499",
+      "place_id": "ChIJq6p-9fQEkWsRg1dHtS4LdvQ",
+      "domain": "www.deluxeestate.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Storia Estate Groups",
+      "address": "18/180 Birkdale Rd, Birkdale QLD 4159",
+      "rating": 5,
+      "reviews": 25,
+      "cid": "2867164984936539910",
+      "place_id": "ChIJU9Jc9dlZkWsRBqeU51w3yic",
+      "domain": "storiaestategroups.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "duCHATEAU Real Estate, Surry Hills",
+      "address": "Shop 1/38 Mary St, Surry Hills NSW 2010",
+      "rating": 4.8,
+      "reviews": 252,
+      "cid": "12914574622423607544",
+      "place_id": "ChIJiZoqnxauEmsR-GjV2jHJObM",
+      "domain": "www.duchateau.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Harcourts Melbourne City",
+      "address": "107/517 Flinders Ln, Melbourne VIC 3000",
+      "rating": 4.8,
+      "reviews": 272,
+      "cid": "15495470576429261369",
+      "place_id": "ChIJeTKSSshC1moROWKVB2T4Ctc",
+      "domain": "www.melbourneharcourts.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "Joseph Lordi Luxury Real Estate Practitioner",
+      "address": "18/180 Birkdale Rd, Birkdale QLD 4159",
+      "rating": 5,
+      "reviews": 1,
+      "cid": "2134152494396258337",
+      "place_id": "ChIJ__8PHwFZkWsRIbgA7WIInh0",
+      "domain": null,
+      "category": "Real estate agency"
+    },
+    {
+      "title": "Re-define Real Estate",
+      "address": "Level 24/570 Bourke St, Melbourne VIC 3000",
+      "rating": 4.8,
+      "reviews": 352,
+      "cid": "12907882532313980018",
+      "place_id": "ChIJZ5d3Qddd1moRclwLNcYCIrM",
+      "domain": "www.re-define.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "title": "FINE LUXURY PROPERTY",
+      "address": null,
+      "rating": 3.7,
+      "reviews": 3,
+      "cid": "15227247651122351282",
+      "place_id": "ChIJF6cW5Nl7EIURsowMsA8NUtM",
+      "domain": "www.fineco.au",
+      "category": "Real estate agency"
+    },
+    {
+      "title": "TOOP+TOOP | Luxury Real Estate Adelaide",
+      "address": "23 The Parade, Norwood SA 5067",
+      "rating": 4.3,
+      "reviews": 87,
+      "cid": "2622122208281473583",
+      "place_id": "ChIJa7RfonjJsGoRL7JHfkGmYyQ",
+      "domain": "www.toop.com.au",
+      "category": "Real estate agency"
+    }
+  ],
+  "whitefoxBranches": [
+    {
+      "market": "melbourne",
+      "title": "WHITEFOX Real Estate – Stonnington",
+      "address": "Ste 1.01, Level 1/428c Toorak Rd, Toorak VIC 3142",
+      "rating": 4.6,
+      "reviews": 30,
+      "cid": "5914839233398855195",
+      "place_id": "ChIJKTtN5z9p1moRG1ZI0vG6FVI",
+      "domain": "whitefoxrealestate.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "market": "sydney",
+      "title": "WHITEFOX Real Estate - Paddington",
+      "address": "16 William St, Paddington NSW 2021",
+      "rating": null,
+      "reviews": 0,
+      "cid": "4456241830979614374",
+      "place_id": "ChIJCVkfg5utEmsRprbGyFXA1z0",
+      "domain": "sydney.whitefoxrealestate.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "market": "brisbane",
+      "title": "WHITEFOX Real Estate - Brisbane",
+      "address": "1 James St, Fortitude Valley QLD 4006",
+      "rating": 4.3,
+      "reviews": 28,
+      "cid": "17242496482938698234",
+      "place_id": "ChIJPVibo1lZkWsR-rl7UjKnSe8",
+      "domain": "brisbane.whitefoxrealestate.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "market": "goldcoast",
+      "title": "WHITEFOX Real Estate - Gold Coast",
+      "address": "1823 The Oxley, Shop 5B/2217 Gold Coast Hwy, Mermaid Beach QLD 4218",
+      "rating": 1,
+      "reviews": 3,
+      "cid": "14056211882662000003",
+      "place_id": "ChIJm4wd7XUFkWsRg3Wx-TuyEcM",
+      "domain": "goldcoast.whitefoxrealestate.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "market": "perth",
+      "title": "WHITEFOX Real Estate - Subiaco",
+      "address": "6/94 Rokeby Rd, Subiaco WA 6008",
+      "rating": 3.9,
+      "reviews": 144,
+      "cid": "2198418589798998247",
+      "place_id": "ChIJj1teN2ylMioR56CVSA9agh4",
+      "domain": "perth.whitefoxrealestate.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "market": "adelaide",
+      "title": "WHITEFOX Real Estate – Adelaide",
+      "address": "183 King William Rd, Hyde Park SA 5061",
+      "rating": 4.7,
+      "reviews": 12,
+      "cid": "11618320638367777031",
+      "place_id": "ChIJgabMOnzPsGoRB0GAaBCRPKE",
+      "domain": "adelaide.whitefoxrealestate.com.au",
+      "category": "Real estate agent"
+    },
+    {
+      "market": "peninsula",
+      "title": "WHITEFOX Real Estate - Peninsula",
+      "address": "2/1016 Mornington-Flinders Rd, Red Hill VIC 3937",
+      "rating": 3.3,
+      "reviews": 4,
+      "cid": "16247952557846027100",
+      "place_id": "ChIJQ5GWxPbH1WoRXNvPGcRSfOE",
+      "domain": "whitefoxrealestate.com.au",
+      "category": "Real estate agency"
+    },
+    {
+      "market": "melbourne_bayside",
+      "title": "WHITEFOX Real Estate - Bayside",
+      "address": "Level 1/36 Carpenter St, Brighton VIC 3186",
+      "rating": 4.2,
+      "reviews": 18,
+      "cid": "3259204287283865604",
+      "domain": "whitefoxrealestate.com.au"
+    },
+    {
+      "market": "melbourne_port_phillip",
+      "title": "WHITEFOX Real Estate – Port Phillip",
+      "address": "317A Montague St, Albert Park VIC 3206",
+      "rating": 4.4,
+      "reviews": 65,
+      "cid": "8825105119268466814",
+      "domain": "www.whitefoxrealestate.com.au"
+    },
+    {
+      "market": "melbourne_carlton",
+      "title": "WHITEFOX Real Estate - Carlton",
+      "address": "332 Drummond St, Carlton VIC 3053",
+      "rating": 4.8,
+      "reviews": 33,
+      "cid": "3138906213203555833",
+      "domain": "www.whitefoxrealestate.com.au"
+    },
+    {
+      "market": "melbourne_essendon",
+      "title": "WHITEFOX Real Estate - Essendon",
+      "address": "Suite 1/50 Fletcher St, Essendon VIC 3040",
+      "rating": 4.2,
+      "reviews": 13,
+      "cid": "651090411173124608",
+      "domain": "melbourne.whitefoxrealestate.com.au"
+    },
+    {
+      "market": "melbourne_northcote",
+      "title": "WHITEFOX Real Estate - Northcote",
+      "address": "176 High St, Northcote VIC 3070",
+      "rating": null,
+      "reviews": 0,
+      "cid": "7905716130129407022",
+      "domain": "melbourne.whitefoxrealestate.com.au"
+    },
+    {
+      "market": "sydney_manly",
+      "title": "WHITEFOX Real Estate - Manly",
+      "address": "Shop 3/46 E Esplanade, Manly NSW 2095",
+      "rating": 5,
+      "reviews": 2,
+      "cid": "7205751754708223821",
+      "domain": "sydney.whitefoxrealestate.com.au"
+    },
+    {
+      "market": "perth_applecross",
+      "title": "WHITEFOX Real Estate - Applecross",
+      "address": "36B Ardross St, Applecross WA 6153",
+      "rating": 3.7,
+      "reviews": 3,
+      "cid": "9097340486763264299",
+      "domain": "perth.whitefoxrealestate.com.au"
+    }
+  ]
+}

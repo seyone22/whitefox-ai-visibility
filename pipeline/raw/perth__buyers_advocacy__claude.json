@@ -1,0 +1,220 @@
+{
+  "slug": "perth",
+  "pk": "buyers_advocacy",
+  "plat": "claude",
+  "text": "Which luxury real estate agencies or buyers advocates in Perth offer the best buyers advocacy and acquisition advisory for prestige homes?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\perth__buyers_advocacy__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:18:36.536Z",
+  "cost": 0.118264,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 28158,
+      "output_tokens": 1546,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.117664,
+      "datetime": "2026-10-21 05:18:36 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Based on my research, here is a comprehensive guide to the **best luxury buyers advocates and acquisition advisory firms for prestige homes in Perth, WA**:\n\n---\n\n## 🏡 Top Luxury Buyers Advocates & Acquisition Advisory Services in Perth\n\nPerth is one of Australia's hottest prestige property markets right now. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Perth is among the strongest luxury home markets in Australia in 2025, having recorded the highest growth in luxury residential property among Australian capitals over recent years.",
+              "annotations": [
+                {
+                  "title": "Australia's prestige property powerhouses: Inside the 2025 shake-up",
+                  "url": "https://www.brokernews.com.au/news/breaking-news/australias-prestige-property-powerhouses-inside-the-2025-shakeup-288585.aspx",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "$4 million buys more square metres of luxury property in Perth than in Sydney or Melbourne",
+              "annotations": [
+                {
+                  "title": "Australia's prestige property powerhouses: Inside the 2025 shake-up",
+                  "url": "https://www.brokernews.com.au/news/breaking-news/australias-prestige-property-powerhouses-inside-the-2025-shakeup-288585.aspx",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", making expert buyers advocacy especially valuable for navigating this competitive landscape.\n\nHere are the leading names to consider:\n\n---\n\n### 1. 🔑 **Resolve Property Solutions** *(Prestige Buyers Agent Perth)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their collaborative approach begins with a clear understanding of your goals, preferences, and lifestyle needs. Thanks to their extensive network of agency relationships, they provide access to exclusive off-market opportunities rarely seen by the general public — with their strong reputation ensuring they're among the first to know when premium properties become available, often well before they are advertised.",
+              "annotations": [
+                {
+                  "title": "Prestige Property Buyers Agent Perth-",
+                  "url": "https://resolvepropertysolutions.com.au/prestige-properties/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are regarded as a strong independent local expert for prestige acquisitions.\n\n---\n\n### 2. 🔑 **Ang McGrath – Residential Buyers Advocate | Realmark Urban**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "With more than 20 years of Perth real estate experience, Ang McGrath has built a reputation as one of Western Australia's most trusted buyer advocates. Known for her strategic approach, honest advice and strong industry relationships, Ang works exclusively for buyers to help them secure homes, investment properties and commercial assets across Perth. Her expertise has been featured across major media outlets and industry publications.",
+              "annotations": [
+                {
+                  "title": "The Best Buyers Agents in Perth",
+                  "url": "https://www.top10realestateagent.com.au/the-best-buyers-agents-in-perth.html",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. 🔑 **Rise Property Buyers – Adam Nyeholt**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Rise Property Buyers is a Perth-based Buyers Agency servicing Western Australia and nationwide, offering a full end-to-end property buying service. Their specialist high-end luxury home division focuses on sourcing properties for interstate or overseas clients, or clients who lead busy lifestyles and lack the free time to spend endlessly searching for their dream home.",
+              "annotations": [
+                {
+                  "title": "The Best Buyers Agents in Perth",
+                  "url": "https://www.top10realestateagent.com.au/the-best-buyers-agents-in-perth.html",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. 🔑 **Strategic Property Group – Trent Fleskens**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Trent Fleskens is one of Perth's most sought-after independent buyers agents in WA, and is Managing Director of Strategic Property Group and Strategic Settlements — Perth's only full-service property development advisory, with over 50 urban-infill developments currently in construction on behalf of private clients and syndicates, ranging from small triplexes to luxury apartment complexes and large-format land subdivisions.",
+              "annotations": [
+                {
+                  "title": "The Best Buyers Agents in Perth",
+                  "url": "https://www.top10realestateagent.com.au/the-best-buyers-agents-in-perth.html",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. 🔑 **Meryl Carter Luxury Real Estate Sales**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Meryl Carter's network of luxury agents offers unparalleled exposure to a qualified, discerning audience of local and international buyers, with an active approach to international marketing that puts Western Australia's finest properties on a worldwide stage.",
+              "annotations": [
+                {
+                  "title": "Meryl Carter",
+                  "url": "https://www.luxuryrealestatesales.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " While primarily a selling agency, Meryl Carter has deep expertise in Perth's prestige market and can provide valuable acquisition advisory insights. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Well-designed floorplans attract a premium from buyers, particularly on the waterfront, and in suburbs like Applecross, South Perth, Nedlands, Dalkeith, Mosman Park, Cottesloe, and Peppermint Grove, larger blocks with fantastic views and outlook attract a premier rate per square metre.",
+              "annotations": [
+                {
+                  "title": "Australia’s prestige property market finds its footing again - residential news - API Magazine",
+                  "url": "https://www.apimagazine.com.au/news/article/australia-s-prestige-property-market-finds-its-footing-again",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 🏙️ Key Prestige Suburbs to Target in Perth\n\nWhen working with a buyers advocate, the most sought-after prestige areas include:\n- **Mosman Park** – Perth's premier suburb for luxury living\n- **Peppermint Grove** – Heritage and ultra-premium estates\n- **Dalkeith & Nedlands** – Riverside prestige\n- **Cottesloe** – Coastal luxury\n- **Applecross & South Perth** – Waterfront lifestyle\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Demand drivers in Perth's prestige market include mining and resources wealth, returning expatriates, cashed-up local upgraders and downsizers, fly-in fly-out and resources-executive buyers, and growing international interest.",
+              "annotations": [
+                {
+                  "title": "Perth's Prestige Property Market: Riding the Peak as the Cycle Turns",
+                  "url": "https://opteonsolutions.com/au/insights/perths-prestige-property-market-riding-the-peak-as-the-cycle-turns",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 💡 What to Look For in a Perth Prestige Buyers Advocate\n\nWhen selecting a buyers advocate for luxury property, prioritise:\n- **Off-market access** – The best prestige deals are rarely publicly listed\n- **Independent representation** – They should work exclusively for buyers, not sellers\n- **Local suburb expertise** – Deep knowledge of blue-chip Perth enclaves\n- **Strong agent relationships** – Critical for early access to prestige listings\n- **Negotiation track record** – Especially important in a competitive market\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "In Perth, buyers are paying premiums for completed, high-quality homes offering certainty around cost, time and finish",
+              "annotations": [
+                {
+                  "title": "Australia’s prestige property market finds its footing again - residential news - API Magazine",
+                  "url": "https://www.apimagazine.com.au/news/article/australia-s-prestige-property-market-finds-its-footing-again",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", so having an advocate who can assess quality and value is essential.\n\n---\n\nWould you like more detail on any specific firm, suburb, or the current state of Perth's prestige property market?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best luxury buyers advocates Perth prestige homes 2024 2025",
+        "top buyers advocacy acquisition advisory prestige real estate Perth WA",
+        "luxury buyers advocates Perth prestige property acquisition advisory firms",
+        "Perth buyers agent prestige homes luxury acquisition advisory 2025"
+      ]
+    }
+  ]
+}

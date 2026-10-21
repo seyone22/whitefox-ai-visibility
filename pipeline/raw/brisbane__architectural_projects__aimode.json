@@ -1,0 +1,141 @@
+{
+  "slug": "brisbane",
+  "pk": "architectural_projects",
+  "plat": "aimode",
+  "text": "Which prestige real estate agencies in Brisbane are the market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\brisbane__architectural_projects__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:15:48.524Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which prestige real estate agencies in Brisbane are the market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000339,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20prestige%20real%20estate%20agencies%20in%20Brisbane%20are%20the%20market%20leaders%20for%20luxury%20off-the-plan%20developments%2C%20penthouses%2C%20and%20architectural%20project%20marketing%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCbsg9lwEWpFrEcCE3vNaowIF",
+      "datetime": "2026-10-21 05:15:48 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "Brisbane's luxury off-the-plan, penthouse, and architectural project marketing sectors are dominated by specialized prestige agencies known for handling high-value inner-city and riverfront stock. The leading firms include **TOTAL Property Group**, **Ray White New Farm / Collective** (luxury division), **Knight Frank Brisbane** (Residential Projects), **CBRE Residential Projects** , and **North South Real Estate (NSRE)**.[[1]](https://prestigepropertymagazine.com/aire-newstead-launches-luxury-apartments/)[[2]](https://www.nsre.com.au/)\n\n### Top Prestige and Project Marketing Agencies\n\n- **TOTAL Property Group** : Widely recognized as a premier luxury apartment and project marketing specialist across Southeast Queensland, managing high-end architectural releases such as *Aire Newstead*.[[1]](https://prestigepropertymagazine.com/aire-newstead-launches-luxury-apartments/)\n- **Ray White New Farm** : A heavyweight in inner-Brisbane prestige residential sales, record-breaking penthouses, and high-end lifestyle developments throughout New Farm, Teneriffe, and Newstead.\n- **Knight Frank Brisbane (Residential Projects)** : Acts for major institutional and private developers, steering high-rise luxury towers, riverfront penthouses, and large-scale architectural masterplans.\n- **CBRE Residential Projects** : Specializes in landmark vertical communities, luxury off-the-plan towers, and penthouses with national and international investor networks.\n- **North South Real Estate (NSRE)** : Focuses on ultra-prime prestige property sales, buyer advocacy, and high-value off-market acquisitions spanning Brisbane, the Gold Branch, and international luxury markets.[[1]](https://www.nsre.com.au/)\n\nIf you are looking to buy or market a specific project, let me know:\n\n- Are you interested as a **developer seeking a marketing partner** or a **buyer looking for penthouse inventory**?\n- Which **suburb or price bracket** are you targeting?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Brisbane's luxury off-the-plan, penthouse, and architectural project marketing sectors are dominated by specialized prestige agencies known for handling high-value inner-city and riverfront stock. The leading firms include TOTAL Property Group, Ray White New Farm / Collective (luxury division), Knight Frank Brisbane (Residential Projects), CBRE Residential Projects, and North South Real Estate (NSRE).",
+              "markdown": "Brisbane's luxury off-the-plan, penthouse, and architectural project marketing sectors are dominated by specialized prestige agencies known for handling high-value inner-city and riverfront stock. The leading firms include **TOTAL Property Group**, **Ray White New Farm / Collective** (luxury division), **Knight Frank Brisbane** (Residential Projects), **CBRE Residential Projects** , and **North South Real Estate (NSRE)**.[[1]](https://prestigepropertymagazine.com/aire-newstead-launches-luxury-apartments/)[[2]](https://www.nsre.com.au/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Prestige Property Magazine",
+                  "domain": "prestigepropertymagazine.com",
+                  "url": "https://prestigepropertymagazine.com/aire-newstead-launches-luxury-apartments/",
+                  "title": "Aire Newstead Launches Luxury Apartments",
+                  "text": "Designed by the globally renowned architectural firm bureau^proberts, Aire Newstead, now under construction with leading construct..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "North South Real Estate",
+                  "domain": "www.nsre.com.au",
+                  "url": "https://www.nsre.com.au/",
+                  "title": "Prestige Property | Brisbane, Gold Coast & Byron Bay | NSRE",
+                  "text": "North South Real Estate (NSRE) specialising in prestige property sales, buyer advocacy, and strategic management. Locations: Brisb..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Top Prestige and Project Marketing Agencies",
+              "text": "TOTAL Property Group : Widely recognized as a premier luxury apartment and project marketing specialist across Southeast Queensland, managing high-end architectural releases such as Aire Newstead. Ray White New Farm : A heavyweight in inner-Brisbane prestige residential sales, record-breaking penthouses, and high-end lifestyle developments throughout New Farm, Teneriffe, and Newstead. Knight Frank Brisbane (Residential Projects) : Acts for major institutional and private developers, steering high-rise luxury towers, riverfront penthouses, and large-scale architectural masterplans. CBRE Residential Projects : Specializes in landmark vertical communities, luxury off-the-plan towers, and penthouses with national and international investor networks. North South Real Estate (NSRE) : Focuses on ultra-prime prestige property sales, buyer advocacy, and high-value off-market acquisitions spanning Brisbane, the Gold Branch, and international luxury markets.",
+              "markdown": "- **TOTAL Property Group** : Widely recognized as a premier luxury apartment and project marketing specialist across Southeast Queensland, managing high-end architectural releases such as *Aire Newstead*.[[1]](https://prestigepropertymagazine.com/aire-newstead-launches-luxury-apartments/)\n- **Ray White New Farm** : A heavyweight in inner-Brisbane prestige residential sales, record-breaking penthouses, and high-end lifestyle developments throughout New Farm, Teneriffe, and Newstead.\n- **Knight Frank Brisbane (Residential Projects)** : Acts for major institutional and private developers, steering high-rise luxury towers, riverfront penthouses, and large-scale architectural masterplans.\n- **CBRE Residential Projects** : Specializes in landmark vertical communities, luxury off-the-plan towers, and penthouses with national and international investor networks.\n- **North South Real Estate (NSRE)** : Focuses on ultra-prime prestige property sales, buyer advocacy, and high-value off-market acquisitions spanning Brisbane, the Gold Branch, and international luxury markets.[[1]](https://www.nsre.com.au/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Prestige Property Magazine",
+                  "domain": "prestigepropertymagazine.com",
+                  "url": "https://prestigepropertymagazine.com/aire-newstead-launches-luxury-apartments/",
+                  "title": "Aire Newstead Launches Luxury Apartments",
+                  "text": "TOTAL Property Group is now presenting to the market, the complete collection of 40 home-sized private residences at Aire Newstead … across 11 levels."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "North South Real Estate",
+                  "domain": "www.nsre.com.au",
+                  "url": "https://www.nsre.com.au/",
+                  "title": "Prestige Property | Brisbane, Gold Coast & Byron Bay | NSRE",
+                  "text": "North South Real Estate (NSRE) specialising in prestige property sales, buyer advocacy, and strategic management. Locations: Brisbane, Gold Coast, Byron Bay"
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you are looking to buy or market a specific project, let me know:",
+              "markdown": "If you are looking to buy or market a specific project, let me know:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Are you interested as a developer seeking a marketing partner or a buyer looking for penthouse inventory ? Which suburb or price bracket are you targeting?",
+              "markdown": "- Are you interested as a **developer seeking a marketing partner** or a **buyer looking for penthouse inventory**?\n- Which **suburb or price bracket** are you targeting?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Prestige Property Magazine",
+              "domain": "prestigepropertymagazine.com",
+              "url": "https://prestigepropertymagazine.com/aire-newstead-launches-luxury-apartments/",
+              "title": "Aire Newstead Launches Luxury Apartments",
+              "text": "TOTAL Property Group is now presenting to the market, the complete collection of 40 home-sized private residences at Aire Newstead … across 11 levels."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "North South Real Estate",
+              "domain": "www.nsre.com.au",
+              "url": "https://www.nsre.com.au/",
+              "title": "Prestige Property | Brisbane, Gold Coast & Byron Bay | NSRE",
+              "text": "North South Real Estate (NSRE) specialising in prestige property sales, buyer advocacy, and strategic management. Locations: Brisbane, Gold Coast, Byron Bay"
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

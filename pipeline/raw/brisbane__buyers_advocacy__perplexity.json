@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane",
+  "pk": "buyers_advocacy",
+  "plat": "perplexity",
+  "text": "Which luxury real estate agencies or buyers advocates in Brisbane offer the best buyers advocacy and acquisition advisory for prestige homes?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\brisbane__buyers_advocacy__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:15:31.901Z",
+  "cost": 0.006206,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 29,
+      "output_tokens": 577,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005606,
+      "datetime": "2026-10-21 05:15:31 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For **prestige-home acquisition in Brisbane**, the strongest shortlist is:\n\n1. **Joanna Boyd Buyers Advocate — best specialist choice for discreet luxury acquisition**  \n   Focuses exclusively on prestige buyers, with end-to-end representation covering tailored searches, off-market access, negotiation, due diligence and settlement. The agency says Joanna Boyd was named **2025 REIQ Buyer’s Agent of the Year** and has more than 28 years’ experience.[1]\n\n2. **North South Real Estate — best for trophy homes, luxury apartments and complex advisory**  \n   A boutique Brisbane-based luxury agency offering buyer representation, off-market sourcing, negotiation, property strategy and development advice. Its team covers prestige homes, high-end apartments and development opportunities, with services extending from initial brief through settlement.[2][3]\n\n3. **Cohen Handler Brisbane — best for a larger national platform and privacy protocols**  \n   Offers access to off-market and pre-market properties, Brisbane market expertise and acquisition support for high-profile clients, including private inspections and non-disclosure agreements.[10]\n\n4. **Pinnacle Buyers Agents — best boutique option for blue-chip residential purchases**  \n   Its Brisbane service is positioned around research-led acquisition and finding under-market-value homes in blue-chip suburbs; it may suit buyers who want a smaller, strategy-focused advocate.[9]\n\n5. **Hunter Gather — best for personalised inner-north and bayside searches**  \n   Offers full-service acquisition, assessment-only and auction-bidding options, with particular local intelligence in Brisbane’s bayside and inner-north markets.[9]\n\n6. **You & Me Personalised Property Services — best for a highly managed end-to-end process**  \n   Acts exclusively for buyers and provides off-market access, market analytics, due diligence, negotiation, contract support and post-settlement assistance, including for multi-million-dollar purchases.[8]\n\n## Best fit by requirement\n\n| Requirement | Best starting point |\n|---|---|\n| Highly discreet, fully managed prestige purchase | Joanna Boyd |\n| Trophy home, luxury apartment or development advisory | North South Real Estate |\n| National network and formal privacy procedures | Cohen Handler |\n| Boutique blue-chip acquisition strategy | Pinnacle Buyers Agents |\n| Local bayside or inner-north expertise | Hunter Gather |\n| Broad end-to-end buyer support | You & Me |\n\nFor a genuinely high-value purchase, interview **Joanna Boyd, North South Real Estate and Cohen Handler first**. Ask each to provide recent comparable acquisitions, their actual off-market sourcing process, independent due-diligence arrangements, fee structure, conflicts policy and whether they represent sellers in the same target suburbs. Some agencies combine selling and buying services, so confirm in writing that the engagement is exclusively aligned with the buyer’s interests.[2][3][10]",
+              "annotations": [
+                {
+                  "title": "Exclusive Buyer Advocacy for Brisbane’s Prestige Property Market",
+                  "url": "https://prestige.joannaboyd.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Real Estate Reviews | Buyers Agent Brisbane & Gold Coast",
+                  "url": "https://www.nsre.com.au/real-estate-agency-reviews",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Luxury Real Estate Agent | Brisbane, Gold Coast & Byron Bay",
+                  "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Buyers Agent Gold Coast | Buyers Advocate Brisbane & ...",
+                  "url": "https://www.nsre.com.au/buyers-agent-brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "North South Real Estate",
+                  "url": "https://www.nsre.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Buyers Agents in Hamilton, Brisbane | Find Local Property Experts",
+                  "url": "https://buyersagentsbrisbane.net.au/location/hamilton",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Brisbane Buyers Agents Directory | Compare Top Advocates",
+                  "url": "https://buyersagentsbrisbane.net.au/agents",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Buyer's Agent Brisbane | Expert Property Buying Support",
+                  "url": "https://youandmepps.com.au/brisbane-buyers-agent/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 5 Buyer's Agent in Brisbane in 2026 | Reviewed & Ranked",
+                  "url": "https://whichrealestateagent.com.au/buyers-agent/best-buyers-agent-in-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Buyers Agents Brisbane",
+                  "url": "https://cohenhandler.com.au/brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

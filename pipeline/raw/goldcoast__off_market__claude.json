@@ -1,0 +1,362 @@
+{
+  "slug": "goldcoast",
+  "pk": "off_market",
+  "plat": "claude",
+  "text": "Which luxury real estate agents and agencies in Gold Coast specialise in confidential off-market prestige property sales and high-net-worth buyer networks?",
+  "loc": 1000665,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\goldcoast__off_market__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:16:54.524Z",
+  "cost": 0.068086,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10147,
+      "output_tokens": 1803,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.067486,
+      "datetime": "2026-10-21 05:16:54 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a comprehensive overview of the leading luxury real estate agents and agencies in the Gold Coast that specialise in **confidential off-market prestige property sales** and **high-net-worth (HNW) buyer networks**:\n\n---\n\n## 🏡 Top Gold Coast Luxury & Off-Market Prestige Property Specialists\n\n---\n\n### 1. **Kollosche** *(Michael Kollosche)*\n🌐 [kollosche.com.au](https://www.kollosche.com.au)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Michael Kollosche is the driving force behind the Gold Coast's leading prestige property agency. Over three decades, he and his team have built long-term relationships with high-net-worth individuals across Australia and abroad, with residential, commercial, and development interests.",
+              "annotations": [
+                {
+                  "title": "Gold Coast Luxury Real Estate Leaders",
+                  "url": "https://www.kollosche.com.au/about-us/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "With an exceptional sales record of over **$9 billion** in settled sales spanning 28 years and a vast network of high-net-worth clients, Michael's name is synonymous with service, strategy, and premium results.",
+              "annotations": [
+                {
+                  "title": "Gold Coast Luxury Real Estate Leaders",
+                  "url": "https://www.kollosche.com.au/about-us/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Kollosche's New Projects division specialises in off-the-plan luxury apartment sales as well as end-to-end solutions for developers.",
+              "annotations": [
+                {
+                  "title": "Gold Coast Luxury Real Estate Leaders",
+                  "url": "https://www.kollosche.com.au/about-us/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n📍 Covers Sovereign Islands to Coolangatta and the Gold Coast Hinterland.\n\n---\n\n### 2. **Amir Prestige**\n🌐 [amirprestige.com.au](https://www.amirprestige.com.au)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Amir Prestige is a luxury property leader serving clients with interests in residential, commercial, leasing, and new projects across all parts of the Gold Coast and Northern NSW.",
+              "annotations": [
+                {
+                  "title": "Amir Prestige: Gold Coast Luxury Real Estate Agency",
+                  "url": "https://www.amirprestige.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They remain the only agency in Queensland to have completed **10 transactions over $20,000,000**.",
+              "annotations": [
+                {
+                  "title": "Amir Prestige: Gold Coast Luxury Real Estate Agency",
+                  "url": "https://www.amirprestige.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Behind their success is a network of over **250,000 qualified buyers**, including high-net-worth individuals, celebrities, and influential figures — backed by a personal approach and unwavering dedication to clients.",
+              "annotations": [
+                {
+                  "title": "Amir Prestige: Gold Coast Luxury Real Estate Agency",
+                  "url": "https://www.amirprestige.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. **North South Real Estate (NSRE)** *(Nik Seirlis)*\n🌐 [nsre.com.au](https://www.nsre.com.au)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "North South Real Estate is a boutique prestige property agency, proudly serving high-net-worth clients across South East QLD and Northern NSW with prestige and premium real estate across Brisbane, the Gold Coast, and Byron Bay.",
+              "annotations": [
+                {
+                  "title": "Prestige Property",
+                  "url": "https://www.nsre.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They specialise in **off-market listings**, buyer's advocacy, and investment advisory.",
+              "annotations": [
+                {
+                  "title": "Prestige Property",
+                  "url": "https://www.nsre.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They guide high-net-worth individuals through complex property decisions with precision, **privacy**, and insight.",
+              "annotations": [
+                {
+                  "title": "Prestige Property",
+                  "url": "https://www.nsre.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They specialise in luxury real estate advisory, bespoke property development, and strategic investment consulting for **Family Offices, HNWIs, and UHNWIs**.",
+              "annotations": [
+                {
+                  "title": "Prestige Property",
+                  "url": "https://www.nsre.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "NSRE has completed over **$1.2 billion** in luxury property and development transactions across Southeast Queensland and Northern NSW.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agent",
+                  "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. **Luxure – The Property People** *(Sonja Smith)*\n🌐 [luxure.net.au](https://www.luxure.net.au)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Luxure is a luxury property advisory specialising in high-end homes and prestige real estate on the Gold Coast. They offer a **considered, confidential approach** for buyers and sellers seeking exceptional waterfront and lifestyle properties.",
+              "annotations": [
+                {
+                  "title": "Luxure The Property People",
+                  "url": "https://www.luxure.net.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Director Sonja Smith is a Gold Coast luxury real estate specialist with over **27 years** of industry experience, renowned for **discretion**, strategic negotiation, and exceptional results, representing premium waterfront and lifestyle properties across the central Gold Coast.",
+              "annotations": [
+                {
+                  "title": "Luxure The Property People",
+                  "url": "https://www.luxure.net.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. **Lucy Cole Prestige**\n🌐 [lucycole.com.au](https://www.lucycole.com.au)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Established in 2000, Lucy Cole Prestige has become a respected name associated with the finest in Gold Coast prestige and luxury residential real estate.",
+              "annotations": [
+                {
+                  "title": "Lucy Cole Prestige",
+                  "url": "https://www.lucycole.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The agency is associated with the finest in Gold Coast residential real estate, including **luxury beachfront and waterfront homes, apartments, and penthouses**.",
+              "annotations": [
+                {
+                  "title": "Lucy Cole Prestige",
+                  "url": "https://www.lucycole.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer clients the opportunity to be notified of new listings and **exclusive off-market opportunities** via their mailing list.",
+              "annotations": [
+                {
+                  "title": "Lucy Cole Prestige",
+                  "url": "https://www.lucycole.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 6. **JW Prestige Agents** *(Jordan Williams)*\n🌐 [prestigeagents.com.au](https://prestigeagents.com.au)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "JW Prestige Agents is a boutique agency dedicated to selling remarkable homes. Established by leading Gold Coast real estate expert Jordan Williams, the agency has a distinguished history of securing high-end sales and record price points — with Jordan having personally sold more than **$800 million** in residential property across the Gold Coast.",
+              "annotations": [
+                {
+                  "title": "JW Prestige Agents",
+                  "url": "https://prestigeagents.com.au/about-jw-prestige-agents-gold-coast-real-estate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 7. **Ray White Prestige, McGrath Estate Agents & Harcourts Coastal**\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The Gold Coast is also home to prominent agencies including **Ray White Prestige**, **McGrath Estate Agents**, and **Harcourts Coastal** — all renowned for their expertise in high-end listings and offering a comprehensive range of services tailored to discerning buyers and sellers.",
+              "annotations": [
+                {
+                  "title": "3 Luxury Real Estate Agents in Gold Coast",
+                  "url": "https://intently.co/suppliers/Australia/Gold+Coast/Luxury+Real+Estate",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 💡 Key Tips for Off-Market & Confidential Prestige Sales\n\nWhen seeking **confidential off-market** transactions on the Gold Coast, consider:\n\n- **Boutique agencies** (like Luxure, NSRE, JW Prestige, and Lucy Cole Prestige) tend to prioritise **discretion and personalised service** over volume.\n- **Relationship-driven agents** like Michael Kollosche and Amir Prestige have the largest **private HNW buyer databases**, making them ideal for quiet, pre-market campaigns.\n- **Buyer's advocacy services** (such as those offered by NSRE) can help HNW buyers access properties that never reach the public market.\n- Registering on **private mailing lists** (e.g., Lucy Cole Prestige) is one of the best ways to gain early or exclusive access to off-market listings.\n\nWould you like more detail on any of these agencies or agents, such as their specialty suburbs, recent record sales, or contact details?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "luxury real estate agents Gold Coast off-market prestige property sales high-net-worth",
+        "Gold Coast confidential off-market prestige property agencies 2025"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "slug": "adelaide",
+  "pk": "luxury_agency",
+  "plat": "aimode",
+  "text": "Who are the best luxury real estate agencies in Adelaide? Give me a shortlist of specific prestige property agencies with reasons.",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\adelaide__luxury_agency__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:18:26.779Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the best luxury real estate agencies in Adelaide? Give me a shortlist of specific prestige property agencies with reasons.",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000422,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Who%20are%20the%20best%20luxury%20real%20estate%20agencies%20in%20Adelaide%3F%20Give%20me%20a%20shortlist%20of%20specific%20prestige%20property%20agencies%20with%20reasons.&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCeekA6PXzrBqEVM-HE5YcI2z",
+      "datetime": "2026-10-21 05:18:26 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "Adelaide’s top luxury real estate agencies include `WILLIAMS Real Estate, TOOP+TOOP, Turner Real Estate, and Ouwens Casserly` . These firms lead the prestige market through record-breaking high-end sales, specialized luxury marketing campaigns, and extensive private buyer databases.\n\n### Top Prestige Property Agencies\n\n- **[WILLIAMS Real Estate](https://www.williamsproperty.com.au/592041/stephanie-williams)** : Led by Stephanie and John Williams, this Rose Park-based agency dominates South Australia's luxury property sector. They achieve record-level median sale prices through a tailored, high-end strategy focusing on architecture, bespoke digital campaigns, and an exclusive private database of high-net-worth clients.[[1]](https://www.williamsproperty.com.au/592041/stephanie-williams)[[2]](https://www.realestate.com.au/agency/williams-real-estate-rla-247163-YIPRKX)\n- **[TOOP+TOOP](https://www.toop.com.au/)** : Recognized as one of Adelaide's most innovative independent agencies, TOOP+TOOP excels in high-end residential sales. They use cutting-edge digital marketing, sophisticated media integration, and targeted auction strategies to showcase premium properties across Adelaide’s premier suburbs.[[1]](https://toop.com.au/1001-21-centenary-street-north-adelaide-5162488)[[2]](https://x.com/ToopandToop_)\n- **[Turner Real Estate (Prestige Sales)](https://www.turnerrealestate.com.au/prestige-sales/)** : Turner offers a dedicated luxury property division backed by decades of local market experience. Their prestige team provides specialized advisory services for high-value family homes and modern architectural builds in elite inner-ring locations.[[1]](https://www.turnerrealestate.com.au/prestige-sales/)\n- **[Ouwens Casserly](https://ocre.com.au/)** : As a major privately-owned agency group in South Australia, Ouwens Casserly handles substantial volume in the upper-mid to high-end residential market. They combine strong local neighborhood networks with professional branding to market high-value residential properties and developments.[[1]](https://ocre.com.au/offices/kensington)\n\nIf you are looking to **buy or sell** , tell me **which suburb** or **price bracket** you are targeting so I can recommend a specific agent best suited to that area.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Adelaide’s top luxury real estate agencies include WILLIAMS Real Estate, TOOP+TOOP, Turner Real Estate, and Ouwens Casserly. These firms lead the prestige market through record-breaking high-end sales, specialized luxury marketing campaigns, and extensive private buyer databases.",
+              "markdown": "Adelaide’s top luxury real estate agencies include `WILLIAMS Real Estate, TOOP+TOOP, Turner Real Estate, and Ouwens Casserly` . These firms lead the prestige market through record-breaking high-end sales, specialized luxury marketing campaigns, and extensive private buyer databases.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Top Prestige Property Agencies",
+              "text": "WILLIAMS Real Estate : Led by Stephanie and John Williams, this Rose Park-based agency dominates South Australia's luxury property sector. They achieve record-level median sale prices through a tailored, high-end strategy focusing on architecture, bespoke digital campaigns, and an exclusive private database of high-net-worth clients. TOOP+TOOP : Recognized as one of Adelaide's most innovative independent agencies, TOOP+TOOP excels in high-end residential sales. They use cutting-edge digital marketing, sophisticated media integration, and targeted auction strategies to showcase premium properties across Adelaide’s premier suburbs. Turner Real Estate (Prestige Sales) : Turner offers a dedicated luxury property division backed by decades of local market experience. Their prestige team provides specialized advisory services for high-value family homes and modern architectural builds in elite inner-ring locations. Ouwens Casserly : As a major privately-owned agency group in South Australia, Ouwens Casserly handles substantial volume in the upper-mid to high-end residential market. They combine strong local neighborhood networks with professional branding to market high-value residential properties and developments.",
+              "markdown": "- **[WILLIAMS Real Estate](https://www.williamsproperty.com.au/592041/stephanie-williams)** : Led by Stephanie and John Williams, this Rose Park-based agency dominates South Australia's luxury property sector. They achieve record-level median sale prices through a tailored, high-end strategy focusing on architecture, bespoke digital campaigns, and an exclusive private database of high-net-worth clients.[[1]](https://www.williamsproperty.com.au/592041/stephanie-williams)[[2]](https://www.realestate.com.au/agency/williams-real-estate-rla-247163-YIPRKX)\n- **[TOOP+TOOP](https://www.toop.com.au/)** : Recognized as one of Adelaide's most innovative independent agencies, TOOP+TOOP excels in high-end residential sales. They use cutting-edge digital marketing, sophisticated media integration, and targeted auction strategies to showcase premium properties across Adelaide’s premier suburbs.[[1]](https://toop.com.au/1001-21-centenary-street-north-adelaide-5162488)[[2]](https://x.com/ToopandToop_)\n- **[Turner Real Estate (Prestige Sales)](https://www.turnerrealestate.com.au/prestige-sales/)** : Turner offers a dedicated luxury property division backed by decades of local market experience. Their prestige team provides specialized advisory services for high-value family homes and modern architectural builds in elite inner-ring locations.[[1]](https://www.turnerrealestate.com.au/prestige-sales/)\n- **[Ouwens Casserly](https://ocre.com.au/)** : As a major privately-owned agency group in South Australia, Ouwens Casserly handles substantial volume in the upper-mid to high-end residential market. They combine strong local neighborhood networks with professional branding to market high-value residential properties and developments.[[1]](https://ocre.com.au/offices/kensington)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "WILLIAMS Real Estate",
+                  "description": null,
+                  "url": "https://www.williamsproperty.com.au/592041/stephanie-williams",
+                  "domain": "www.williamsproperty.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "TOOP+TOOP",
+                  "description": null,
+                  "url": "https://www.toop.com.au/",
+                  "domain": "www.toop.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Turner Real Estate (Prestige Sales)",
+                  "description": null,
+                  "url": "https://www.turnerrealestate.com.au/prestige-sales/",
+                  "domain": "www.turnerrealestate.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Ouwens Casserly",
+                  "description": null,
+                  "url": "https://ocre.com.au/",
+                  "domain": "ocre.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Williams Real Estate",
+                  "domain": "www.williamsproperty.com.au",
+                  "url": "https://www.williamsproperty.com.au/592041/stephanie-williams",
+                  "title": "Stephanie Williams | Williams Real Estate",
+                  "text": "Number One Real Estate Agent in Luxury Property Sales in South Australia. Contact: Phone 0413 874 888, email stephanie@williamslux..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Real Estate",
+                  "domain": "www.realestate.com.au",
+                  "url": "https://www.realestate.com.au/agency/williams-real-estate-rla-247163-YIPRKX",
+                  "title": "WILLIAMS Real Estate RLA 247163 - Reviews & Properties",
+                  "text": "WILLIAMS Real Estate 60 Kensington Road, Rose Park, SA 5067); 27 staff members; 5.0 rating from 839 reviews. Key Team: Stephanie W..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "TOOP+TOOP Real Estate",
+                  "domain": "toop.com.au",
+                  "url": "https://toop.com.au/1001-21-centenary-street-north-adelaide-5162488",
+                  "title": "1001 / 21 Centenary Street, North Adelaide SA 5006",
+                  "text": "Highest-level west-facing 2-bedroom sub-penthouse within the Centenary Building. Miele appliances"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "X",
+                  "domain": "x.com",
+                  "url": "https://x.com/ToopandToop_",
+                  "title": "Toop&Toop (@ToopandToop_) / X",
+                  "text": "Adelaide's Premier Real Estate Agency. Adelaide, South Australia. Talking about Prospect today and auctions."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Turner Real Estate",
+                  "domain": "www.turnerrealestate.com.au",
+                  "url": "https://www.turnerrealestate.com.au/prestige-sales/",
+                  "title": "Prestige Sales - Turner Real Estate",
+                  "text": "Turner Prestige Sales is a dedicated luxury property service in Adelaide, backed by 33 years of Turner's experience and currently ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "OC Real Estate",
+                  "domain": "ocre.com.au",
+                  "url": "https://ocre.com.au/offices/kensington",
+                  "title": "OC Kensington | Ouwens Casserly",
+                  "text": "South Australia's largest privately-owned residential and development real estate agency. selling, property management, Sales 08 7..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you are looking to buy or sell, tell me which suburb or price bracket you are targeting so I can recommend a specific agent best suited to that area.",
+              "markdown": "If you are looking to **buy or sell** , tell me **which suburb** or **price bracket** you are targeting so I can recommend a specific agent best suited to that area.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "TOOP+TOOP Real Estate",
+              "domain": "toop.com.au",
+              "url": "https://toop.com.au/1001-21-centenary-street-north-adelaide-5162488",
+              "title": "1001 / 21 Centenary Street, North Adelaide SA 5006",
+              "text": "Highest-level west-facing 2-bedroom sub-penthouse within the Centenary Building. Miele appliances"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Williams Real Estate",
+              "domain": "www.williamsproperty.com.au",
+              "url": "https://www.williamsproperty.com.au/592041/stephanie-williams",
+              "title": "Stephanie Williams | Williams Real Estate",
+              "text": "Number One Real Estate Agent in Luxury Property Sales in South Australia. Contact: Phone 0413 874 888, email stephanie@williamsluxury.com.au. Over 20,000 clients o..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Real Estate",
+              "domain": "www.realestate.com.au",
+              "url": "https://www.realestate.com.au/agency/williams-real-estate-rla-247163-YIPRKX",
+              "title": "WILLIAMS Real Estate RLA 247163 - Reviews & Properties",
+              "text": "WILLIAMS Real Estate 60 Kensington Road, Rose Park, SA 5067); 27 staff members; 5.0 rating from 839 reviews. Key Team: Stephanie Williams (Partner, 44 sold, $3.15M..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

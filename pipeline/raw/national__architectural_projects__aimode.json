@@ -1,0 +1,128 @@
+{
+  "slug": "national",
+  "pk": "architectural_projects",
+  "plat": "aimode",
+  "text": "Which prestige real estate agencies in Australia are the market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing?",
+  "loc": 2036,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\national__architectural_projects__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:21:39.875Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which prestige real estate agencies in Australia are the market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 2036,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20prestige%20real%20estate%20agencies%20in%20Australia%20are%20the%20market%20leaders%20for%20luxury%20off-the-plan%20developments%2C%20penthouses%2C%20and%20architectural%20project%20marketing%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCd_Fh2cH_SsrEVITW5WhZ4JT",
+      "datetime": "2026-10-21 05:21:39 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "The primary market leaders for luxury off-the-plan developments, high-end penthouses, and architectural project marketing in Australia are major international property groups like [Colliers](https://www.colliers.com.au/en-au/services/residential-and-living-transactions/project-marketing-and-sales), [CBRE Residential Projects](https://www.cbre.com.au/) , and [Knight Frank](https://www.knightfrank.com.au/) , alongside elite high-end domestic networks such as Highland, McGrath Prestige, and specialized local boutique firms like Place Estate Agents in Queensland.\n\n### National Commercial & Project Marketing Giants\n\n- [Colliers](https://www.colliers.com.au/en-au/services/residential-and-living-transactions/project-marketing-and-sales) : Dominates large-scale luxury apartment towers and penthouse collections through dedicated residential project marketing and capital advisory teams across Sydney, Melbourne, and Brisbane.\n- [CBRE Residential Projects](https://www.cbre.com.au/) : Handles premier high-rise residential campaigns, leveraging global buyer databases and institutional developer relationships for landmark architectural buildings.\n- [Knight Frank](https://www.knightfrank.com.au/) : Renowned globally and locally for high-net-worth private client advisory, ultra-prime penthouses, and exclusive off-the-plan trophy asset marketing.\n\n### Elite Regional & Lifestyle Specialists\n\n- **Position Property & Place Project Marketing (QLD):** Major players dominating the booming southeast Queensland luxury coastal and inner-city architectural apartment sector.\n- **Highland Project Marketing (NSW):** Leads high-end coastal and metropolitan residential project sales and masterplanned luxury developments across Sydney and regional New South Wales.\n- **RT Edgar / Marshall White (VIC):** Premium Melbourne agencies deeply entrenched in marketing high-design, low-rise luxury multi-residential boutiques and penthouses in affluent inner-eastern suburbs.\n\nWould you like information tailored to a **specific Australian city or state** , or details on a **particular upcoming luxury development**?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "The primary market leaders for luxury off-the-plan developments, high-end penthouses, and architectural project marketing in Australia are major international property groups like Colliers, CBRE Residential Projects, and Knight Frank, alongside elite high-end domestic networks such as Highland, McGrath Prestige, and specialized local boutique firms like Place Estate Agents in Queensland.",
+              "markdown": "The primary market leaders for luxury off-the-plan developments, high-end penthouses, and architectural project marketing in Australia are major international property groups like [Colliers](https://www.colliers.com.au/en-au/services/residential-and-living-transactions/project-marketing-and-sales), [CBRE Residential Projects](https://www.cbre.com.au/) , and [Knight Frank](https://www.knightfrank.com.au/) , alongside elite high-end domestic networks such as Highland, McGrath Prestige, and specialized local boutique firms like Place Estate Agents in Queensland.",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Colliers",
+                  "description": null,
+                  "url": "https://www.colliers.com.au/en-au/services/residential-and-living-transactions/project-marketing-and-sales",
+                  "domain": "www.colliers.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "CBRE Residential Projects",
+                  "description": null,
+                  "url": "https://www.cbre.com.au/",
+                  "domain": "www.cbre.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Knight Frank",
+                  "description": null,
+                  "url": "https://www.knightfrank.com.au/",
+                  "domain": "www.knightfrank.com.au"
+                }
+              ],
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "National Commercial & Project Marketing Giants",
+              "text": "Colliers : Dominates large-scale luxury apartment towers and penthouse collections through dedicated residential project marketing and capital advisory teams across Sydney, Melbourne, and Brisbane. CBRE Residential Projects : Handles premier high-rise residential campaigns, leveraging global buyer databases and institutional developer relationships for landmark architectural buildings. Knight Frank : Renowned globally and locally for high-net-worth private client advisory, ultra-prime penthouses, and exclusive off-the-plan trophy asset marketing.",
+              "markdown": "- [Colliers](https://www.colliers.com.au/en-au/services/residential-and-living-transactions/project-marketing-and-sales) : Dominates large-scale luxury apartment towers and penthouse collections through dedicated residential project marketing and capital advisory teams across Sydney, Melbourne, and Brisbane.\n- [CBRE Residential Projects](https://www.cbre.com.au/) : Handles premier high-rise residential campaigns, leveraging global buyer databases and institutional developer relationships for landmark architectural buildings.\n- [Knight Frank](https://www.knightfrank.com.au/) : Renowned globally and locally for high-net-worth private client advisory, ultra-prime penthouses, and exclusive off-the-plan trophy asset marketing.",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Colliers",
+                  "description": null,
+                  "url": "https://www.colliers.com.au/en-au/services/residential-and-living-transactions/project-marketing-and-sales",
+                  "domain": "www.colliers.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "CBRE Residential Projects",
+                  "description": null,
+                  "url": "https://www.cbre.com.au/",
+                  "domain": "www.cbre.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Knight Frank",
+                  "description": null,
+                  "url": "https://www.knightfrank.com.au/",
+                  "domain": "www.knightfrank.com.au"
+                }
+              ],
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Elite Regional & Lifestyle Specialists",
+              "text": "Position Property & Place Project Marketing (QLD): Major players dominating the booming southeast Queensland luxury coastal and inner-city architectural apartment sector. Highland Project Marketing (NSW): Leads high-end coastal and metropolitan residential project sales and masterplanned luxury developments across Sydney and regional New South Wales. RT Edgar / Marshall White (VIC): Premium Melbourne agencies deeply entrenched in marketing high-design, low-rise luxury multi-residential boutiques and penthouses in affluent inner-eastern suburbs.",
+              "markdown": "- **Position Property & Place Project Marketing (QLD):** Major players dominating the booming southeast Queensland luxury coastal and inner-city architectural apartment sector.\n- **Highland Project Marketing (NSW):** Leads high-end coastal and metropolitan residential project sales and masterplanned luxury developments across Sydney and regional New South Wales.\n- **RT Edgar / Marshall White (VIC):** Premium Melbourne agencies deeply entrenched in marketing high-design, low-rise luxury multi-residential boutiques and penthouses in affluent inner-eastern suburbs.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Would you like information tailored to a specific Australian city or state, or details on a particular upcoming luxury development ?",
+              "markdown": "Would you like information tailored to a **specific Australian city or state** , or details on a **particular upcoming luxury development**?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": null,
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

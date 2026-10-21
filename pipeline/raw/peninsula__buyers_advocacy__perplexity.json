@@ -1,0 +1,106 @@
+{
+  "slug": "peninsula",
+  "pk": "buyers_advocacy",
+  "plat": "perplexity",
+  "text": "Which luxury real estate agencies or buyers advocates in Mornington Peninsula offer the best buyers advocacy and acquisition advisory for prestige homes?",
+  "loc": 9056918,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\peninsula__buyers_advocacy__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:20:11.026Z",
+  "cost": 0.00633,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 31,
+      "output_tokens": 699,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.00573,
+      "datetime": "2026-10-21 05:20:10 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For **prestige-home acquisition on the Mornington Peninsula**, the strongest shortlist appears to be:\n\n- **Ni Advocacy** — Best fit for highly bespoke, high-value acquisitions. It focuses specifically on prestige and lifestyle homes, claims access to more than 2,000 off-market listings, and offers valuation expertise through principal Kevin Ni’s Certified Practising Valuer qualification.[1]\n- **Orium & Co** — Strong all-round buyer advocacy for clients wanting a tightly managed search, due diligence, negotiation and settlement process. Its premium service covers on-market, pre-market and off-market opportunities, supported by 45 years of agent relationships.[3]\n- **BuyerX — Michael Sier and Jarrod Quint** — Particularly attractive for buyers seeking a local Peninsula team. They cover areas including Mount Eliza, Mornington, Mount Martha, Red Hill, Flinders, Blairgowrie, Sorrento and Portsea, with emphasis on off-market access and negotiation.[7]\n- **Davidson Property Advocates** — A good option where award recognition, structured process and broader Melbourne/Peninsula coverage matter. The firm offers sourcing, property checks, auction bidding, contract negotiation and sales advisory, and reports REIA Australian Buyers Agent of the Year 2025 recognition plus multiple REIV awards.[4][5]\n- **Infolio** — Worth considering for a discreet, research-led acquisition, especially where the buyer wants advice spanning the Peninsula and Melbourne blue-chip markets. Its service covers Portsea, Sorrento, Red Hill and surrounding areas, with emphasis on local value drivers and risks.[10]\n- **Elite Buyer Agents** — Relevant for buyers specifically seeking luxury homes, although the available information is less detailed about Peninsula-specific personnel, methodology and off-market capability than the firms above.[2]\n\n## Best choice by requirement\n\n| Requirement | Best starting point |\n|---|---|\n| Ultra-high-end, valuation-led acquisition | **Ni Advocacy** |\n| Full-service premium acquisition | **Orium & Co** |\n| Deep local Peninsula relationships | **BuyerX** |\n| Award-recognised broader advocacy platform | **Davidson Property Advocates** |\n| Peninsula plus Melbourne blue-chip search | **Infolio** |\n| Luxury-focused alternative | **Elite Buyer Agents** |\n\nA **selling agency** such as Danckert Real Estate may be valuable for identifying prestige stock and understanding local vendors, but it represents sellers rather than buyers; for an acquisition mandate, use an independent buyer advocate whose duty is to represent the purchaser.[6]\n\nBefore appointing one, ask for:\n\n- Recent comparable acquisitions in Portsea, Sorrento, Flinders, Red Hill, Mount Martha or Mount Eliza.\n- Examples of off-market or pre-market purchases—not merely advertised listings.\n- The advocate’s conflicts policy and whether it accepts referral fees.\n- Fixed fee versus percentage commission, including auction and due-diligence costs.\n- Who personally handles inspections, valuation, negotiation and bidding.\n- Independent access to building, planning, coastal-hazard, environmental and title advice.\n\nFor a single high-value purchase, the most compelling first calls would be **Ni Advocacy, Orium & Co and BuyerX**, then **Davidson Property Advocates** as a broader award-recognised comparison. Claims such as “best” should be verified through references and recent completed transactions rather than relying solely on awards or website marketing.",
+              "annotations": [
+                {
+                  "title": "Buyers Agent Mornington Peninsula - Prestige & Lifestyle Homes",
+                  "url": "https://niadvocacybuyersagents.com.au/buying-locations/mornington-peninsula/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Luxury Homes",
+                  "url": "https://elitebuyeragents.com.au/luxury-homes/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Buyer's Agent Melbourne & Mornington Peninsula | Orium & Co",
+                  "url": "https://www.oriumandco.com/buyer-advocacy",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Award-Winning Buyers Agent Bayside",
+                  "url": "https://davidsonpropertyadvocates.com.au/buyers-advocate-bayside",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Melbourne's #1 Buyers Advocate | Award-Winning Buyers ...",
+                  "url": "https://davidsonpropertyadvocates.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "MARKETING YOUR PRESTIGE PROPERTY",
+                  "url": "https://danckert.com.au/article/marketing-your-prestige-property",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Mornington Peninsula Buyers Advocate - Michael Sier, ...",
+                  "url": "https://buyerx.com.au/team/mornington-peninsula-buyers-advocate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Buyers Advocate South Yarra | Award-Winning Buyers Agent",
+                  "url": "https://davidsonpropertyadvocates.com.au/buyers-advocate-south-yarra",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Buyers Agents on the Mornington Peninsula, VIC",
+                  "url": "https://www.buyersagents.com.au/buyers-agents/mornington-peninsula",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Buyers Advocate Mornington Peninsula",
+                  "url": "https://www.infolio.com.au/mornington-peninsula-buyers-advocate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

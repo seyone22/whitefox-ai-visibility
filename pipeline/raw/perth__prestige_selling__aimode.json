@@ -1,0 +1,175 @@
+{
+  "slug": "perth",
+  "pk": "prestige_selling",
+  "plat": "aimode",
+  "text": "I am selling a $10M luxury residential property in Perth. Which prestige real estate agencies have the strongest track record for high-end home sales?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\perth__prestige_selling__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:17:26.771Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "I am selling a $10M luxury residential property in Perth. Which prestige real estate agencies have the strongest track record for high-end home sales?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000676,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=I%20am%20selling%20a%20%2410M%20luxury%20residential%20property%20in%20Perth.%20Which%20prestige%20real%20estate%20agencies%20have%20the%20strongest%20track%20record%20for%20high-end%20home%20sales%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCXPVOynVujIqEeBO3zW18AQF",
+      "datetime": "2026-10-21 05:17:26 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "For a $10M luxury listing in Perth, the agencies with the most dominant track records for ultra-high-end residential transactions are clustered across Perth's western suburbs. The premier groups handling properties at this price point include `Ray White Dalkeith | Claremont | Fremantle` (led by top-ranked agents like Vivien Yap), William Porteous Properties International, [ACTON | Belle Property Cottesloe](https://reiwa.com.au/real-estate-agents/dalkeith/) , and specialized high-end independent luxury teams.\n\n### Top Agencies & Teams for $10M+ Sales\n\n- Ray White Dalkeith | Claremont | Fremantle — Consistently ranks at the absolute peak of WA settled commission and high-value transactions, leveraging extensive international and domestic buyer networks.[[1]](https://www.raywhite.com/vivien-yap/real-estate-agent/vy172214065)[[2]](https://raywhitedalkeithclaremontfremantle.com.au/agents/vivien-yap/101920)\n- William Porteous Properties International — Deeply embedded in Perth’s historic luxury enclaves like Dalkeith, Mosman Park, and Peppermint Grove for decades, specializing in unique trophy estates.[[1]](https://reiwa.com.au/real-estate-agents/dalkeith/)\n- [ACTON | Belle Property Cottesloe](https://reiwa.com.au/real-estate-agents/dalkeith/) — Highly active across coastal luxury corridors (Cottesloe, Swanbourne, and Dalkeith) with a proven upper-bracket median sale record.[[1]](https://reiwa.com.au/real-estate-agents/dalkeith/)\n- **The Agency Perth** — Features high-performing individual prestige property specialists with major multi-million dollar sales volumes across metro and riverside suburbs.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdac01IbDZOWGwyGAo)\n\n### Key Factors to Consider for a $10M Property\n\n- **Buyer Database:** Ensure the agency has a confidential, active database of high-net-worth local, interstate, and international (particularly Southeast Asian) buyers.\n- **Marketing Reach:** High-end homes at this tier require bespoke global syndication (such as Christie's or Sotheby's networks, or high-tier national exposure) rather than standard local advertising.\n- **Negotiation Track Record:** Look for principal-level agents who personally manage negotiations for ultra-prime property rather than handing them off to junior associates.[[1]](https://www.raywhite.com/vivien-yap/real-estate-agent/vy172214065)\n\nIf you would like, share the **specific suburb** and **style of the property** (e.g., modern riverfront, heritage coastal estate) so I can help point you toward the **individual lead agent** with the highest concentration of record sales in that exact micro-market.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "For a $10M luxury listing in Perth, the agencies with the most dominant track records for ultra-high-end residential transactions are clustered across Perth's western suburbs. The premier groups handling properties at this price point include Ray White Dalkeith | Claremont | Fremantle (led by top-ranked agents like Vivien Yap ), William Porteous Properties International, ACTON | Belle Property Cottesloe, and specialized high-end independent luxury teams.",
+              "markdown": "For a $10M luxury listing in Perth, the agencies with the most dominant track records for ultra-high-end residential transactions are clustered across Perth's western suburbs. The premier groups handling properties at this price point include `Ray White Dalkeith | Claremont | Fremantle` (led by top-ranked agents like Vivien Yap), William Porteous Properties International, [ACTON | Belle Property Cottesloe](https://reiwa.com.au/real-estate-agents/dalkeith/) , and specialized high-end independent luxury teams.",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "ACTON | Belle Property Cottesloe",
+                  "description": null,
+                  "url": "https://reiwa.com.au/real-estate-agents/dalkeith/",
+                  "domain": "reiwa.com.au"
+                }
+              ],
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Top Agencies & Teams for $10M+ Sales",
+              "text": "Ray White Dalkeith | Claremont | Fremantle — Consistently ranks at the absolute peak of WA settled commission and high-value transactions, leveraging extensive international and domestic buyer networks. Ray White Dalkeith | Claremont | Fremantle William Porteous Properties International — Deeply embedded in Perth’s historic luxury enclaves like Dalkeith, Mosman Park, and Peppermint Grove for decades, specializing in unique trophy estates. William Porteous Properties International ACTON | Belle Property Cottesloe — Highly active across coastal luxury corridors (Cottesloe, Swanbourne, and Dalkeith) with a proven upper-bracket median sale record. The Agency Perth — Features high-performing individual prestige property specialists with major multi-million dollar sales volumes across metro and riverside suburbs.",
+              "markdown": "- Ray White Dalkeith | Claremont | Fremantle — Consistently ranks at the absolute peak of WA settled commission and high-value transactions, leveraging extensive international and domestic buyer networks.[[1]](https://www.raywhite.com/vivien-yap/real-estate-agent/vy172214065)[[2]](https://raywhitedalkeithclaremontfremantle.com.au/agents/vivien-yap/101920)\n- William Porteous Properties International — Deeply embedded in Perth’s historic luxury enclaves like Dalkeith, Mosman Park, and Peppermint Grove for decades, specializing in unique trophy estates.[[1]](https://reiwa.com.au/real-estate-agents/dalkeith/)\n- [ACTON | Belle Property Cottesloe](https://reiwa.com.au/real-estate-agents/dalkeith/) — Highly active across coastal luxury corridors (Cottesloe, Swanbourne, and Dalkeith) with a proven upper-bracket median sale record.[[1]](https://reiwa.com.au/real-estate-agents/dalkeith/)\n- **The Agency Perth** — Features high-performing individual prestige property specialists with major multi-million dollar sales volumes across metro and riverside suburbs.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdac01IbDZOWGwyGAo)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "ACTON | Belle Property Cottesloe",
+                  "description": null,
+                  "url": "https://reiwa.com.au/real-estate-agents/dalkeith/",
+                  "domain": "reiwa.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Ray White",
+                  "domain": "www.raywhite.com",
+                  "url": "https://www.raywhite.com/vivien-yap/real-estate-agent/vy172214065",
+                  "title": "Vivien Yap • Ray White",
+                  "text": "Top-ranking WA and international real estate agent specializing in Western Suburbs local market, extensive overseas buyer network,"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Ray White Dalkeith | Claremont",
+                  "domain": "raywhitedalkeithclaremontfremantle.com.au",
+                  "url": "https://raywhitedalkeithclaremontfremantle.com.au/agents/vivien-yap/101920",
+                  "title": "Vivien Yap - Principal - Dalkeith | Claremont | Fremantle",
+                  "text": "Ray White Dalkeith. Key Ranks (2025/2026): #1 Top Team by Value Sold (Vivien Yap & Co), #1 Top Principal Settled Commission (Vivie..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "REIWA",
+                  "domain": "reiwa.com.au",
+                  "url": "https://reiwa.com.au/real-estate-agents/dalkeith/",
+                  "title": "Real Estate Agents in Dalkeith, WA | Listings & More - REIWA",
+                  "text": "3listings sold 26median days on market $3.80Mmedian. William Porteous Properties International. Selling Perth's most beautiful and..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdac01IbDZOWGwyGAo",
+                  "title": "Sam English - Perth Property Team",
+                  "text": "Perth Real Estate Agent"
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Key Factors to Consider for a $10M Property",
+              "text": "Buyer Database: Ensure the agency has a confidential, active database of high-net-worth local, interstate, and international (particularly Southeast Asian) buyers. Marketing Reach: High-end homes at this tier require bespoke global syndication (such as Christie's or Sotheby's networks, or high-tier national exposure) rather than standard local advertising. Negotiation Track Record: Look for principal-level agents who personally manage negotiations for ultra-prime property rather than handing them off to junior associates.",
+              "markdown": "- **Buyer Database:** Ensure the agency has a confidential, active database of high-net-worth local, interstate, and international (particularly Southeast Asian) buyers.\n- **Marketing Reach:** High-end homes at this tier require bespoke global syndication (such as Christie's or Sotheby's networks, or high-tier national exposure) rather than standard local advertising.\n- **Negotiation Track Record:** Look for principal-level agents who personally manage negotiations for ultra-prime property rather than handing them off to junior associates.[[1]](https://www.raywhite.com/vivien-yap/real-estate-agent/vy172214065)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Ray White",
+                  "domain": "www.raywhite.com",
+                  "url": "https://www.raywhite.com/vivien-yap/real-estate-agent/vy172214065",
+                  "title": "Vivien Yap • Ray White",
+                  "text": "Top-ranking WA and international real estate agent specializing in Western Suburbs local market, extensive overseas buyer network, and consistent top auction/sales..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you would like, share the specific suburb and style of the property (e.g., modern riverfront, heritage coastal estate) so I can help point you toward the individual lead agent with the highest concentration of record sales in that exact micro-market.",
+              "markdown": "If you would like, share the **specific suburb** and **style of the property** (e.g., modern riverfront, heritage coastal estate) so I can help point you toward the **individual lead agent** with the highest concentration of record sales in that exact micro-market.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Ray White",
+              "domain": "www.raywhite.com",
+              "url": "https://www.raywhite.com/vivien-yap/real-estate-agent/vy172214065",
+              "title": "Vivien Yap • Ray White",
+              "text": "Top-ranking WA and international real estate agent specializing in Western Suburbs local market, extensive overseas buyer network, and consistent top auction/sales..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Ray White Dalkeith | Claremont",
+              "domain": "raywhitedalkeithclaremontfremantle.com.au",
+              "url": "https://raywhitedalkeithclaremontfremantle.com.au/agents/vivien-yap/101920",
+              "title": "Vivien Yap - Principal - Dalkeith | Claremont | Fremantle",
+              "text": "Ray White Dalkeith. Key Ranks (2025/2026): #1 Top Team by Value Sold (Vivien Yap & Co), #1 Top Principal Settled Commission (Vivien Yap). REB WA #1 Agent (2022-202..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "REIWA",
+              "domain": "reiwa.com.au",
+              "url": "https://reiwa.com.au/real-estate-agents/dalkeith/",
+              "title": "Real Estate Agents in Dalkeith, WA | Listings & More - REIWA",
+              "text": "Director Acton | Belle Property Cottesloe ・ 3listings sold 26median days on market $3.80Mmedian sale price All suburbs 46listings sold ・ $3.44Mmedian. Perth's most..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

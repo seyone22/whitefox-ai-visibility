@@ -1,0 +1,205 @@
+{
+  "slug": "peninsula",
+  "pk": "luxury_auctions",
+  "plat": "aimode",
+  "text": "Who are the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in Mornington Peninsula?",
+  "loc": 9056918,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\peninsula__luxury_auctions__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:20:13.716Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in Mornington Peninsula?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 9056918,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Who%20are%20the%20leading%20luxury%20real%20estate%20agencies%20and%20top-performing%20auctioneers%20for%20prestige%20residential%20properties%20in%20Mornington%20Peninsula%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCQOoQ4mOxdVqEZXT2c1Pc_Yg",
+      "datetime": "2026-10-21 05:20:13 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "The leading luxury agencies and top-performing auctioneers on the Mornington Peninsula `specialize in high-end coastal estates, rural acreage in Red Hill, and elite beachfront properties in Portsea, Sorrento, and Mount Eliza`.[[1]](https://www.marshallwhite.com.au/office/mount-eliza)[[2]](https://www.kayburton.com.au/buy/mornington-peninsula/)\n\n### Leading Luxury Real Estate Agencies\n\n- **[Kay & Burton](https://www.kayburton.com.au/)** : Specialized in ultra-premium lifestyle properties, rural retreats, and coastal compounds across Portsea, Sorrento, Flinders, and Red Hill.[[1]](https://www.kayburton.com.au/buy/mornington-peninsula/)\n- **Marshall White** : Operates a major prestige footprint via its Mount Eliza and Peninsula networks, handling high-value luxury transactions and coastal retreats.[[1]](https://www.marshallwhite.com.au/office/mount-eliza)\n- **Jellis Craig** : Delivers strong high-end market share and premium auction campaigns across key Peninsula pockets like Mornington, Mount Martha, and surrounding coastal suburbs.\n- **Homes & Acreage** : Boutique agency known for high-performing client satisfaction and specialist luxury coastal and acreage properties across the southern and eastern Peninsula.\n\n### Top-Performing Prestige Auctioneers & Agents\n\n\n\n---\n\n**Chelsey Gibson (Marshall White)** : Director, high-profile sales agent, and rare female auctioneer leading luxury transactions across Mount Eliza, Mornington, and Red Hill.\n\n---\n\n**Adam Alexander (The Agency)** : Highly experienced local leader and auctioneer driving prominent residential and prestige campaigns across the Peninsula.\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10210519-2877-0139-0000-f940f193887f:4)\n**John Bongiorno (Marshall White)** : Elite senior auctioneer and director frequently handling landmark high-value prestige and multi-million dollar coastal property auctions.[[1]](https://www.marshallwhite.com.au/agent/chelsey-gibson)[[2]](https://theagency.com.au/post/793/the-agency-boosts-presence-in-victoria-s-mornington-peninsula-the-real-estate-conversation)\n\nIf you are looking to buy or sell, let me know:\n\n- The **specific suburb** or pocket you are targeting (e.g., Portsea vs. Red Hill)\n- Whether you are looking for an **appraisal, buying strategy, or auction representation** \n\nI can tailor specific agency recommendations or recent sales comparisons for you.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "The leading luxury agencies and top-performing auctioneers on the Mornington Peninsula specialize in high-end coastal estates, rural acreage in Red Hill, and elite beachfront properties in Portsea, Sorrento, and Mount Eliza.",
+              "markdown": "The leading luxury agencies and top-performing auctioneers on the Mornington Peninsula `specialize in high-end coastal estates, rural acreage in Red Hill, and elite beachfront properties in Portsea, Sorrento, and Mount Eliza`.[[1]](https://www.marshallwhite.com.au/office/mount-eliza)[[2]](https://www.kayburton.com.au/buy/mornington-peninsula/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Marshall White",
+                  "domain": "www.marshallwhite.com.au",
+                  "url": "https://www.marshallwhite.com.au/office/mount-eliza",
+                  "title": "Marshall White Mount Eliza Office | Real Estate Agency Mornington Peninsula | Marshall White",
+                  "text": "Mount Eliza Office: 98 Mount Eliza Way. Email: contactus@marshallwhite.com.au. Phone: 03 9787 6650. Hours: Mon-Fri 8:30am-5:00pm. ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Kay & Burton",
+                  "domain": "www.kayburton.com.au",
+                  "url": "https://www.kayburton.com.au/buy/mornington-peninsula/",
+                  "title": "Luxury properties for sale in Mornington Peninsula",
+                  "text": "Discover properties for sale in Mornington Peninsula with Kay & Burton, your luxury property experts in Flinders, Red Hill, Portse..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Leading Luxury Real Estate Agencies",
+              "text": "Kay & Burton : Specialized in ultra-premium lifestyle properties, rural retreats, and coastal compounds across Portsea, Sorrento, Flinders, and Red Hill. Marshall White : Operates a major prestige footprint via its Mount Eliza and Peninsula networks, handling high-value luxury transactions and coastal retreats. Marshall White Jellis Craig : Delivers strong high-end market share and premium auction campaigns across key Peninsula pockets like Mornington, Mount Martha, and surrounding coastal suburbs. Jellis Craig Homes & Acreage : Boutique agency known for high-performing client satisfaction and specialist luxury coastal and acreage properties across the southern and eastern Peninsula. Homes & Acreage",
+              "markdown": "- **[Kay & Burton](https://www.kayburton.com.au/)** : Specialized in ultra-premium lifestyle properties, rural retreats, and coastal compounds across Portsea, Sorrento, Flinders, and Red Hill.[[1]](https://www.kayburton.com.au/buy/mornington-peninsula/)\n- **Marshall White** : Operates a major prestige footprint via its Mount Eliza and Peninsula networks, handling high-value luxury transactions and coastal retreats.[[1]](https://www.marshallwhite.com.au/office/mount-eliza)\n- **Jellis Craig** : Delivers strong high-end market share and premium auction campaigns across key Peninsula pockets like Mornington, Mount Martha, and surrounding coastal suburbs.\n- **Homes & Acreage** : Boutique agency known for high-performing client satisfaction and specialist luxury coastal and acreage properties across the southern and eastern Peninsula.",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Kay & Burton",
+                  "description": null,
+                  "url": "https://www.kayburton.com.au/",
+                  "domain": "www.kayburton.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Kay & Burton",
+                  "domain": "www.kayburton.com.au",
+                  "url": "https://www.kayburton.com.au/buy/mornington-peninsula/",
+                  "title": "Luxury properties for sale in Mornington Peninsula",
+                  "text": "Discover properties for sale in Mornington Peninsula with Kay & Burton, your luxury property experts in Flinders, Red Hill, Portsea & Sorrento and surrounds."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Marshall White",
+                  "domain": "www.marshallwhite.com.au",
+                  "url": "https://www.marshallwhite.com.au/office/mount-eliza",
+                  "title": "Marshall White Mount Eliza Office | Real Estate Agency Mornington Peninsula | Marshall White",
+                  "text": "Mount Eliza Office: 98 Mount Eliza Way. Email: contactus@marshallwhite.com.au. Phone: 03 9787 6650. Hours: Mon-Fri 8:30am-5:00pm. Services: Mount Eliza, Mornington..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Top-Performing Prestige Auctioneers & Agents",
+              "text": "Chelsey Gibson ( Marshall White ) : Director, high-profile sales agent, and rare female auctioneer leading luxury transactions across Mount Eliza, Mornington, and Red Hill.",
+              "markdown": "---\n\n**Chelsey Gibson (Marshall White)** : Director, high-profile sales agent, and rare female auctioneer leading luxury transactions across Mount Eliza, Mornington, and Red Hill.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Adam Alexander ( The Agency ) : Highly experienced local leader and auctioneer driving prominent residential and prestige campaigns across the Peninsula.",
+              "markdown": "---\n\n**Adam Alexander (The Agency)** : Highly experienced local leader and auctioneer driving prominent residential and prestige campaigns across the Peninsula.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "John Bongiorno ( Marshall White ) : Elite senior auctioneer and director frequently handling landmark high-value prestige and multi-million dollar coastal property auctions.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10210519-2877-0139-0000-f940f193887f:2)\n**John Bongiorno (Marshall White)** : Elite senior auctioneer and director frequently handling landmark high-value prestige and multi-million dollar coastal property auctions.[[1]](https://www.marshallwhite.com.au/agent/chelsey-gibson)[[2]](https://theagency.com.au/post/793/the-agency-boosts-presence-in-victoria-s-mornington-peninsula-the-real-estate-conversation)",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10210519-2877-0139-0000-f940f193887f:3"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you are looking to buy or sell, let me know:",
+              "markdown": "If you are looking to buy or sell, let me know:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "The specific suburb or pocket you are targeting (e.g., Portsea vs. Red Hill) Whether you are looking for an appraisal, buying strategy, or auction representation",
+              "markdown": "- The **specific suburb** or pocket you are targeting (e.g., Portsea vs. Red Hill)\n- Whether you are looking for an **appraisal, buying strategy, or auction representation**",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "I can tailor specific agency recommendations or recent sales comparisons for you.",
+              "markdown": "I can tailor specific agency recommendations or recent sales comparisons for you.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Marshall White",
+              "domain": "www.marshallwhite.com.au",
+              "url": "https://www.marshallwhite.com.au/office/mount-eliza",
+              "title": "Marshall White Mount Eliza Office | Real Estate Agency Mornington Peninsula | Marshall White",
+              "text": "Mount Eliza Office: 98 Mount Eliza Way. Email: contactus@marshallwhite.com.au. Phone: 03 9787 6650. Hours: Mon-Fri 8:30am-5:00pm. Services: Mount Eliza, Mornington..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Marshall White",
+              "domain": "www.marshallwhite.com.au",
+              "url": "https://www.marshallwhite.com.au/agent/chelsey-gibson",
+              "title": "Chelsey Gibson | Estate Agent Mornington Peninsula | Marshall White",
+              "text": "Profile: Chelsey Gibson, Director, Auctioneer, and sales agent at Marshall White, Mount Eliza, Mornington Peninsula (chelsey.gibson@marshallwhite.com.au, 0409 277 ..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Kay & Burton",
+              "domain": "www.kayburton.com.au",
+              "url": "https://www.kayburton.com.au/buy/mornington-peninsula/",
+              "title": "Luxury properties for sale in Mornington Peninsula",
+              "text": "Discover properties for sale in Mornington Peninsula with Kay & Burton, your luxury property experts in Flinders, Red Hill, Portsea & Sorrento and surrounds."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

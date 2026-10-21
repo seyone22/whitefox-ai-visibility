@@ -1,0 +1,106 @@
+{
+  "slug": "peninsula",
+  "pk": "off_market",
+  "plat": "perplexity",
+  "text": "Which luxury real estate agents and agencies in Mornington Peninsula specialise in confidential off-market prestige property sales and high-net-worth buyer networks?",
+  "loc": 9056918,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\peninsula__off_market__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:19:52.179Z",
+  "cost": 0.006241,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 35,
+      "output_tokens": 606,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005641,
+      "datetime": "2026-10-21 05:19:52 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "The strongest matches for **confidential off-market prestige sales and high-net-worth buyer access on the Mornington Peninsula** are:\n\n- **Michael Keating International — Michael Keating**  \n  A prominent specialist in off-market sales of luxury and trophy properties across the Peninsula. The agency states that it maintains a qualified buyer database and affiliate offices across major international markets, including the US, UK, Singapore, Hong Kong, the UAE and Europe. It explicitly invites vendors to engage “in the strictest confidence.”[7]\n\n- **Danckert Real Estate — Alex Corradi and team**  \n  A Peninsula-based agency specialising in luxury and lifestyle property, with particular strength in Mount Martha and Mornington. Danckert promotes confidential, tailored prestige sales, off-market preparation, international exposure through LuxuryRealEstate.com, and access to local, national and international buyers.[1][3] Alex Corradi is identified as a luxury-home and confidential-sales specialist with benchmark sales in Mount Martha and Mornington.[9]\n\n- **Kincade International Realty**  \n  A suitable option where the objective is to reach interstate, Asia-Pacific and international high-net-worth buyers. Although headquartered in Double Bay, the agency states that it actively serves the Mornington Peninsula, offers off-market access and international marketing, and maintains a broader private-client ecosystem involving banking, legal, lending and property advisers.[6]\n\n- **McEwing & Partners — including Marcus Gollings**  \n  Worth considering for blue-chip and multi-million-dollar property, particularly around Mount Martha and Mornington. Marcus Gollings is described as handling discreet off-market transactions through an extensive local and international client base and having experience with properties up to approximately $20 million.[8]\n\n- **Coastal Agents**  \n  A locally based Mount Eliza agency focused on premium Mornington Peninsula property. Public information confirms its Peninsula presence and premium-property positioning, but provides less explicit evidence than the agencies above regarding the scale of its off-market inventory or international HNW network.[10]\n\nFor a **seller seeking maximum discretion**, the clearest first approaches are **Michael Keating International**, **Danckert Real Estate**, and **Kincade International Realty**. For a **buyer seeking silent listings**, **Danckert**, **Michael Keating International**, and specialist buyers’ agents such as **FOUNDIT with Jeanne Anderson** and **Ni Advocacy Buyers Agents** also advertise pre-market or off-market access on the Peninsula.[4][5]\n\nBefore appointing an agent, ask for:\n\n- Recent comparable off-market sales in Portsea, Sorrento, Mount Martha, Mornington or Mount Eliza\n- The number of qualified buyers currently seeking comparable properties\n- How buyer identity, inspections, photography and sale-price disclosure will be controlled\n- Whether the agency can provide a documented private-client or international buyer strategy\n- The proposed process for testing the market discreetly before any public campaign",
+              "annotations": [
+                {
+                  "title": "MARKETING YOUR PRESTIGE PROPERTY",
+                  "url": "https://danckert.com.au/article/marketing-your-prestige-property",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Luxury Homes",
+                  "url": "https://elitebuyeragents.com.au/luxury-homes/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Danckert Real Estate: Mornington Peninsula Real Estate Agents",
+                  "url": "https://danckert.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "FOUNDIT with Jeanne Anderson",
+                  "url": "https://foundit.property/team/jeanne-anderson",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Buyers Agent Mornington Peninsula - Prestige & Lifestyle Homes",
+                  "url": "https://niadvocacybuyersagents.com.au/buying-locations/mornington-peninsula/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Real Estate Mornington: A Luxury Market Analysis for Serious ...",
+                  "url": "https://www.kincadeintrealty.com.au/blog/real-estate-mornington/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "MICHAEL KEATING INTERNATIONAL",
+                  "url": "https://www.domain.com.au/real-estate-agent/michael-keating-international-1708616/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 3 Real Estate Agents in Mornington VIC | Best Agents List",
+                  "url": "https://top3realestateagents.com.au/real-estate-agents-mornington-vic-3931/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Alex Corradi | Director & Licensed Estate Agent - Danckert Real Estate",
+                  "url": "https://danckert.com.au/agent/alex-corradi",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Coastal Agents | Premium Properties in the Mornington Peninsula ...",
+                  "url": "https://coastalagents.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

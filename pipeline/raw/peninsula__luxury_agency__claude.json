@@ -1,0 +1,416 @@
+{
+  "slug": "peninsula",
+  "pk": "luxury_agency",
+  "plat": "claude",
+  "text": "Who are the best luxury real estate agencies in Mornington Peninsula? Give me a shortlist of specific prestige property agencies with reasons.",
+  "loc": 9056918,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\peninsula__luxury_agency__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:19:57.898Z",
+  "cost": 0,
+  "result": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011CgEpR7kLwKvUC2TyW6QRk",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "server_tool_use",
+        "id": "srvtoolu_01Gi7msUskZyXxBxb9yqoAth",
+        "name": "web_search",
+        "input": {
+          "query": "best luxury prestige real estate agencies Mornington Peninsula"
+        }
+      },
+      {
+        "type": "server_tool_use",
+        "id": "srvtoolu_01UAMYhRnzLvQA9g8zwz7W7v",
+        "name": "web_search",
+        "input": {
+          "query": "top real estate agents Mornington Peninsula high end property 2024 2025"
+        }
+      },
+      {
+        "type": "web_search_tool_result",
+        "tool_use_id": "srvtoolu_01Gi7msUskZyXxBxb9yqoAth",
+        "content": [
+          {
+            "type": "web_search_result",
+            "title": "Luxury Properties for sale in Mornington Peninsula Province - LuxuryEstate.com",
+            "url": "https://www.luxuryestate.com/australia/victoria/mornington-peninsula",
+            "encrypted_content": "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",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Luxury real estate Melbourne",
+            "url": "https://www.kayburton.com.au/",
+            "encrypted_content": "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",
+            "page_age": "481 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Rob Curtain",
+            "url": "https://www.luxuryestate.com/a9386381-rob-curtain--peninsula-sotheby-s-international-realty",
+            "encrypted_content": "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",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Luxury homes for sale in Shire of Mornington Peninsula, Victoria, Australia",
+            "url": "https://www.jamesedition.com/real_estate/shire-of-mornington-peninsula-australia",
+            "encrypted_content": "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",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Mornington Peninsula Real Estate Agents",
+            "url": "https://danckert.com.au/",
+            "encrypted_content": "EvQICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDPtCxAqKG9g+CtsmBRoMovHiEwpbU/mR2DbxIjCLS7Hr2Qy92uGevBlM55pypWLsNe6Nq3i5VVhJDQa6ssAkSkT2sYQaLk94xf5tUI8q9weZ9CNNJjnqYMLPWijsLeict+GRack4He3UFnvwb/9lZRd2ch0H2KAIwogrHwFfEv+HS3mqHY94Xm8cH6PTOFwgcKrH43FbMMTTdWoPWAqtBZVxJ5OWZoCiFJRGbwI8D3YP98xRBjly/9f1nlwl7gKMxUtz2HbNv8RFzEcmMDWO0YelfGWOYnsN5mWMg1YxSCgdsLllK0FT/KKi+zRY1lL+O82W8SfN0T+lyEOPQn0sZMACwtn8PIr5CfgZvGofokKKjggPPHoCWwFk4UG1g46RYU1UPJf+5mQckEPudhSJ511NsD8nGNDWdkIzQBVjrPVpWnAzO5VhZPIzs33HkIAmyNejcDRorkNCAxI4OjQjDej9HuDFxCAyFMr8sdfLRd/wj09t92ZuQDfzzxPEXZMWHBbEz6HJFrTLMNFEHv9YwadNBWywzuDv1uQ29sMkP4YxwrN5E2SVa7QE90JDykLSltPe4E/SgTFQIHwpChIWHd48Dc6MS9XEL8IB83MFR/ABSZ3LaHRZn1hDq2HKgYrwRPkpDnbn3kLu+ohbYI9+uv0qy6wvQxRsDdzeKAAnVOn6HJpmhfN0l70n44o8qRfMAlzawzmCfCklK6/IfSyTPA1ehJjzk9hBttTyxhRU98ocWlNFM0T0aqQ68OjhiLTKCd1sra1J99ENpM18otwLHbrX0fibOs1NW9iaGmA0rZZwABxZFWVLjKGLsm4L1TnCnOy37UJaEfh/OwID/KOzLlWttdHJvVKmJq4EF5A+jZ171D/ORfyW13xBDsbuM7CQDn0XJTaPkvNVqve/yby7T+afbscOxqnn4t0JTtx2UqjxY6AQTLZB9MMYGm0Rou7ehr1gkxU6SuVRtyY4WOyx+DR4buQX+gTXuWQDdnQiqQnkKq2zNj7HwaZhqy6Bo8fHceMc9c9fx1D/l4apkW6zAe/PRON5nugyosvcI5t36EuKPFAu3cz1t/PJRTdBbIU52Vu+JkRbxRURH8Ff5CvNBKbeayZBsN+qLajM2OuyUJddaJ0GY8JgoPkD8Wq96hlFcix9lj021X+Iv83xqtmMfA9BRPqVF5revbdFcxldxr92nUp4t5K/9Hjj/gBcVGmlYN+OegpTwJ5mBxOaLh+EByvgMsEiYeaQznn6ovdqkKLx9H2PoqNPIq9oCxgD75bNMQi0b0Y6M+M6wPRpRn4lvoG1HLcQh+aa6BohM2Y7QaPNx7YiT8tENFIfiTtA55L17vvrKQ8SmdoJ1ptK5pvPVw53ayw9hK74RBACveQ0TFoBMmBWCxFzAbIVaPCwk208esiFJYK/rHesxs3r12mvuNc6WyNwIt8HIqnBi8YpW7z59fFWqMDtGAM=",
+            "page_age": "50 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Real Estate Agent Mornington",
+            "url": "https://www.seachangeproperty.com.au/",
+            "encrypted_content": "Et4HCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDNpYpqJWVRsoNT1JyBoMqosM6tdpQqCU0yONIjC3MxfDFIBp3Roel5Vb0go9D6zlCR/TRiOXUarbPupO5sfrLIVKKRLzMK+HyN23rzkq4QbrbYBNYzDoGEc5H2DQi1HHx0tTgSWNP2mUeRQQv2KdhDnX0Lm/IYp50XCgzp4xEgrE+WLo1mhfocSNems4aBRGk9u4Epfwh5iLuquZIGj/rw50U0Zntw2J9cnFVLfezV1hY2x40XWdiKEmuR3yAEFNkKtvNm9jI+3L6lD1KZ5ZMMChRfu1TulH9LPyADKIlX9j9AOg4Ez5vBJdF0/yjcrudkGHmr5I2efai7ppWtvO2moPlxDNQyff+2Kk8Em2z1IlhbLkUgOGoQzn0e3+iWFyG7FsPYNBleGlhnMK9PJL1YmKInrj9v9uJxASF1RyOsF515c3sMkuoMF8D/dDQqE0vqWrLB/j6KB2ZJ9RpdMjzIFN2+znY8jPAdcnXf54dVTQUMp++/KUVTFUyiXtybHMwVqiInHiLvbbKlYXeoPlzGq97Bif0OjM1l+GzUpwJwHqeUMXOysnD1lEYrTfrhxluDkgD0RTHNs8deaiSeyt9a6OqzefLgatR0/eTH+AGqB3VxzmxRctJmt1tVxI7xkIBGow4KRvu59AGOUX47olaDHenlDKBvO+2NRGUQ43UDiqNIKzsYBfZWSRW0aLiTOaBqs18F+SdHsO0CsJwH+J+38os4zF+wYr5TuSdXnLLReSIPh/EBYKRmNAP4otlbJ0asaO7I4eF8wxqheCOeYG2nXuDdVD+cOmfruFLsDwXvBhYe1DPphxQe3r8lbAGfb/Tm7MlyFDY7K0Xwuhzl7HwfnUoP5nNq6xK+KJ2X+igwraDs5i1MwJ+sTrDnwy4q92tbmhM12LJqZhcckk1dtb64wRc323/3Rfh3Vc6t39gy6n/Em/TbAqy3uOiaS076j60Oego/jOd2I/8szuKYLuFevQUeKydVFD/VKeAZjakf1ht0b7GcQ5ydFG2Vd7D+GZdoVqa6rVETcS6Xu1WC50lvz+HYNyRghbiMQ6uXoOyOzjEe/gc1pReGCoX75e3T27aba4th82J+Fzbinc1SmbN9EgCpvP8Jhy17xHwLpSeC/PjNsQy1oIQFDb8DvEHIit4RmQ7h3hUBp2aPmo/Nlju127koKt96NJB6AuTWpUD9iBOjkgDzdxeH8PNXD625GE+rTr57Gs35XPZuNQMq3wJe1XbBrJUoVd3nP4GDS/fnOQGAM=",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Abode Peninsula Real Estate Agents",
+            "url": "https://www.abodepeninsula.com.au/",
+            "encrypted_content": "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",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "“Luxury Homes",
+            "url": "https://www.michaelkeating.international/about_",
+            "encrypted_content": "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",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Real Estate Agents and Property Managers Mornington 3931",
+            "url": "https://www.jacobsandlowe.com.au/",
+            "encrypted_content": "EucICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDAC99lCsQPQuNij1BhoMYjsVfeYQEFYvDjolIjDyr+OK/o/ii9AesfdUtl8GY6rI53PWG+1bfdWCbhC95qzlLqUvgTEYxxBTYqkeUPsq6gcc2eT6mPGemysMklZtZtg5elia3h1DZsmXs8+PmG38ww+Nyoo9BK/N3131NRFHqjXwW0ugAOd3ZOVTBQF+ANHnShL9ncSa1Y1OhgJMBh0dlGM9ySpj8z49Ejw4GoQQ7nCRfvT8RBEROYdXegeCNJHRxKS9RtKM0ucOJLmpjKUGeccPcmkNyqUHG4fngmFlu3UVut0n++pscv7qjYTnH0weyGrQP1gcbh2Zd3eioaj2M1Mi88JCtUXGorup5cvpenSHzwFbyFT6/TpFn5QYBoVCmfrD0mia73TfPFAcheEEVFEFA35XtjC+nXgpL5I6OgCb3CG4kozwE2tmNL5bnSYNezxqsxEcOeJsBUPJSyFHUAcSncBg/mR3AUv6Hd5hK3Is7XgqoRDNc+b8CEDWpbUP1R8/rUmjMWTEMY0HhI7d2DHZpmQRKqWMqaoqb2Cy+jkxWDPuWiceW1daxMxmyTraJrHMckVWlItyPJHiElaOo3uAekKiDuaG99FqzXBHmk21VW5ve60F3aHCF62tAsQYKvgrtbK/rd7C+4maa81l8eAYJEgM64ykfZMMkEi6t91BooMjh4zLYGnFWUhdAWHQPfKlwo9Tcgo6Xq1KFs+ylVmmjavf6i9u4mpYEpJ9gcLRVAqLLOdDO1UJRYaL2mN3lz0OmSAr3tzdpUZgjql8p8PeZ2DY8dqiA9v4a25b9UmSQE8aIlBPJkdG0jfp/54ALzooEsaRKq2+vQl9jIaAyFCCg++S3NC7B6g5IYKzlhKTzMQ6WJdv/1I5SC0RcqbLTXXmNhYm8xqdQ598pXVELj4WqbH5WXe5qXbi5cxhsYIHqC8d2QehunUdL6HE5VMPUmWYpkeDcU2Hua916wuMdav+hGU4pFIv9WBVa1kM6TRBSn7XFgy37mkrGXUpv+Sb6Lhl7KWTCdidaIiCmRpZGjWHSkXKRsedAwCmglP8SxyWQHLkaq6Nxd5t6Nk+g0Xw/HpeSuDvahTUgWs5rhFs9ER6SyQ5qyEgj3+JGyWx68JZqXx/LkCRm60cHJwQVGZ/xCyGZjG1QQaLmpQJ/+ZIr4K/HQDnOj0ggIg2T+PNN5WPsDS9HVL5Q6dSxDnoC1xanIQ3jAxFAvLF2ISt4yUJJ5URotvpBBFT82ONvgwhCr+65DoJlgYHPxJJrRk6ltvrNVtNZfO+2afZCigZV1e97mHjd2Dst5mUuyNnF5c7YVn6fxYsJMMoxBY9Yy3AiakJvTrDzeRlG8ZQVL7r0eCU7yfIxH9vu6r+E+nf4yNY+0YvFJ6bRblXdaMJaRwRbdeEvKn3KdBqK/49/kgsZstfwyUxPys8VLjV410YAw==",
+            "page_age": "133 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Luxury Living in Mornington Peninsula, Melbourne",
+            "url": "https://verstellar.com/mornington-peninsula",
+            "encrypted_content": "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",
+            "page_age": null
+          }
+        ],
+        "caller": {
+          "type": "direct"
+        }
+      },
+      {
+        "type": "web_search_tool_result",
+        "tool_use_id": "srvtoolu_01UAMYhRnzLvQA9g8zwz7W7v",
+        "content": [
+          {
+            "type": "web_search_result",
+            "title": "Real estate agents in Mornington Peninsula, VIC",
+            "url": "https://www.openagent.com.au/real-estate-agents/vic/mornington-peninsula",
+            "encrypted_content": "EvEICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDMrzRfMWLcKBJoG3JBoMxL5m08ehD7pA5VGpIjAUn9vDo3/fHuftVOXUzl4BUT0K7aHC2rQIsAdBxi2WyQf3q4zAuJAZYIeGEsXaohYq9AeYwQ2TyOTbqfhSfmIQpVpST+kNcMl9krRv6JNU1nkO4Fx+mtUWfiqQZXEBcfgg1jdqN7ciGyg+MHQiDOugkqWxiW73ahN+i9mf3jCTI2TaWGbvG4ofAPhXLzjNMRe+kCJ/0dx3xa7RwNps2ykW3gL52a95ClJEtnvhnAESbuJBW3u/LSb13Ebs7AtyYGgmqy8dKdrYdtVmG2kB8546M6q4iE+pDXSxy2WNV53kuK2NXAguamvGPMdkAXZuDkzVO45ZE75o45RDAh62FoKRlAtC0VFaJao75grudmCFjOKEdVS9YmNXfAlikZn0FKlG6l4p6ItM4kpZIWddOiP7Ky17F+JLRqD8FIYcN69oihK5tnSOAuZDP4ra3bv2vK6FsjxAwCRU7sZi70AstSipG28AdF7spJn1pcgRUkvtCgVsy29JQhCSbOawsdG4cYVt4TeP7+rNa0K/XOoKz8UrJU4Igq7S1Lo1lzAucXREoix/Mn94PvnHQI35lvg2aq9LiJm9tdWeToRr5DHCMqc8DCsxqN50cHjUAnr02IZ8JDnXsbUv8Vt7oAVJnzd4pFo8cGa5m4ZYkm+sp/xFwLh62It8LUNJCPSaJRJpx7Ge7GMEAgzx6myMlpimawAeifeITpD679UlRXTA4aOrbl/v7YrGMq9mAk8LpBsn9Al6WIRgwuyOZxH2BusJj1SLuujN1YSfHxJivDPApnVmqoUHb0tIHdN+4GG2QvkSDOqzwhT8r/RGC0G1Vl3wKL8qBj/to7Q5XzKkYk3VG5m4hP5uazT6xyNE5hKLjku4wv8U4JTMvBCQNrux1s1sq3eO77EJxhI7ZW3VZDL83CULWJqrFEX8li3VF4RLJSq1CgqbP2sj9t7YcNG/pFLMVvOKQo2lEcdB/NguzPJNDfzyyLVjBC4T9wNMxuQ/VJ/Vwulko8T2eBdUJFq3LrHfySZJhpv/JSAvgTGNicIq8vJI+Q32/dNMb/5Jcnd2Wwt5WSn6P/zRbop7ekhy7iJbYNyIvCAnzff44/HbkDE3WkKIMcI3j6Yhmvtk6s9J4IHZj5KanZg/cgiNv7v/yKjBQLi0MX/vIDvzQ/nYlreydgOtLk5BOLwDHbd9oh4w2RnxaxpJ4BPAEWf4xhw8QvkLonn3Db8NZR3Dr3SRmsgnPM0UsZxwLVGpGc9I8yqBnT1t/qe65s6gU+9kVhBcDTJpfSt7zvAKxeDo2v6jFTgoGsKe/CCJdeG6SVF0AAPOFwoXnVghc3E+6qhdp4YVI3V2WO7TTkuoUArBx874+YcvvKD4Rn1PZppkHMpMXzanmhCZgMckgIQZPkLOrJ650lnGluiTtrTl3gGBes0aGAM=",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Real Estate Agent Rye, Tootgarook & Mornington Peninsula",
+            "url": "https://crowdersre.com.au/",
+            "encrypted_content": "Er4ICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDN1PqHA0I/FziB8qVxoM5YHNzGrsSNT77QxZIjDMl5WHUxExAZzeB0dg0nwi6zMfVh7GwvhDEakNDxzTwvFeCC3qoGswhshBg+4ApF4qwQdEkChGJHGDyXkarbxXcEtrzS+TO9036fqlQ4aqHU2HjHs2OAZ3Gu6nsNqdP0mAqYb37qZ9aCxnjnhpsaMwrMij9yxoBsBD7Ju1AGVF7orvTJmHAroDKPEKOuQIKc8aNBrqyAmuD9ibEkMQYSUsMsua5yZcwiT1EiwbEfKLFuNoxLtcNBmT93TBEHqTZf2+bNOSAufktWKBzBtFhiwqsNeeKs+ZftI07aENkwVY6CeV9u0axy8YXYeUjEoAq/NG4lU/lwF4krLNiRyWigcQblQcA1IPKnKmhk8tdHU+MWp4rjuACFJdXWj185BIb41gONSXLOkLs5Brr8NkcT5UAPosh5z5oNGZHdjv1jnTpeTUg/1lOZAZRE8ZbaReKtkQxSYQct7vMbnOAEPGIFP5aYEjN47Lg6ixwWIvU50JVM7st+pd6eQl4uTtUBSkcMsbiLt976Ti2CHNACKEyMoRVz17ULuUD1JlhbNMOs+sx+2w1D/z+x+6vPIyBevnBUqp4JBG1rGQ7QLUv7sxcMU+jCSGi5gY9r9Ny1epJw+VN+rjVNcpfiMNbrYCTRWqu6KL2vaAGm+5WMD63NB8nbkeCJJT7mLqyIwAw7J1wDaQCECSON0HnKvlQs2fb8dTv3WShCaQhwl9FznGUG4tGphIhoUDbAjSBXIFHlmJiW6SS9R+TeFvsZsejcYWD4MzKmRgj8K+dL4vYZGBaFPnAMvuRawMDUiurzLiaTGI5LgGompuWM+b+CbXgbn6cDYRaJqn7NjM2web2IzWGGgKM7QSKvyTHC2nvUF1nNAnKiZ5gk9Bon2c1QfXzDrDBcC9FXMthIqgoUIDnPO1c58ibbVbcpRRXrYS3n7ddhEVUKyV2yx4+KHYPKu3AgS35lCwqtkQ4NFA1HPZk4Er8ZhUf9fS9lRWDweRXc8PddguaTevaCQcHOaQncHRMh6NCT9MUrHe/jQ7a0AVeZ7s0tPdYYweFj1/iorW759bPHWxTwdOETpOY+w/beUh17DyjJVjoT/dEu1/Uf51lvWFed/KrD6E7V8MsXbXBe1RTWnvsfRpV0DTxB/n6rvJfvUJYHRqSYKJ5Z7+jc8B/RaBp4E9T8M4CMF4WlOY+xX9PsQFiIiqOfCpQzYNcX/NLRQ+GVw+EXBuWP3R9DIteoZZ9AZLzT9ky3ISWnr4Dg3cWiWSe/efkGk4cg3Y/14V81Foa2gGmbCzdS5B8a7FdECGKmjYBUubR5sqW3nouB6zramVns4MMguQzg0gNRMFjQoSoL+sWSWRsLc2GAM=",
+            "page_age": "2679 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "One Agency Peninsula",
+            "url": "https://oneagencypeninsula.com.au/",
+            "encrypted_content": "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",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Luxury real estate Melbourne",
+            "url": "https://www.kayburton.com.au/",
+            "encrypted_content": "EtkGCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDBKclIFIXUKNA0enZRoMo/PkDzJiDpTTwf69IjBcCLbQS4gNCHa4bny7RmNb806hCrABFpHts9HwEZLDWTloqtq/DoyAdcai/1kJTBsq3AXIKIExkFjWgRfOz6C1Bzg+bxHfZsGwXNqA2H7gdQSAv1s4zPQdSdqbKfuPCHOU08K1znnDr2swB/r/8o9GYFFmyWrOD4bAeF68WYjEpoQQQqtnApvFRjWn8nw0JuoXpCzWXdwVV8bcKYIIkdJ3CE0RZRcYea1B0PG9R33KWEVWHWQ10L99tDf9QblPrmdQ2HmnxfnPW5Bn6g68VN4cNwUj2oF96XlEZaDH0wyk+/G8kHb1gUdQWCQ5F+ABCyG4GIQyCV7+KFG7CZzYpZJHyHL1Y3O//E8fGRp++IF0Wl7mi1quG8oTfrvH2+W+k19irbSR7GEr6XSGM6LynDfFy5KugRrHjTIxdUQB8fEWN6JJrUz5rzhIzd7P9SQpTHW5HGxFloNNNGa85Nc3F/4Uck23rSV88dMWrEtZMXlKRdATTdJy5my2H/BkM2/HDozxB+j3w3FIgzGFjRI6n2TBl1/t9f+SyBT+y1W/BI/wzg4jJIVdnRT6yWBrmkqJ325QOLk4BWoo7SpXR6QO0FqzP9IUrNDxtucR/S6oIiSYX4vJzzCUoP+/D7rXS9rrdQfA2/lPrlEfe8pYB4uLpb0UK0q1qMMXMT0+SkKqOHBik3Wnx63hl++8ry9glah+pd9YfG3oL0O5YMekeBCl1URagoLBXU0EUn1sAV3WzGnmbsGzefkdkK5X7Hyau9TfSthqMl28EDjd/WuWWatX1HPd48za8HL0WTIW2DBryJojE0/tE9P1V1XUKExnmcHRIlePWqaq2zjmW9Kz+6pxAUBm7PLVeIJzXezbZ01ID+HSxwrNbV60ZxqdKWKpJnbq+6mNahdyXvyHDfd3eXAE65MyOzCBGvrGbiSw8e+/baPBHWf0afxYTdekIsaXHZH6lMGT6X/0ZvJDIar8rpeSmuBfc+SvoFn1+UnnbHF/8wbHlbgl8yuQZ51Ayrk39WClUppCimqqdS5tcDCg/zSCUe8YAw==",
+            "page_age": "481 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Top 3 Real Estate Agents in Mornington Peninsula VIC",
+            "url": "https://top3realestateagents.com.au/real-estate-agents-mornington-peninsula-vic/",
+            "encrypted_content": "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",
+            "page_age": "2360 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Mornington Peninsula Real Estate Agents",
+            "url": "https://danckert.com.au/",
+            "encrypted_content": "EvQICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDHUfAOA+tworue0vxBoMD46RTYZjlX37gKykIjDNdUU3RUkKVSDkvAOtetquDe5yiSsf9XWGVq6GhEkeQCbBmLEdTguAlTFPAzXpXEAq9wfEX5dbeeSMLIwtrMQS387HJZwgFAZB43FQFWl51imDEaRWd785lhoXJCZQUP5cEYPQtw1T7mjR09wF3nxUpkCbw3qwn9y7KnzhXelUMi+Xob8SffN17jJdAuwvJX2vLCAfrAaaJJVePeNNynPIBgYIBhtUjZTlcVhkN74UhbK8WdzbGXDEMu+roRzDLbxD5gwdsHm7ILX/HlCNk4C+4qPq4HdkVGKjnMi3zoxwqtBQOvx/qj25hJwdhJH9TqnR98eX6Zqvhi4pU4v1RWM9s0MnAjp/7wFBmLcMbE9se2Tw8KtHPOzu2jomUoDI4fonChMmDOsnBA+wBKHSWhR01Yi5wayD7VnfGxj0djFwCNgjapOu0SqeFFkrRIQUWSwMQ8zc75VMP+8j2pSoTbleD6pO5oIRn0WxJdBmw3D7K3ru467SwEN/yCxKLCXEZio8YjfkQgywe1cst6Ic6OQ/QpE25pskCbq4kxnr1c4q0yWtuOTHt4hOMOJAdujYqZapQZLMJtL0ASY9TrCnq7t1fs+S+ky2chC+/FNX4U5W2xo/tKjnWwoPgiNAmhfIGMmRih48m94mAz/ALIXa3KGTVQ47cEdm8araWi60mZlwWzqh5pUJ8Dt2rD5yR6jL+T5datSbiO4wLLDDUm3jrNUPqVPxh7MpnzAUpRlJKR2AO9eux2w/Ih3zXNPduFTqvfq54crr3FudpRzHnizcwVN//fO9fHe6gjDq6sV7nsVR1rewzkhHE6fOO+LPmRLT0iFRHvyuyTk4sT0iqWj/8v1DK5KtZ+GfTwMMurDNf6rRbpE0mI7Qo5WZYzBU4jn/BsnzrEJGs1o/llPJDhng2JrnlB5KUoQuZ2QiQT2z2pzhA2Ooe8pKEQiHHB5pekKNNCjOw+NZZAk3OTh8Qc9aWQSbqg/vZyQ0uyhv294O98wqF6VqjFLCBG7SoyS9n5dgOe2Ese0kY9Dmo++J1bkHprCJLGKDih2RRYMD9LqZU/sDglBEnmWxIJIX8Bb9ksoul725zU5bvjMRTUYBsxTK+d9upqXcQs1hBsBdOaBysHFRjmgKWMSzqpTBf/B7MoC1Kz5+Z8HPVJJ4i34EAFxsd+svO/MVDJzG5y0KcGxRfMy+Zet4Y6vAu9v7tUZMfdru2Gigh+6HFnoreTLi58O6uB/iBA97tCV9SHBQ7MxydUavsQ+whjQffsDmsUfvQypCoz6BPhkCu8FUS+Oho4f3ypBKqmiUPExq2pra/hCwt8X1aOqWwD1zLwpg0z7j+PA7YHF4W4kegx2tZ8kRV28cPAY7a5BpFrhnpB2HhXRkOJhXsUNX1NjKedjEYaEic7ZFyD/kCXSSuHa8mebMGAM=",
+            "page_age": "50 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Top 3 Real Estate Agents in Mornington VIC",
+            "url": "https://top3realestateagents.com.au/real-estate-agents-mornington-vic-3931/",
+            "encrypted_content": "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",
+            "page_age": "2360 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Real Estate Agents and Property Managers Mornington 3931",
+            "url": "https://www.jacobsandlowe.com.au/",
+            "encrypted_content": "EugICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDEvHUYh+POy55Hfz2xoMOCXjFdKSUFhcQwh5IjBLYMn9fQUkdRWW4VCMOi4+uK+ho5N7dnLSc1/ptyCK7JuEWcGVF/zAPUbYDqSI2h0q6wc+fzzQkkvlXn0K4ddqdyP48WMt6jhNtRyVQU6vZ6hrTnVAguvDVuoCauVd/MCVkgChW7Z9QgBDo3GQx6iFvYY8d+t5VIGXr8hZl9De9nwEk8/cVbHLlwXiX/mPZMMxXxPcWSZQpras9cEskJwy0ZGOVBTyO1IB0gFDLlnL8VEKZpqGh+mU8PYUcwBbAeXQzjPGXxKUfc91RlYjuUP9H4xqmWtaN93b137heBA/zC4qW2SrVs2M48x1KMzcGMUCs//jqhqk6fkxmtvYyS2EVJiYE0urZd8+qrpN/iU0lEyX8m3tqlv0LSIIhDMzRZa8Md/EcPm6WDoV29+W+Y4CM/+Kb9nHgwgb0vrYcXuav1RfXztysWuaYlZMBWGAb+hW/r85IFmqZ66d15talgeNK9VjghT1rusoEeGEDJiNzUpR7UFlotZZPsZ+MEA2NCNt6He72WooSzBwt+tLjbf4L2CulXUtNMM2wca1yPDpWQcQHs611h7cz116zonGbU38uaocXh6pXEHrfxLiIJiwreI9jYde3gD3gkhmc/9hZGA3jDk+XosjatXGQkRiuPV78PTHVadT8Rg/tyFIuGmY6CEXCBWBP/U2plwMEwqbbWZ1vI30k5nk9R0kE3nVjc+QjiywLv/3mCUFj41vspzPno8jIZ0iB17e+iQxUyt7N7J/PYJYC72J0KtslTMvr87+TRwYzK3p6CNw8az4sBJhBPy4ArtEbW75VO3475CAsC01iNenzT30mm5g4hiaYzjhJe3242ZeDvFXl7W0FosYGsX1rLYCSVLFUralTuAmLf/lqIjxOAn/iSJrxFyCwJpx3fd/mddAQj2csbo4k7wcsmUVaqnDVDIp19JhO3NhHU35USWErA/09+cLMMOF7jUyxuBJpxLE5RQeGpzuyIlK7b/xpshjKCExSBx5dvNuRq0GwyBaWd5hKU/JscNNJ53fAQT+WptnmXhweeBGEwOIqpKQMs3setJjYWeItH+KDsflUD4OI8HaeD5b7tMwOv/oQbqNdT+pWXfROZaHq3KgRSoBx1hZGOfYXwXWtLTETe56L+7S+lv/89H/Kdf9B5gubWe22fxZdCqltvLFK6eNDuLcuOHsR46oplsnKpjxblNuDj9Owds0x0hQzjN2K9Iobh7yuzhNu5SCZFdpPauxYMS6vx6hzaD+1WRIJIwXywaVU+4LCJfXJk8oPuY0Am8VEpkI4k/M8ORQxoIqGg4qqibFhoXiAZHa9b/kyqc9zS78vp09H4Yt5CmovCQOfQZuab0xCpP/vmvKOi6kkv1I9y7/Bgrj0z/a2fXvhvsRAo4gD58vuaaKHspOm7oBGAM=",
+            "page_age": "133 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Mornington Peninsula Real Estate Agent for Sellers",
+            "url": "https://www.clementsinternational.au/mornington-peninsula/",
+            "encrypted_content": "EsUFCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDMgDwGWx2FnMJ/DTCRoMy3M/UjRcJY1IG9lrIjDzGXP1ZzJTicy3m21GOvba2mJGk8+n5p8qB1fCyGN1OX0H68iF9TyHpevXlfXN0B0qyAS17J3o14Q4k5wciLUXog/vAR3zZrGs8umepivWx0nPaGBw7KKVoTbhlSMJgoulhsn8mtuaeD3JE5mQ/TmhpryrXANJcaxsHiDqXWMV8k1SQ2T5qtvtaZlOwdZzcK8LyDVzHLUUbhxjqibJZCWqbzNpyp5xgf1txgPjl1OCfVbpv/xkR1RfnGpksWjKBBHBEoIhq7wv8D2GD62BQJebGCg4ooM4fgGoDGWM6aHn51V6ZTfCNZp+Yuj0izueNpbkcTOLfs9WaJaiUPMw2RntNWzo2FbS5oHlrKzIXAW6SWpy0qi/HDwQrNkqlhWSHN8KhdW211dhyl5wlJ3y/9n3+NACi8kBeuJEP+Mw0UgdtxLnhHof05/lDaM3XqEcTZ8sknO5n7URzHATo43HPDIzGht6ZDDyQArldmciwUlKXbgJcncvK3uDaJgSUVm3hhO+6m6f0drAo3vuLS8MOGC0DFeNHjoQwH+Y0uTTjJ1upW1E2k4QKAapqY4GcWisc+cInVR/wKG9taaGqol60HPsS4gHaSTXqPrSyVLZPtEC1MBkwY+P0DVmwigXVYJqHiBQ/LbnUfbGXhVVej+DVlaXiOtxdzr5fnu+K6+cr5WJy+Cqg+penC2UI71R7el/F/GNlKCEkOxULlgxcf/mmH+fneBW/RSikqanOSmSM0/aIaoCwI/rxdQQfjk8Mkzp0eNWPQjDVWsUrWc5JTPbZR05DUVd9cc9+8Jr2vnbveg15Iry41FM0m9t5LPwuAYjRDCrxo7cMDnj/ftQ+hgD",
+            "page_age": "203 days ago"
+          }
+        ],
+        "caller": {
+          "type": "direct"
+        }
+      },
+      {
+        "type": "text",
+        "text": "Here is a shortlist of the **best luxury and prestige real estate agencies on the Mornington Peninsula**, with reasons for each:\n\n---\n\n## 🏡 Top Luxury Real Estate Agencies — Mornington Peninsula\n\n---\n\n### 1. 🥇 Peninsula Sotheby's International Realty\n**Best for: Ultra-premium, high-profile coastal estates**\n\nPeninsula Sotheby's is arguably the dominant force in prestige Peninsula property. "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Rob Curtain \\| Peninsula Sotheby's International Realty Presented by Rob Curtain \\| Peninsula Sotheby's International Realty Contact Collection\n\n\n\n- L...",
+            "url": "https://www.luxuryestate.com/australia/victoria/mornington-peninsula",
+            "title": "Luxury Properties for sale in Mornington Peninsula Province - LuxuryEstate.com",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDB1tve3FBr/BZCclURoM94ZxvW4jGpwz+G0lIjA7JTNsmthJbNQ9H5aMOdO1g4nsg/0JqnpG1gImuC6iQHYSkPx3eV8+LImC1dGd8Q4qFeV91zA86x8tLyf+2gcKkgMLrIJnJxgE"
+          }
+        ],
+        "type": "text",
+        "text": "They consistently handle landmark properties across the region, from Flinders to Blairgowrie and Sorrento, with listings typically offered by private appointment and priced on application."
+      },
+      {
+        "type": "text",
+        "text": " Their standout agent, Rob Curtain, "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Returning to real estate in 2010, Rob picked up where he left off, quickly establishing himself as the leading luxury agent in the Portsea & Sorrento ...",
+            "url": "https://www.luxuryestate.com/a9386381-rob-curtain--peninsula-sotheby-s-international-realty",
+            "title": "Rob Curtain",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDNAzdMqntEGgyAvYCBoMc+J/UxXTddIDLU//IjBPZEtIz4T8mPN9RFhYSudgjavDSgh9roePuowBsbhofiI9wFGEUi7884xoQ5XWuYEqFcag9AODnH+TKI1kwu3vT0XMqz41FxgE"
+          }
+        ],
+        "type": "text",
+        "text": "established himself as the leading luxury agent in the Portsea & Sorrento market, with total yearly sales among the highest in Victoria and the leading agent on the Mornington Peninsula."
+      },
+      {
+        "type": "text",
+        "text": " The Sotheby's brand brings with it a powerful international network, making it ideal for sellers targeting global high-net-worth buyers.\n\n---\n\n### 2. 🥈 Kay & Burton\n**Best for: Ultra-high-net-worth clients with Melbourne and international connections**\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Explore luxury property in Melbourne and the Mornington Peninsula with Kay & Burton—prestige real estate agents for buying, selling and property manag...",
+            "url": "https://www.kayburton.com.au/",
+            "title": "Luxury real estate Melbourne",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDLHVyU4E5smC+tlMshoMBUVKQFByLoJrmwzuIjC5kjqNF3AAO2npOxrKgrnDIjiSplzIMIfvb++J1ROouRadDI70GylbbMIRZT9OWz8qE2ggyeFEv21wxmuNuPZQ6/JkzesYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Kay & Burton are prestige real estate agents for buying, selling and property management across luxury property in Melbourne and the Mornington Peninsula."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "## LEADERS IN REAL ESTATE SINCE 1938\nAs trusted advisors to the most astute private clients, families and institutions, Kay & Burton occupies a rarefi...",
+            "url": "https://www.kayburton.com.au/",
+            "title": "Luxury real estate Melbourne",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDEX/RaftKBpmcir6bxoMLnrb/is94C4c2gvjIjAXqLfz5JgnVS2CcIKLevkYQNZwVYwq3jtAjh58fcnBlvaO4WN6gDogA02jEYLvt98qFarurS2Mjr/SN/36eBc94yU/jhOVKRgE"
+          }
+        ],
+        "type": "text",
+        "text": "As trusted advisors to the most astute private clients, families and institutions, Kay & Burton have occupied a rarefied position within the Australian property landscape for more than eight decades, combining specialist knowledge, impeccable service, and trustworthy advice."
+      },
+      {
+        "type": "text",
+        "text": " Crucially for Peninsula buyers and sellers, "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "With strategically placed offices throughout Melbourne and Victoria's Mornington Peninsula, our sphere of influence allows our business to do what oth...",
+            "url": "https://www.kayburton.com.au/",
+            "title": "Luxury real estate Melbourne",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDLiu23DQ87WXg7yP2RoMDLX2DrdLmY5rv3uoIjBbQm1TUMY3+g5riXoIh7uCzOFt3VaxrUYTuuOnzwKfBbnzqNumWM9gfq895gJaHjAqFeNvkZ6bv29FUlwzU6YNfAhg4dF/1BgE"
+          }
+        ],
+        "type": "text",
+        "text": "their strategically placed offices throughout Melbourne and Victoria's Mornington Peninsula give them a sphere of influence that connects them to ultra-high-net-worth clients across Australia and in Singapore, Hong Kong, China, New York, London and Dubai."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n### 3. 🥉 Michael Keating International\n**Best for: Trophy properties and off-market sales**\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Michael Keating is a name synonymous with handling the sale of luxury and trophy properties on the Mornington Peninsula, in Toorak and South Yarra.\n\n",
+            "url": "https://www.michaelkeating.international/about_",
+            "title": "“Luxury Homes",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDOSXCbpUSSXA8bGPOhoM8Uz1B1+Ur0eOFap4IjBOuV5ioTN69IWzLxbzJ9nbM/TFxwjg1hsM5eDjrBF8+ziEivBX0Zw9Zf4kQ9ONxvgqE9++lTfS9clvzv7+U6KEx1zqO6kYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Michael Keating is a name synonymous with handling the sale of luxury and trophy properties on the Mornington Peninsula, in Toorak and South Yarra."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "In the Melbourne property press he became known as the 'off market sales specialist' and the acknowledged leading exponent of international real estat...",
+            "url": "https://www.michaelkeating.international/about_",
+            "title": "“Luxury Homes",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDFAjL5oPhw2IGtm+cxoMeULbv/YOz2vWzsfbIjAcj2ZeFlWK5MTUKSsehMeaH3RWeyouGtb8tdB7KEHnTXjAZzmwxZc7yEfxwHUpbwkqE/To/7LQEMlvlmaWium0R3/sE1gYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "In the Melbourne property press, he became known as the 'off-market sales specialist' and the acknowledged leading exponent of international real estate sales, exporting the ownership of unique properties to foreign buyers and to Australian expatriates."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "He is reknowned among vendors and other agents alike as the agent who realised the uniqueness and value of properties on the Mornington Peninsula from...",
+            "url": "https://www.michaelkeating.international/about_",
+            "title": "“Luxury Homes",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDExM7fjD3ckhriUgKhoMIDOcsb9Ne1vM5+86IjCIoedA2sRTrR5Q1jqXm97O1DVzqrRGkNj355NIrafTpTFeOjt+5G4Y+Hks/zt/tBEqE4k/9RzQ38i8gOW8ttpnD9CI1fsYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "He is renowned among vendors and other agents alike as the agent who realised the uniqueness and value of properties across the Peninsula — from Flinders and Merricks to Portsea and Sorrento, Mount Eliza and Olivers Hill to Red Hill and Balnarring — and reset the benchmarks for sale prices accordingly."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n### 4. McEwing & Partners\n**Best for: Prestige coastal and rural Peninsula properties**\n\nMcEwing & Partners has built a strong reputation for premium Peninsula real estate. Director Dean Phillips is a standout agent: "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Property Sale Price ($)\n\nAgent Commission %\n\n\n\n### Dean Phillips, McEwing & Partners (Mornington)\nA passion for excellence and a commitment to providi...",
+            "url": "https://top3realestateagents.com.au/real-estate-agents-mornington-vic-3931/",
+            "title": "Top 3 Real Estate Agents in Mornington VIC",
+            "encrypted_index": "EpMBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDN4HWjW2ubkYDew+vRoM19bfZKFevMGhugNzIjDzLUzV4+lKKyRed+7yQzy7ATtsj0u9u/UurTVDQwU3n+no7C2Vxyo52EMQEPJgVuoqF8GHvALXRijTxCRQySH5IoUIvHnWa9JEGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "a passion for excellence and commitment to world-class service place him among Australia's top performing agents, with sales figures that rank him among the nation's best and over 15 years of experience developing a vast network of local and international buyers, earning a reputation as one of the preeminent sales agents in the Peninsula's beachside and rural areas."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n### 5. Danckert Real Estate\n**Best for: Mount Eliza, Mornington & surrounds — boutique luxury**\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Established in 2017 Danckert are leaders in Mornington Peninsula real estate. With over 50 years' of combined experience selling dreams, our team of t...",
+            "url": "https://danckert.com.au/",
+            "title": "Mornington Peninsula Real Estate Agents",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDFc3nmiV0WVGGH0pkxoMVKrfIFzxxraPtCt9IjC2RTvhgWRcaCQq/5zIS0Lb1XMqSHmYPbKIpLXqw32PxZsyASZQ6/373nNLq1y2R7AqFW0s5/iUfWmm8chCFMSeLm/g6xsrNhgE"
+          }
+        ],
+        "type": "text",
+        "text": "Established in 2017, Danckert are leaders in Mornington Peninsula real estate, with over 50 years of combined experience and an intimate knowledge of luxury homes and premium real estate."
+      },
+      {
+        "type": "text",
+        "text": " They specialise in the northern Peninsula suburbs of Mount Eliza and Mornington, offering a boutique, director-led experience. "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "## Property decisions deserve clarity, strategy and leadership — not guesswork. At Danckert, we guide our clients with precision, professionalism and ...",
+            "url": "https://danckert.com.au/",
+            "title": "Mornington Peninsula Real Estate Agents",
+            "encrypted_index": "EpIBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDIX96Oks6nk7h1utaBoM5C3B0wkRYx+iTjP4IjAJh6korvo9vwwZVDpLkC4hFiOySuqGjJjlUv4kfu3X92ned5IQjJRmGyBPo+1uUZQqFu6IPEdBg16IxBo/1MIzYUk8S8u5ACgYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "They pride themselves on guiding clients with precision, professionalism and a commitment to exceptional outcomes."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n### 6. Jacobs & Lowe\n**Best for: Heritage credibility and full-service boutique agency**\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Jacobs and Lowe, the most well-established Real Estate agency on the Mornington Peninsula, assists clients navigate the property market across all asp...",
+            "url": "https://www.jacobsandlowe.com.au/",
+            "title": "Real Estate Agents and Property Managers Mornington 3931",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDPHaFmAkd3jFRqg7AhoM43ySPMQ/OU67wojYIjATa4nOH51vpBtJ0hJFstzPS8XBdjdwktOga4eHJxOvcSk9cj8R3MYUOlGZaMX/Ic4qFct/J6N6lDeV6c8S1Kmw7N0u7IGSTxgE"
+          }
+        ],
+        "type": "text",
+        "text": "Jacobs and Lowe is the most well-established real estate agency on the Mornington Peninsula, established in 1905, with highly experienced sales and leasing experts, property managers and administrative staff."
+      },
+      {
+        "type": "text",
+        "text": " While they cover a broader range of the market, their deep local roots and boutique approach make them particularly trusted for lifestyle and prestige residential sales.\n\n---\n\n## 🗺️ Quick Reference Summary\n\n| Agency | Best For | Key Strength |\n|---|---|---|\n| **Peninsula Sotheby's** | Ultra-premium estates | Global brand & top local agents |\n| **Kay & Burton** | UHNW clients | International buyer network |\n| **Michael Keating International** | Trophy & off-market | Record-setting sales |\n| **McEwing & Partners** | Coastal & rural prestige | Top-ranked local agents |\n| **Danckert Real Estate** | Mt Eliza / Mornington boutique | Boutique precision & local depth |\n| **Jacobs & Lowe** | Full-service & heritage | Oldest agency on the Peninsula |\n\n> **Tip:** For the absolute top end of the market (Portsea, Sorrento, Flinders, Red Hill), **Peninsula Sotheby's** and **Michael Keating International** are the most specialised. For buyers wanting exclusive representation, consider also engaging a dedicated buyer's agent."
+      }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 15728,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1539,
+      "service_tier": "standard",
+      "inference_geo": "global",
+      "speed": "standard",
+      "server_tool_use": {
+        "web_search_requests": 2,
+        "web_fetch_requests": 0
+      }
+    },
+    "diagnostics": null
+  }
+}

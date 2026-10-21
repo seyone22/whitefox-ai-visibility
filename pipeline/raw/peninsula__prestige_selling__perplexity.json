@@ -1,0 +1,106 @@
+{
+  "slug": "peninsula",
+  "pk": "prestige_selling",
+  "plat": "perplexity",
+  "text": "I am selling a $10M luxury residential property in Mornington Peninsula. Which prestige real estate agencies have the strongest track record for high-end home sales?",
+  "loc": 9056918,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\peninsula__prestige_selling__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:19:32.820Z",
+  "cost": 0.006113,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 38,
+      "output_tokens": 475,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005513,
+      "datetime": "2026-10-21 05:19:32 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For a **$10 million Mornington Peninsula property**, the strongest shortlist appears to be:\n\n1. **Danckert Real Estate** — the most directly aligned luxury specialist. It focuses on premium Peninsula homes, has more than 50 years of combined team experience, and reports international buyer interest and recent overseas-buyer sales.[1][4]\n2. **McEwing & Partners** — a strong candidate for a high-value Mount Martha, Mornington or Mount Eliza campaign. The agency says it has handled more than $1 billion in property sales and explicitly markets its capacity for properties valued up to $10 million.[6][8]\n3. **Di Petta Group** — worth considering if the property could attract Bayside and Melbourne buyers. It combines more than 40 years of experience across Bayside and the Peninsula with premium-property, auction and discreet off-market expertise.[7]\n4. **Paton Estate Agents** — particularly relevant for coastal, rural-lifestyle or acreage property. It has operated across the Peninsula since 1961 and specialises in luxury lifestyle, rural and beach/coastal homes.[9]\n5. **Seachange Property Real Estate / Geoff Oxford** — a local premium-property option, especially around Mornington, Mount Eliza and Mount Martha. Publicly available agency data describes Oxford as having more than $300 million in property transactions and a focus on architectural and blue-chip homes.[6]\n\n**Recommended approach:** invite **Danckert, McEwing & Partners and Di Petta Group** to pitch, then add **Paton Estate** if the property is coastal or rural. Ask each agency for:\n\n- Their last five sales above $5 million on the Peninsula or in comparable bayside suburbs\n- Evidence of buyers who can transact around $10 million\n- A proposed discreet/off-market strategy versus a public campaign\n- The named lead agent—not just the agency’s broader sales record\n- Net expected proceeds, including commission, marketing and auction costs\n- Comparable sales evidence supporting the proposed price range\n\nThe available public evidence is stronger for **luxury positioning and broad sales experience** than for independently verified numbers of $10 million-plus Peninsula transactions. Require each finalist to substantiate its claimed record with addresses, sale dates and prices before signing.",
+              "annotations": [
+                {
+                  "title": "MARKETING YOUR PRESTIGE PROPERTY",
+                  "url": "https://danckert.com.au/article/marketing-your-prestige-property",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "McNeill Real Estate: Mornington Real Estate Agents ...",
+                  "url": "https://www.mcneillrealestate.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top End Plays By Different Rules - Inside Prestige Property Valuations",
+                  "url": "https://opteonsolutions.com/au/insights/inside-prestige-property-valuations",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Danckert Real Estate: Mornington Peninsula Real Estate Agents",
+                  "url": "https://danckert.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best 70 Real Estate Agents In Mornington [2026]",
+                  "url": "https://whichrealestateagent.com.au/best-agents/mornington-mornington-psula-west-vic-3931/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 3 Real Estate Agents in Mornington VIC | Best Agents List",
+                  "url": "https://top3realestateagents.com.au/real-estate-agents-mornington-vic-3931/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Residential",
+                  "url": "https://www.dipettagroup.com.au/p-residential-real-estate-services-45.aspx",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "McEwing Partners - Local Real Estate Agency | Allhomes",
+                  "url": "https://www.allhomes.com.au/agency/mcewing-partners-538479/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Real Estate Agents Mornington Peninsula | Paton Estate",
+                  "url": "https://www.patonestate.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Peninsula",
+                  "url": "https://oneagency.com.au/peninsula",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

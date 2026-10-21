@@ -1,0 +1,274 @@
+{
+  "slug": "brisbane",
+  "pk": "architectural_projects",
+  "plat": "claude",
+  "text": "Which prestige real estate agencies in Brisbane are the market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\brisbane__architectural_projects__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:16:21.644Z",
+  "cost": 0.117793,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 27096,
+      "output_tokens": 1727,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.117193,
+      "datetime": "2026-10-21 05:16:21 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Great question! Brisbane's luxury real estate market is booming right now, and several prestige agencies stand out as market leaders in off-the-plan developments, penthouses, and architectural project marketing. Here's a comprehensive overview based on the latest available data:\n\n---\n\n## 🏙️ Brisbane's Prestige Real Estate Market — 2026 Overview\n\nBefore diving into the agencies, it's worth noting the scale of the opportunity:\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Brisbane's Queensland capital has emerged as Australia's leading luxury property destination, with population growth and infrastructure investment driving prime real estate — a status confirmed by a recent Knight Frank report.",
+              "annotations": [
+                {
+                  "title": "Brisbane emerges as leader in luxury real estate - Real Estate Business",
+                  "url": "https://www.realestatebusiness.com.au/sales/31714-brisbane-emerges-as-leader-in-luxury-real-estate",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Knight Frank's *The Wealth Report 2026* shows that the city's ultra-premium apartment market is specifically on the rise, with high-end apartment prices increasing from a historic ceiling of $9M to more than $15M in just the past 12 months alone.",
+              "annotations": [
+                {
+                  "title": "Inside the ultra‑rare riverfront penthouses changing how Brisbane buys luxury - Faribai",
+                  "url": "https://faribai.com/2026/09/23/inside-the-ultra-rare-riverfront-penthouses-changing-how-brisbane-buys-luxury/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Place Advisory data revealed the entry point to the prestige sector is now $3 million and above.",
+              "annotations": [
+                {
+                  "title": "Prestige Property Brisbane",
+                  "url": "https://www.propertybuyer.com.au/blog/prestige-property-brisbane-2026-luxury-market-insights-top-suburbs",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 🏆 Market-Leading Prestige Agencies in Brisbane\n\n### 1. **Knight Frank Brisbane**\nKnight Frank is widely regarded as one of the most authoritative luxury and prestige agencies in Brisbane. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Brisbane's luxury property market has emerged as one of the hottest globally according to Knight Frank, propelled by the upcoming 2032 Olympic Games and significant government infrastructure investment.",
+              "annotations": [
+                {
+                  "title": "Brisbane emerges as leader in luxury real estate - Real Estate Business",
+                  "url": "https://www.realestatebusiness.com.au/sales/31714-brisbane-emerges-as-leader-in-luxury-real-estate",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Knight Frank is particularly prominent in project marketing, international buyer engagement, and ultra-premium apartment sales.\n\n---\n\n### 2. **McGrath Estate Agents (International & Private Clients)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "McGrath Estate Agents' head of international and private clients, Adam Ross, noted that Brisbane has announced itself as a significant player in global prime property markets, with its emergence occurring in a short time span — part of a wider story about Queensland's appeal to wealth.",
+              "annotations": [
+                {
+                  "title": "Brisbane emerges as leader in luxury real estate - Real Estate Business",
+                  "url": "https://www.realestatebusiness.com.au/sales/31714-brisbane-emerges-as-leader-in-luxury-real-estate",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " McGrath is a strong player in high-end project marketing and private client sales.\n\n---\n\n### 3. **Ray White Collective / Ray White Prestige**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Ray White believes Brisbane is now the fastest-growing luxury market in the country, along with the Gold and Sunshine Coasts.",
+              "annotations": [
+                {
+                  "title": "Prestige Property Brisbane",
+                  "url": "https://www.propertybuyer.com.au/blog/prestige-property-brisbane-2026-luxury-market-insights-top-suburbs",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Ray White Collective is particularly active in prestige project launches and off-the-plan apartment campaigns across Brisbane's inner suburbs.\n\n---\n\n### 4. **Cavale (Cavcorp's In-House Prestige Agency)**\nCavale is the dedicated prestige arm associated with developer Cavcorp. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Ari Shahbazifar of Cavale holds the roughly $20 million listing",
+              "annotations": [
+                {
+                  "title": "A Trophy Penthouse Hits the Market at Brisbane’s Luminare Residences",
+                  "url": "https://robbreport.com/shelter/homes-for-sale/luminare-grand-penthouse-2501-brisbane-1237585938/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " for the Grand Penthouse 2501 at the Luminare — ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "a half-floor home atop the Cavcorp development that could become the most expensive apartment ever sold in the Queensland capital.",
+              "annotations": [
+                {
+                  "title": "A Trophy Penthouse Hits the Market at Brisbane’s Luminare Residences",
+                  "url": "https://robbreport.com/shelter/homes-for-sale/luminare-grand-penthouse-2501-brisbane-1237585938/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Cavale is a standout name in ultra-luxury penthouse and wellness-integrated tower marketing.\n\n---\n\n### 5. **Place Advisory (Place Estate Agents)**\nPlace Advisory is one of Brisbane's most recognised local prestige and project marketing specialists. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Place Advisory data has been widely cited in defining Brisbane's prestige entry price point at $3 million and above,",
+              "annotations": [
+                {
+                  "title": "Prestige Property Brisbane",
+                  "url": "https://www.propertybuyer.com.au/blog/prestige-property-brisbane-2026-luxury-market-insights-top-suburbs",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " reflecting their deep market intelligence and leadership in the luxury segment.\n\n---\n\n### 6. **North South Real Estate (NSRE)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "North South Real Estate is a trusted authority in prestige real estate sales and buyer advocacy, guiding high-net-worth individuals through complex property decisions with precision, privacy, and insight.",
+              "annotations": [
+                {
+                  "title": "Prestige Property",
+                  "url": "https://www.nsre.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They specialise in luxury real estate advisory, bespoke property development, and strategic investment consulting for Family Offices, HNWIs, and UHNWIs.",
+              "annotations": [
+                {
+                  "title": "Prestige Property",
+                  "url": "https://www.nsre.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 7. **CBRE Residential Projects Brisbane**\nCBRE is a global powerhouse with a strong Brisbane presence in large-scale residential project marketing, particularly for architecturally significant and mixed-use luxury towers. They are frequently engaged by major developers for off-the-plan launches targeting both domestic and international buyers.\n\n---\n\n### 8. **Herron Todd White (HTW)**\nWhile primarily a valuation and advisory firm, ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Herron Todd White noted that buyers will now pay eight-figure price tags for some prestige properties, like those on Brisbane's waterfront or with stand-out architectural details",
+              "annotations": [
+                {
+                  "title": "Prestige Property Brisbane",
+                  "url": "https://www.propertybuyer.com.au/blog/prestige-property-brisbane-2026-luxury-market-insights-top-suburbs",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — making them an important reference point and influencer in the prestige project space.\n\n---\n\n## 📍 Key Precincts These Agencies Focus On\nThe top suburbs and precincts where these agencies are most active include:\n- **New Farm** – riverfront penthouses and boutique luxury apartments\n- **Newstead / Teneriffe** – architecturally driven towers (e.g., Luminare)\n- **Kangaroo Point** – ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "which saw an annual median unit price increase of 14.7% in July 2026",
+              "annotations": [
+                {
+                  "title": "Inside the ultra‑rare riverfront penthouses changing how Brisbane buys luxury - Faribai",
+                  "url": "https://faribai.com/2026/09/23/inside-the-ultra-rare-riverfront-penthouses-changing-how-brisbane-buys-luxury/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Hamilton & Ascot** – prestige house and penthouse sales\n- **South Brisbane / West End** – off-the-plan luxury apartment corridors\n\n---\n\n## 💡 Summary Table\n\n| Agency | Specialty |\n|---|---|\n| **Knight Frank** | Global luxury, project marketing, international buyers |\n| **McGrath International** | Private clients, prestige sales |\n| **Ray White Collective** | Off-the-plan launches, prestige campaigns |\n| **Cavale** | Ultra-luxury penthouses, developer-aligned |\n| **Place Advisory** | Local prestige projects, market intelligence |\n| **North South RE** | HNW/UHNW advisory, off-market access |\n| **CBRE Residential** | Large-scale architectural project marketing |\n\nWould you like more detail on any specific agency, suburb, or development type?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "prestige real estate agencies Brisbane luxury off-the-plan developments penthouses market leaders 2026",
+        "Brisbane architectural project marketing luxury apartments penthouses top agencies",
+        "top prestige real estate agencies Brisbane luxury project marketing penthouses off-the-plan 2025 2026",
+        "Brisbane luxury off-the-plan project marketing agencies Knight Frank Place McGrath Ray White prestige"
+      ]
+    }
+  ]
+}

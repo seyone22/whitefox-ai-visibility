@@ -1,0 +1,106 @@
+{
+  "slug": "sydney",
+  "pk": "buyers_advocacy",
+  "plat": "perplexity",
+  "text": "Which luxury real estate agencies or buyers advocates in Sydney offer the best buyers advocacy and acquisition advisory for prestige homes?",
+  "loc": 1000286,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\sydney__buyers_advocacy__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:14:09.386Z",
+  "cost": 0.006393,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 29,
+      "output_tokens": 764,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005793,
+      "datetime": "2026-10-21 05:14:09 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For **Sydney prestige homes**, the strongest shortlist is **Propertybuyer Prestige, Cohen Handler, Rose & Jones, One Buyers Agency, and James Chase Buyers Advocacy**. The best fit depends on whether you prioritise scale and data, boutique discretion, or deep expertise in a particular suburb.\n\n## Recommended shortlist\n\n| Agency | Best suited to | Notable strengths |\n|---|---|---|\n| **Propertybuyer Prestige** | High-net-worth and complex acquisitions | Dedicated prestige specialists, off-market capability, auction and negotiation expertise, and coverage across Sydney’s Eastern Suburbs, North Shore, Northern Beaches and other premium markets. Its listed specialists include Rich Harvey, Munro Donen, William Losch and Matt Corbett.[1] |\n| **Cohen Handler** | Buyers seeking broad market reach and a large acquisition platform | Long-established buyer-side firm with substantial transaction experience, off-market relationships and a particularly strong profile in blue-chip Eastern Suburbs and Lower North Shore acquisitions.[2][3] |\n| **Rose & Jones** | Boutique, highly personalised prestige purchases | Focuses on high-end residential acquisitions, strategic negotiation and discreet off-market opportunities, especially for clients wanting senior-level attention rather than a large institutional-style team.[1][4] |\n| **One Buyers Agency** | Eastern Suburbs luxury homes | Strong local focus, data-led research and access to premium and off-market opportunities in Sydney’s Eastern Suburbs.[1] |\n| **James Chase Buyers Advocacy** | Independent end-to-end representation | Advises on acquisition strategy, property selection, valuation, due diligence and negotiation, with a stated focus on the Eastern Suburbs, Lower North Shore and Hills District.[5] |\n| **Kincade International Realty** | Overseas or interstate purchasers | Provides buyer representation and acquisition support for luxury residences and international purchasers, including opportunity identification, assessment and negotiation.[6] |\n| **HighSpec Properties** | Lifestyle properties, renovations and Northern Beaches purchases | Combines acquisition advice with attention to building condition, construction costs and renovation feasibility; it operates across the Northern Beaches, Eastern Suburbs and lifestyle markets beyond Sydney.[3] |\n\n## Best choice by buying brief\n\n- **Maximum prestige-market depth:** Propertybuyer Prestige or Cohen Handler.\n- **Discreet boutique service:** Rose & Jones.\n- **Eastern Suburbs specialist:** One Buyers Agency or Propertybuyer’s Eastern Suburbs team.\n- **Independent strategic advice:** James Chase.\n- **International acquisition:** Kincade International Realty or Propertybuyer Prestige.\n- **Renovation or architectural potential:** HighSpec Properties.\n- **North Shore and Northern Beaches:** Propertybuyer Prestige or James Chase, with HighSpec worth considering where renovation analysis is central.\n\n## What to verify before appointing one\n\nFor a multimillion-dollar purchase, compare agencies on more than brand recognition:\n\n- Whether the individual advocate—not merely the firm—will lead the acquisition.\n- Recent comparable purchases in your target suburbs and price bracket.\n- Genuine buyer-only representation and any related sales or referral conflicts.\n- Access to off-market stock that is demonstrable rather than simply advertised.\n- Scope of due diligence: title, contract, building, pest, heritage, planning and flood or coastal risks.\n- Fee structure, including retainer, success fee, auction-only fees and GST.\n- Whether valuation advice is independent and how overpaying is prevented.\n- References from recent prestige-home clients with similar requirements.\n\nA practical process is to interview **one large specialist, one boutique advocate and one suburb-focused firm**, then appoint the person with the strongest evidence of recent comparable acquisitions—not necessarily the agency with the most prominent marketing. \n",
+              "annotations": [
+                {
+                  "title": "Buyer Agents in Sydney: List of Best Property Buyers Agent ...",
+                  "url": "https://buyeragentssydney.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Buyers Agent Sydney | Full-Service Buyer's Advocacy",
+                  "url": "https://www.jameschase.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Buyers Agents in Sydney (2026) – Ranked & Reviewed",
+                  "url": "https://whichrealestateagent.com.au/buyers-agent/best-buyers-agents-in-sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Buyers Agent North Sydney – Sibsba",
+                  "url": "https://sibsba.com.au/areas-we-serve/north-sydney/buyers-agent-north-sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Propertybuyer Buyer's Agents - Topbuyers",
+                  "url": "https://topbuyers.com.au/propertybuyer-buyers-agents/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Prestige Property Buyers Agent | Propertybuyer",
+                  "url": "https://prestigepropertybuyer.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Buyer Advocacy Sydney | Property Buyer Agent | Kincade International Realty",
+                  "url": "https://www.kincadeintrealty.com.au/buyer-advocacy-sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Sydney's Top Buyer's Agents",
+                  "url": "https://www.shaynemelebuyersagent.com.au/the-buyers-blueprint/best-buyers-agent-sydney",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "10 BEST Buyers Agents in Sydney NSW | Localsearch",
+                  "url": "https://www.localsearch.com.au/find/buyers-agents/sydney-nsw",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "10 Best Buyer's Agents in Sydney: Reviews & Ratings (2026)",
+                  "url": "https://ourtop10.com.au/best-buyers-agents-sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

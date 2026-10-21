@@ -1,0 +1,362 @@
+{
+  "slug": "perth",
+  "pk": "off_market",
+  "plat": "claude",
+  "text": "Which luxury real estate agents and agencies in Perth specialise in confidential off-market prestige property sales and high-net-worth buyer networks?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\perth__off_market__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:18:11.808Z",
+  "cost": 0.066607,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10369,
+      "output_tokens": 1660,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.066007,
+      "datetime": "2026-10-21 05:18:11 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a comprehensive overview of the key luxury real estate agents and agencies in Perth that specialise in confidential off-market prestige property sales and high-net-worth buyer networks:\n\n---\n\n## 🏡 Perth's Off-Market Prestige Property Specialists\n\n### The Off-Market Landscape First\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Between 50% and 80% of Perth residences asking $10 million or more are estimated to transact off-market, according to buyers' agent Rich Harvey of propertybuyer.com.au.",
+              "annotations": [
+                {
+                  "title": "Perth's Prestige Property Market: Riding the Peak as the Cycle Turns",
+                  "url": "https://opteonsolutions.com/au/insights/perths-prestige-property-market-riding-the-peak-as-the-cycle-turns",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Some of Perth's most desirable homes never appear on public real estate websites — instead, they change hands through trusted professional networks, where privacy and discretion often take precedence over public marketing campaigns.",
+              "annotations": [
+                {
+                  "title": "Privacy and Discretion Remain Key Drivers of Perth's Off-Market Luxury Property Market",
+                  "url": "https://www.einpresswire.com/article/930443697/privacy-and-discretion-remain-key-drivers-of-perth-s-off-market-luxury-property-market",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 1. 🔑 **Lobik Advisory** *(Boutique Independent Buyer's Agency)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Lobik Advisory is an independent buyer's agency based in Perth, WA, representing purchasers exclusively.",
+              "annotations": [
+                {
+                  "title": "Privacy and Discretion Remain Key Drivers of Perth's Off-Market Luxury Property Market",
+                  "url": "https://www.einpresswire.com/article/930443697/privacy-and-discretion-remain-key-drivers-of-perth-s-off-market-luxury-property-market",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Off-market opportunities are especially common in Perth's western suburbs, where Lobik Advisory sources luxury apartments and prestige homes privately.",
+              "annotations": [
+                {
+                  "title": "Perth luxury homes often sell off-market, Lobik Advisory says",
+                  "url": "https://www.businesspostexaminer.com/agp-article/931370358-perth-luxury-homes-often-sell-off-market-lobik-advisory-says",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "As an independent buyer's agency, Lobik Advisory does not sell property or accept commissions from vendors or developers — this independence allows the firm to assess every opportunity objectively, considering not only whether a property suits the client's lifestyle and long-term goals, but also whether it represents a sound purchase.",
+              "annotations": [
+                {
+                  "title": "Privacy and Discretion Remain Key Drivers of Perth's Off-Market Luxury Property Market",
+                  "url": "https://www.einpresswire.com/article/930443697/privacy-and-discretion-remain-key-drivers-of-perth-s-off-market-luxury-property-market",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Partner Rhyanna Van Leeuwarden notes that many sellers value privacy as much as sale price — some homeowners do not want photos of their property, valuable collections or personal lifestyle shared online, and prefer qualified buyers to be introduced quietly through trusted professional relationships.",
+              "annotations": [
+                {
+                  "title": "Perth luxury homes often sell off-market, Lobik Advisory says",
+                  "url": "https://www.businesspostexaminer.com/agp-article/931370358-perth-luxury-homes-often-sell-off-market-lobik-advisory-says",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Principal:** Ryan Lobik\n\n---\n\n### 2. 🔑 **Resolve Property Solutions (RPS)** *(Prestige Buyer's Agency)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Resolve Property Solutions brings deep expertise to the high-stakes world of prestige real estate, with buyer's agents operating exclusively on the buyer's behalf, ensuring their interests are front and centre throughout the entire process.",
+              "annotations": [
+                {
+                  "title": "Prestige Property Buyers Agent Perth-",
+                  "url": "https://resolvepropertysolutions.com.au/prestige-properties/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Thanks to their extensive network of agency relationships, they provide access to exclusive off-market opportunities rarely seen by the general public, and their strong reputation within the industry ensures they're among the first to know when premium properties become available — often well before they are advertised.",
+              "annotations": [
+                {
+                  "title": "Prestige Property Buyers Agent Perth-",
+                  "url": "https://resolvepropertysolutions.com.au/prestige-properties/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer a fully managed service from sourcing and evaluating properties to coordinating trusted professionals such as solicitors, building inspectors, financial advisors, and mortgage brokers.",
+              "annotations": [
+                {
+                  "title": "Prestige Property Buyers Agent Perth-",
+                  "url": "https://resolvepropertysolutions.com.au/prestige-properties/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. 🔑 **Luxury Real Estate Sales – Meryl Carter**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Meryl Carter's network of luxury agents offers unparalleled exposure of properties to a qualified, discerning audience of local and international buyers, with an active approach to international marketing to put Western Australia's finest properties on a worldwide stage.",
+              "annotations": [
+                {
+                  "title": "Meryl Carter",
+                  "url": "https://www.luxuryrealestatesales.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- Her portfolio includes properties ranging from $8 million and above in prestige suburbs such as South Perth and Como.\n- Contact: 0438 444 000\n\n---\n\n### 4. 🔑 **Fine & Country Perth** *(International Luxury Brokerage)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "With over 300 locations worldwide, Fine & Country Perth is Perth's first truly international residential real estate brokerage.",
+              "annotations": [
+                {
+                  "title": "Real Estate Agents in Perth",
+                  "url": "https://www.fineandcountry.au/perth-real-estate-agents",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Specialising in properties that require an exclusive, hands-on marketing approach, their team of local property experts delivers bespoke promotion strategies with a deliberate focus on presentation to maximise any property's value.",
+              "annotations": [
+                {
+                  "title": "Real Estate Agents in Perth",
+                  "url": "https://www.fineandcountry.au/perth-real-estate-agents",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- Their global network is particularly suited to connecting Perth prestige vendors with international high-net-worth buyers.\n\n---\n\n### 5. 🔑 **PMC Property Buyers** *(Prestige Buyer's Agency)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Luxury real estate transactions are unique in their complexity, often involving confidential negotiations, limited public exposure and a high level of discretion — PMC offers expert assistance in buying luxury properties, providing access to off-market deals and tailored negotiation strategies.",
+              "annotations": [
+                {
+                  "title": "Prestige Property Buyers - PMC Property Buyers",
+                  "url": "https://www.pmcproperty.com.au/prestige-property-buyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their agents carry out proactive research across both on-market and off-market channels to shortlist the right opportunities.",
+              "annotations": [
+                {
+                  "title": "Prestige Property Buyers - PMC Property Buyers",
+                  "url": "https://www.pmcproperty.com.au/prestige-property-buyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 6. 🔑 **Smart Realty Perth** *(Full-Service Luxury Agency)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Smart Realty Perth is a leading agency dedicated to luxury property sales, offering comprehensive solutions tailored to high-end clientele, with expertise spanning residential sales and property management, with a sharp focus on delivering value and discretion for premium properties.",
+              "annotations": [
+                {
+                  "title": "Finding agencies that specialise in luxury property sales. - Buy",
+                  "url": "https://smartrealty.com.au/luxury-property-sales-agencies/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their approach includes custom marketing campaigns using advanced media, targeted outreach within exclusive buyer networks, and adaptive negotiation techniques designed to protect client interests while maximising returns.",
+              "annotations": [
+                {
+                  "title": "Finding agencies that specialise in luxury property sales. - Buy",
+                  "url": "https://smartrealty.com.au/luxury-property-sales-agencies/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 💡 Key Tips for Accessing Off-Market Prestige Properties in Perth\n\n- **Use a buyer's agent exclusively** — ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "respecting privacy builds trust, which is foundational in relationships with high-net-worth individuals, and the ability to handle sensitive negotiations without compromising client anonymity distinguishes luxury property specialists from general agents.",
+              "annotations": [
+                {
+                  "title": "Finding agencies that specialise in luxury property sales. - Buy",
+                  "url": "https://smartrealty.com.au/luxury-property-sales-agencies/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Be cautious about \"off-market\" claims** — ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "as Ryan Lobik of Lobik Advisory notes, an off-market property is not automatically a bargain — \"off-market\" describes the way a property is marketed, not its quality or value.",
+              "annotations": [
+                {
+                  "title": "Perth luxury homes often sell off-market, Lobik Advisory says",
+                  "url": "https://www.businesspostexaminer.com/agp-article/931370358-perth-luxury-homes-often-sell-off-market-lobik-advisory-says",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Focus on Perth's western suburbs** — including Peppermint Grove, Dalkeith, Cottesloe, Mosman Park, and Claremont, which are the epicentres of Perth's ultra-premium off-market activity.\n\n---\n\nWould you like more detail on any specific agency, suburb, or the process of accessing off-market listings in Perth?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "luxury real estate agents Perth off-market prestige property high-net-worth",
+        "Perth luxury real estate agencies confidential off-market sales 2025"
+      ]
+    }
+  ]
+}

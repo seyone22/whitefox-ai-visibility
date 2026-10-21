@@ -1,0 +1,847 @@
+{
+  "version": "0.1.20260917",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "0.5220 sec.",
+  "cost": 0.0112,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "10210504-2877-0619-0000-1ca281000098",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "0.4539 sec.",
+      "cost": 0.0112,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "ai_optimization",
+        "ai_keyword_data",
+        "keywords_search_volume",
+        "live"
+      ],
+      "data": {
+        "api": "ai_optimization",
+        "function": "keywords_search_volume",
+        "keywords": [
+          "luxury real estate",
+          "luxury real estate agency",
+          "prestige real estate",
+          "luxury real estate agents",
+          "boutique real estate agency",
+          "buyers advocate",
+          "luxury homes for sale",
+          "real estate agency",
+          "top real estate agents",
+          "whitefox real estate",
+          "marshall white",
+          "kay and burton"
+        ],
+        "location_code": 2036,
+        "language_code": "en"
+      },
+      "result": [
+        {
+          "location_code": 2036,
+          "language_code": "en",
+          "items_count": 12,
+          "items": [
+            {
+              "keyword": "luxury real estate",
+              "ai_search_volume": 7,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 7
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 8
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 7
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 12
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 17
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 17
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 22
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 19
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 22
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 24
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 31
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 35
+                }
+              ]
+            },
+            {
+              "keyword": "luxury real estate agency",
+              "ai_search_volume": 0,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 0
+                }
+              ]
+            },
+            {
+              "keyword": "prestige real estate",
+              "ai_search_volume": 11,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 11
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 3
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 2
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 6
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 8
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 10
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 9
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 9
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 8
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 12
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 9
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 9
+                }
+              ]
+            },
+            {
+              "keyword": "luxury real estate agents",
+              "ai_search_volume": 0,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 1
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 1
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 1
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 3
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 5
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 5
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 3
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 2
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 5
+                }
+              ]
+            },
+            {
+              "keyword": "boutique real estate agency",
+              "ai_search_volume": 0,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 0
+                }
+              ]
+            },
+            {
+              "keyword": "buyers advocate",
+              "ai_search_volume": 174,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 174
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 107
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 114
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 96
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 130
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 131
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 184
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 190
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 204
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 153
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 118
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 124
+                }
+              ]
+            },
+            {
+              "keyword": "luxury homes for sale",
+              "ai_search_volume": 0,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 3
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 5
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 5
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 2
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 0
+                }
+              ]
+            },
+            {
+              "keyword": "real estate agency",
+              "ai_search_volume": 821,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 821
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 584
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 780
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 806
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 1011
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 932
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 1026
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 1223
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 1264
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 1285
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 969
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 985
+                }
+              ]
+            },
+            {
+              "keyword": "top real estate agents",
+              "ai_search_volume": 1686,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 1686
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 955
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 662
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 640
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 666
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 632
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 544
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 515
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 489
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 576
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 640
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 911
+                }
+              ]
+            },
+            {
+              "keyword": "whitefox real estate",
+              "ai_search_volume": 9,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 9
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 8
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 12
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 13
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 16
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 21
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 21
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 15
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 3
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 0
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 0
+                }
+              ]
+            },
+            {
+              "keyword": "marshall white",
+              "ai_search_volume": 44,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 44
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 43
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 35
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 35
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 28
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 30
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 32
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 33
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 38
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 37
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 35
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 37
+                }
+              ]
+            },
+            {
+              "keyword": "kay and burton",
+              "ai_search_volume": 21,
+              "ai_monthly_searches": [
+                {
+                  "year": 2026,
+                  "month": 9,
+                  "ai_search_volume": 21
+                },
+                {
+                  "year": 2026,
+                  "month": 8,
+                  "ai_search_volume": 10
+                },
+                {
+                  "year": 2026,
+                  "month": 7,
+                  "ai_search_volume": 17
+                },
+                {
+                  "year": 2026,
+                  "month": 6,
+                  "ai_search_volume": 13
+                },
+                {
+                  "year": 2026,
+                  "month": 5,
+                  "ai_search_volume": 13
+                },
+                {
+                  "year": 2026,
+                  "month": 4,
+                  "ai_search_volume": 9
+                },
+                {
+                  "year": 2026,
+                  "month": 3,
+                  "ai_search_volume": 12
+                },
+                {
+                  "year": 2026,
+                  "month": 2,
+                  "ai_search_volume": 19
+                },
+                {
+                  "year": 2026,
+                  "month": 1,
+                  "ai_search_volume": 21
+                },
+                {
+                  "year": 2025,
+                  "month": 12,
+                  "ai_search_volume": 20
+                },
+                {
+                  "year": 2025,
+                  "month": 11,
+                  "ai_search_volume": 20
+                },
+                {
+                  "year": 2025,
+                  "month": 10,
+                  "ai_search_volume": 17
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

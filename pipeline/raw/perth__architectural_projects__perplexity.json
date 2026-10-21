@@ -1,0 +1,106 @@
+{
+  "slug": "perth",
+  "pk": "architectural_projects",
+  "plat": "perplexity",
+  "text": "Which prestige real estate agencies in Perth are the market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\perth__architectural_projects__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:18:12.322Z",
+  "cost": 0.00614,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 33,
+      "output_tokens": 507,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.00554,
+      "datetime": "2026-10-21 05:18:12 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For Perth’s **luxury off-the-plan apartments, penthouses and design-led developments**, the strongest shortlist is:\n\n- **Jones Realty & Projects** — the clearest market leader for specialist project marketing. It focuses on development feasibility, positioning, branding, off-the-plan sales and settlement, and reports more than $1 billion in projects sold or selling.[1] Jones was also reported as REIWA’s top office for Residential Project Marketing, with Nicole Jones ranked top salesperson in the category.[3]\n- **PRD Real Estate Perth** — a major full-service project-marketing firm with experience across apartment and mixed-use developments. Its Perth operation reports close to $1 billion in off-the-plan and completed apartment sales, plus support spanning site acquisition, product design, pricing, positioning and marketing.[2]\n- **Contessi Properties** — a suitable boutique option for high-end and prestige residential property, including luxury sales, off-market campaigns, buyer advocacy and project sales and marketing.[7]\n- **Prestige Property International** — relevant where the brief involves an integrated luxury development, from design concept and site acquisition through project management, sales and marketing, and asset management.[8]\n- **Harcourts Prestige South or Prestige North** — credible project-sales options for land estates, subdivisions and house-and-land developments, although they appear more oriented toward broader development and growth-corridor work than penthouse-led architectural projects.[9][10]\n\n## Best fit by brief\n\n| Requirement | Strongest candidates |\n|---|---|\n| Luxury apartment or penthouse launch | Jones Realty & Projects; PRD Perth |\n| Architectural, design-led project | Jones Realty & Projects; Prestige Property International |\n| Boutique prestige/off-market campaign | Contessi Properties |\n| End-to-end development advisory | Jones Realty & Projects; PRD Perth; Prestige Property International |\n| Land subdivision or house-and-land project | Harcourts Prestige South/North |\n\n**Practical recommendation:** invite **Jones, PRD Perth and Contessi** to pitch first. Jones has the strongest independently reported project-marketing credentials in the available results; PRD offers scale and a long apartment-sales track record; Contessi may provide a more boutique, prestige-focused campaign. For a truly architectural project, assess each agency’s recent comparable launches, buyer database, international-channel capability, creative standard, sell-through rate and evidence of achieved—not merely advertised—pricing.",
+              "annotations": [
+                {
+                  "title": "Jones Realty & Projects | Development Sales & Marketing",
+                  "url": "https://www.joneshq.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Property Developers",
+                  "url": "https://prdperth.com.au/property-developers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Boutique Perth Agency Records 47 Sales In a Month To Take Three No. 1 Rankings",
+                  "url": "https://www.joneshq.com.au/boutique-perth-agency-records-47-sales-in-a-month-to-take-three-no-1-rankings/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Project Marketing & Sales Perth",
+                  "url": "https://www.joneshq.com.au/developers/project-marketing-sales/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Perth project sales agency completes REIWA hat-trick with third straight win",
+                  "url": "https://www.joneshq.com.au/perth-project-sales-agency-completes-reiwa-hat-trick-with-third-straight-win/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Development Consulting Perth | Jones Realty & Projects",
+                  "url": "https://www.joneshq.com.au/developers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Contessi Properties Perth - Contessi Properties",
+                  "url": "https://contessi.com.au/agency/contessi-perth/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Home - Prestige Properties International :: Prestige Properties ...",
+                  "url": "https://prestigepg.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Land & Project Sales Perth - Prestige South - Harcourts International",
+                  "url": "https://harcourts.net/au/office/prestige-south/project-sales",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Land & Project Sales Perth | Harcourts Prestige North",
+                  "url": "https://harcourts.net/au/office/prestige-north/project-sales",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

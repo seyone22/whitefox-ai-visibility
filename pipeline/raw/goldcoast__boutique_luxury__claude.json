@@ -1,0 +1,255 @@
+{
+  "slug": "goldcoast",
+  "pk": "boutique_luxury",
+  "plat": "claude",
+  "text": "Which boutique luxury real estate agencies in Gold Coast are best known for modern social media marketing, high-impact video campaigns, and architectural homes?",
+  "loc": 1000665,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\goldcoast__boutique_luxury__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:16:41.407Z",
+  "cost": 0.082735,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 17125,
+      "output_tokens": 1384,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.082135,
+      "datetime": "2026-10-21 05:16:41 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Great question! Based on the search results and broader knowledge of the Gold Coast luxury real estate landscape, here is a curated guide to the **boutique luxury real estate agencies and related specialists on the Gold Coast** best known for modern social media marketing, high-impact video campaigns, and architectural/prestige homes:\n\n---\n\n## 🏡 Boutique Luxury Real Estate Agencies & Specialists on the Gold Coast\n\n---\n\n### 1. **MOTIV Group**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "MOTIV is a leading project sales and marketing agency based in Southeast Queensland, known for interrogating the opportunity for each individual client and providing independent strategy and customised creativity on every project.",
+              "annotations": [
+                {
+                  "title": "Homepage",
+                  "url": "https://motivgroup.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The agency has recently expanded its footprint with a new Gold Coast office.",
+              "annotations": [
+                {
+                  "title": "Homepage",
+                  "url": "https://motivgroup.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are particularly well regarded for their work on boutique luxury residential developments, including ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "a boutique collection of eight luxurious beachside homes (\"Prominence\"), timeless Broadbeach residences (\"Affinity\"), and a boutique collection of 87 luxury residences (\"Elements\").",
+              "annotations": [
+                {
+                  "title": "Homepage",
+                  "url": "https://motivgroup.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. **Esteemed Property**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Esteemed Property's expertise in digital advertising, social media campaigns, and traditional marketing ensures that every property reaches the right buyers efficiently.",
+              "annotations": [
+                {
+                  "title": "Gold Coast Project Marketing",
+                  "url": "https://esteemedproperty.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their engagement toolkit includes 3D internal and external renders, property photography, drone footage, project update videos, and active campaigns across Facebook, Instagram, YouTube, and LinkedIn.",
+              "annotations": [
+                {
+                  "title": "Gold Coast Project Marketing",
+                  "url": "https://esteemedproperty.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " This makes them a strong choice for architectural and luxury project marketing on the Gold Coast.\n\n---\n\n### 3. **PezzaVFX** *(High-Impact Video Specialist)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "PezzaVFX specialises in real estate video on the Gold Coast that \"sells the lifestyle before the price,\" creating cinematic listing films, property walkthroughs, drone footage, and vertical social cutdowns for agents and agencies.",
+              "annotations": [
+                {
+                  "title": "Real Estate Video on the Gold Coast, PezzaVFX",
+                  "url": "https://pezzavfx.com/real-estate-video-gold-coast/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They produce golden hour exteriors, smooth gliding interiors, and licensed aerial drone video cut for portals and socials, as well as agent profile videos and listing reels that build personal brand.",
+              "annotations": [
+                {
+                  "title": "Real Estate Video on the Gold Coast, PezzaVFX",
+                  "url": "https://pezzavfx.com/real-estate-video-gold-coast/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They work with individual agents and whole agencies across the Gold Coast, from Palm Beach and Burleigh Heads to Broadbeach and Mermaid Beach.",
+              "annotations": [
+                {
+                  "title": "Real Estate Video on the Gold Coast, PezzaVFX",
+                  "url": "https://pezzavfx.com/real-estate-video-gold-coast/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " While a production house rather than an agency, they are closely tied to the boutique luxury segment.\n\n---\n\n### 4. **AX Creative** *(Creative & Marketing Agency for Property)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "AX Creative is a creative and marketing agency serving the Gold Coast, delivering brand strategy, content, digital marketing, and performance for Gold Coast businesses across property, hospitality, retail, and tourism.",
+              "annotations": [
+                {
+                  "title": "Creative & Marketing Agency Gold Coast",
+                  "url": "https://axcreative.co/gold-coast",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The Gold Coast's unique combination of lifestyle positioning, property growth, and tourism economy creates specific marketing opportunities, and AX Creative embeds into businesses as a growth partner, bringing Melbourne-standard creative execution to one of Australia's fastest-growing markets.",
+              "annotations": [
+                {
+                  "title": "Creative & Marketing Agency Gold Coast",
+                  "url": "https://axcreative.co/gold-coast",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are known for high-end property content production and social media strategy.\n\n---\n\n### 5. **Visual Marketing Australia (VMA)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "VMA is a comprehensive digital marketing partner on the Gold Coast, offering expert web design, SEO, SEM, video advertising, and CRM integration, with tailored strategies for the real estate sector.",
+              "annotations": [
+                {
+                  "title": "Best Real Estate Social Media Marketing Agencies in Gold Coast 2025",
+                  "url": "https://agencies.semrush.com/list/smm/real-estate/gold-coast/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "VMA serves Gold Coast, Brisbane, Sunshine Coast, and Australia-wide, providing expert web development and design, technical SEO (including AI), paid search and paid social ads, and CRM integration.",
+              "annotations": [
+                {
+                  "title": "Best Real Estate Digital Marketing Agencies in Australia 2026",
+                  "url": "https://agencies.semrush.com/list/real-estate/australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 🔑 What to Look For in a Boutique Luxury Gold Coast Agency\n\nWhen evaluating boutique agencies in this space, the best ones typically offer:\n\n- **Cinematic video production** — drone footage, golden-hour shoots, lifestyle storytelling\n- **Vertical social content** — Instagram Reels, TikTok, and Facebook cutdowns tailored for mobile audiences\n- **Architectural property expertise** — understanding how to showcase design-led homes\n- **Personal agent branding** — profile videos and content that build long-term authority\n- **Data-driven targeting** — precision social ad campaigns reaching high-net-worth buyers\n\n---\n\n> 💡 **Tip:** For the most architecturally focused luxury listings on the Gold Coast (think Mermaid Beach, Broadbeach Waters, and Hope Island), look for agencies or agents with a strong **Instagram presence** showcasing high-production listing videos and editorial-style photography — these are the clearest signals of a modern, boutique marketing approach.\n\nWould you like recommendations for specific agents within any of these agencies, or help comparing their services?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "boutique luxury real estate agencies Gold Coast modern social media marketing video campaigns architectural homes",
+        "best luxury real estate agents Gold Coast high-end video marketing architectural properties 2024 2025",
+        "top boutique luxury real estate agencies Gold Coast Instagram video marketing architectural homes 2025"
+      ]
+    }
+  ]
+}

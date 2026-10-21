@@ -1,0 +1,200 @@
+{
+  "slug": "adelaide",
+  "pk": "buyers_advocacy",
+  "plat": "claude",
+  "text": "Which luxury real estate agencies or buyers advocates in Adelaide offer the best buyers advocacy and acquisition advisory for prestige homes?",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\adelaide__buyers_advocacy__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:19:32.507Z",
+  "cost": 0.062416,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10867,
+      "output_tokens": 1281,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.061816,
+      "datetime": "2026-10-21 05:19:32 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a comprehensive guide to the **best buyers' advocates and luxury real estate acquisition advisors in Adelaide** for prestige homes, based on the latest available information:\n\n---\n\n## 🏡 Top Buyers' Advocates & Acquisition Advisors for Prestige Homes in Adelaide\n\n---\n\n### 1. **National Property Buyers Adelaide – Katherine Skinner**\nThis is arguably Adelaide's most decorated buyers' advocacy firm for prestige property.\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Katherine Skinner, Director of National Property Buyers (Adelaide), is widely recognised as one of Adelaide's leading buyer's agents. She is a **four-time REISA Buyer's Agent of the Year**, three-time finalist, and inductee into the **REISA Hall of Fame** — receiving more industry recognition than any other Adelaide buyer's agent.",
+              "annotations": [
+                {
+                  "title": "Buyer's Agent Adelaide",
+                  "url": "https://adelaide.nationalpropertybuyers.com.au/buyers-agents/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\nTheir service covers luxury property searches, due diligence, negotiation, and acquisition strategy — ideal for high-net-worth buyers seeking prestige homes across Adelaide's top suburbs.\n\n---\n\n### 2. **Propertybuyer Adelaide**\nA nationally recognised and award-winning buyers' advocacy firm with a dedicated Adelaide office.\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Propertybuyer has won the **2025 Buyers Agency of the Year** award, among numerous other accolades, and operates an Adelaide office at 224 Hutt Street, Adelaide SA 5000.",
+              "annotations": [
+                {
+                  "title": "Prestige Real Estate",
+                  "url": "https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They note that \"bang for buck in Adelaide is impressive as stately homes change hands among both the old and new money in the South Australian capital.\"",
+              "annotations": [
+                {
+                  "title": "Adelaide Prestige Property Market",
+                  "url": "https://www.propertybuyer.com.au/blog/adelaide-prestige-property-market-luxury-homes-trends-2025",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Their team provides full acquisition advisory services for prestige and luxury property buyers.\n\n---\n\n### 3. **BuyerX Adelaide**\nA premium buyers' advocacy firm with strong off-market access and a full-service approach.\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Winners of the **2022 REB Buyer Agency of the Year**, BuyerX offers expert assistance across the real estate industry — from initial property search to assessments, negotiations, and settlements.",
+              "annotations": [
+                {
+                  "title": "Buyers Agent Adelaide, Buyers Advocate| Buyerx",
+                  "url": "https://buyerx.com.au/buyers-advocate/adelaide/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They help clients looking to access Adelaide's finest off-market prestige homes, offering expert guidance and support from the initial consultation all the way to the final handover.",
+              "annotations": [
+                {
+                  "title": "Buyers Agent Adelaide, Buyers Advocate| Buyerx",
+                  "url": "https://buyerx.com.au/buyers-advocate/adelaide/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\nTheir unrivalled off-market access is particularly valuable in Adelaide's prestige segment, where many top-tier homes never hit public listing portals.\n\n---\n\n## 🏘️ Key Prestige Suburbs to Target in Adelaide\n\nWhen working with any buyers' advocate, these are the suburbs they'll focus on for prestige acquisitions:\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Adelaide's most expensive sales are concentrated in traditionally high-end inner-eastern suburbs, such as historic **Unley Park**, **Gilberton**, and **Leabrook**.",
+              "annotations": [
+                {
+                  "title": "Adelaide Prestige Property Market",
+                  "url": "https://www.propertybuyer.com.au/blog/adelaide-prestige-property-market-luxury-homes-trends-2025",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "**Somerton Park, Glenelg North, Glenelg South**, and **Medindie** saw a raft of luxury transactions, while **Walkerville** — particularly **Church Terrace** — has a median value of $4.177 million, making it the most expensive street in Adelaide.",
+              "annotations": [
+                {
+                  "title": "Adelaide Prestige Property Market",
+                  "url": "https://www.propertybuyer.com.au/blog/adelaide-prestige-property-market-luxury-homes-trends-2025",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 📈 Why Now Is a Strong Time to Engage a Buyers' Advocate in Adelaide\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "2025 has been described as a bumper year for prestige sales in Adelaide, on the back of a record-breaking number of $5-million-plus transactions in 2024, according to Westpac Private Bank's Prestige Property Report 2025.",
+              "annotations": [
+                {
+                  "title": "Adelaide Prestige Property Market",
+                  "url": "https://www.propertybuyer.com.au/blog/adelaide-prestige-property-market-luxury-homes-trends-2025",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The top 5% of Adelaide homes rose **56% in median price over the past five years**, reaching $1.8 million by late 2024 and nearing the $2 million mark in 2025 — outperforming Perth and outpacing Sydney's slower rise.",
+              "annotations": [
+                {
+                  "title": "Luxury Homes Adelaide: A 2026 Insider’s Guide - Templeton Built",
+                  "url": "https://templetonbuilt.com.au/luxury-homes-adelaide/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\nGiven this market heat, having a skilled buyers' advocate is critical to securing the right property at the right price, especially with strong competition and limited prestige stock.\n\n---\n\n## ✅ What to Look for in a Prestige Buyers' Advocate in Adelaide\n\nWhen choosing an advocate for a luxury acquisition, prioritise:\n\n- **Industry awards** (REISA, REB, or similar recognition)\n- **Off-market access** — essential in the prestige segment\n- **Suburb-specific expertise** in Unley Park, Medindie, Walkerville, Glenelg, etc.\n- **Full-service advisory** — search, due diligence, negotiation, and settlement\n- **Discretion and confidentiality** for high-net-worth clients\n\nWould you like more detail on any of these firms, or guidance on what questions to ask a buyers' advocate before engaging them?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best luxury buyers advocates Adelaide prestige homes 2024 2025",
+        "top buyers agency Adelaide high end property acquisition advisory"
+      ]
+    }
+  ]
+}

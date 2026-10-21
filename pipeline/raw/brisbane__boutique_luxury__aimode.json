@@ -1,0 +1,218 @@
+{
+  "slug": "brisbane",
+  "pk": "boutique_luxury",
+  "plat": "aimode",
+  "text": "Which boutique luxury real estate agencies in Brisbane are best known for modern social media marketing, high-impact video campaigns, and architectural homes?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\brisbane__boutique_luxury__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:15:09.717Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which boutique luxury real estate agencies in Brisbane are best known for modern social media marketing, high-impact video campaigns, and architectural homes?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000339,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20boutique%20luxury%20real%20estate%20agencies%20in%20Brisbane%20are%20best%20known%20for%20modern%20social%20media%20marketing%2C%20high-impact%20video%20campaigns%2C%20and%20architectural%20homes%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCbsg9lwEWpFrEcCE3vNaowIF",
+      "datetime": "2026-10-21 05:15:09 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "Top boutique and high-end independent agencies in Brisbane renowned for high-impact video campaigns, architectural properties, and digital marketing include `Adcock Prestige, Ray White Collective Luxury, and Place Estate Agents` (New Farm/Bulimba divisions).[[1]](https://adcockprestige.com/about/)[[2]](https://raywhitecollectiveluxury.com/about)[[3]](https://www.churchlane.com.au/)\n\n### Leading Luxury & Boutique Agencies\n\n\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLfSwWBQusBoeRnOvrs5tWeDZHLBjVvjGWPUMe9XQz7Tb1PYr6tEfyJZ2_qwH6pAylVYWnOdKIkTmwCGB0mjCXEMSk2FB1GpwwMJeFjsh96Lxj-Oa026kepLqaeFlmi4jBtcMLTZ=s192-w192-h144-n-k-no)\nAdcock Prestige 4.2 (64)  \nReal estate agency  \nOpen Toowong Village  \nCall Directions Website A specialized boutique agency founded by Jason Adcock, focusing explicitly on landmark riverfront estates, penthouses, and distinct architectural showpieces. They leverage data-driven digital strategies alongside high-production cinematic video campaigns.\n\n---\n\nRay White Collective Luxury Operating out of New Farm, this high-end concierge division handles ultra-luxury architectural masterpieces and heritage properties. They blend a boutique, confidential approach with aggressive digital reach and multi-platform media.\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLfNXliw90p01Vp5U_eFc1ZN7VFib6RE-t22FgQBR9wQ77PaBR1Bi7nruGbdkqMNUDvT7Ur9x-E_5ZdIH7_xhiLM1lwnlRD3wsZY_HHdIZyjYxhybb5FL7HH7u6AHbuH_qJa5ClFeg=s192-w192-h144-n-k-no)\nPlace Estate Agents 2.8 (16)  \nReal estate agency  \nOpen 10 James St  \nCall Directions Website Led by prominent luxury specialists like Sarah Hackett, Place dominates high-end inner-east and riverfront architectural marketing, deploying elite digital campaigns, PR, and rich-media video tours.\n\n---\n\n![](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QEe3GNhs8dNRyRl4FZxtfg&cb_client=search.gws-prod.grass&yaw=102.380005&pitch=0&thumbfov=100&w=82&h=82)\nOikos Real Estate Real estate agency  \n20/18 Payne Rd  \nCall Directions Website A nimble boutique agency recognized for handling design-forward and city-fringe architectural homes, utilizing tailored digital video showcases across modern social channels.[[1]](https://raywhitecollectiveluxury.com/about)[[2]](https://adcockprestige.com/about/)[[3]](https://www.eplace.com.au/brisbanes-luxury-agent)[[4]](https://www.oikosrealestate.com.au/media/)\n\nIf you are looking to buy or sell, would you like details on **specific lead agents** within these agencies or information tailored to a **particular Brisbane suburb**?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Top boutique and high-end independent agencies in Brisbane renowned for high-impact video campaigns, architectural properties, and digital marketing include Adcock Prestige, Ray White Collective Luxury, and Place Estate Agents (New Farm/Bulimba divisions).",
+              "markdown": "Top boutique and high-end independent agencies in Brisbane renowned for high-impact video campaigns, architectural properties, and digital marketing include `Adcock Prestige, Ray White Collective Luxury, and Place Estate Agents` (New Farm/Bulimba divisions).[[1]](https://adcockprestige.com/about/)[[2]](https://raywhitecollectiveluxury.com/about)[[3]](https://www.churchlane.com.au/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Adcock Prestige",
+                  "domain": "adcockprestige.com",
+                  "url": "https://adcockprestige.com/about/",
+                  "title": "About - Adcock Prestige | Selling Brisbane's Luxury Properties",
+                  "text": "Selling exclusive residences, landmark riverfront estates, heritage homes, architectural showpieces, penthouses, and acreage retre..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Ray White Collective Luxury",
+                  "domain": "raywhitecollectiveluxury.com",
+                  "url": "https://raywhitecollectiveluxury.com/about",
+                  "title": "About Us - Ray White Collective Luxury",
+                  "text": "Brisbane's only dedicated white-glove real estate service, Our boutique model is confidential, concierge-driven, and uncompromisin..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "www.churchlane.com.au",
+                  "domain": "www.churchlane.com.au",
+                  "url": "https://www.churchlane.com.au/",
+                  "title": "Church Lane — Brisbane Real Estate Media",
+                  "text": "Boutique studio offering fast turnaround times for real estate listings. Adelaide St (Brisbane), 2-24 Parry … trusted by Ray White..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Leading Luxury & Boutique Agencies",
+              "text": "Adcock Prestige 4.2 (64) Real estate agency Open Toowong Village Call Directions Website A specialized boutique agency founded by Jason Adcock, focusing explicitly on landmark riverfront estates, penthouses, and distinct architectural showpieces. They leverage data-driven digital strategies alongside high-production cinematic video campaigns.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLfSwWBQusBoeRnOvrs5tWeDZHLBjVvjGWPUMe9XQz7Tb1PYr6tEfyJZ2_qwH6pAylVYWnOdKIkTmwCGB0mjCXEMSk2FB1GpwwMJeFjsh96Lxj-Oa026kepLqaeFlmi4jBtcMLTZ=s192-w192-h144-n-k-no)\nAdcock Prestige 4.2 (64)  \nReal estate agency  \nOpen Toowong Village  \nCall Directions Website A specialized boutique agency founded by Jason Adcock, focusing explicitly on landmark riverfront estates, penthouses, and distinct architectural showpieces. They leverage data-driven digital strategies alongside high-production cinematic video campaigns.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfSwWBQusBoeRnOvrs5tWeDZHLBjVvjGWPUMe9XQz7Tb1PYr6tEfyJZ2_qwH6pAylVYWnOdKIkTmwCGB0mjCXEMSk2FB1GpwwMJeFjsh96Lxj-Oa026kepLqaeFlmi4jBtcMLTZ=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Ray White Collective Luxury Operating out of New Farm, this high-end concierge division handles ultra-luxury architectural masterpieces and heritage properties. They blend a boutique, confidential approach with aggressive digital reach and multi-platform media.",
+              "markdown": "---\n\nRay White Collective Luxury Operating out of New Farm, this high-end concierge division handles ultra-luxury architectural masterpieces and heritage properties. They blend a boutique, confidential approach with aggressive digital reach and multi-platform media.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Place Estate Agents 2.8 (16) Real estate agency Open 10 James St Call Directions Website Led by prominent luxury specialists like Sarah Hackett, Place dominates high-end inner-east and riverfront architectural marketing, deploying elite digital campaigns, PR, and rich-media video tours.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLfNXliw90p01Vp5U_eFc1ZN7VFib6RE-t22FgQBR9wQ77PaBR1Bi7nruGbdkqMNUDvT7Ur9x-E_5ZdIH7_xhiLM1lwnlRD3wsZY_HHdIZyjYxhybb5FL7HH7u6AHbuH_qJa5ClFeg=s192-w192-h144-n-k-no)\nPlace Estate Agents 2.8 (16)  \nReal estate agency  \nOpen 10 James St  \nCall Directions Website Led by prominent luxury specialists like Sarah Hackett, Place dominates high-end inner-east and riverfront architectural marketing, deploying elite digital campaigns, PR, and rich-media video tours.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfNXliw90p01Vp5U_eFc1ZN7VFib6RE-t22FgQBR9wQ77PaBR1Bi7nruGbdkqMNUDvT7Ur9x-E_5ZdIH7_xhiLM1lwnlRD3wsZY_HHdIZyjYxhybb5FL7HH7u6AHbuH_qJa5ClFeg=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Oikos Real Estate Real estate agency 20/18 Payne Rd Call Directions Website A nimble boutique agency recognized for handling design-forward and city-fringe architectural homes, utilizing tailored digital video showcases across modern social channels.",
+              "markdown": "---\n\n![](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QEe3GNhs8dNRyRl4FZxtfg&cb_client=search.gws-prod.grass&yaw=102.380005&pitch=0&thumbfov=100&w=82&h=82)\nOikos Real Estate Real estate agency  \n20/18 Payne Rd  \nCall Directions Website A nimble boutique agency recognized for handling design-forward and city-fringe architectural homes, utilizing tailored digital video showcases across modern social channels.[[1]](https://raywhitecollectiveluxury.com/about)[[2]](https://adcockprestige.com/about/)[[3]](https://www.eplace.com.au/brisbanes-luxury-agent)[[4]](https://www.oikosrealestate.com.au/media/)",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QEe3GNhs8dNRyRl4FZxtfg&cb_client=search.gws-prod.grass&yaw=102.380005&pitch=0&thumbfov=100&w=82&h=82"
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Ray White Collective Luxury",
+                  "domain": "raywhitecollectiveluxury.com",
+                  "url": "https://raywhitecollectiveluxury.com/about",
+                  "title": "About Us - Ray White Collective Luxury",
+                  "text": "Address:612 Brunswick Street New Farm, QLD 4005 Brisbane's only dedicated white-glove real estate service, Queensland's premium property market. We are the authori..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Adcock Prestige",
+                  "domain": "adcockprestige.com",
+                  "url": "https://adcockprestige.com/about/",
+                  "title": "About - Adcock Prestige | Selling Brisbane's Luxury Properties",
+                  "text": "Agency: Adcock Prestige. Brisbane luxury real estate market). Services: Selling exclusive residences, landmark riverfront estates, heritage homes, architectural sh..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Place Real Estate",
+                  "domain": "www.eplace.com.au",
+                  "url": "https://www.eplace.com.au/brisbanes-luxury-agent",
+                  "title": "Sarah Hackett | Brisbane's Luxury and Riverfront Specialist",
+                  "text": "355 553, hackett@eplace.com.au), 27+ years experience; luxury and riverfront residential and apartment project sales specialist."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "OIKOS Real Estate",
+                  "domain": "www.oikosrealestate.com.au",
+                  "url": "https://www.oikosrealestate.com.au/media/",
+                  "title": "Media - OIKOS Real Estate",
+                  "text": "boutique shopping experiences. contact Nunzio Lo Castro on 0414 686 010."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you are looking to buy or sell, would you like details on specific lead agents within these agencies or information tailored to a particular Brisbane suburb ?",
+              "markdown": "If you are looking to buy or sell, would you like details on **specific lead agents** within these agencies or information tailored to a **particular Brisbane suburb**?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Adcock Prestige",
+              "domain": "adcockprestige.com",
+              "url": "https://adcockprestige.com/about/",
+              "title": "About - Adcock Prestige | Selling Brisbane's Luxury Properties",
+              "text": "Agency: Adcock Prestige. Brisbane luxury real estate market). Services: Selling exclusive residences, landmark riverfront estates, heritage homes, architectural sh..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Ray White Collective Luxury",
+              "domain": "raywhitecollectiveluxury.com",
+              "url": "https://raywhitecollectiveluxury.com/about",
+              "title": "About Us - Ray White Collective Luxury",
+              "text": "Address:612 Brunswick Street New Farm, QLD 4005 Brisbane's only dedicated white-glove real estate service, Queensland's premium property market. We are the authori..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "OIKOS Real Estate",
+              "domain": "www.oikosrealestate.com.au",
+              "url": "https://www.oikosrealestate.com.au/media/",
+              "title": "Media - OIKOS Real Estate",
+              "text": "boutique shopping experiences. contact Nunzio Lo Castro on 0414 686 010."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "slug": "brisbane",
+  "pk": "luxury_agency",
+  "plat": "aimode",
+  "text": "Who are the best luxury real estate agencies in Brisbane? Give me a shortlist of specific prestige property agencies with reasons.",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\brisbane__luxury_agency__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:14:43.941Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the best luxury real estate agencies in Brisbane? Give me a shortlist of specific prestige property agencies with reasons.",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000339,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Who%20are%20the%20best%20luxury%20real%20estate%20agencies%20in%20Brisbane%3F%20Give%20me%20a%20shortlist%20of%20specific%20prestige%20property%20agencies%20with%20reasons.&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCbsg9lwEWpFrEcCE3vNaowIF",
+      "datetime": "2026-10-21 05:14:43 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[11]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "Brisbane's top luxury real estate agencies include **Queensland Sotheby's International Realty**, **Place Estate Agents (New Farm / Ascot)** , and **Belle Property (Ascot / West End)** . These prestige specialists dominate the city's riverfront and inner-city luxury market through global reach, high-record sales, and tailored marketing.[[1]](https://queenslandsothebysrealty.com/)[[2]](https://www.eplace.com.au/brisbanes-luxury-agent)[[3]](https://www.belleproperty.com/west-end)\n\n### Shortlist of Prestige Property Agencies\n\n- **Queensland Sotheby's International Realty** \n\t- **Core Strength:** Global luxury network and high-end international marketing.\n\t- **Why They Excel:** Ideal for ultra-prime residential estates and riverfront mansions. They connect local Brisbane sellers to an extensive international database of high-net-worth buyers across more than 70 countries.[[1]](https://queenslandsothebysrealty.com/)\n- **Place Estate Agents (New Farm & Ascot)** \n\t- **Core Strength:** Dominance in Brisbane’s inner-north prestige and riverfront postcodes.\n\t- **Why They Excel:** Led by prominent high-end specialists like Sarah Hackett, Place holds some of Brisbane’s highest record-breaking per-square-meter and riverfront sales, combining heavy local PR with deep data analytics.[[1]](https://www.eplace.com.au/brisbanes-luxury-agent)\n- **Ray White (Ascot / New Farm Prestige)** \n\t- **Core Strength:** Market share, auction power, and high-volume luxury campaigns.\n\t- **Why They Excel:** Backed by a massive brand footprint, their dedicated prestige teams regularly handle landmark heritage homes, contemporary architectural builds, and luxury penthouses in suburbs like Hamilton, Ascot, and New Farm.\n- **Belle Property (Ascot & West End)** \n\t- **Core Strength:** Boutique high-end presentation and boutique client service.\n\t- **Why They Excel:** Known for refined styling, strong inner-south and inner-north reach, and exceptional customer satisfaction ratings, making them a go-to for design-forward luxury homes and character properties.[[1]](https://www.belleproperty.com/west-end)\n\n### Comparative Overview\n\n| Agency | Primary Prestige Focus | Key Differentiator |\n|---|---|---|\n| **Queensland Sotheby's** | Ultra-luxury & Riverfront | Global buyer network & prestige branding |\n| **Place Estate Agents** | New Farm, Ascot, Riverfront | Record-setting local sales & deep data |\n| **Ray White Prestige** | Inner-City & Acreage | High-velocity auction campaigns & reach |\n| **Belle Property** | Inner-North & Inner-South | Boutique styling & client care |\n\nAre you looking to **buy or sell** a luxury property, and which **Brisbane suburb** or property style (e.g., riverfront, character home, penthouse) are you focusing on?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Brisbane's top luxury real estate agencies include Queensland Sotheby's International Realty, Place Estate Agents (New Farm / Ascot), and Belle Property (Ascot / West End). These prestige specialists dominate the city's riverfront and inner-city luxury market through global reach, high-record sales, and tailored marketing.",
+              "markdown": "Brisbane's top luxury real estate agencies include **Queensland Sotheby's International Realty**, **Place Estate Agents (New Farm / Ascot)** , and **Belle Property (Ascot / West End)** . These prestige specialists dominate the city's riverfront and inner-city luxury market through global reach, high-record sales, and tailored marketing.[[1]](https://queenslandsothebysrealty.com/)[[2]](https://www.eplace.com.au/brisbanes-luxury-agent)[[3]](https://www.belleproperty.com/west-end)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Queensland Sotheby's International Realty",
+                  "domain": "queenslandsothebysrealty.com",
+                  "url": "https://queenslandsothebysrealty.com/",
+                  "title": "Trusted Property Experts Queensland - Queensland Sotheby's International Realty",
+                  "text": "a luxury real estate business … marketing, sales, and concierge services. The portfolio features numerous high-end prestige proper..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Place Real Estate",
+                  "domain": "www.eplace.com.au",
+                  "url": "https://www.eplace.com.au/brisbanes-luxury-agent",
+                  "title": "Sarah Hackett | Brisbane's Luxury and Riverfront Specialist",
+                  "text": "27+ years experience; luxury and riverfront residential and apartment project sales specialist. Services: End-to-end real estate i..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Belle Property",
+                  "domain": "www.belleproperty.com",
+                  "url": "https://www.belleproperty.com/west-end",
+                  "title": "Belle Property West End.",
+                  "text": "Belle Property West End is a trusted real estate agency delivering premium property sales and property management services across ..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Shortlist of Prestige Property Agencies",
+              "text": "Queensland Sotheby's International Realty Core Strength: Global luxury network and high-end international marketing. Why They Excel: Ideal for ultra-prime residential estates and riverfront mansions. They connect local Brisbane sellers to an extensive international database of high-net-worth buyers across more than 70 countries. Place Estate Agents (New Farm & Ascot) Place Estate Agents (New Farm & Ascot) Place Estate Agents Core Strength: Dominance in Brisbane’s inner-north prestige and riverfront postcodes. Why They Excel: Led by prominent high-end specialists like Sarah Hackett, Place holds some of Brisbane’s highest record-breaking per-square-meter and riverfront sales, combining heavy local PR with deep data analytics. Ray White (Ascot / New Farm Prestige) Ray White (Ascot / New Farm Prestige) Core Strength: Market share, auction power, and high-volume luxury campaigns. Why They Excel: Backed by a massive brand footprint, their dedicated prestige teams regularly handle landmark heritage homes, contemporary architectural builds, and luxury penthouses in suburbs like Hamilton, Ascot, and New Farm. Belle Property (Ascot & West End) Belle Property (Ascot & West End) Belle Property Core Strength: Boutique high-end presentation and boutique client service. Why They Excel: Known for refined styling, strong inner-south and inner-north reach, and exceptional customer satisfaction ratings, making them a go-to for design-forward luxury homes and character properties.",
+              "markdown": "- **Queensland Sotheby's International Realty** \n\t- **Core Strength:** Global luxury network and high-end international marketing.\n\t- **Why They Excel:** Ideal for ultra-prime residential estates and riverfront mansions. They connect local Brisbane sellers to an extensive international database of high-net-worth buyers across more than 70 countries.[[1]](https://queenslandsothebysrealty.com/)\n- **Place Estate Agents (New Farm & Ascot)** \n\t- **Core Strength:** Dominance in Brisbane’s inner-north prestige and riverfront postcodes.\n\t- **Why They Excel:** Led by prominent high-end specialists like Sarah Hackett, Place holds some of Brisbane’s highest record-breaking per-square-meter and riverfront sales, combining heavy local PR with deep data analytics.[[1]](https://www.eplace.com.au/brisbanes-luxury-agent)\n- **Ray White (Ascot / New Farm Prestige)** \n\t- **Core Strength:** Market share, auction power, and high-volume luxury campaigns.\n\t- **Why They Excel:** Backed by a massive brand footprint, their dedicated prestige teams regularly handle landmark heritage homes, contemporary architectural builds, and luxury penthouses in suburbs like Hamilton, Ascot, and New Farm.\n- **Belle Property (Ascot & West End)** \n\t- **Core Strength:** Boutique high-end presentation and boutique client service.\n\t- **Why They Excel:** Known for refined styling, strong inner-south and inner-north reach, and exceptional customer satisfaction ratings, making them a go-to for design-forward luxury homes and character properties.[[1]](https://www.belleproperty.com/west-end)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Queensland Sotheby's International Realty",
+                  "domain": "queenslandsothebysrealty.com",
+                  "url": "https://queenslandsothebysrealty.com/",
+                  "title": "Trusted Property Experts Queensland - Queensland Sotheby's International Realty",
+                  "text": "Sotheby's International Realty is a luxury real estate business. Sotheby's International Realty network … the brand offers marketing, sales, and concierge services..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Place Real Estate",
+                  "domain": "www.eplace.com.au",
+                  "url": "https://www.eplace.com.au/brisbanes-luxury-agent",
+                  "title": "Sarah Hackett | Brisbane's Luxury and Riverfront Specialist",
+                  "text": "27+ years experience; record holder for highest price per square meter in Brisbane; luxury and riverfront residential and apartment project sales specialist."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Belle Property",
+                  "domain": "www.belleproperty.com",
+                  "url": "https://www.belleproperty.com/west-end",
+                  "title": "Belle Property West End.",
+                  "text": "Belle Property West End is a trusted real estate agency delivering premium property sales and property management services … exceptional presentation, genuine clie..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Comparative Overview",
+              "text": null,
+              "markdown": "### Comparative Overview",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_table_element",
+              "position": "left",
+              "markdown": "| Agency | Primary Prestige Focus | Key Differentiator |\n|---|---|---|\n| **Queensland Sotheby's** | Ultra-luxury & Riverfront | Global buyer network & prestige branding |\n| **Place Estate Agents** | New Farm, Ascot, Riverfront | Record-setting local sales & deep data |\n| **Ray White Prestige** | Inner-City & Acreage | High-velocity auction campaigns & reach |\n| **Belle Property** | Inner-North & Inner-South | Boutique styling & client care |",
+              "table": {
+                "table_header": [
+                  "Agency",
+                  "Primary Prestige Focus",
+                  "Key Differentiator"
+                ],
+                "table_content": [
+                  [
+                    "Queensland Sotheby's",
+                    "Ultra-luxury & Riverfront",
+                    "Global buyer network & prestige branding"
+                  ],
+                  [
+                    "Place Estate Agents",
+                    "New Farm, Ascot, Riverfront",
+                    "Record-setting local sales & deep data"
+                  ],
+                  [
+                    "Ray White Prestige",
+                    "Inner-City & Acreage",
+                    "High-velocity auction campaigns & reach"
+                  ],
+                  [
+                    "Belle Property",
+                    "Inner-North & Inner-South",
+                    "Boutique styling & client care"
+                  ]
+                ]
+              }
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Are you looking to buy or sell a luxury property, and which Brisbane suburb or property style (e.g., riverfront, character home, penthouse) are you focusing on?",
+              "markdown": "Are you looking to **buy or sell** a luxury property, and which **Brisbane suburb** or property style (e.g., riverfront, character home, penthouse) are you focusing on?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Queensland Sotheby's International Realty",
+              "domain": "queenslandsothebysrealty.com",
+              "url": "https://queenslandsothebysrealty.com/",
+              "title": "Trusted Property Experts Queensland - Queensland Sotheby's International Realty",
+              "text": "Sotheby's International Realty is a luxury real estate business. Sotheby's International Realty network … the brand offers marketing, sales, and concierge services..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Place Real Estate",
+              "domain": "www.eplace.com.au",
+              "url": "https://www.eplace.com.au/brisbanes-luxury-agent",
+              "title": "Sarah Hackett | Brisbane's Luxury and Riverfront Specialist",
+              "text": "27+ years experience; record holder for highest price per square meter in Brisbane; luxury and riverfront residential and apartment project sales specialist."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Belle Property",
+              "domain": "www.belleproperty.com",
+              "url": "https://www.belleproperty.com/west-end",
+              "title": "Belle Property West End.",
+              "text": "Belle Property West End is a trusted real estate agency delivering premium property sales and property management services … exceptional presentation, genuine clie..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

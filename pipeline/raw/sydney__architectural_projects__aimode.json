@@ -1,0 +1,167 @@
+{
+  "slug": "sydney",
+  "pk": "architectural_projects",
+  "plat": "aimode",
+  "text": "Which prestige real estate agencies in Sydney are the market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing?",
+  "loc": 1000286,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\sydney__architectural_projects__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:14:35.105Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which prestige real estate agencies in Sydney are the market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000286,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20prestige%20real%20estate%20agencies%20in%20Sydney%20are%20the%20market%20leaders%20for%20luxury%20off-the-plan%20developments%2C%20penthouses%2C%20and%20architectural%20project%20marketing%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCT-Yix5ArhJrEcDMMhZofQEF",
+      "datetime": "2026-10-21 05:14:34 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "Sydney's market leaders for luxury off-the-plan developments, high-end penthouses, and architectural project marketing are dominated by `major commercial-backed international agencies and elite local boutique specialists`.[[1]](https://propertyshell.com/blog-posts/2025s-standout-projects-and-the-agencies-that-made-them-happen)\n\n- **Colliers Residential NSW** : Undisputed market leader in major architectural project marketing, frequently handling marquee lower North Shore, eastern suburbs, and CBD fringe luxury boutique schemes (such as projects by WINIM and DA Properties).[[1]](https://www.colliers.com.au/en-au/news/colliers-residential-launches-the-oxley-in-cremorne)[[2]](https://www.luxurylist.com.au/news/2026/03/17/kl%C3%A9o-mosman-unveils-penthouse-collection-%E2%80%93-colliers/1773708998)\n- **CBRE Residential Projects** : The powerhouse for large-scale ultra-luxury and landmark precinct tall-tower developments, handling record-breaking off-the-plan penthouse and multi-million dollar apartment sales across Barangaroo, the Quay, and waterfront corridors.[[1]](https://www.afr.com/property/residential/sydney-penthouse-sells-off-the-plan-for-record-9m-20200916-p55w14)[[2]](https://www.apartments.com.au/news/sell-out-on-the-hungry-mile-all-159-barangaroo-south-off-the-plan-apartments-sold-including-10-5-million-penthouse)\n- **SRM Residential** : Evolved from CBRE’s elite residential projects team, specialising in end-to-end strategic project marketing and high-end urban apartment developments across metropolitan Sydney.[[1]](https://propertyshell.com/blog-posts/2025s-standout-projects-and-the-agencies-that-made-them-happen)\n- **Black Diamondz** : A premier luxury specialist bridging ultra-high-net-worth local and international Asian-backed private buyers with high-end prestige developments and trophy penthouses.[[1]](https://www.blackdiamondz.com/agency)\n- **Knight Frank Residential Projects** : Renowned for handling institutional-grade luxury developments, premium waterfront conversions, and high-end penthouses tailored to affluent downsizers.\n\nIf you are looking at a **specific region** (e.g., Eastern Suburbs vs. Lower North Shore) or need details on **active upcoming launches** , let me know how you want to **narrow down the scope**.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Sydney's market leaders for luxury off-the-plan developments, high-end penthouses, and architectural project marketing are dominated by major commercial-backed international agencies and elite local boutique specialists.",
+              "markdown": "Sydney's market leaders for luxury off-the-plan developments, high-end penthouses, and architectural project marketing are dominated by `major commercial-backed international agencies and elite local boutique specialists`.[[1]](https://propertyshell.com/blog-posts/2025s-standout-projects-and-the-agencies-that-made-them-happen)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Property Shell",
+                  "domain": "propertyshell.com",
+                  "url": "https://propertyshell.com/blog-posts/2025s-standout-projects-and-the-agencies-that-made-them-happen",
+                  "title": "2025's Standout Projects and the Agencies Behind Them",
+                  "text": "Sydney's off-the-plan apartment market. The firm specialises in end-to-end project marketing, from site acquisition and design inp..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Colliers Residential NSW : Undisputed market leader in major architectural project marketing, frequently handling marquee lower North Shore, eastern suburbs, and CBD fringe luxury boutique schemes (such as projects by WINIM and DA Properties). CBRE Residential Projects : The powerhouse for large-scale ultra-luxury and landmark precinct tall-tower developments, handling record-breaking off-the-plan penthouse and multi-million dollar apartment sales across Barangaroo, the Quay, and waterfront corridors. SRM Residential : Evolved from CBRE’s elite residential projects team, specialising in end-to-end strategic project marketing and high-end urban apartment developments across metropolitan Sydney. Black Diamondz : A premier luxury specialist bridging ultra-high-net-worth local and international Asian-backed private buyers with high-end prestige developments and trophy penthouses. Knight Frank Residential Projects : Renowned for handling institutional-grade luxury developments, premium waterfront conversions, and high-end penthouses tailored to affluent downsizers.",
+              "markdown": "- **Colliers Residential NSW** : Undisputed market leader in major architectural project marketing, frequently handling marquee lower North Shore, eastern suburbs, and CBD fringe luxury boutique schemes (such as projects by WINIM and DA Properties).[[1]](https://www.colliers.com.au/en-au/news/colliers-residential-launches-the-oxley-in-cremorne)[[2]](https://www.luxurylist.com.au/news/2026/03/17/kl%C3%A9o-mosman-unveils-penthouse-collection-%E2%80%93-colliers/1773708998)\n- **CBRE Residential Projects** : The powerhouse for large-scale ultra-luxury and landmark precinct tall-tower developments, handling record-breaking off-the-plan penthouse and multi-million dollar apartment sales across Barangaroo, the Quay, and waterfront corridors.[[1]](https://www.afr.com/property/residential/sydney-penthouse-sells-off-the-plan-for-record-9m-20200916-p55w14)[[2]](https://www.apartments.com.au/news/sell-out-on-the-hungry-mile-all-159-barangaroo-south-off-the-plan-apartments-sold-including-10-5-million-penthouse)\n- **SRM Residential** : Evolved from CBRE’s elite residential projects team, specialising in end-to-end strategic project marketing and high-end urban apartment developments across metropolitan Sydney.[[1]](https://propertyshell.com/blog-posts/2025s-standout-projects-and-the-agencies-that-made-them-happen)\n- **Black Diamondz** : A premier luxury specialist bridging ultra-high-net-worth local and international Asian-backed private buyers with high-end prestige developments and trophy penthouses.[[1]](https://www.blackdiamondz.com/agency)\n- **Knight Frank Residential Projects** : Renowned for handling institutional-grade luxury developments, premium waterfront conversions, and high-end penthouses tailored to affluent downsizers.",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Colliers Australia",
+                  "domain": "www.colliers.com.au",
+                  "url": "https://www.colliers.com.au/en-au/news/colliers-residential-launches-the-oxley-in-cremorne",
+                  "title": "Colliers Residential Launches The Oxley in Cremorne",
+                  "text": "Colliers Residential in NSW has launched The Oxley, a premium boutique apartment development in Cremorne, Located at 49-51 Murdoch..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Luxury List |",
+                  "domain": "www.luxurylist.com.au",
+                  "url": "https://www.luxurylist.com.au/news/2026/03/17/kl%C3%A9o-mosman-unveils-penthouse-collection-%E2%80%93-colliers/1773708998",
+                  "title": "Kléo Mosman unveils 'The Penthouse Collection' – Colliers",
+                  "text": "Kléo is a boutique residential development of just 15 luxury residences including two- and three-bedroom apartments alongside The ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "AFR",
+                  "domain": "www.afr.com",
+                  "url": "https://www.afr.com/property/residential/sydney-penthouse-sells-off-the-plan-for-record-9m-20200916-p55w14",
+                  "title": "Sydney penthouse sells off the plan for a record $9m - AFR",
+                  "text": "A $9 million penthouse sale on Sydney's waterfront has led a surge of multimillion-dollar off-the-plan purchases in Australia's ca..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Apartments.com.au",
+                  "domain": "www.apartments.com.au",
+                  "url": "https://www.apartments.com.au/news/sell-out-on-the-hungry-mile-all-159-barangaroo-south-off-the-plan-apartments-sold-including-10-5-million-penthouse",
+                  "title": "Sell Out on The Hungry Mile! All 159 Barangaroo South off...",
+                  "text": "All 159 Barangaroo South off-the-plan apartments sold including $10.5 million penthouse … contain a mix of one, two and three bedr..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Property Shell",
+                  "domain": "propertyshell.com",
+                  "url": "https://propertyshell.com/blog-posts/2025s-standout-projects-and-the-agencies-that-made-them-happen",
+                  "title": "2025's Standout Projects and the Agencies Behind Them",
+                  "text": "Sydney's off-the-plan apartment market. The firm specialises in end-to-end project marketing, from site acquisition and design inp..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Black Diamondz",
+                  "domain": "www.blackdiamondz.com",
+                  "url": "https://www.blackdiamondz.com/agency",
+                  "title": "Our Agency | Black Diamondz",
+                  "text": "A Sydney-based luxury real estate agency connecting Australian prestige property with local and international buyers."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you are looking at a specific region (e.g., Eastern Suburbs vs. Lower North Shore) or need details on active upcoming launches, let me know how you want to narrow down the scope.",
+              "markdown": "If you are looking at a **specific region** (e.g., Eastern Suburbs vs. Lower North Shore) or need details on **active upcoming launches** , let me know how you want to **narrow down the scope**.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Colliers Australia",
+              "domain": "www.colliers.com.au",
+              "url": "https://www.colliers.com.au/en-au/news/colliers-residential-launches-the-oxley-in-cremorne",
+              "title": "Colliers Residential Launches The Oxley in Cremorne",
+              "text": "Colliers Residential in NSW has launched The Oxley, a premium boutique apartment development in Cremorne, Located at 49-51 Murdoch Street, Cremorne, The Oxley deli..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "AFR",
+              "domain": "www.afr.com",
+              "url": "https://www.afr.com/property/residential/sydney-penthouse-sells-off-the-plan-for-record-9m-20200916-p55w14",
+              "title": "Sydney penthouse sells off the plan for a record $9m - AFR",
+              "text": "A $9 million penthouse sale on Sydney's waterfront has led a surge of multimillion-dollar off-the-plan purchases in Australia's capital cities this month."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Luxury List |",
+              "domain": "www.luxurylist.com.au",
+              "url": "https://www.luxurylist.com.au/news/2026/03/17/kl%C3%A9o-mosman-unveils-penthouse-collection-%E2%80%93-colliers/1773708998",
+              "title": "Kléo Mosman unveils 'The Penthouse Collection' – Colliers",
+              "text": "Kléo is a boutique residential development of just 15 luxury residences including two- and three-bedroom apartments alongside The Penthouse Collection."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

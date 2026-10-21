@@ -1,0 +1,106 @@
+{
+  "slug": "national",
+  "pk": "architectural_projects",
+  "plat": "perplexity",
+  "text": "Which prestige real estate agencies in Australia are the market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing?",
+  "loc": 2036,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\national__architectural_projects__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:21:27.627Z",
+  "cost": 0.006317,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 33,
+      "output_tokens": 684,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005717,
+      "datetime": "2026-10-21 05:21:27 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Australia’s leading prestige agencies for **luxury off-the-plan developments, penthouses and architectural project marketing** are best viewed by speciality and geographic strength rather than by a single national ranking:\n\n- **Colliers Residential** — One of the strongest national project-marketing platforms, with nearly three decades of experience across major residential asset classes and markets.[1]\n- **Ray White Projects** — A large-scale national operator suited to major apartment, townhouse and mixed-use campaigns, with reach across Sydney, Brisbane, the Gold Coast, Adelaide and Canberra.[1]\n- **RPM Group** — Particularly strong in Victoria, Queensland and New South Wales, covering apartments, townhomes, land and medium-density developments from acquisition through sell-out.[1]\n- **Oliver Hume** — A long-established project-marketing specialist with major operations in Victoria, Queensland and South Australia, especially credible for large residential campaigns.[1]\n- **SRM Residential** — A strong Sydney specialist for premium apartment developments, offering end-to-end project strategy, branding and sales execution.[1]\n- **YPM Avanti** — A prominent Brisbane, Gold Coast and Melbourne operator with more than $3.2 billion in reported new-development sales and over 3,600 properties sold.[1]\n- **Total Property Group** — Particularly relevant to luxury Gold Coast projects, penthouses and resort-style developments; its portfolio includes Jewel Private Residences, Lume and Luxe Broadbeach.[2]\n- **Symond Property** — A distinctive Sydney architectural-property agency focused on customised apartments, skyhomes, penthouses and bespoke floorplan design, rather than high-volume project sales.[4]\n- **Christie & Co. Property Group** — A national premium-property platform combining luxury homes, penthouses, development advisory and end-to-end project marketing.[8]\n- **Judy Goodger Prestige** — A leading Brisbane and Queensland prestige-sales brand, particularly suited to high-end homes, architectural residences, riverfront properties and penthouses.[7]\n- **Adcock Prestige** — A Brisbane specialist known for luxury architectural homes, riverfront residences, penthouses and high-value prestige property.[6]\n\n### Best fit by requirement\n\n| Requirement | Strongest shortlist |\n|---|---|\n| National off-the-plan campaign | Colliers Residential, Ray White Projects, RPM Group, Oliver Hume |\n| Sydney luxury apartments and penthouses | SRM Residential, Symond Property, Christie & Co. |\n| Brisbane and Gold Coast developments | YPM Avanti, Total Property Group, Ray White Projects |\n| Gold Coast luxury towers and penthouses | Total Property Group, YPM Avanti, Christie & Co. |\n| Bespoke architectural apartments and skyhomes | Symond Property |\n| High-end completed homes and architectural residences | Christie & Co., Judy Goodger Prestige, Adcock Prestige |\n| Large-scale developer campaign with institutional capability | Colliers Residential, Ray White Projects, RPM Group |\n\nFor a developer seeking **architectural positioning and premium buyer targeting**, Symond Property, Christie & Co. and SRM Residential are particularly relevant. For **national scale and high-volume off-the-plan delivery**, Colliers Residential, Ray White Projects, RPM Group and Oliver Hume form the strongest initial shortlist.[1][4][8]",
+              "annotations": [
+                {
+                  "title": "2025's Standout Projects and the Agencies Behind Them ...",
+                  "url": "https://propertyshell.com/blog-posts/2025s-standout-projects-and-the-agencies-that-made-them-happen",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "TOTAL Property Group - Project marketer Profiles",
+                  "url": "https://a-d.com.au/industry-profile-details/total-property-group",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The 11 Best Real Estate Branding Agencies in Australia for ... - Flornt",
+                  "url": "https://flornt.com.au/blog/the-11-best-real-estate-branding-agencies-in-australia-for-independent-agents",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Symond Property",
+                  "url": "https://symondproperty.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Chervonne Papworth | LinkedIn",
+                  "url": "https://www.linkedin.com/in/chervonnepapworth",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Adcock Prestige - Verified Reviews & Real Estate For Sale",
+                  "url": "https://www.ratemyagent.com.au/real-estate-agency/adcock-prestige-aa252/sales/overview",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "_Judy Goodger Prestige",
+                  "url": "https://www.domain.com.au/real-estate-agencies/judygoodgerprestige-6809/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Christie & Co. Property Group — Premium Australian Property.",
+                  "url": "https://christieandco.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 25 Luxury real estate marketing agencies based in ...",
+                  "url": "https://revenuebase.ai/companies/luxury-real-estate-marketing-agencies/australia/melbourne",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Sydney Prestige Properties - Local Real Estate Agency",
+                  "url": "https://www.allhomes.com.au/agency/sydney-prestige-properties-506793/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

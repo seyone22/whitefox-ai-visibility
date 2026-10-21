@@ -1,0 +1,106 @@
+{
+  "slug": "peninsula",
+  "pk": "architectural_projects",
+  "plat": "perplexity",
+  "text": "Which prestige real estate agencies in Mornington Peninsula are the market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing?",
+  "loc": 9056918,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\peninsula__architectural_projects__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:20:17.892Z",
+  "cost": 0.006113,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 35,
+      "output_tokens": 478,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005513,
+      "datetime": "2026-10-21 05:20:17 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For **luxury off-the-plan developments, penthouses and architectural project marketing on the Mornington Peninsula**, the strongest shortlist is:\n\n- **Marshall White Mornington Peninsula** — the clearest large-scale prestige leader, with offices in Flinders and Sorrento, an established premium brand, substantial buyer database and dedicated project-marketing capability. It is particularly well suited to high-value coastal residences, boutique apartment developments and architect-designed homes.[2][5][7]\n- **Danckert Real Estate** — a strong locally focused luxury specialist based in Mount Martha. Its positioning centres on prestige and lifestyle property across the Peninsula, with tailored campaigns suited to architectural homes, waterfront residences and discreet high-end sales.[1][4][10]\n- **Abode Peninsula** — especially relevant for **off-the-plan developments and penthouses**. The agency lists project marketing and off-the-plan sales among its services and has been appointed exclusive selling agent for the “13 Barrett Mornington” development.[9]\n- **Peninsula Sotheby’s International Realty** — a compelling choice for internationally marketed architectural estates and trophy properties, particularly where global brand exposure and luxury presentation matter. Its listings include architect-designed and landscape-led Peninsula properties.[6]\n- **Belle Property** — worth considering for design-led boutique developments and premium lifestyle projects, supported by a broader national network and a strong presentation-oriented brand.[3]\n\n## Best fit by project type\n\n| Requirement | Best agencies to approach |\n|---|---|\n| Major prestige launch or premium coastal development | **Marshall White** |\n| Locally tailored architectural-property campaign | **Danckert Real Estate** |\n| Off-the-plan apartments, penthouses or boutique developments | **Abode Peninsula**, **Marshall White** |\n| International exposure for a trophy architectural project | **Peninsula Sotheby’s International Realty** |\n| Design-led lifestyle development with broader network reach | **Belle Property** |\n\nFor a developer appointing an agent, the most practical first pitch would be a **competitive process between Marshall White, Abode Peninsula and Danckert**, adding Peninsula Sotheby’s where international positioning is important. Ask each agency for comparable project results, current qualified buyer numbers, proposed campaign architecture, database activation plan, display-suite strategy and evidence of achieved pricing—not merely advertised pricing.",
+              "annotations": [
+                {
+                  "title": "MARKETING YOUR PRESTIGE PROPERTY",
+                  "url": "https://danckert.com.au/article/marketing-your-prestige-property",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Marshall White",
+                  "url": "https://propertyroles.com.au/employers/marshall-white",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Belle Property: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/belle-property",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Danckert Real Estate: Mornington Peninsula Real Estate Agents",
+                  "url": "https://danckert.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Flinders Office | Real Estate Agency Mornington Peninsula | Marshall White",
+                  "url": "https://www.marshallwhite.com.au/office/flinders/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Peninsula Sotheby's International Realty: luxury real estate agency ...",
+                  "url": "https://properties.lefigaro.com/agencies/luxury-real+estate-properties+for+sale-australia/87703/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Marshall White Sorrento Office | Real Estate Agency Mornington",
+                  "url": "https://www.marshallwhite.com.au/office/sorrento",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "ARCHIVE",
+                  "url": "https://www.lovr.agency/project/sayers-co",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Abode Peninsula",
+                  "url": "https://www.domain.com.au/real-estate-agencies/abodepeninsula-20607/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Alex Corradi | Director & Licensed Estate Agent - Danckert Real Estate",
+                  "url": "https://danckert.com.au/agent/alex-corradi",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

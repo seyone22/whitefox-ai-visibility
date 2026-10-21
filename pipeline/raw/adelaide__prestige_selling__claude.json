@@ -1,0 +1,219 @@
+{
+  "slug": "adelaide",
+  "pk": "prestige_selling",
+  "plat": "claude",
+  "text": "I am selling a $10M luxury residential property in Adelaide. Which prestige real estate agencies have the strongest track record for high-end home sales?",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\adelaide__prestige_selling__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:18:55.755Z",
+  "cost": 0.080437,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 17664,
+      "output_tokens": 1123,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.079837,
+      "datetime": "2026-10-21 05:18:55 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a rundown of the **top prestige real estate agencies in Adelaide** with a strong track record for high-end residential property sales — particularly relevant for a $10M listing:\n\n---\n\n### 🏆 1. **Giordano & Partners**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Giordano & Partners specialises in luxury real estate sales and leasing, marketing heritage estates, Adelaide Hills retreats, inner-city sandstone villas, architectural masterpieces, and beachside escapes.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate",
+                  "url": "https://giordanopartners.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are widely regarded as one of Adelaide's premier prestige agencies. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They differentiate themselves by providing a low-volume, high-service customer experience that has consistently achieved record-breaking results, evidenced by over 41 suburb record sales and counting.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate",
+                  "url": "https://giordanopartners.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They develop a bespoke marketing strategy tailored to each individual property.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate",
+                  "url": "https://giordanopartners.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 🏆 2. **Williams Luxury Real Estate**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Williams Luxury Real Estate is positioned as South Australia's leading luxury real estate agency, with a strong focus on people and property.",
+              "annotations": [
+                {
+                  "title": "Williams Luxury Real Estate",
+                  "url": "https://www.facebook.com/WILLIAMSLuxuryProperty/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their approach centres on selling with strategy, style, and sophistication.",
+              "annotations": [
+                {
+                  "title": "Williams Luxury Real Estate",
+                  "url": "https://www.facebook.com/WILLIAMSLuxuryProperty/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are a boutique agency with deep expertise in the top end of Adelaide's residential market.\n\n---\n\n### 🏆 3. **Belle Property Australia (Adelaide)**\nBelle Property is a nationally recognised prestige brand with a strong presence in Adelaide's high-end market. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Belle Property Australia is actively listing luxury properties across Adelaide's most prestigious suburbs, including Burnside, Wayville, Unley, and Auldana.",
+              "annotations": [
+                {
+                  "title": "Luxury homes for sale in Adelaide, South Australia, Australia",
+                  "url": "https://www.jamesedition.com/real_estate/adelaide-australia",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Their national network and marketing reach make them well-suited for attracting interstate and international buyers.\n\n---\n\n### 🏆 4. **Turner Prestige Sales**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Turner Real Estate has launched Turner Prestige Sales, specifically focused on luxury and high-end property sales.",
+              "annotations": [
+                {
+                  "title": "SA agency unveils new high-end sales brand - Real Estate Business",
+                  "url": "https://www.realestatebusiness.com.au/industry/28337-sa-agency-unveils-new-high-end-sales-brand",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The division services exceptional properties valued at the high million-dollar mark and upwards across all metropolitan areas of Adelaide.",
+              "annotations": [
+                {
+                  "title": "SA agency unveils new high-end sales brand - Real Estate Business",
+                  "url": "https://www.realestatebusiness.com.au/industry/28337-sa-agency-unveils-new-high-end-sales-brand",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "For luxury properties, they offer targeted social media campaigns, prestigious photography and videography, exclusive property showcases, bespoke home staging, and access to an extensive high-end client database.",
+              "annotations": [
+                {
+                  "title": "SA agency unveils new high-end sales brand - Real Estate Business",
+                  "url": "https://www.realestatebusiness.com.au/industry/28337-sa-agency-unveils-new-high-end-sales-brand",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 🏆 5. **Adelaide Hills Real Estate** *(if applicable to location)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Adelaide Hills Real Estate holds an outstanding reputation as the prestige property leader in Mount Barker and the Adelaide Hills, with an award-winning standard for service and results.",
+              "annotations": [
+                {
+                  "title": "Adelaide Hills Real Estate - Home Page",
+                  "url": "https://www.ahre.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " If your $10M property is located in the Hills region, they would be a natural fit.\n\n---\n\n### 💡 Key Tips for Selling a $10M Property in Adelaide:\n\n1. **Consider boutique over big-box agencies** — At the $10M+ price point, boutique prestige agencies like Giordano & Partners or Williams Luxury often deliver more personalised, strategic campaigns than generalist agencies.\n2. **Ask about their buyer database** — A genuine prestige agency should have a curated database of ultra-high-net-worth buyers, including off-market contacts.\n3. **Evaluate their marketing suite** — Premium photography, videography, international portal listings (e.g., James Edition, Christie's, Sotheby's), and targeted digital campaigns are essential at this price point.\n4. **Check comparable sales** — Ask each agency for evidence of recent $5M–$10M+ sales they have personally transacted in Adelaide.\n5. **Interview multiple agents** — Given the value of your property, it's worth meeting at least 2–3 agencies before committing.\n\nWould you like more detail on any of these agencies, or help preparing questions to ask them?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "prestige luxury real estate agencies Adelaide high-end property sales",
+        "top luxury residential property sales Adelaide $10M+",
+        "Sotheby's International Realty Christie's Adelaide prestige property agency"
+      ]
+    }
+  ]
+}

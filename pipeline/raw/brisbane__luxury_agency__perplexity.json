@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane",
+  "pk": "luxury_agency",
+  "plat": "perplexity",
+  "text": "Who are the best luxury real estate agencies in Brisbane? Give me a shortlist of specific prestige property agencies with reasons.",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\brisbane__luxury_agency__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:14:39.383Z",
+  "cost": 0.006174,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 31,
+      "output_tokens": 543,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005574,
+      "datetime": "2026-10-21 05:14:39 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For Brisbane prestige property, the strongest shortlist is **Place Estate Agents, Ray White Collective Luxury, SpinksCo Residential, McGrath, Belle Property and North South Real Estate**. The best choice depends on whether you prioritise local dominance, ultra-high-end specialisation, marketing reach or discreet boutique service.\n\n- **Place Estate Agents** — A leading Brisbane-based agency with a strong presence in inner-city and high-value suburbs. Its prestige appeal is reinforced by highly visible campaigns, strong digital marketing and agents such as Drew Davies, who specialises in premium Brisbane homes.[2][3][7]\n\n- **Ray White Collective Luxury** — A particularly strong option for properties valued at roughly **$4 million or more**. The brand was launched as a dedicated luxury division by Brisbane prestige specialist Matt Lancashire, giving it a clear focus on trophy homes and affluent buyers.[6]\n\n- **SpinksCo Residential** — Worth considering for Brisbane’s inner-west prestige market. It is specifically associated with record sales and strong enquiry for high-end homes, making it a credible boutique alternative to larger networks.[6]\n\n- **McGrath Estate Agents** — A good fit for premium metropolitan property, including high-end houses, apartments and lifestyle homes. McGrath has a strong east-coast profile and is particularly relevant in Brisbane’s higher-value suburbs.[2][4][8]\n\n- **Belle Property** — Best suited to design-led, lifestyle-oriented and presentation-sensitive properties. Its premium positioning, editorial-style marketing and broad Australian network can help attract interstate and lifestyle buyers.[2][5][8]\n\n- **North South Real Estate** — A boutique luxury specialist covering Brisbane, the Gold Coast and Byron Bay. It focuses on prestige apartments, trophy homes, development opportunities and discreet service, making it suitable for clients who want a more tailored approach.[1]\n\n## Practical shortlist by need\n\n| Need | Best starting points |\n|---|---|\n| Brisbane inner suburbs and broad local reach | Place Estate Agents |\n| $4m-plus trophy home | Ray White Collective Luxury |\n| Inner-west prestige property | SpinksCo Residential |\n| Premium metro sale with a national brand | McGrath |\n| Design-led or lifestyle property | Belle Property |\n| Boutique, discreet luxury service | North South Real Estate |\n\nBefore appointing an agency, compare the **specific agent**, not just the brand. Ask for recent comparable sales in your suburb, the proposed buyer database, the marketing plan, likely fee structure and examples of properties sold in your price bracket. At the prestige end, genuine access to qualified buyers and accurate pricing usually matter more than office size.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agent | Brisbane, Gold Coast & Byron Bay",
+                  "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Savills in real estate companies: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/savills/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Agency: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/the-agency/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Woodards in real estate companies: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/woodards",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Real estate agencies in Australia: AI ranking",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Agencies - Luxury List |",
+                  "url": "https://luxurylist.com.au/agencies",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Best Real Estate Agents in Brisbane: We Found the Top 5 (Marketing Edition)",
+                  "url": "https://theresearcher.com.au/best-real-estate-agents-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "First National: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/first-national",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Brisbane Buyers Agents Compared: Choose the Best - Amassed",
+                  "url": "https://amassed.com.au/elevate/brisbane-buyers-agents-compared/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Footer",
+                  "url": "https://revenuebase.ai/companies/luxury-real-estate-marketing-agencies/australia/brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "slug": "perth",
+  "pk": "boutique_luxury",
+  "plat": "aimode",
+  "text": "Which boutique luxury real estate agencies in Perth are best known for modern social media marketing, high-impact video campaigns, and architectural homes?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\perth__boutique_luxury__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:17:37.204Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which boutique luxury real estate agencies in Perth are best known for modern social media marketing, high-impact video campaigns, and architectural homes?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000676,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20boutique%20luxury%20real%20estate%20agencies%20in%20Perth%20are%20best%20known%20for%20modern%20social%20media%20marketing%2C%20high-impact%20video%20campaigns%2C%20and%20architectural%20homes%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCXPVOynVujIqEeBO3zW18AQF",
+      "datetime": "2026-10-21 05:17:36 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "In Perth, **ZSA ZSA Property** stands out as the premier boutique real estate practice explicitly dedicated to design-led, modernist, and architecturally significant homes . Led by Danielle Geagea, they combine high-end social media curation and cinematic property storytelling tailored specifically to architectural and mid-century properties.[[1]](https://zsazsaproperty.com/)[[2]](https://www.instagram.com/zsazsaproperty/)\n\nKey boutique agencies and specialists focusing on high-impact media and distinct architectural properties in Perth include:\n\n### Top Design-Led & Boutique Agencies\n\n\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLd5mcSAVassVFwXnchdL6_YQI_zkndo8p5h8ExyjcLx6eORlPXWhoTrFbRkk_mJof70JeE95cEMpb8M5O4Asfm6b438ODaWvdA6LwZ9_Ch0YiyK3xBkmrnMbFSwNZx8bbHMiQ8W=s192-w192-h144-n-k-no)\nZSA ZSA Property 4.9 (53)  \nReal estate agency  \nOpen 187 Lake St  \nCall Directions Website\n\n- **Focus:** Period, mid-century, modernist, and contemporary architectural homes.\n- **Marketing Style:** Highly curated digital-first branding, immersive social campaigns, and architectural appreciation focus (featured properties include works by architects like Nic Brunsdon and Iwan Iwanoff).\n\n\n\n---\n\n![](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UOu-5lgOYS8gvUncNayTyQ&cb_client=search.gws-prod.grass&yaw=355.09378&pitch=0&thumbfov=100&w=82&h=82)\nBellcourt Property Group Real estate agency  \n101 Waratah Ave  \nDirections\n\n- **Focus:** Premium lifestyle, character, and design-forward properties across Perth’s core and western suburbs.\n- **Marketing Style:** Polished multimedia campaigns, high-production video walk-throughs, and strong digital reach.\n\n\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLdgAvuaywk0_SpeZPGgKysTtERW0yQ1k5Yv8vfyO-YdybgRmnuv8qpqy4J6CnRBhFxSWgOeE9Zlr6uHQ9l5f--PIsskLiJcEYePaPlBU42HGeBXmNqqh7YIQp4PdjTGqzUZ4FyV=s192-w192-h144-n-k-no)\nActon Belle Property 2.6 (5)  \nReal estate agency  \nOpen 500 Stirling Hwy  \nCall Directions Website\n\n- **Focus:** High-end residential and architectural properties.\n- **Marketing Style:** Tailored social media pushes and professional cinematic video packages scaled for luxury listings.[[1]](https://zsazsaproperty.com/)[[2]](https://www.instagram.com/zsazsaproperty/)\n\nWould you like to **explore recent sales campaigns** from ZSA ZSA Property, or are you looking to **market a specific architectural home** in Perth and need advice on tailored media strategies?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "In Perth, ZSA ZSA Property stands out as the premier boutique real estate practice explicitly dedicated to design-led, modernist, and architecturally significant homes. Led by Danielle Geagea, they combine high-end social media curation and cinematic property storytelling tailored specifically to architectural and mid-century properties.",
+              "markdown": "In Perth, **ZSA ZSA Property** stands out as the premier boutique real estate practice explicitly dedicated to design-led, modernist, and architecturally significant homes . Led by Danielle Geagea, they combine high-end social media curation and cinematic property storytelling tailored specifically to architectural and mid-century properties.[[1]](https://zsazsaproperty.com/)[[2]](https://www.instagram.com/zsazsaproperty/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "ZSA ZSA Property",
+                  "domain": "zsazsaproperty.com",
+                  "url": "https://zsazsaproperty.com/",
+                  "title": "Connecting people to beautiful spaces. - ZSA ZSA Property",
+                  "text": "Real estate agency operating since 2013 specializing in selling design-led, architectural, contemporary, modernist, and character ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Instagram",
+                  "domain": "www.instagram.com",
+                  "url": "https://www.instagram.com/zsazsaproperty/",
+                  "title": "ZSA ZSA Property (@zsazsaproperty) · Perth, WA",
+                  "text": "Connecting people to beautiful spaces • Specialists in selling design-led homes || Period | Mid-Century | Modernist | Contemporary..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Key boutique agencies and specialists focusing on high-impact media and distinct architectural properties in Perth include:",
+              "markdown": "Key boutique agencies and specialists focusing on high-impact media and distinct architectural properties in Perth include:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Top Design-Led & Boutique Agencies",
+              "text": "ZSA ZSA Property 4.9 (53) Real estate agency Open 187 Lake St Call Directions WebsiteFocus: Period, mid-century, modernist, and contemporary architectural homes.\nMarketing Style: Highly curated digital-first branding, immersive social campaigns, and architectural appreciation focus (featured properties include works by architects like Nic Brunsdon and Iwan Iwanoff).",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLd5mcSAVassVFwXnchdL6_YQI_zkndo8p5h8ExyjcLx6eORlPXWhoTrFbRkk_mJof70JeE95cEMpb8M5O4Asfm6b438ODaWvdA6LwZ9_Ch0YiyK3xBkmrnMbFSwNZx8bbHMiQ8W=s192-w192-h144-n-k-no)\nZSA ZSA Property 4.9 (53)  \nReal estate agency  \nOpen 187 Lake St  \nCall Directions Website\n\n- **Focus:** Period, mid-century, modernist, and contemporary architectural homes.\n- **Marketing Style:** Highly curated digital-first branding, immersive social campaigns, and architectural appreciation focus (featured properties include works by architects like Nic Brunsdon and Iwan Iwanoff).",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd5mcSAVassVFwXnchdL6_YQI_zkndo8p5h8ExyjcLx6eORlPXWhoTrFbRkk_mJof70JeE95cEMpb8M5O4Asfm6b438ODaWvdA6LwZ9_Ch0YiyK3xBkmrnMbFSwNZx8bbHMiQ8W=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Bellcourt Property Group Real estate agency 101 Waratah Ave DirectionsFocus: Premium lifestyle, character, and design-forward properties across Perth’s core and western suburbs.\nMarketing Style: Polished multimedia campaigns, high-production video walk-throughs, and strong digital reach.",
+              "markdown": "---\n\n![](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UOu-5lgOYS8gvUncNayTyQ&cb_client=search.gws-prod.grass&yaw=355.09378&pitch=0&thumbfov=100&w=82&h=82)\nBellcourt Property Group Real estate agency  \n101 Waratah Ave  \nDirections\n\n- **Focus:** Premium lifestyle, character, and design-forward properties across Perth’s core and western suburbs.\n- **Marketing Style:** Polished multimedia campaigns, high-production video walk-throughs, and strong digital reach.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UOu-5lgOYS8gvUncNayTyQ&cb_client=search.gws-prod.grass&yaw=355.09378&pitch=0&thumbfov=100&w=82&h=82"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Acton Belle Property 2.6 (5) Real estate agency Open 500 Stirling Hwy Call Directions WebsiteFocus: High-end residential and architectural properties.\nMarketing Style: Tailored social media pushes and professional cinematic video packages scaled for luxury listings.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLdgAvuaywk0_SpeZPGgKysTtERW0yQ1k5Yv8vfyO-YdybgRmnuv8qpqy4J6CnRBhFxSWgOeE9Zlr6uHQ9l5f--PIsskLiJcEYePaPlBU42HGeBXmNqqh7YIQp4PdjTGqzUZ4FyV=s192-w192-h144-n-k-no)\nActon Belle Property 2.6 (5)  \nReal estate agency  \nOpen 500 Stirling Hwy  \nCall Directions Website\n\n- **Focus:** High-end residential and architectural properties.\n- **Marketing Style:** Tailored social media pushes and professional cinematic video packages scaled for luxury listings.[[1]](https://zsazsaproperty.com/)[[2]](https://www.instagram.com/zsazsaproperty/)",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdgAvuaywk0_SpeZPGgKysTtERW0yQ1k5Yv8vfyO-YdybgRmnuv8qpqy4J6CnRBhFxSWgOeE9Zlr6uHQ9l5f--PIsskLiJcEYePaPlBU42HGeBXmNqqh7YIQp4PdjTGqzUZ4FyV=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "ZSA ZSA Property",
+                  "domain": "zsazsaproperty.com",
+                  "url": "https://zsazsaproperty.com/",
+                  "title": "Connecting people to beautiful spaces. - ZSA ZSA Property",
+                  "text": "Real estate agency operating since 2013 specializing in selling design-led, architectural, contemporary, modernist, and character homes in Perth."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Instagram",
+                  "domain": "www.instagram.com",
+                  "url": "https://www.instagram.com/zsazsaproperty/",
+                  "title": "ZSA ZSA Property (@zsazsaproperty) · Perth, WA",
+                  "text": "Connecting people to beautiful spaces • Specialists in selling design-led homes || Period | Mid-Century | Modernist | Contemporary MD"
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Would you like to explore recent sales campaigns from ZSA ZSA Property, or are you looking to market a specific architectural home in Perth and need advice on tailored media strategies?",
+              "markdown": "Would you like to **explore recent sales campaigns** from ZSA ZSA Property, or are you looking to **market a specific architectural home** in Perth and need advice on tailored media strategies?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "ZSA ZSA Property",
+              "domain": "zsazsaproperty.com",
+              "url": "https://zsazsaproperty.com/",
+              "title": "Connecting people to beautiful spaces. - ZSA ZSA Property",
+              "text": "Real estate agency operating since 2013 specializing in selling design-led, architectural, contemporary, modernist, and character homes in Perth."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Instagram",
+              "domain": "www.instagram.com",
+              "url": "https://www.instagram.com/zsazsaproperty/",
+              "title": "ZSA ZSA Property (@zsazsaproperty) · Perth, WA",
+              "text": "Connecting people to beautiful spaces • Specialists in selling design-led homes || Period | Mid-Century | Modernist | Contemporary MD"
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

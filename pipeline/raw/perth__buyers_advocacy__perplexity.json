@@ -1,0 +1,106 @@
+{
+  "slug": "perth",
+  "pk": "buyers_advocacy",
+  "plat": "perplexity",
+  "text": "Which luxury real estate agencies or buyers advocates in Perth offer the best buyers advocacy and acquisition advisory for prestige homes?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\perth__buyers_advocacy__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:18:01.340Z",
+  "cost": 0.00612,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 29,
+      "output_tokens": 491,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.00552,
+      "datetime": "2026-10-21 05:18:01 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For **prestige-home acquisition in Perth**, the strongest shortlist is likely:\n\n| Agency | Best suited to | Why consider them |\n|---|---|---|\n| **CPA Private / Capital Property Advisory** | Discreet, high-value acquisitions | Offers a confidential prestige service with independent buyer representation, opportunity research, due diligence coordination and negotiation solely for the buyer.[1] |\n| **Resolve Property Solutions** | Fully managed luxury purchases | Provides end-to-end sourcing, evaluation, due diligence, professional coordination, off-market access and tailored negotiation for prestige properties.[2] |\n| **Joanna Boyd Buyers Advocate** | Bespoke luxury-home buying | Specifically serves prestige buyers seeking exclusive residences, with an emphasis on discretion, personalised searches and a high-touch process.[10] |\n| **You&Me Personalised Property Services** | Highly personal representation | Acts exclusively for buyers, sources off-market opportunities, manages negotiation and limits its client load to 50 clients annually.[4] |\n| **Claudette Swift Buyers Agents** | Personalised owner-occupier purchases | Handles the process from property identification through negotiation and caters to experienced and prestige-home buyers.[3] |\n| **Momentum Wealth** | Luxury purchase plus broader property strategy | Licensed WA buyer’s agents with research-driven acquisition services, off-market access and experience across both standard and premium Perth property.[6] |\n\n**Best overall fit:** CPA Private and Resolve Property Solutions appear the most directly aligned with a confidential, end-to-end prestige acquisition mandate. Joanna Boyd is another strong option where the priority is a boutique, highly personalised luxury-home experience.\n\nBefore appointing an advocate, ask for:\n\n- Recent examples of purchases above your target price and in your preferred suburbs.\n- Evidence of genuine buyer-only representation and disclosure of all referral arrangements.\n- Their off-market sourcing process and relationships with Perth’s prestige selling agents.\n- A written scope covering search, valuation, building and title due diligence, negotiation, contract review and settlement.\n- Fee structure, termination terms and whether the fee is fixed, percentage-based or success-based.\n- The specific individual who will handle inspections, negotiations and access to confidential opportunities.\n\nFor a high-value purchase, obtain proposals from **three firms**—ideally CPA Private, Resolve and either Joanna Boyd or You&Me—and compare the actual senior adviser, recent comparable transactions and acquisition methodology rather than relying only on advertised rankings.",
+              "annotations": [
+                {
+                  "title": "CPA Private | Luxury Home Buyer Service | Capital Property Advisory",
+                  "url": "https://cpadvisory.com.au/prestige",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Prestige Property Buyers Agent Perth-",
+                  "url": "https://resolvepropertysolutions.com.au/prestige-properties/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Home Buyer's Agent in Perth",
+                  "url": "https://www.claudetteswift.com.au/property-buyers-agent-perth/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Buyer's Agent Perth WA | Investment & Home Buying",
+                  "url": "https://youandmepps.com.au/buyers-agents-perth/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "12 Best Buyer's Agents in Australia (2026)",
+                  "url": "https://risingreturns.com.au/best-buyers-agents-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Real Estate Buyer's Agents Perth | Momentum Wealth",
+                  "url": "https://momentumwealth.com.au/services/buyers-agent-perth/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Best Buyers Agents in Perth, Western Australia",
+                  "url": "https://best10realestateagents.com.au/perth/best-buyers-agents-perth/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Buyers Agents in Perth (2026) - Ranked & Reviewed",
+                  "url": "https://whichrealestateagent.com.au/buyers-agent/best-buyers-agents-in-perth/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Buyers Agent Perth | Independent Buyers Advocate Perth",
+                  "url": "https://www.buyersadvocateperth.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Home - Joanna Boyd Buyers Advocate",
+                  "url": "https://joannaboyd.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

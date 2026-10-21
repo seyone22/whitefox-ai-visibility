@@ -1,0 +1,106 @@
+{
+  "slug": "adelaide",
+  "pk": "architectural_projects",
+  "plat": "perplexity",
+  "text": "Which prestige real estate agencies in Adelaide are the market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing?",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\adelaide__architectural_projects__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:19:10.755Z",
+  "cost": 0.006197,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 33,
+      "output_tokens": 564,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005597,
+      "datetime": "2026-10-21 05:19:10 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For Adelaide’s **luxury off-the-plan, penthouse and architectural project marketing**, the strongest shortlist is:\n\n- **Giordano & Partners** — the clearest prestige-specialist choice. It positions itself as a South Australian luxury-market leader, with international networks and experience marketing distinctive luxury properties.[2]\n- **Toop+Toop** — one of Adelaide’s best-known premium local brands, with strong eastern-suburbs, city-fringe and high-end residential reach. It is identified as a leading Adelaide boutique agency and appears in national ultra-prime agency listings.[3][4]\n- **Fox Real Estate** — particularly relevant for CBD and apartment projects; Fox’s Marina Ormsby marketed Adelaide’s Realm penthouse, including a project associated with Adelaide’s record off-the-plan apartment sale.[10]\n- **Julianne Price Real Estate (JPRE)** — a highly relevant project-sales specialist, explicitly handling off-the-plan developments from apartments through to luxury seaside penthouses.[7]\n- **Turner Prestige** — a dedicated high-end division backed by Turner’s long-established Adelaide operation, with a specialist focus on luxury and prestige property sales.[6]\n- **Ray White Adelaide City / Chris Xu** — a strong option for city-fringe penthouses, architect-designed townhouses and discreet premium sales; Chris Xu’s profile cites multi-million-dollar transactions and off-market placements.[1]\n\n### Best fit by assignment\n\n| Requirement | Strongest agencies to approach |\n|---|---|\n| Luxury apartment development launch | JPRE, Fox Real Estate, Toop+Toop |\n| High-end penthouse campaign | Giordano & Partners, Fox Real Estate, Ray White Adelaide City |\n| Architectural homes and design-led residences | Giordano & Partners, Toop+Toop, Ray White Adelaide City |\n| Full project-sales capability | JPRE, Fox Real Estate, Toop+Toop |\n| International or interstate buyer reach | Giordano & Partners, Toop+Toop, selected Ray White teams |\n| Discreet off-market prestige sales | Giordano & Partners, Ray White Adelaide City, Turner Prestige |\n\n**Practical recommendation:** For a developer, invite proposals from **JPRE, Giordano & Partners, Toop+Toop and Fox Real Estate** first. JPRE is the most directly aligned with off-the-plan project sales, while Giordano & Partners is strongest for a highly curated luxury positioning; Toop+Toop and Fox add established Adelaide reach and buyer databases. Ask each agency for comparable evidence covering **sell-through rate, achieved price versus launch price, time to contract, database depth, interstate/international campaign capability and the specific senior agent who will lead the campaign**.",
+              "annotations": [
+                {
+                  "title": "Chris Xu",
+                  "url": "https://www.raywhite.com/chris-xu/real-estate-agent/cx211116019",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Giordano & Partners: Luxury Real Estate",
+                  "url": "https://giordanopartners.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Real estate agencies in Australia: AI ranking",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top Real Estate Agencies Australia - UltraPrime",
+                  "url": "https://ultraprime.com.au/agencies",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Adelaide Luxury Real Estate: A Market Analysis for 2026 - Real Estate Sydney NSW | Kincade International Realty",
+                  "url": "https://www.kincadeintrealty.com.au/blog/adelaide-real-estate-guide/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Prestige Sales",
+                  "url": "https://www.turnerrealestate.com.au/prestige-sales/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "PROJECTS | Julianne Price Real Estate | Adelaide",
+                  "url": "https://www.jpre.net.au/projects",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "MARKETING YOUR PRESTIGE PROPERTY",
+                  "url": "https://danckert.com.au/article/marketing-your-prestige-property",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Prestige Property Management",
+                  "url": "https://www.turnerrealestate.com.au/property-management/prestige-property-management/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "April 2021: Adelaide's top luxury residences on the market right now",
+                  "url": "https://www.apartments.com.au/news/sa/april-2021-adelaides-top-luxury-residences-on-the-market-right-now",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

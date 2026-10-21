@@ -1,0 +1,404 @@
+{
+  "slug": "adelaide",
+  "pk": "luxury_agency",
+  "plat": "gemini",
+  "text": "Who are the best luxury real estate agencies in Adelaide? Give me a shortlist of specific prestige property agencies with reasons.",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\adelaide__luxury_agency__gemini.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:18:46.829Z",
+  "cost": 0,
+  "result": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "In Adelaide’s luxury market—characterised by grand heritage mansions, leafy eastern-suburb estates, beachside architectural homes, and Adelaide Hills retreats—the top end of real estate is driven by personal reputations, private buyer networks, and bespoke presentation.\n\nHere is a curated shortlist of the best luxury real estate agencies in Adelaide, along with what sets them apart:\n\n---\n\n### 1. **Williams Real Estate (Williams Luxury)**\n* **Key Figures:** Stephanie Williams & John Williams  \n* **Core Territory:** Unley Park, Medindie, Springfield, Walkerville, North Adelaide, and eastern suburbs.  \n* **Why them:**  \n  Williams Luxury is widely considered the heavyweight benchmark of Adelaide's ultra-luxury segment. Stephanie and John Williams were the first agents in South Australia to crack eight-figure ($10M+) residential transactions (such as the landmark *Elysian* estate in Medindie). \n* **The Edge:** Exceptional styling, editorial-grade photography/videography, and an unmatched black book of Adelaide’s most affluent families and interstate buyers. If a blue-chip trophy estate hits the market, Williams is almost certainly in the conversation.\n\n---\n\n### 2. **Fox Real Estate**\n* **Key Figures:** Andrew Fox  \n* **Core Territory:** North Adelaide, Medindie, Walkerville, and eastern foothill estates.  \n* **Why them:**  \n  Established in 2005 and headquartered in North Adelaide, Fox Real Estate is a boutique powerhouse synonymous with high-end architecture, significant return-verandah villas, and discreet high-value negotiations.\n* **The Edge:** Highly regarded for bespoke service and discretion. Andrew Fox maintains deep roots across Adelaide’s business community and medical/legal elite, frequently trading multi-million-dollar character homes off-market without ever needing a public billboard.\n\n---\n\n### 3. **Klemich Real Estate**\n* **Key Figures:** Matt Smith, Oren Klemich  \n* **Core Territory:** Toorak Gardens, Rose Park, Norwood, Burnside, Tusmore, and inner-south enclaves.  \n* **Why them:**  \n  Inducted into the REISA Hall of Fame, Klemich is Adelaide’s quintessential boutique agency. Matt Smith is a multi-time SA Salesperson of the Year, and founder Oren Klemich is one of the state's most respected property figures.\n* **The Edge:** Trusted advisory and longevity. Unlike agencies driven strictly by high volume, Klemich focuses heavily on relationship-driven, repeat-generation clients looking for heritage sandstone villas and family compounds across the eastern suburbs.\n\n---\n\n### 4. **Giordano & Partners (Luxury Real Estate Collection)**\n* **Key Figures:** Grant Giordano, Ross Smith  \n* **Core Territory:** Whole-of-state luxury: Adelaide Hills lifestyle estates, world-class Barossa/McLaren Vale vineyards, beachfront penthouses (Tennyson/Glenelg), and city mansions.  \n* **Why them:**  \n  Giordano & Partners operates purely in the luxury and super-prime tier. They are tailored specifically to high-net-worth (HNW) and ultra-high-net-worth (UHNW) clients, boasting international affiliations and marketing reach.\n* **The Edge:** Global perspective. They excel at marketing Adelaide's grandest lifestyle assets to expat capital, international buyers, and interstate downsizers looking for architectural showpieces or sprawling rural acreage.\n\n---\n\n### 5. **TOOP+TOOP Real Estate**\n* **Key Figures:** Anthony Toop, Genevieve Toop  \n* **Core Territory:** Inner-East, Burnside council area, Unley, and city fringe.  \n* **Why them:**  \n  An iconic, multi-award-winning South Australian brand, TOOP+TOOP has handled high-end sales for decades. They bridge the gap between boutique luxury representation and industry-leading technology.\n* **The Edge:** Proprietary systems like **ToopVault** (a private off-market matching platform). They have a vast pre-qualified database of buyers waiting to purchase off-market in premium eastern school zones, allowing sellers to test the waters quietly with maximum confidentiality.\n\n---\n\n### 6. **Harris Real Estate (Harris Prestige Division)**\n* **Key Figures:** Phil Harris, Michael Harris  \n* **Core Territory:** Eastern suburbs, prestige coastal strip (Somerton Park, Brighton, Henley Beach), and luxury modern developments.  \n* **Why them:**  \n  While Harris is one of SA’s largest independent firms, its dedicated **Harris Prestige** division specifically targets homes valued well above the median. \n* **The Edge:** Massive scale combined with sophisticated digital reach. If your luxury property suits a hyper-modern aesthetic, expansive digital campaign, and wide-reaching multi-channel media buy across Adelaide, Harris provides arguably the largest marketing megaphone in South Australia.\n\n---\n\n### Summary Recommendation:\n* For **record-setting mansions and grand heritage estates** in Medindie, Unley Park, or Springfield: Look first at **Williams Real Estate** or **Fox Real Estate**.\n* For **discreet, traditional Eastern Suburbs luxury** (villas, cottages, family estates in Burnside/Norwood): Consider **Klemich** or **TOOP+TOOP**.\n* For **trophy lifestyle properties, coastal retreats, or vineyard estates**: Consult **Giordano & Partners**.",
+              "thoughtSignature": "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"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=top+luxury+real+estate+agencies+Adelaide+prestige&client=app-vertex-grounding&safesearch=active\">top luxury real estate agencies Adelaide prestige</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Giordano+%26+Partners%22+Adelaide+luxury+real+estate&client=app-vertex-grounding&safesearch=active\">&quot;Giordano &amp; Partners&quot; Adelaide luxury real estate</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22Williams+Real+Estate%22+Adelaide+Stephanie+Williams+luxury&client=app-vertex-grounding&safesearch=active\">&quot;Williams Real Estate&quot; Adelaide Stephanie Williams luxury</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=best+prestige+real+estate+agents+Adelaide+Fox+Williams+Toop+Klemich&client=app-vertex-grounding&safesearch=active\">best prestige real estate agents Adelaide Fox Williams Toop Klemich</a>\n  </div>\n</div>"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFybjKVVv_jODxzQ_tECe0SLQfjfbVKX2q_sVt6wvWD-3v8fIxiRouqDkXi3f-YhjAFhBYH-P1BkcHfa5cQZzJFNXA8ka-Wp_ydw7WRW_2iPy1ecNM2sjeEC0bBU4F5KXvEr5fog1XrSN7zkXRghZzhlS_s",
+                "title": "williamsproperty.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfV9ark_u9CMUPZSvU9QZHaAkIMM21o5EPhX-7EqMjUC52-aTdbImLDkG4gfmsmVWisAJ0Bbo0jPKV17qDLSTSYX0ekBwgIkdLnRbjuyKN2PZqCLba7XdSshVpJUnASohNgGyYt3pCUvJ66kCd2N8eDxVp",
+                "title": "williamsproperty.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGW0TnmvVLQfgRELXk48CRRY-EyNfykdMcullV5ifezLWfdEDM8_L9wtsbflMe1AYmFZ8AviSFL3BO6bwdb7Q_ZMtIKStDpO-9td_iK1NeoLXdb2HXI3RzfIzP0hRktHL5f21Y0",
+                "title": "instagram.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEXaMDSe2RexmOaay5s-8ZkIftlibYjXqRKRxS556_IgWPB-AuRjs48JOI-01xg_Bk9E2t7osw8PMpZ2A3NppbqCRPJUTWGja3kEZABvRPxdg6bdTVmt03Cm5rtewzQF7yZeRjPgwcyY1xmFug-mQQn_3PEbgC7w==",
+                "title": "realcommercial.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnRRsJziRnZzUTbfc_lhwUhT6swkzwBEwTWNCQuc-JFd-E-7cXvNNGtEYVZBTeaX7BWcK8wxVjSBtPUvNcvlSgzle9yyrIZepD2jK2ghXWEgX4e6Dk8tGtJstLRouTtAIDV4sw1w1-BjqVXGsNGLtBmwWdEggqaQvk2j4PH0zCvd5jqnnBesCXtXtXSHcLmjfH5e-gfzl5Vy2gn8Dbc4tQ4N48T-acB8nR6Wl3G4xbbBlsM1mYbAE=",
+                "title": "real-locator.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeiaiYHwqykxqGiG67YbfDPzSnix2b6TwGGAe-cqLyHLlnjzT76eCdlsewnGHcstnsGwq5jMSYFAH2Gl61A2zKpEF_z0r1HlUPkOwenY_mmmY977MF7eg=",
+                "title": "foxrealestate.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWypqyuYQvR_j40JIZNLSzk_x5amRZ3JarwZ0_kF5pQbGkG0tZQxF_QMr2mT5lWJYti1SSWLYayry5xxhz9-L76GAr8rbutFcIUWtHtSyoE92pEFIL",
+                "title": "klemich.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEljgaxgnBGFu0n3OaoVeylmsF8F9WepqsceXZzykk8izo6TD5SUapoNtedy9FkjSGreCRp0cyt4zchkTt1ZrMCeOXjLgQK0uNhCOiunk50GolKMRkT1U5QNEYk5hNzEXdfygxI0L8nMOCJKUcuy0H00rk-Ldo8mF92d5Kh6Zu9RvsR0BruHDBfUCH5K-KQmYc=",
+                "title": "ratemyagent.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0OA2WvHcML0f1Adevrj-iiEuJdE-KD7qdKNu9DNNbLOwk0Bn2et0xU2tqYPl-ArL19uD97P58Jk1ve11co1GS3e2X1pZ9YP51r0W1Wg==",
+                "title": "klemich.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1EDtZpMy9viW3XrngN6tcjuR7HFoC-KgMrrXn2gJs1kN0bgM326HabcvlbxxVMNKmcsThNiF2qRvZegKFV2LsPuKmU9JmMbz9lFV9fEsW0dDA2L8gXDHi",
+                "title": "maptons.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4fl2bOKY8SlVuLMWXouc7V6xppM_48UYs9vx9hGNb7f_BkM8GsTf01zBvgWAhrvwoGk8YVfJ138oEYyqUtbuownfJRxGXHlvmoyplglVj95z44Q==",
+                "title": "giordanopartners.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiwK9MfJzirr8oj3T1Qos6wNRAAEVCvj32P06QwL57Vg3fDqlYKpQeM2PBELqqxIUAvPc0GAIpbkfVpfjDDTnpCY9yIENm-t5M_jSfMVBsqzroUg==",
+                "title": "giordanopartners.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLUrlehyiSgDljeDKMtL7GW8IOCko-gdTW0MM_N4j6ULXElp1yOfRc2r-l7GFX3wf3tOi9-nIIm2GKdXu1NLVRO4Lo7vJLpF2hC8mfsKe0Dz59D68D2AXvnEgSJTboPo6gXjql9kO7v5Cspl4XXf3ScJCUqkbxdQZWPO0ibbCHZ3w54AUh",
+                "title": "domain.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQs1UXePobUGwh4LCppSkbuOHdH62ehEtEzNrGhbz_ODQc4OgjuH8AbXWSw7p_o-IP8hHAUFutitDXWhWF_9QfSvYySrW_gHXSICMpHGDA9w1hGKmET0o1DZmR3l5uppFaKqRvE0XuNMMxv8Sthzx5LQ==",
+                "title": "allhomes.com.au"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYEddp8B8t5gsGX6Wp5qn9e-hPXU-VUJyALBJ2s8m655PdxZQAdDJdw-PHAG7x1dMMwRyj65WRm2YgPSDPlcvbmC-VMk95EJrj4TMsyU9JjnjqDtzEqQusHkg651diK05xA5cEhgesTr-G2iVnujmAJ0_SxA==",
+                "title": "theresearcher.com.au"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 450,
+                "endIndex": 501,
+                "text": "**Key Figures:** Stephanie Williams & John Williams"
+              },
+              "groundingChunkIndices": [
+                0,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 506,
+                "endIndex": 609,
+                "text": "**Core Territory:** Unley Park, Medindie, Springfield, Walkerville, North Adelaide, and eastern suburbs"
+              },
+              "groundingChunkIndices": [
+                0,
+                1,
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 732,
+                "endIndex": 907,
+                "text": "Stephanie and John Williams were the first agents in South Australia to crack eight-figure ($10M+) residential transactions (such as the landmark *Elysian* estate in Medindie)"
+              },
+              "groundingChunkIndices": [
+                3,
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 912,
+                "endIndex": 1076,
+                "text": "**The Edge:** Exceptional styling, editorial-grade photography/videography, and an unmatched black book of Adelaide’s most affluent families and interstate buyers"
+              },
+              "groundingChunkIndices": [
+                0,
+                3,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1078,
+                "endIndex": 1172,
+                "text": "If a blue-chip trophy estate hits the market, Williams is almost certainly in the conversation"
+              },
+              "groundingChunkIndices": [
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1209,
+                "endIndex": 1236,
+                "text": "**Key Figures:** Andrew Fox"
+              },
+              "groundingChunkIndices": [
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1352,
+                "endIndex": 1561,
+                "text": "Established in 2005 and headquartered in North Adelaide, Fox Real Estate is a boutique powerhouse synonymous with high-end architecture, significant return-verandah villas, and discreet high-value negotiations"
+              },
+              "groundingChunkIndices": [
+                5,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1631,
+                "endIndex": 1833,
+                "text": "Andrew Fox maintains deep roots across Adelaide’s business community and medical/legal elite, frequently trading multi-million-dollar character homes off-market without ever needing a public billboard"
+              },
+              "groundingChunkIndices": [
+                5,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1874,
+                "endIndex": 1915,
+                "text": "**Key Figures:** Matt Smith, Oren Klemich"
+              },
+              "groundingChunkIndices": [
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1920,
+                "endIndex": 2019,
+                "text": "**Core Territory:** Toorak Gardens, Rose Park, Norwood, Burnside, Tusmore, and inner-south enclaves"
+              },
+              "groundingChunkIndices": [
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2043,
+                "endIndex": 2135,
+                "text": "Inducted into the REISA Hall of Fame, Klemich is Adelaide’s quintessential boutique agency"
+              },
+              "groundingChunkIndices": [
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2137,
+                "endIndex": 2270,
+                "text": "Matt Smith is a multi-time SA Salesperson of the Year, and founder Oren Klemich is one of the state's most respected property figures"
+              },
+              "groundingChunkIndices": [
+                6,
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2320,
+                "endIndex": 2527,
+                "text": "Unlike agencies driven strictly by high volume, Klemich focuses heavily on relationship-driven, repeat-generation clients looking for heritage sandstone villas and family compounds across the eastern suburbs"
+              },
+              "groundingChunkIndices": [
+                8,
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2600,
+                "endIndex": 2643,
+                "text": "**Key Figures:** Grant Giordano, Ross Smith"
+              },
+              "groundingChunkIndices": [
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2648,
+                "endIndex": 2828,
+                "text": "**Core Territory:** Whole-of-state luxury: Adelaide Hills lifestyle estates, world-class Barossa/McLaren Vale vineyards, beachfront penthouses (Tennyson/Glenelg), and city mansions"
+              },
+              "groundingChunkIndices": [
+                10,
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2852,
+                "endIndex": 2922,
+                "text": "Giordano & Partners operates purely in the luxury and super-prime tier"
+              },
+              "groundingChunkIndices": [
+                10,
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2924,
+                "endIndex": 3075,
+                "text": "They are tailored specifically to high-net-worth (HNW) and ultra-high-net-worth (UHNW) clients, boasting international affiliations and marketing reach"
+              },
+              "groundingChunkIndices": [
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3113,
+                "endIndex": 3303,
+                "text": "They excel at marketing Adelaide's grandest lifestyle assets to expat capital, international buyers, and interstate downsizers looking for architectural showpieces or sprawling rural acreage"
+              },
+              "groundingChunkIndices": [
+                12
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 3396,
+                "endIndex": 3473,
+                "text": "**Core Territory:** Inner-East, Burnside council area, Unley, and city fringe"
+              },
+              "groundingChunkIndices": [
+                13
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4248,
+                "endIndex": 4403,
+                "text": "While Harris is one of SA’s largest independent firms, its dedicated **Harris Prestige** division specifically targets homes valued well above the median"
+              },
+              "groundingChunkIndices": [
+                14,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4735,
+                "endIndex": 4873,
+                "text": "For **record-setting mansions and grand heritage estates** in Medindie, Unley Park, or Springfield: Look first at **Williams Real Estate**"
+              },
+              "groundingChunkIndices": [
+                1,
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4735,
+                "endIndex": 4896,
+                "text": "For **record-setting mansions and grand heritage estates** in Medindie, Unley Park, or Springfield: Look first at **Williams Real Estate** or **Fox Real Estate**"
+              },
+              "groundingChunkIndices": [
+                5,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 4900,
+                "endIndex": 5029,
+                "text": "For **discreet, traditional Eastern Suburbs luxury** (villas, cottages, family estates in Burnside/Norwood): Consider **Klemich**"
+              },
+              "groundingChunkIndices": [
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 5050,
+                "endIndex": 5157,
+                "text": "For **trophy lifestyle properties, coastal retreats, or vineyard estates**: Consult **Giordano & Partners**"
+              },
+              "groundingChunkIndices": [
+                10,
+                11
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "top luxury real estate agencies Adelaide prestige",
+            "\"Giordano & Partners\" Adelaide luxury real estate",
+            "\"Williams Real Estate\" Adelaide Stephanie Williams luxury",
+            "best prestige real estate agents Adelaide Fox Williams Toop Klemich"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 823,
+      "candidatesTokenCount": 1416,
+      "totalTokenCount": 3813,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 823
+        }
+      ],
+      "thoughtsTokenCount": 1574,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-3.8-flash",
+    "responseId": "GUvYau2tMYKiqfkP06SD-As"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "goldcoast",
+  "pk": "luxury_agency",
+  "plat": "perplexity",
+  "text": "Who are the best luxury real estate agencies in Gold Coast? Give me a shortlist of specific prestige property agencies with reasons.",
+  "loc": 1000665,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\goldcoast__luxury_agency__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:15:50.487Z",
+  "cost": 0.006305,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 32,
+      "output_tokens": 673,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005705,
+      "datetime": "2026-10-21 05:15:50 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "The strongest shortlist for **luxury and prestige property on the Gold Coast** is **Kollosche, Lucy Cole Prestige, Tomain Residences, North South Real Estate, and Amir Prestige Group**. The best choice depends on whether you prioritise trophy-home reach, a boutique principal-led service, beachfront expertise, or developer/project marketing.\n\n- **Kollosche — best overall for trophy homes and high-net-worth reach.**  \n  A leading Gold Coast prestige agency with coverage from Sovereign Islands to Coolangatta and the hinterland. Its key advantages are a large high-net-worth client network, specialist residential, commercial and new-project divisions, and a reported $9 billion-plus in settled top-end sales under Michael Kollosche’s leadership.[4]\n\n- **Lucy Cole Prestige Properties — best for established beachfront, waterfront and penthouse sales.**  \n  Founded in 2000, the boutique agency focuses on luxury beachfront and waterfront homes, apartments and penthouses. It has more than 25 years of Gold Coast prestige-market experience and a strong local brand built around premium results and personalised service.[8] Independent review data also records hundreds of verified reviews and identifies Lucy Cole as a three-time REIQ Salesperson of the Year.[7]\n\n- **Tomain Residences — best for highly personalised, principal-led service.**  \n  This boutique agency specialises specifically in Gold Coast prestige property. Principal Ross Tomain brings more than 20 years’ experience in property development, building, investment and prestige sales, which is particularly valuable when marketing architect-designed homes, development-quality assets or properties requiring sophisticated positioning.[1]\n\n- **North South Real Estate — best for discreet sales, buyer advocacy and unusual high-end assets.**  \n  NSRE operates across the Brisbane–Gold Coast–Byron Bay corridor and handles prestige apartments, trophy homes and development opportunities. Its differentiator is principal involvement from appraisal to settlement, with the option to run a quieter off-market campaign when discretion is more important than broad public exposure.[6]\n\n- **Amir Prestige Group — worth considering for very high-value transactions and international-facing marketing.**  \n  Industry listings identify Amir Prestige as a Gold Coast luxury agency with multiple sales above $20 million, alongside residential and commercial expertise.[9] It may suit owners seeking a sizeable luxury brand and access to affluent or international buyers, although its recent performance and specific agent track record should be checked before appointment.\n\n## Practical recommendation\n\n- **Choose Kollosche** for maximum prestige-market scale, database reach and a broad luxury-property platform.\n- **Choose Lucy Cole Prestige** for a recognised Gold Coast luxury brand, especially in beachfront and waterfront suburbs.\n- **Choose Tomain Residences** if you want direct access to an experienced principal and a tailored campaign.\n- **Choose NSRE** for discretion, buyer representation or a complex development/trophy-property brief.\n- **Shortlist Amir Prestige** when international exposure or a very high-value sale is central to the strategy.\n\nBefore signing, ask each agency for three **recent comparable sales**, the proposed marketing budget, expected buyer database reach, the named listing agent’s personal results, and whether the campaign will be public, off-market or hybrid.",
+              "annotations": [
+                {
+                  "title": "Tomain Residences",
+                  "url": "https://www.tomain.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Agency: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/the-agency/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top Real Estate Agencies Australia - UltraPrime",
+                  "url": "https://ultraprime.com.au/agencies",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Gold Coast Luxury Real Estate Leaders | About Kollosche",
+                  "url": "https://www.kollosche.com.au/about-us/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Woodards in real estate companies: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/woodards",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Luxury Real Estate Agent | Brisbane, Gold Coast & Byron Bay",
+                  "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Lucy Cole Prestige Properties - Verified Reviews & Real ...",
+                  "url": "https://www.ratemyagent.com.au/real-estate-agency/lucy-cole-prestige-properties-ai490/sales/overview",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Lucy Cole Prestige Properties",
+                  "url": "https://www.lucycole.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 100 Luxury Real Estate Companies in Australia (2026)",
+                  "url": "https://ensun.io/search/luxury-real-estate/australia",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Specialist Knowledge, Superior Service.",
+                  "url": "https://www.crownrealty.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

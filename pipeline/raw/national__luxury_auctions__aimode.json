@@ -1,0 +1,177 @@
+{
+  "slug": "national",
+  "pk": "luxury_auctions",
+  "plat": "aimode",
+  "text": "Who are the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in Australia?",
+  "loc": 2036,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\national__luxury_auctions__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:21:22.853Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in Australia?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 2036,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Who%20are%20the%20leading%20luxury%20real%20estate%20agencies%20and%20top-performing%20auctioneers%20for%20prestige%20residential%20properties%20in%20Australia%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCd_Fh2cH_SsrEVITW5WhZ4JT",
+      "datetime": "2026-10-21 05:21:22 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "Australia's leading luxury real estate agencies and high-end specialists include premier international networks and dominant local independents like `Sotheby's International Realty – Australia, Kay & Burton, Marshall White, and Ray White Prestige` . Elite high-end auctioneers such as [Marcus Chiminello](https://agent.domain.com.au/advice/inside-the-playbook-of-australias-top-prestige-agents-1408401/) (Marshall White) and specialized auction houses drive record-breaking prestige residential outcomes.[[1]](https://agent.domain.com.au/advice/inside-the-playbook-of-australias-top-prestige-agents-1408401/)\n\n### Leading Luxury Real Estate Agencies\n\n- Sotheby's International Realty – Australia : Global powerhouse handling multi-million dollar trophy coastal and urban estates.\n- Kay & Burton : Elite Melbourne-based agency renowned for high-end heritage and contemporary luxury properties in Victoria.\n- Marshall White : Dominant force in Melbourne’s prestige Stonnington and bayside markets.\n- Ray White Prestige : Specialized luxury division of the broader Ray White network, featuring high-performing arms like Matt Lancashire's Ray White Collective Luxury in Brisbane.\n- Knight Frank Prestige Residential : International advisory and luxury property arm with an extensive high-net-worth client base.\n- Abercrombys Real Estate : Boutique high-end firm managing luxury residential transactions across Melbourne and expanding interstate.[[1]](https://luxurylist.com.au/agencies)[[2]](https://www.mordorintelligence.com/industry-reports/australia-luxury-residential-real-estate-market/companies)\n\n### Top-Performing Prestige Agents and Auctioneers\n\n- Marcus Chiminello (Marshall White): Renowned Melbourne director who frequently sets state residential records for high-end properties.\n- Matt Lancashire (Ray White Collective Luxury): Leading Brisbane luxury specialist managing multi-million dollar transactions.\n- Gavin Rubinstein (TRG): High-profile Sydney prestige specialist handling landmark luxury penthouses and trophy homes.\n- AuctionWORKS and leading corporate auctioneers: High-volume, specialized rooms managing competitive high-end bidding sequences in major metro markets.[[1]](https://www.localsearch.com.au/find/auctioneers/sydney-nsw)[[2]](https://agent.domain.com.au/advice/inside-the-playbook-of-australias-top-prestige-agents-1408401/)[[3]](https://luxurylist.com.au/agencies)\n\nIf you are looking to buy, sell, or appraise a high-value property, please let me know **which city or region** you are focusing on so I can provide **tailored agency recommendations**.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Australia's leading luxury real estate agencies and high-end specialists include premier international networks and dominant local independents like Sotheby's International Realty – Australia, Kay & Burton, Marshall White, and Ray White Prestige. Elite high-end auctioneers such as Marcus Chiminello (Marshall White) and specialized auction houses drive record-breaking prestige residential outcomes.",
+              "markdown": "Australia's leading luxury real estate agencies and high-end specialists include premier international networks and dominant local independents like `Sotheby's International Realty – Australia, Kay & Burton, Marshall White, and Ray White Prestige` . Elite high-end auctioneers such as [Marcus Chiminello](https://agent.domain.com.au/advice/inside-the-playbook-of-australias-top-prestige-agents-1408401/) (Marshall White) and specialized auction houses drive record-breaking prestige residential outcomes.[[1]](https://agent.domain.com.au/advice/inside-the-playbook-of-australias-top-prestige-agents-1408401/)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Marcus Chiminello",
+                  "description": null,
+                  "url": "https://agent.domain.com.au/advice/inside-the-playbook-of-australias-top-prestige-agents-1408401/",
+                  "domain": "agent.domain.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Domain Marketing Hub",
+                  "domain": "agent.domain.com.au",
+                  "url": "https://agent.domain.com.au/advice/inside-the-playbook-of-australias-top-prestige-agents-1408401/",
+                  "title": "Inside the playbook of Australia's top prestige agents",
+                  "text": "Marcus Chiminello is known for selling prestige properties, including setting two then-state residential property records in a wee..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Leading Luxury Real Estate Agencies",
+              "text": "Sotheby's International Realty – Australia : Global powerhouse handling multi-million dollar trophy coastal and urban estates. Sotheby's International Realty – Australia Kay & Burton : Elite Melbourne-based agency renowned for high-end heritage and contemporary luxury properties in Victoria. Kay & Burton Marshall White : Dominant force in Melbourne’s prestige Stonnington and bayside markets. Marshall White Ray White Prestige : Specialized luxury division of the broader Ray White network, featuring high-performing arms like Matt Lancashire's Ray White Collective Luxury in Brisbane. Ray White Prestige Ray White Collective Luxury Knight Frank Prestige Residential : International advisory and luxury property arm with an extensive high-net-worth client base. Knight Frank Prestige Residential Abercrombys Real Estate : Boutique high-end firm managing luxury residential transactions across Melbourne and expanding interstate. Abercrombys Real Estate",
+              "markdown": "- Sotheby's International Realty – Australia : Global powerhouse handling multi-million dollar trophy coastal and urban estates.\n- Kay & Burton : Elite Melbourne-based agency renowned for high-end heritage and contemporary luxury properties in Victoria.\n- Marshall White : Dominant force in Melbourne’s prestige Stonnington and bayside markets.\n- Ray White Prestige : Specialized luxury division of the broader Ray White network, featuring high-performing arms like Matt Lancashire's Ray White Collective Luxury in Brisbane.\n- Knight Frank Prestige Residential : International advisory and luxury property arm with an extensive high-net-worth client base.\n- Abercrombys Real Estate : Boutique high-end firm managing luxury residential transactions across Melbourne and expanding interstate.[[1]](https://luxurylist.com.au/agencies)[[2]](https://www.mordorintelligence.com/industry-reports/australia-luxury-residential-real-estate-market/companies)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Luxury List |",
+                  "domain": "luxurylist.com.au",
+                  "url": "https://luxurylist.com.au/agencies",
+                  "title": "Agencies - Luxury List |",
+                  "text": "Ray White Collective Luxury, a new brand to position himself as Brisbane's first and only real estate agency dedicated exclusively..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Mordor Intelligence",
+                  "domain": "www.mordorintelligence.com",
+                  "url": "https://www.mordorintelligence.com/industry-reports/australia-luxury-residential-real-estate-market/companies",
+                  "title": "Top Luxury Residential Real Estate Companies in Australia",
+                  "text": "List of Luxury Residential Real Estate Companies in Australia. Prestige Residential * Ray White Prestige * Sotheby's International..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Top-Performing Prestige Agents and Auctioneers",
+              "text": "Marcus Chiminello (Marshall White): Renowned Melbourne director who frequently sets state residential records for high-end properties. Marcus Chiminello (Marshall White): Renowned Melbourne director who frequently sets state residential records for high-end properties Matt Lancashire (Ray White Collective Luxury): Leading Brisbane luxury specialist managing multi-million dollar transactions. Matt Lancashire (Ray White Collective Luxury): Leading Brisbane luxury specialist Gavin Rubinstein (TRG): High-profile Sydney prestige specialist handling landmark luxury penthouses and trophy homes. Gavin Rubinstein (TRG): High-profile Sydney prestige specialist handling landmark luxury penthouses and trophy homes Gavin Rubinstein AuctionWORKS and leading corporate auctioneers: High-volume, specialized rooms managing competitive high-end bidding sequences in major metro markets.",
+              "markdown": "- Marcus Chiminello (Marshall White): Renowned Melbourne director who frequently sets state residential records for high-end properties.\n- Matt Lancashire (Ray White Collective Luxury): Leading Brisbane luxury specialist managing multi-million dollar transactions.\n- Gavin Rubinstein (TRG): High-profile Sydney prestige specialist handling landmark luxury penthouses and trophy homes.\n- AuctionWORKS and leading corporate auctioneers: High-volume, specialized rooms managing competitive high-end bidding sequences in major metro markets.[[1]](https://www.localsearch.com.au/find/auctioneers/sydney-nsw)[[2]](https://agent.domain.com.au/advice/inside-the-playbook-of-australias-top-prestige-agents-1408401/)[[3]](https://luxurylist.com.au/agencies)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "www.localsearch.com.au",
+                  "domain": "www.localsearch.com.au",
+                  "url": "https://www.localsearch.com.au/find/auctioneers/sydney-nsw",
+                  "title": "10 BEST Auctioneers in Sydney NSW | Localsearch",
+                  "text": "Auctioneers and Real Estate Agencies in Sydney: auctionWORKS (onsite/in-room auctions, Corporate/Rural, Services span residential/"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Domain Marketing Hub",
+                  "domain": "agent.domain.com.au",
+                  "url": "https://agent.domain.com.au/advice/inside-the-playbook-of-australias-top-prestige-agents-1408401/",
+                  "title": "Inside the playbook of Australia's top prestige agents",
+                  "text": "Marcus Chiminello is known for selling prestige properties, including setting two then-state residential property records in a week in August 2022."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Luxury List |",
+                  "domain": "luxurylist.com.au",
+                  "url": "https://luxurylist.com.au/agencies",
+                  "title": "Agencies - Luxury List |",
+                  "text": "Renowned luxury property specialist Matt Lancashire. Ray White Collective Luxury, Brisbane's first and only real estate agency dedicated exclusively to homes value..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you are looking to buy, sell, or appraise a high-value property, please let me know which city or region you are focusing on so I can provide tailored agency recommendations.",
+              "markdown": "If you are looking to buy, sell, or appraise a high-value property, please let me know **which city or region** you are focusing on so I can provide **tailored agency recommendations**.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Luxury List |",
+              "domain": "luxurylist.com.au",
+              "url": "https://luxurylist.com.au/agencies",
+              "title": "Agencies - Luxury List |",
+              "text": "Renowned luxury property specialist Matt Lancashire. Ray White Collective Luxury, Brisbane's first and only real estate agency dedicated exclusively to homes value..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Domain Marketing Hub",
+              "domain": "agent.domain.com.au",
+              "url": "https://agent.domain.com.au/advice/inside-the-playbook-of-australias-top-prestige-agents-1408401/",
+              "title": "Inside the playbook of Australia's top prestige agents",
+              "text": "Marcus Chiminello is known for selling prestige properties, including setting two then-state residential property records in a week in August 2022."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Mordor Intelligence",
+              "domain": "www.mordorintelligence.com",
+              "url": "https://www.mordorintelligence.com/industry-reports/australia-luxury-residential-real-estate-market/companies",
+              "title": "Top Luxury Residential Real Estate Companies in Australia",
+              "text": "List of Luxury Residential Real Estate Companies in Australia. Prestige Residential * Ray White Prestige * Sotheby's International Realty – Australia"
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

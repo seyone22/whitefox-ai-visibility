@@ -1,0 +1,106 @@
+{
+  "slug": "peninsula",
+  "pk": "luxury_agency",
+  "plat": "perplexity",
+  "text": "Who are the best luxury real estate agencies in Mornington Peninsula? Give me a shortlist of specific prestige property agencies with reasons.",
+  "loc": 9056918,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\peninsula__luxury_agency__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:19:23.793Z",
+  "cost": 0.006113,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 33,
+      "output_tokens": 480,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005513,
+      "datetime": "2026-10-21 05:19:23 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For a **luxury or prestige property on the Mornington Peninsula**, the strongest shortlist is:\n\n- **Marshall White Mornington Peninsula** — The clearest choice for high-end volume and established prestige positioning. It reportedly held **16% of Mornington’s sales market over the past 12 months**, ahead of other agencies, giving it strong local reach and a substantial buyer database.[1]\n- **Danckert Real Estate** — A highly credible independent luxury specialist based in Mount Martha. Danckert focuses specifically on premium and lifestyle homes, promotes tailored campaigns, and uses international luxury-property channels to reach overseas buyers.[2][3]\n- **Peninsula Sotheby’s International Realty** — Best suited to globally marketed trophy homes, waterfront estates and architect-designed properties. Its Sotheby’s affiliation provides an internationally recognised luxury brand, particularly valuable when targeting interstate or overseas buyers.[4]\n- **Belle Property Mornington** — A strong option for design-led, coastal and lifestyle properties. Belle combines a premium brand with local market presence; its Mornington office also has a substantial review history and strong client ratings.[5]\n- **Buxton** — Worth considering for sellers wanting a large Victorian network combined with Peninsula expertise. It is widely recognised as a respected Victorian premium agency and has a particularly strong presence in the Mornington Peninsula market.[6]\n\n## Best fit by property type\n\n| Property or objective | Best shortlist |\n|---|---|\n| Multi-million-dollar home or trophy estate | Marshall White, Peninsula Sotheby’s |\n| Mount Martha or coastal lifestyle property | Danckert, Marshall White, Belle Property |\n| International buyer exposure | Peninsula Sotheby’s, Danckert |\n| Strong local buyer database and auction capability | Marshall White, Buxton |\n| Boutique, highly tailored campaign | Danckert |\n| Premium presentation with broader network support | Belle Property, Buxton |\n\n**Overall recommendation:** interview **Marshall White, Danckert and Peninsula Sotheby’s** first. Marshall White is the strongest choice for local prestige reach, Danckert for bespoke Peninsula expertise, and Sotheby’s for international positioning. Ask each agency for recent comparable sales, the proposed marketing plan, the actual lead agent who will handle the campaign, and evidence of results for properties in the same price bracket.",
+              "annotations": [
+                {
+                  "title": "Jellis Craig: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/jellis-craig",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Danckert Real Estate: Mornington Peninsula Real Estate Agents",
+                  "url": "https://danckert.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "MARKETING YOUR PRESTIGE PROPERTY",
+                  "url": "https://danckert.com.au/article/marketing-your-prestige-property",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Peninsula Sotheby's International Realty: luxury real estate agency ...",
+                  "url": "https://properties.lefigaro.com/agencies/luxury-real+estate-properties+for+sale-australia/87703/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "McNeill Real Estate: Mornington Real Estate Agents ...",
+                  "url": "https://www.mcneillrealestate.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Find Real Estate Agents & Agencies in Mornington - Verified Reviews",
+                  "url": "https://www.ratemyagent.com.au/real-estate-profile/sales/mornington-vic-3931",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "FIRST CLASS PROPERTY MANAGEMENT - Danckert Real Estate",
+                  "url": "https://danckert.com.au/article/first-class-property-management",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Find Trusted Property Management Agencies in Mornington",
+                  "url": "https://www.ratemyagent.com.au/real-estate-profile/leasing/mornington-vic-3931",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "One Agency Peninsula | Real Estate Agency in Mornington, VIC 3931",
+                  "url": "https://view.com.au/real-estate-agency/one-agency-mornington-26900/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Coastal Agents | Premium Properties in the Mornington Peninsula ...",
+                  "url": "https://coastalagents.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

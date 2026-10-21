@@ -1,0 +1,199 @@
+{
+  "slug": "melbourne",
+  "pk": "prestige_selling",
+  "plat": "claude",
+  "text": "I am selling a $10M luxury residential property in Melbourne. Which prestige real estate agencies have the strongest track record for high-end home sales?",
+  "loc": 1000567,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\melbourne__prestige_selling__claude.json",
+  "at": "2026-10-21T05:10:40.698Z",
+  "cost": 0.057436,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10252,
+      "output_tokens": 1072,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.056836,
+      "datetime": "2026-10-21 05:10:40 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Great question! Selling a $10M+ property in Melbourne requires a specialist prestige agency with a deep buyer network, strong suburb expertise, and a proven track record at that price point. Here are the top agencies to consider:\n\n---\n\n### 🏆 1. **Kay & Burton**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Kay & Burton has been a trusted advisor to the most astute private clients, families, and institutions since 1938, occupying a rarefied position within the Australian property landscape. For more than eight decades, their specialist teams have embraced the opportunity to create enduring value through specialist knowledge, impeccable service, and trustworthy advice.",
+              "annotations": [
+                {
+                  "title": "Luxury real estate Melbourne",
+                  "url": "https://www.kayburton.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are widely regarded as Melbourne's premier prestige agency and are the go-to for Toorak, South Yarra, Brighton, and the Mornington Peninsula.\n\n---\n\n### 🏆 2. **Marshall White**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Marshall White are the leading prestige real estate agents for luxury properties in Melbourne.",
+              "annotations": [
+                {
+                  "title": "Best Luxury Real Estate Agents in Melbourne",
+                  "url": "https://www.marshallwhite.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "With 60 years of excellence, they have a strong track record of selling high-end homes across Melbourne's most desirable suburbs.",
+              "annotations": [
+                {
+                  "title": "Best Luxury Real Estate Agents in Melbourne",
+                  "url": "https://router-vite-test.onrender.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are particularly dominant in the inner-east, including Toorak, Hawthorn, Kew, and Brighton.\n\n---\n\n### 🏆 3. **Jellis Craig**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Jellis Craig is one of Melbourne's most respected prestige-focused real estate agencies, specialising in high-demand inner-city and eastern suburbs, and has built trust with premium buyers and sellers, especially in areas of strong capital growth and tightly held family homes.",
+              "annotations": [
+                {
+                  "title": "Top 10 Real Estate Companies in Melbourne 2026 Guide",
+                  "url": "https://www.starinvestment.com.au/top-real-estate-companies-melbourne/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their core footprint includes suburbs such as Hawthorn, Kew, Fitzroy, Brunswick, Richmond, Brighton, and South Yarra — areas of high competition and strong buyer demand.",
+              "annotations": [
+                {
+                  "title": "Top 10 Real Estate Companies in Melbourne 2026 Guide",
+                  "url": "https://www.starinvestment.com.au/top-real-estate-companies-melbourne/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 🏆 4. **Private Property Global (Forbes Global Properties)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Private Property Global was established as an international bespoke advisory service for owners and buyers of trophy homes and homes of historical significance and architectural merit, utilising Forbes Global Properties infrastructure and services. The team has 20 years of record-setting results, recalibrating the Australian price benchmark 4 times and achieving the highest annual Australian sale in 9 of those years.",
+              "annotations": [
+                {
+                  "title": "Private Property Global, Luxury real estate agency in Sydney, Melbourne and Gold Coast, Australia",
+                  "url": "https://www.forbesglobalproperties.com/members/private-property-global",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They are the only Australian-based residential real estate agency that specialises in the sale of property above $5,000,000 without geographical boundaries",
+              "annotations": [
+                {
+                  "title": "Private Property Global, Luxury real estate agency in Sydney, Melbourne and Gold Coast, Australia",
+                  "url": "https://www.forbesglobalproperties.com/members/private-property-global",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — making them ideal for a $10M listing.\n\n---\n\n### 🌟 Key Market Context\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Toorak continues to dominate as Melbourne's premier prestige suburb in 2025, closely followed by bayside Brighton, Kew, Hawthorn, Malvern, and South Yarra.",
+              "annotations": [
+                {
+                  "title": "Melbourne Prestige Property Market Trends & Outlook",
+                  "url": "https://www.propertybuyer.com.au/blog/melbourne-prestige-property-market-trends-outlook-propertybuyer",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "In 2025, Melbourne's prestige suburbs recorded 6.8% annual growth, 2% above the broader metro market.",
+              "annotations": [
+                {
+                  "title": "Top 10 Real Estate Companies in Melbourne 2026 Guide",
+                  "url": "https://www.starinvestment.com.au/top-real-estate-companies-melbourne/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 💡 Tips for Choosing the Right Agency:\n- **Match the agency to your suburb** — each agency has strongholds in specific areas (e.g., Kay & Burton in Toorak, Jellis Craig in Kew/Hawthorn).\n- **Ask for comparable sales** — request a list of their recent $8M–$15M+ transactions.\n- **Consider off-market capabilities** — at $10M+, many buyers prefer discretion, so an agency with a strong private buyer database is essential.\n- **Evaluate their international reach** — agencies like Private Property Global (via Forbes) can tap into overseas UHNW buyers, which can be critical at this price point.\n\nWould you like more detail on any of these agencies, or advice on how to structure your sales campaign?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best prestige luxury real estate agencies Melbourne high-end property sales 2025",
+        "top Melbourne real estate agents $10 million luxury residential property 2025"
+      ]
+    }
+  ]
+}

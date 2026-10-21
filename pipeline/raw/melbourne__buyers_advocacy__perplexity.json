@@ -1,0 +1,105 @@
+{
+  "slug": "melbourne",
+  "pk": "buyers_advocacy",
+  "plat": "perplexity",
+  "text": "Which luxury real estate agencies or buyers advocates in Melbourne offer the best buyers advocacy and acquisition advisory for prestige homes?",
+  "loc": 1000567,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\melbourne__buyers_advocacy__perplexity.json",
+  "at": "2026-10-21T05:10:48.191Z",
+  "cost": 0.006423,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 29,
+      "output_tokens": 794,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005823,
+      "datetime": "2026-10-21 05:10:48 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For Melbourne prestige homes, the strongest shortlist is **LP Advisory, Buyer’s Advocate, Greville Pabst Property Advisory, Buyer’s Advocate Prestige, Ni Advocacy, and Propertybuyer Melbourne**. The best choice depends on whether you prioritise discreet off-market sourcing, valuation-led advice, period homes, or a larger buyer-agent network.\n\n## Recommended shortlist\n\n| Firm | Best suited to | Notable strengths |\n|---|---|---|\n| **LP Advisory** | Discreet luxury-home acquisition | Boutique, buyer-only representation; off-market and “silent” listing access; led by professionals with selling-agent and auction experience; private negotiation and auction bidding.[2] |\n| **Buyer’s Advocate** | Established inner-east prestige expertise | More than 32 years’ Melbourne experience; detailed property assessment; comparable-sales analysis; auction and private-negotiation strategy.[1] |\n| **Greville Pabst Property Advisory** | High-value homes across Melbourne and lifestyle regions | Prestige-market relationships, independent valuation expertise, off-market sourcing, inspections, due diligence, building and pest coordination, and negotiation.[5] |\n| **Buyer’s Advocate Prestige** | Inner Melbourne, Boroondara, Stonnington, Bayside and Port Phillip | Independent, tailored service covering sourcing, evaluation, negotiation, legal coordination, and due diligence.[6] |\n| **Ni Advocacy** | Toorak and ultra-prestige acquisitions | Focus on multi-million-dollar homes, grand estates, penthouses and off-market opportunities; claims formal valuation analysis through Certified Practising Valuer Kevin Ni.[7][10] |\n| **Propertybuyer Melbourne** | Buyers wanting a larger platform or interstate support | National network, experience with domestic and international clients, prestige off-market opportunities, auctions and broader relocation support.[8] |\n| **Urban Buyer** | Personalised representation for luxury homes and investments | Acquisition advice covering identification, assessment, negotiation and securing properties, including off-market residences.[9] |\n\n## Best by acquisition requirement\n\n- **Best boutique luxury advocate:** LP Advisory.\n- **Best long-established Melbourne specialist:** Buyer’s Advocate.\n- **Best valuation-led approach:** Ni Advocacy, provided its valuation methodology and independence are confirmed for the specific property.[10]\n- **Best broad prestige-market coverage:** Greville Pabst Property Advisory.\n- **Best inner-east and bayside focus:** Buyer’s Advocate Prestige.\n- **Best larger network and relocation capability:** Propertybuyer Melbourne.\n\n## What to verify before appointing one\n\n1. **Buyer-only representation:** Confirm the firm does not receive seller-side commissions or act for the vendor in the same transaction.\n2. **Off-market evidence:** Ask how many comparable off-market acquisitions it completed recently—not just how many contacts are in its database.\n3. **Valuation process:** Request the evidence behind price advice, including comparable sales, adjustments, and whether an independent Certified Practising Valuer is involved.\n4. **Conflict checks:** Obtain written confirmation that the advocate has no financial or agency relationship with the selling agent or vendor.\n5. **Fee structure:** Compare fixed fees, percentage-based fees, success fees, auction-only fees, and any inspection or due-diligence charges.\n6. **Relevant track record:** Ask for anonymised examples in your target suburbs and price bracket, such as Toorak, Brighton, Canterbury, South Yarra, Kew or bayside locations.\n7. **Execution capability:** Confirm who personally handles inspections, negotiations, auction bidding, contract review and settlement coordination.\n\nFor a tightly held **Toorak, Brighton, Canterbury or inner-east estate**, the most logical first conversations would be **LP Advisory, Buyer’s Advocate, Greville Pabst and Ni Advocacy**. For broader search coverage or interstate coordination, add **Propertybuyer Melbourne**.",
+              "annotations": [
+                {
+                  "title": "Luxury Buyers Agent in Melbourne | Book a Consultation",
+                  "url": "https://www.buyersadvocate.com.au/our-clients/luxury-buyers-agent-melbourne/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Luxury Buyers Agent Melbourne",
+                  "url": "https://lpadvisory.com.au/luxury-homes/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Buyers Agents in Melbourne (2026) – Ranked & Reviewed",
+                  "url": "https://whichrealestateagent.com.au/buyers-agent/best-buyers-agents-in-melbourne/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Buyers Agent CBD - Prestige Apartments & Homes",
+                  "url": "https://niadvocacy.com.au/buying-locations/melbourne-cbd/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Luxury Home Buyers Agent Melbourne | Residential Vendor Advocate",
+                  "url": "https://grevillepabst.com.au/residential-buyers-agent",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Buyers Advocate Melbourne",
+                  "url": "https://www.buyersadvocateprestige.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Buyers Agent Toorak - Expert Prestige Melbourne Advocate",
+                  "url": "https://niadvocacy.com.au/buying-locations/toorak/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Buyers Agent Melbourne | Property Buyers Advocate in ...",
+                  "url": "https://www.propertybuyer.com.au/location/melbourne",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Melbourne",
+                  "url": "https://urbanbuyer.com.au/buyers-agent-melbourne/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Luxury Property Buyer - Exclusive Off Market Homes",
+                  "url": "https://niadvocacy.com.au/prestige-luxury/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

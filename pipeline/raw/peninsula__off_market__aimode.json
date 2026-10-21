@@ -1,0 +1,229 @@
+{
+  "slug": "peninsula",
+  "pk": "off_market",
+  "plat": "aimode",
+  "text": "Which luxury real estate agents and agencies in Mornington Peninsula specialise in confidential off-market prestige property sales and high-net-worth buyer networks?",
+  "loc": 9056918,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\peninsula__off_market__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:19:59.198Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which luxury real estate agents and agencies in Mornington Peninsula specialise in confidential off-market prestige property sales and high-net-worth buyer networks?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 9056918,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20luxury%20real%20estate%20agents%20and%20agencies%20in%20Mornington%20Peninsula%20specialise%20in%20confidential%20off-market%20prestige%20property%20sales%20and%20high-net-worth%20buyer%20networks%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCQOoQ4mOxdVqEZXT2c1Pc_Yg",
+      "datetime": "2026-10-21 05:19:58 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "Top-tier agencies on the Mornington Peninsula handling confidential, off-market prestige transactions include [Kay & Burton](https://www.kayburton.com.au/), Marshall White, RT Edgar , and [Jellis Craig](https://www.jelliscraig.com.au/business-hubs/mornington-peninsula) . These firms utilize private databases and cross-Melbourne networks to match high-net-worth vendors with vetted buyers quietly.[[1]](https://www.jelliscraig.com.au/business-hubs/mornington-peninsula)[[2]](https://www.kayburton.com.au/)[[3]](https://www.marshallwhite.com.au/article/prestige-homes-for-sale-across-the-mornington-peninsula)[[4]](https://www.realestate.com.au/news/top-end-of-mornington-peninsula-market-powering-on/)\n\n### Leading Prestige Agencies & Networks\n\n- **Kay & Burton:** Renowned for intergenerational wealth connections and private client advisories linking Portsea, Sorrento, and Flinders properties directly to high-net-worth buyers in Melbourne and overseas.[[1]](https://www.kayburton.com.au/)\n- **Marshall White:** Specialises in landmark coastal estates and high-end modern architecture across Mount Eliza, Portsea, and Red Hill via targeted private databases.[[1]](https://www.marshallwhite.com.au/article/prestige-homes-for-sale-across-the-mornington-peninsula)\n- **RT Edgar:** Deeply entrenched in the southern Peninsula's luxury and acreage markets (Sorrento, Portsea, Flinders), leveraging long-standing private networks for silent sales.[[1]](https://www.rtedgar.com/coast-country/)[[2]](https://www.realestate.com.au/news/top-end-of-mornington-peninsula-market-powering-on/)\n- **Jellis Craig:** Connects regional coastal listings to a large pool of pre-qualified buyers originating from Melbourne's inner-city hubs out to the Peninsula.[[1]](https://www.jelliscraig.com.au/business-hubs/mornington-peninsula)\n\n### Dedicated Buyer Representation\n\n- **BuyerX:** Features specialised local advocates (such as Jarrod Quint) focused on sourcing unadvertised, off-market prestige real estate and negotiating discreetly on behalf of buyers.[[1]](https://buyerx.com.au/team/mornington-buyers-advocate/)\n- **Orium & Co:** Operates dedicated buyer advocacy targeting off-market and pre-market coastal opportunities across the Mornington Peninsula.[[1]](https://www.oriumandco.com/buyer-advocacy)\n\nIf you are looking to buy or sell, let me know if you prefer to focus on a **specific location** (like Portsea, Sorrento, or Red Hill) or if you need contacts for **buyer advocacy vs. listing agents**.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Top-tier agencies on the Mornington Peninsula handling confidential, off-market prestige transactions include Kay & Burton, Marshall White, RT Edgar, and Jellis Craig. These firms utilize private databases and cross-Melbourne networks to match high-net-worth vendors with vetted buyers quietly.",
+              "markdown": "Top-tier agencies on the Mornington Peninsula handling confidential, off-market prestige transactions include [Kay & Burton](https://www.kayburton.com.au/), Marshall White, RT Edgar , and [Jellis Craig](https://www.jelliscraig.com.au/business-hubs/mornington-peninsula) . These firms utilize private databases and cross-Melbourne networks to match high-net-worth vendors with vetted buyers quietly.[[1]](https://www.jelliscraig.com.au/business-hubs/mornington-peninsula)[[2]](https://www.kayburton.com.au/)[[3]](https://www.marshallwhite.com.au/article/prestige-homes-for-sale-across-the-mornington-peninsula)[[4]](https://www.realestate.com.au/news/top-end-of-mornington-peninsula-market-powering-on/)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Kay & Burton",
+                  "description": null,
+                  "url": "https://www.kayburton.com.au/",
+                  "domain": "www.kayburton.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Jellis Craig",
+                  "description": null,
+                  "url": "https://www.jelliscraig.com.au/business-hubs/mornington-peninsula",
+                  "domain": "www.jelliscraig.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Jellis Craig",
+                  "domain": "www.jelliscraig.com.au",
+                  "url": "https://www.jelliscraig.com.au/business-hubs/mornington-peninsula",
+                  "title": "Mornington Peninsula",
+                  "text": "Jellis Craig's extensive database of pre-qualified buyers, Craig Mornington Peninsula team delivers truly outstanding results."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Kay & Burton",
+                  "domain": "www.kayburton.com.au",
+                  "url": "https://www.kayburton.com.au/",
+                  "title": "Luxury real estate Melbourne | Kay & Burton",
+                  "text": "Kay & Burton (established 1938); luxury real estate agency in Australia. Services: Advisory, property appraisal, market insights, ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Marshall White",
+                  "domain": "www.marshallwhite.com.au",
+                  "url": "https://www.marshallwhite.com.au/article/prestige-homes-for-sale-across-the-mornington-peninsula",
+                  "title": "Prestige Homes for Sale Across the Mornington Peninsula",
+                  "text": "Prestige Homes for Sale Across the Mornington Peninsula. The Mornington Peninsula remains one of Victoria's most aspirational life..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Real Estate",
+                  "domain": "www.realestate.com.au",
+                  "url": "https://www.realestate.com.au/news/top-end-of-mornington-peninsula-market-powering-on/",
+                  "title": "Top end of Mornington Peninsula market powering on",
+                  "text": "RT Edgar Flinders sold almost $14 million in 10 days to close October. Mt Martha, one agency, McEwing & Partners, chalked"
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Leading Prestige Agencies & Networks",
+              "text": "Kay & Burton: Renowned for intergenerational wealth connections and private client advisories linking Portsea, Sorrento, and Flinders properties directly to high-net-worth buyers in Melbourne and overseas. Marshall White: Specialises in landmark coastal estates and high-end modern architecture across Mount Eliza, Portsea, and Red Hill via targeted private databases. RT Edgar: Deeply entrenched in the southern Peninsula's luxury and acreage markets (Sorrento, Portsea, Flinders), leveraging long-standing private networks for silent sales. Jellis Craig: Connects regional coastal listings to a large pool of pre-qualified buyers originating from Melbourne's inner-city hubs out to the Peninsula.",
+              "markdown": "- **Kay & Burton:** Renowned for intergenerational wealth connections and private client advisories linking Portsea, Sorrento, and Flinders properties directly to high-net-worth buyers in Melbourne and overseas.[[1]](https://www.kayburton.com.au/)\n- **Marshall White:** Specialises in landmark coastal estates and high-end modern architecture across Mount Eliza, Portsea, and Red Hill via targeted private databases.[[1]](https://www.marshallwhite.com.au/article/prestige-homes-for-sale-across-the-mornington-peninsula)\n- **RT Edgar:** Deeply entrenched in the southern Peninsula's luxury and acreage markets (Sorrento, Portsea, Flinders), leveraging long-standing private networks for silent sales.[[1]](https://www.rtedgar.com/coast-country/)[[2]](https://www.realestate.com.au/news/top-end-of-mornington-peninsula-market-powering-on/)\n- **Jellis Craig:** Connects regional coastal listings to a large pool of pre-qualified buyers originating from Melbourne's inner-city hubs out to the Peninsula.[[1]](https://www.jelliscraig.com.au/business-hubs/mornington-peninsula)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Kay & Burton",
+                  "domain": "www.kayburton.com.au",
+                  "url": "https://www.kayburton.com.au/",
+                  "title": "Luxury real estate Melbourne | Kay & Burton",
+                  "text": "Services: Advisory, property appraisal, market insights, and wealth network connection for private clients, families, and institutions. intergenerational relations..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Marshall White",
+                  "domain": "www.marshallwhite.com.au",
+                  "url": "https://www.marshallwhite.com.au/article/prestige-homes-for-sale-across-the-mornington-peninsula",
+                  "title": "Prestige Homes for Sale Across the Mornington Peninsula",
+                  "text": "Prestige Homes for Sale Across the Mornington Peninsula. The Mornington Peninsula remains one of Victoria's most aspirational life..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "RT Edgar",
+                  "domain": "www.rtedgar.com",
+                  "url": "https://www.rtedgar.com/coast-country/",
+                  "title": "Coast & Country | RT Edgar - Page 1",
+                  "text": "Real Estate and Property Listings (VIC): 5 Point King Road, Sorrento; 2 Mccolls Way, Portsea; 100 Back Beach Road, Portsea; Ocean ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Real Estate",
+                  "domain": "www.realestate.com.au",
+                  "url": "https://www.realestate.com.au/news/top-end-of-mornington-peninsula-market-powering-on/",
+                  "title": "Top end of Mornington Peninsula market powering on",
+                  "text": "RT Edgar Flinders sold almost $14 million in 10 days to close October. Mt Martha, one agency, McEwing & Partners, chalked"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Jellis Craig",
+                  "domain": "www.jelliscraig.com.au",
+                  "url": "https://www.jelliscraig.com.au/business-hubs/mornington-peninsula",
+                  "title": "Mornington Peninsula",
+                  "text": "By tapping into Jellis Craig's extensive database of pre-qualified buyers, we proactively connect with active purchasers from Melbourne's CBD through to Portsea"
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Dedicated Buyer Representation",
+              "text": "BuyerX: Features specialised local advocates (such as Jarrod Quint) focused on sourcing unadvertised, off-market prestige real estate and negotiating discreetly on behalf of buyers. Orium & Co: Operates dedicated buyer advocacy targeting off-market and pre-market coastal opportunities across the Mornington Peninsula.",
+              "markdown": "- **BuyerX:** Features specialised local advocates (such as Jarrod Quint) focused on sourcing unadvertised, off-market prestige real estate and negotiating discreetly on behalf of buyers.[[1]](https://buyerx.com.au/team/mornington-buyers-advocate/)\n- **Orium & Co:** Operates dedicated buyer advocacy targeting off-market and pre-market coastal opportunities across the Mornington Peninsula.[[1]](https://www.oriumandco.com/buyer-advocacy)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "BuyerX",
+                  "domain": "buyerx.com.au",
+                  "url": "https://buyerx.com.au/team/mornington-buyers-advocate/",
+                  "title": "Jarrod Quint | BuyerX",
+                  "text": "Buyers Advocate at BuyerX, Expertise: Real estate sales, business management, strategic negotiations, off-market property acquisit..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "www.oriumandco.com",
+                  "domain": "www.oriumandco.com",
+                  "url": "https://www.oriumandco.com/buyer-advocacy",
+                  "title": "Buyer's Agent Melbourne & Mornington Peninsula | Orium & Co — Orium & Co.",
+                  "text": "Exclusive buyer advocates working solely for the buyer, never the agent or seller. Services: Gold (comprehensive search, off-marke..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you are looking to buy or sell, let me know if you prefer to focus on a specific location (like Portsea, Sorrento, or Red Hill) or if you need contacts for buyer advocacy vs. listing agents.",
+              "markdown": "If you are looking to buy or sell, let me know if you prefer to focus on a **specific location** (like Portsea, Sorrento, or Red Hill) or if you need contacts for **buyer advocacy vs. listing agents**.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Jellis Craig",
+              "domain": "www.jelliscraig.com.au",
+              "url": "https://www.jelliscraig.com.au/business-hubs/mornington-peninsula",
+              "title": "Mornington Peninsula",
+              "text": "By tapping into Jellis Craig's extensive database of pre-qualified buyers, we proactively connect with active purchasers from Melbourne's CBD through to Portsea"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Kay & Burton",
+              "domain": "www.kayburton.com.au",
+              "url": "https://www.kayburton.com.au/",
+              "title": "Luxury real estate Melbourne | Kay & Burton",
+              "text": "Services: Advisory, property appraisal, market insights, and wealth network connection for private clients, families, and institutions. intergenerational relations..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "RT Edgar",
+              "domain": "www.rtedgar.com",
+              "url": "https://www.rtedgar.com/coast-country/",
+              "title": "Coast & Country | RT Edgar - Page 1",
+              "text": "Real Estate and Property Listings (VIC): 5 Point King Road, Sorrento; 2 Mccolls Way, Portsea; 100 Back Beach Road, Portsea; Ocean Beach Road, Sorrento; 11 Coppin R..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

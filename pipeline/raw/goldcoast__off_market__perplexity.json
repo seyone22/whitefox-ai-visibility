@@ -1,0 +1,106 @@
+{
+  "slug": "goldcoast",
+  "pk": "off_market",
+  "plat": "perplexity",
+  "text": "Which luxury real estate agents and agencies in Gold Coast specialise in confidential off-market prestige property sales and high-net-worth buyer networks?",
+  "loc": 1000665,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\goldcoast__off_market__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:16:23.151Z",
+  "cost": 0.006332,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 34,
+      "output_tokens": 698,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005732,
+      "datetime": "2026-10-21 05:16:23 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For confidential off-market prestige sales and access to high-net-worth buyers on the Gold Coast, the strongest shortlist is:\n\n- **Kollosche** — A major Gold Coast luxury agency with more than three decades of prestige-market experience, long-standing relationships with high-net-worth clients in Australia and overseas, and reported settled sales exceeding $9 billion under Michael Kollosche.[3] Best suited to trophy homes, waterfront estates, luxury apartments and development opportunities.\n- **North South Real Estate (NSRE)** — A boutique prestige agency led by Nik and Aika Seirlis, offering private off-market opportunities, buyer advocacy and discreet sales across the Gold Coast, Brisbane and Byron Bay. Its stated private programs target qualified buyers, including high-net-worth individuals, and the agency cites completed off-market transactions.[2][5][10]\n- **Belle Maison Realty** — A boutique, family-owned Mermaid Beach agency specialising in luxury property and off-market transactions, with an exclusive off-market buyer and seller network across locations including Mermaid Beach and Broadbeach.[1]\n- **Ray White TMG Luxury** — A newly established dedicated luxury division led by Matt Micallef, combining bespoke prestige campaigns with access to Ray White’s global buyer network.[8] This may suit sellers wanting discreet local handling plus large-network reach.\n- **Burcul Property** — An independent Gold Coast lifestyle and luxury agency emphasising privacy, trust and personal buyer–seller matching. Its experience includes multi-million-dollar sales in Paradise Waters, Isle of Capri and Gold Coast penthouses.[9]\n- **Tomain Residences** — A principal-led boutique agency headed by Ross Tomain, a Gold Coast local with more than 20 years in property development, building, investment and prestige sales. It is particularly relevant where highly personalised advice and local market knowledge are priorities.[4]\n\nFor **buyers rather than sellers**, consider:\n\n- **Propertybuyer Prestige** — Represents a limited number of prestige clients, offers access to off-market and silent listings, and specifically covers Gold Coast beachfront residences and hinterland properties while emphasising privacy for celebrities, executives and high-net-worth clients.[6]\n- **Cohen Handler Gold Coast** — A buyer’s agency with local agent relationships, national reach, access to off-market and pre-market properties, and privacy measures such as NDAs and private inspections for high-profile clients.[7]\n- **NSRE Buyer Advocacy** — Acts solely for buyers and states that much of its Gold Coast acquisition work never reaches public portals, including waterfront and luxury off-market opportunities.[5]\n\n**Best fit by objective**\n\n| Objective | Strongest options |\n|---|---|\n| Established luxury agency with deep HNW relationships | Kollosche |\n| Boutique confidential sale or private buyer matching | NSRE, Belle Maison Realty, Burcul Property |\n| Global network combined with a Gold Coast luxury division | Ray White TMG Luxury |\n| Principal-led, highly personalised local service | Tomain Residences |\n| Independent buyer representation | Propertybuyer Prestige, Cohen Handler, NSRE |\n\nBefore appointing an agent, ask for evidence of recent **off-market transactions**, the size and quality of their active qualified-buyer database, their confidentiality and NDA procedures, whether they represent both sides of a transaction, and how they will verify buyer capacity before disclosing the property.",
+              "annotations": [
+                {
+                  "title": "About Us | Boutique Real Estate Agency Gold Coast",
+                  "url": "https://bellemaisonrealty.com.au/agency/belle-maison-realty",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Luxury Real Estate Agent | Brisbane, Gold Coast & Byron Bay",
+                  "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Gold Coast Luxury Real Estate Leaders | About Kollosche",
+                  "url": "https://www.kollosche.com.au/about-us/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Tomain Residences",
+                  "url": "https://www.tomain.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Buyers Agent Gold Coast | Buyers Advocate Brisbane & ...",
+                  "url": "https://www.nsre.com.au/buyers-agent-brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Prestige Property Buyers Agent | Propertybuyer",
+                  "url": "https://prestigepropertybuyer.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Buyers Agents Gold Coast | Cohen Handler",
+                  "url": "https://cohenhandler.com.au/gold-coast/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Ray White TMG launches luxury division under Matt Micallef",
+                  "url": "https://eliteagent.com/ray-white-tmg-launches-luxury-division-on-gold-coast/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "About - Burcul Property",
+                  "url": "https://burculproperty.com.au/about/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "North South Real Estate",
+                  "url": "https://www.nsre.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

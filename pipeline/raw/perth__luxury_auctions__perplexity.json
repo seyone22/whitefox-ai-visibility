@@ -1,0 +1,106 @@
+{
+  "slug": "perth",
+  "pk": "luxury_auctions",
+  "plat": "perplexity",
+  "text": "Who are the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in Perth?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\perth__luxury_auctions__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:17:44.690Z",
+  "cost": 0.0062,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 29,
+      "output_tokens": 571,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.0056,
+      "datetime": "2026-10-21 05:17:44 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Perth’s leading **prestige residential agencies** include:\n\n- **Mack Hall Real Estate** — one of Perth’s strongest luxury specialists, particularly for Peppermint Grove, Cottesloe, Dalkeith, Mosman Park and other western-suburbs markets. Its partnership with Knight Frank adds international reach.[5][10]\n- **William Porteous Properties International** — a long-established name in Perth luxury property, focused on high-end homes and exclusive estates.[5]\n- **Acton | Belle Property** — a major Perth network with strong western-suburbs coverage, premium marketing and substantial buyer databases.[1][5]\n- **Ray White Dalkeith | Claremont** — particularly associated with prestige transactions and high-profile agent Vivien Yap, who has handled multimillion-dollar western-suburbs sales.[6]\n- **Realmark** — a substantial Western Australian agency with a notable luxury and waterfront-property presence.[1][5]\n- **Edison Property** — a boutique-style agency worth considering for premium homes, especially where presentation and tailored service are priorities.[5]\n- **Altitude Real Estate, Space Realty and Limnios Property Group** — specialist or boutique contenders active in Perth’s higher-value residential market.[5]\n\nFor **auctioneers**, the strongest shortlist is:\n\n- **Rob Hunter** — a prominent Perth auctioneer associated with major prestige auctions, including the Claremont sale of 37 Riley Road, which attracted five registered bidders and sold under the hammer for $3.825 million.[6]\n- **Vivien Yap** — a leading western-suburbs prestige agent whose campaigns frequently use competitive auction strategies and who has recorded substantial recent luxury sales volume.[6]\n- **Michael Keil** — director, licensed auctioneer and former REIWA-leading sales performer, with a strong South Perth and inner-metro profile.[9]\n- **Rob Duritt** — an accomplished auctioneer and former West Australasian Auctioneering Champion, though his main base is outside Perth; consider him for specialist auction expertise rather than local prestige-market coverage.[9]\n- **John Caputo** — Perth Realty Group CEO, licensee and auctioneer, more relevant to broader Perth residential work than to the city’s top luxury niche.[8]\n\n**Best practical shortlist:** for a high-value western-suburbs home, invite proposals from **Mack Hall, William Porteous, Acton | Belle, Ray White Dalkeith | Claremont and Realmark**, then compare the nominated agent’s recent sales in the specific suburb. Ask each agency to name the **auctioneer who would actually conduct the sale**, because the listing agent and auctioneer are often different people.",
+              "annotations": [
+                {
+                  "title": "Real estate agencies in Australia: AI ranking",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Woodards in real estate companies: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/woodards",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Savills in real estate companies: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/savills/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Agency: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/the-agency/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Perth's Top Luxury Real Estate Agencies",
+                  "url": "https://smartrealty.com.au/perths-top-luxury-real-estate-agencies-3/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Luxury buyers underpinning Perth market",
+                  "url": "https://www.raywhite.com/news-and-market-insights/news-media/luxury-buyers-underpinning-perth-market",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Semple Property Group South Lake | View Listings, Sales & More",
+                  "url": "https://reiwa.com.au/real-estate-agency/semple-property-group-159127-0/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Perth Realty Group",
+                  "url": "https://perthrealty.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Best Residential Real Estate Agents in Perth, Western Australia",
+                  "url": "https://best10realestateagents.com.au/perth/best-real-estate-perth/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Knight Frank teams up with Perth's Mack Hall",
+                  "url": "https://greenstreetnews.com/article/knight-frank-teams-up-with-perths-mack-hall/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

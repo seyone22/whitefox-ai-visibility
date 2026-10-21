@@ -1,0 +1,171 @@
+{
+  "slug": "melbourne",
+  "pk": "luxury_auctions",
+  "plat": "aimode",
+  "text": "Who are the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in Melbourne?",
+  "loc": 1000567,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\melbourne__luxury_auctions__aimode.json",
+  "at": "2026-10-21T05:10:46.880Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in Melbourne?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000567,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Who%20are%20the%20leading%20luxury%20real%20estate%20agencies%20and%20top-performing%20auctioneers%20for%20prestige%20residential%20properties%20in%20Melbourne%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCYH9EQ-vQtZqEeDnjCF1VgQF",
+      "datetime": "2026-10-21 05:10:46 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "Melbourne's premier prestige residential market is anchored by elite specialist agencies like [Kay & Burton](https://www.kayburton.com.au/), [Marshall White](https://www.marshallwhite.com.au/) , and [Melbourne Sotheby's Realty](https://melbournesothebysrealty.com/) , alongside REIV-recognized master auctioneers such as Paul Tzamalis, Luke Banitsiotis , and Greg Brydon who command high-end auction campaigns.\n\n### Leading Luxury Real Estate Agencies\n\n- **Kay & Burton:** Operating since 1938 with a core stronghold in Toorak and the Bayside/Mornington Peninsula sectors, known for discrete handling of ultra-high-net-worth local and international private wealth.[[1]](https://www.kayburton.com.au/)\n- **Marshall White:** A dominant force across Stonnington, Boroondara, and Port Phillip, handling a high volume of multi-million dollar transactions and landmark family estates.[[1]](https://www.marshallwhite.com.au/)\n- **Melbourne Sotheby's Realty:** Leverages a powerful global luxury network to position high-value architectural and historic properties to international buyers.[[1]](https://melbournesothebysrealty.com/)\n- **RT Edgar:** A long-standing heritage brand specializing in blue-chip inner-suburban Melbourne and coastal luxury retreats.\n- **Jellis Craig:** Commands significant market share across Melbourne’s inner-east and inner-north premium corridors with robust auction performance.\n\n### Top-Performing Prestige Auctioneers\n\n- **Paul Tzamalis:** Multi-award-winning senior auctioneer (including REIV Senior Auctioneer of the Year titles) renowned for high-stakes, high-energy luxury property call-outs.\n- **Luke Banitsiotis:** Recognized REIV Master Auctioneer frequently steering competitive bidding for major prestige properties across Melbourne's inner suburbs.\n- **Greg Brydon:** Inducted REIV Master Auctioneer celebrated for tactical command and poise on multi-million dollar auction floors.[[1]](https://reiv.com.au/membership/auctioneering-competitions/auction-competitions-past-winners)\n\nIf you are preparing a campaign, would you like details on **how these agencies structure their commission/marketing packages** , or do you need information focused on a **specific suburb** like Toorak, Brighton, or Hawthorn?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Melbourne's premier prestige residential market is anchored by elite specialist agencies like Kay & Burton, Marshall White, and Melbourne Sotheby's Realty, alongside REIV-recognized master auctioneers such as Paul Tzamalis, Luke Banitsiotis, and Greg Brydon who command high-end auction campaigns.",
+              "markdown": "Melbourne's premier prestige residential market is anchored by elite specialist agencies like [Kay & Burton](https://www.kayburton.com.au/), [Marshall White](https://www.marshallwhite.com.au/) , and [Melbourne Sotheby's Realty](https://melbournesothebysrealty.com/) , alongside REIV-recognized master auctioneers such as Paul Tzamalis, Luke Banitsiotis , and Greg Brydon who command high-end auction campaigns.",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Kay & Burton",
+                  "description": null,
+                  "url": "https://www.kayburton.com.au/",
+                  "domain": "www.kayburton.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Marshall White",
+                  "description": null,
+                  "url": "https://www.marshallwhite.com.au/",
+                  "domain": "www.marshallwhite.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Melbourne Sotheby's Realty",
+                  "description": null,
+                  "url": "https://melbournesothebysrealty.com/",
+                  "domain": "melbournesothebysrealty.com"
+                }
+              ],
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Leading Luxury Real Estate Agencies",
+              "text": "Kay & Burton: Operating since 1938 with a core stronghold in Toorak and the Bayside/Mornington Peninsula sectors, known for discrete handling of ultra-high-net-worth local and international private wealth. Marshall White: A dominant force across Stonnington, Boroondara, and Port Phillip, handling a high volume of multi-million dollar transactions and landmark family estates. Melbourne Sotheby's Realty: Leverages a powerful global luxury network to position high-value architectural and historic properties to international buyers. RT Edgar: A long-standing heritage brand specializing in blue-chip inner-suburban Melbourne and coastal luxury retreats. Jellis Craig: Commands significant market share across Melbourne’s inner-east and inner-north premium corridors with robust auction performance.",
+              "markdown": "- **Kay & Burton:** Operating since 1938 with a core stronghold in Toorak and the Bayside/Mornington Peninsula sectors, known for discrete handling of ultra-high-net-worth local and international private wealth.[[1]](https://www.kayburton.com.au/)\n- **Marshall White:** A dominant force across Stonnington, Boroondara, and Port Phillip, handling a high volume of multi-million dollar transactions and landmark family estates.[[1]](https://www.marshallwhite.com.au/)\n- **Melbourne Sotheby's Realty:** Leverages a powerful global luxury network to position high-value architectural and historic properties to international buyers.[[1]](https://melbournesothebysrealty.com/)\n- **RT Edgar:** A long-standing heritage brand specializing in blue-chip inner-suburban Melbourne and coastal luxury retreats.\n- **Jellis Craig:** Commands significant market share across Melbourne’s inner-east and inner-north premium corridors with robust auction performance.",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Kay & Burton",
+                  "domain": "www.kayburton.com.au",
+                  "url": "https://www.kayburton.com.au/",
+                  "title": "Kay & Burton",
+                  "text": "Level 7, 505 Toorak Road, Toorak 3142 +61 3 9820 1111 * Projects Level 7, 505 Toorak Road, Toorak 3142 +61 3 9820"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Marshall White",
+                  "domain": "www.marshallwhite.com.au",
+                  "url": "https://www.marshallwhite.com.au/",
+                  "title": "Marshall White: Best Luxury Real Estate Agents in Melbourne",
+                  "text": "Marshall White are the Leading Prestige Real Estate Agents for Luxury Properties in Melbourne."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Melbourne Sotheby's International Realty",
+                  "domain": "melbournesothebysrealty.com",
+                  "url": "https://melbournesothebysrealty.com/",
+                  "title": "Property & Real Estate for Sale in Melbourne | Melbourne Sotheby's Realty",
+                  "text": "Residential, rural, and lifestyle property sales, market appraisals, virtual tours, Founded in 1976, leveraging Sotheby's auction ..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Top-Performing Prestige Auctioneers",
+              "text": "Paul Tzamalis : Multi-award-winning senior auctioneer (including REIV Senior Auctioneer of the Year titles) renowned for high-stakes, high-energy luxury property call-outs. Paul Tzamalis : Luke Banitsiotis : Recognized REIV Master Auctioneer frequently steering competitive bidding for major prestige properties across Melbourne's inner suburbs. Luke Banitsiotis : Greg Brydon : Inducted REIV Master Auctioneer celebrated for tactical command and poise on multi-million dollar auction floors. Greg Brydon :",
+              "markdown": "- **Paul Tzamalis:** Multi-award-winning senior auctioneer (including REIV Senior Auctioneer of the Year titles) renowned for high-stakes, high-energy luxury property call-outs.\n- **Luke Banitsiotis:** Recognized REIV Master Auctioneer frequently steering competitive bidding for major prestige properties across Melbourne's inner suburbs.\n- **Greg Brydon:** Inducted REIV Master Auctioneer celebrated for tactical command and poise on multi-million dollar auction floors.[[1]](https://reiv.com.au/membership/auctioneering-competitions/auction-competitions-past-winners)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "REIV - Real Estate Institute of Victoria",
+                  "domain": "reiv.com.au",
+                  "url": "https://reiv.com.au/membership/auctioneering-competitions/auction-competitions-past-winners",
+                  "title": "Auction Competitions Past Winners | REIV - Real Estate Institute of Victoria",
+                  "text": "Paul Tzamalis, Senior Auctioneer of the Year: Victoria's premier contest showcasing elite skills, with winners progressing to the ..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you are preparing a campaign, would you like details on how these agencies structure their commission/marketing packages, or do you need information focused on a specific suburb like Toorak, Brighton, or Hawthorn?",
+              "markdown": "If you are preparing a campaign, would you like details on **how these agencies structure their commission/marketing packages** , or do you need information focused on a **specific suburb** like Toorak, Brighton, or Hawthorn?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Kay & Burton",
+              "domain": "www.kayburton.com.au",
+              "url": "https://www.kayburton.com.au/",
+              "title": "Kay & Burton",
+              "text": "Level 7, 505 Toorak Road, Toorak 3142 +61 3 9820 1111 * Projects Level 7, 505 Toorak Road, Toorak 3142 +61 3 9820"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Marshall White",
+              "domain": "www.marshallwhite.com.au",
+              "url": "https://www.marshallwhite.com.au/",
+              "title": "Marshall White: Best Luxury Real Estate Agents in Melbourne",
+              "text": "Marshall White are the Leading Prestige Real Estate Agents for Luxury Properties in Melbourne."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "REIV - Real Estate Institute of Victoria",
+              "domain": "reiv.com.au",
+              "url": "https://reiv.com.au/membership/auctioneering-competitions/auction-competitions-past-winners",
+              "title": "Auction Competitions Past Winners | REIV - Real Estate Institute of Victoria",
+              "text": "Paul Tzamalis, Senior Auctioneer of the Year: Victoria's premier contest showcasing elite skills, with winners progressing to the AUSTROS championships (recent win..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "adelaide",
+  "pk": "boutique_luxury",
+  "plat": "perplexity",
+  "text": "Which boutique luxury real estate agencies in Adelaide are best known for modern social media marketing, high-impact video campaigns, and architectural homes?",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\adelaide__boutique_luxury__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:18:38.104Z",
+  "cost": 0.006047,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 34,
+      "output_tokens": 413,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005447,
+      "datetime": "2026-10-21 05:18:38 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "The strongest Adelaide matches appear to be:\n\n- **WHITEFOX Adelaide** — A premium boutique-style agency with a dedicated Hyde Park office, positioning itself around exceptional homes, sophisticated presentation and high-end marketing. Its portfolio includes distinctive modern and architecturally designed residences. [2]\n- **BHEN&CO** — An independent boutique agency explicitly focused on flexibility, creativity and modern communication. Its testimonials specifically mention social-media exposure as part of a successful campaign, making it a strong fit for digitally led marketing. [4]\n- **Coombs Agency** — A boutique specialist in Adelaide luxury homes, high-end apartments and off-the-plan projects. It promotes pre-launch campaigns, AI-powered sales funnels and buyer qualification, suggesting a contemporary, performance-focused approach. [1]\n- **Bespoke Real Estate** — Focused on tailored campaigns for quality homes, luxury executive residences and lifestyle properties across Adelaide, the coast and hills. It also partners with Williams Real Estate to extend premium-market reach. [5]\n\nFor **high-impact cinematic video**, the standout Adelaide-based creative specialist is **Futuro Avenue**. It is not primarily a selling agency, but it is known for influential property films, social content, drone/FPV work and campaigns for bold architectural and luxury homes; it has also worked with leading South Australian real-estate brands. [3]\n\n**Best shortlist by need:**\n\n| Priority | Best fit |\n|---|---|\n| Luxury architectural homes and polished brand presentation | WHITEFOX Adelaide |\n| Boutique service with modern social-media promotion | BHEN&CO |\n| Data-led luxury and development campaigns | Coombs Agency |\n| Bespoke premium-home marketing | Bespoke Real Estate |\n| Cinematic property video production | Futuro Avenue |\n\nFor an architectural home where visual impact is central, **WHITEFOX or BHEN&CO paired with Futuro Avenue** would be the most compelling combination; for a development or premium apartment project, **Coombs Agency** is likely the more specialised choice.",
+              "annotations": [
+                {
+                  "title": "Coombs Agency | real estate",
+                  "url": "https://www.linkedin.com/company/coombs-agency",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "WHITEFOX Real Estate Adelaide",
+                  "url": "https://adelaide.whitefoxrealestate.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Futuro Avenue: Real Estate Video Adelaide",
+                  "url": "https://futuroavenue.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "B H E N & C O",
+                  "url": "https://bhenandco.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Company Profile | Bespoke Real Estate",
+                  "url": "https://www.bespokere.au/about",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Blake Hatton | LinkedIn",
+                  "url": "https://www.linkedin.com/in/blake-hatton-b1469732",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Best Residential Real Estate Agents in Adelaide",
+                  "url": "https://www.thebestrealestateagents.com.au/best-adelaide-residential-real-estate-agents/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Footer",
+                  "url": "https://revenuebase.ai/companies/property-marketing-agencies/australia/adelaide",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 15 Real estate marketing agencies based in Adelaide, ...",
+                  "url": "https://revenuebase.ai/companies/real-estate-marketing-agencies/australia/adelaide",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Luxury Real Estate Marketing | SEO, Ads & Brand - Odin Digital",
+                  "url": "https://odindigital.com.au/industries/luxury-real-estate",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

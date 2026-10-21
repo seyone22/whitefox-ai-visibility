@@ -1,0 +1,189 @@
+{
+  "slug": "goldcoast",
+  "pk": "luxury_auctions",
+  "plat": "aimode",
+  "text": "Who are the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in Gold Coast?",
+  "loc": 1000665,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\goldcoast__luxury_auctions__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:16:44.280Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in Gold Coast?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000665,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Who%20are%20the%20leading%20luxury%20real%20estate%20agencies%20and%20top-performing%20auctioneers%20for%20prestige%20residential%20properties%20in%20Gold%20Coast%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCbdgXStHGpFrEXCv3vNaowID",
+      "datetime": "2026-10-21 05:16:43 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "The leading luxury real estate agencies and high-performance auction networks on the Gold Coast dominating the prestige residential market include [Amir Prestige](https://www.amirprestige.com.au/), Ray White Surfers Paradise / Ray White Gold Coast, [Kohn Group / Boutique Specialists](https://www.lucycole.com.au/) , and [JW. Prestige Agents](https://prestigeagents.com.au/) , backed by premier multi-property auction event organizers The Langham Gold Coast mega-events.\n\n### Top Luxury Real Estate Agencies\n\n- Amir Prestige : Noted as a dominant force in ultra-luxury waterfront and beachfront transactions, setting regional milestones like record sales on Hedges Avenue, Mermaid Beach, and major high-rise apartment records.[[1]](https://www.amirprestige.com.au/)\n- Ray White Surfers Paradise / Group : Renowned internationally for sheer transaction volume and massive in-room live auction carnivals across the Gold Coast.[[1]](https://www.raywhite.com/news-and-market-insights/news-media/ray-white-celebrates-its-2025-international-winners)\n- Lucy Cole Prestige : A boutique independent agency operating for over 25 years, specializing in high-end waterfront, beachfront mansions, and penthouses.[[1]](https://www.lucycole.com.au/)\n- JW. Prestige Agents : A high-end boutique advisory led by Jordan Williams, focusing on customized marketing and premium acreage or riverfront estates.[[1]](https://prestigeagents.com.au/)\n\n### Top Auction and Performance Groups\n\n- [Ray White Gold Coast Auction Experience](https://www.raywhite.com/auctionexperience) : Famous for massive multi-property live auction events (frequently hosted at venues like The Langham Gold Coast ), drawing hundreds of registered bidders and clearing substantial inventory under the hammer.[[1]](https://www.raywhite.com/auctionexperience)\n- Specialized Prestige Auctioneers: In-house auctioneers from major groups like Ray White and Amir Prestige handle high-stakes multi-million dollar property showdowns, utilizing strategic competitive bidding environments to extract peak market value.\n\nIf you are looking to **buy, sell, or appraise** a specific prestige property, tell me the **suburb or property type** (e.g., beachfront on Hedges Avenue, riverfront on Isle of Capri) so I can recommend the **most relevant lead agent** for that micro-market.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "The leading luxury real estate agencies and high-performance auction networks on the Gold Coast dominating the prestige residential market include Amir Prestige, Ray White Surfers Paradise / Ray White Gold Coast, Kohn Group / Boutique Specialists, and JW. Prestige Agents, backed by premier multi-property auction event organizers The Langham Gold Coast mega-events.",
+              "markdown": "The leading luxury real estate agencies and high-performance auction networks on the Gold Coast dominating the prestige residential market include [Amir Prestige](https://www.amirprestige.com.au/), Ray White Surfers Paradise / Ray White Gold Coast, [Kohn Group / Boutique Specialists](https://www.lucycole.com.au/) , and [JW. Prestige Agents](https://prestigeagents.com.au/) , backed by premier multi-property auction event organizers The Langham Gold Coast mega-events.",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Amir Prestige",
+                  "description": null,
+                  "url": "https://www.amirprestige.com.au/",
+                  "domain": "www.amirprestige.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Kohn Group / Boutique Specialists",
+                  "description": null,
+                  "url": "https://www.lucycole.com.au/",
+                  "domain": "www.lucycole.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "JW. Prestige Agents",
+                  "description": null,
+                  "url": "https://prestigeagents.com.au/",
+                  "domain": "prestigeagents.com.au"
+                }
+              ],
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Top Luxury Real Estate Agencies",
+              "text": "Amir Prestige : Noted as a dominant force in ultra-luxury waterfront and beachfront transactions, setting regional milestones like record sales on Hedges Avenue, Mermaid Beach, and major high-rise apartment records. Amir Prestige Ray White Surfers Paradise / Group : Renowned internationally for sheer transaction volume and massive in-room live auction carnivals across the Gold Coast. Ray White Surfers Paradise / Group Lucy Cole Prestige : A boutique independent agency operating for over 25 years, specializing in high-end waterfront, beachfront mansions, and penthouses. Lucy Cole Prestige JW. Prestige Agents : A high-end boutique advisory led by Jordan Williams, focusing on customized marketing and premium acreage or riverfront estates. JW. Prestige Agents",
+              "markdown": "- Amir Prestige : Noted as a dominant force in ultra-luxury waterfront and beachfront transactions, setting regional milestones like record sales on Hedges Avenue, Mermaid Beach, and major high-rise apartment records.[[1]](https://www.amirprestige.com.au/)\n- Ray White Surfers Paradise / Group : Renowned internationally for sheer transaction volume and massive in-room live auction carnivals across the Gold Coast.[[1]](https://www.raywhite.com/news-and-market-insights/news-media/ray-white-celebrates-its-2025-international-winners)\n- Lucy Cole Prestige : A boutique independent agency operating for over 25 years, specializing in high-end waterfront, beachfront mansions, and penthouses.[[1]](https://www.lucycole.com.au/)\n- JW. Prestige Agents : A high-end boutique advisory led by Jordan Williams, focusing on customized marketing and premium acreage or riverfront estates.[[1]](https://prestigeagents.com.au/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Amir Prestige",
+                  "domain": "www.amirprestige.com.au",
+                  "url": "https://www.amirprestige.com.au/",
+                  "title": "Amir Prestige: Gold Coast Luxury Real Estate Agency",
+                  "text": "Key Sales & Records: 41-45 Hedges Avenue, Mermaid Beach ($28,000,000 to Clive Palmer, Gold Coast record); 127 Hedges Avenue ($27,5..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Ray White",
+                  "domain": "www.raywhite.com",
+                  "url": "https://www.raywhite.com/news-and-market-insights/news-media/ray-white-celebrates-its-2025-international-winners",
+                  "title": "Ray White celebrates its 2025 international winners",
+                  "text": "Ray White Surfers Paradise won the top International Business - Number of Sales. Property was named as the Top International Comme..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Lucy Cole Prestige Properties",
+                  "domain": "www.lucycole.com.au",
+                  "url": "https://www.lucycole.com.au/",
+                  "title": "Lucy Cole Prestige | Prestige Real Estate Agents Gold Coast",
+                  "text": "With over 25 years of experience, the boutique agency handles property sales and investment management."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "JW Prestige Agents",
+                  "domain": "prestigeagents.com.au",
+                  "url": "https://prestigeagents.com.au/",
+                  "title": "JW Prestige Agents | Gold Coast Prestige Properties | Prestige Agents",
+                  "text": "Prestige Agents (Gold Coast boutique agency established by Jordan Williams specializing in remarkable homes, high-end sales, and r..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Top Auction and Performance Groups",
+              "text": "Ray White Gold Coast Auction Experience : Famous for massive multi-property live auction events (frequently hosted at venues like The Langham Gold Coast ), drawing hundreds of registered bidders and clearing substantial inventory under the hammer. The Langham Gold Coast Specialized Prestige Auctioneers: In-house auctioneers from major groups like Ray White and Amir Prestige handle high-stakes multi-million dollar property showdowns, utilizing strategic competitive bidding environments to extract peak market value.",
+              "markdown": "- [Ray White Gold Coast Auction Experience](https://www.raywhite.com/auctionexperience) : Famous for massive multi-property live auction events (frequently hosted at venues like The Langham Gold Coast ), drawing hundreds of registered bidders and clearing substantial inventory under the hammer.[[1]](https://www.raywhite.com/auctionexperience)\n- Specialized Prestige Auctioneers: In-house auctioneers from major groups like Ray White and Amir Prestige handle high-stakes multi-million dollar property showdowns, utilizing strategic competitive bidding environments to extract peak market value.",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Ray White Gold Coast Auction Experience",
+                  "description": null,
+                  "url": "https://www.raywhite.com/auctionexperience",
+                  "domain": "www.raywhite.com"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Ray White",
+                  "domain": "www.raywhite.com",
+                  "url": "https://www.raywhite.com/auctionexperience",
+                  "title": "Gold Coast auction experience - Ray White",
+                  "text": "The next Auction Experience will take place at The Langham Gold Coast on Friday 25 September 2026 from 10am. Contact your local Ra..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you are looking to buy, sell, or appraise a specific prestige property, tell me the suburb or property type (e.g., beachfront on Hedges Avenue, riverfront on Isle of Capri) so I can recommend the most relevant lead agent for that micro-market.",
+              "markdown": "If you are looking to **buy, sell, or appraise** a specific prestige property, tell me the **suburb or property type** (e.g., beachfront on Hedges Avenue, riverfront on Isle of Capri) so I can recommend the **most relevant lead agent** for that micro-market.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Amir Prestige",
+              "domain": "www.amirprestige.com.au",
+              "url": "https://www.amirprestige.com.au/",
+              "title": "Amir Prestige: Gold Coast Luxury Real Estate Agency",
+              "text": "Key Sales & Records: 41-45 Hedges Avenue, Mermaid Beach ($28,000,000 to Clive Palmer, Gold Coast record); 127 Hedges Avenue ($27,500,000, highest for 2025); 10 tra..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Lucy Cole Prestige Properties",
+              "domain": "www.lucycole.com.au",
+              "url": "https://www.lucycole.com.au/",
+              "title": "Lucy Cole Prestige | Prestige Real Estate Agents Gold Coast",
+              "text": "With over 25 years of experience, the boutique agency handles property sales and investment management."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Ray White",
+              "domain": "www.raywhite.com",
+              "url": "https://www.raywhite.com/news-and-market-insights/news-media/ray-white-celebrates-its-2025-international-winners",
+              "title": "Ray White celebrates its 2025 international winners",
+              "text": "Ray White Surfers Paradise won the top International Business - Number of Sales. Property was named as the Top International Commercial and Projects Performer"
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

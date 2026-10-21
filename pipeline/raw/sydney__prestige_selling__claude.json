@@ -1,0 +1,477 @@
+{
+  "slug": "sydney",
+  "pk": "prestige_selling",
+  "plat": "claude",
+  "text": "I am selling a $10M luxury residential property in Sydney. Which prestige real estate agencies have the strongest track record for high-end home sales?",
+  "loc": 1000286,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\sydney__prestige_selling__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:14:23.308Z",
+  "cost": 0,
+  "result": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011CgEozAY5QwUjg3vyBS2yK",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "server_tool_use",
+        "id": "srvtoolu_01Rxf3EL1vq4vXCWxR3cq1D1",
+        "name": "web_search",
+        "input": {
+          "query": "best prestige luxury real estate agencies Sydney high-end property sales 2025 2026"
+        }
+      },
+      {
+        "type": "server_tool_use",
+        "id": "srvtoolu_014WvLDGxFNjWEHNdKgJhEsN",
+        "name": "web_search",
+        "input": {
+          "query": "top luxury residential property agencies Sydney $10 million plus track record"
+        }
+      },
+      {
+        "type": "web_search_tool_result",
+        "tool_use_id": "srvtoolu_01Rxf3EL1vq4vXCWxR3cq1D1",
+        "content": [
+          {
+            "type": "web_search_result",
+            "title": "Revealed: Sydney’s top 12 luxury property sales of 2025",
+            "url": "https://www.domain.com.au/news/revealed-sydneys-top-12-luxury-property-sales-of-2025-1470547/",
+            "encrypted_content": "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",
+            "page_age": "298 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Sydney’s Most Expensive Property Sales in 2025",
+            "url": "https://www.cumberlandrg.com.au/post?post_id=16950",
+            "encrypted_content": "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",
+            "page_age": "427 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Private Property Global, Luxury real estate agency in Sydney, Melbourne and Gold Coast, Australia",
+            "url": "https://www.forbesglobalproperties.com/members/private-property-global",
+            "encrypted_content": "EuoHCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDMbZfKCU6a0kfNQCHBoMIQcZYkOaxhoPMhwqIjCsGfRtCX/m4WDE/NRjBBDttsk0vhG9aIfX3NrEwe3XgrhGdOj8I4ffxY66RSJNoTYq7QZRMITsfweaHHzL0zjRQsE3SxYWgQSStVojpzLzbZ90nIp0DINFT4KpA44OqN/u7QnsgPWVIkm2jOECPI1HJh3XtuEFP9d033iDU/v2YRpyOleHLT2n5jik95ZGf1z78/IkLSMUqe/W3npVp53eco8G1Edsuv//+rrd1tuAsj+HRBSPU0Hsy9K80JuhMSdK7Nb1jmb7V4GyNhEc27j5/SFQk4e3o3tHD2Y9997bSrj5CWqEc5iGYqmXfxqBLuZnpKPRaKHyK7C46JhKSirr/p6W1PB93w7qYtv5bUTr36jOqL3JTFaMAVD7cYpMp55fqCU71kOG4jFjO+nRB8SX8LkGgXi+778O1I4BB95ZfVAlQNGH8L+l+NP4X7lEfFAkFayWaJaJatlmYeCs3PL0+VHK+oLqB1wVPeEv511M5pC+9zsP6WX4JYZxp+3uMPdc7Rk68dt34Zf7X25rY7Xb/gXVOwZzq6tS2m8985NB4bHG23UxsMgg4xGQ7qncYNpg8q78v3ObcwSM79P44krCCyd56TdyUWHKtYuKEX5LdmUJsghR+Hr5kQtr4Um9Y/xVd82/mrTyllKhroZ9R+yyQnxvVYmkkvHQJRJxt9xROBB9LVSSXnfo0x1sVhrkeAC+03F/i5P+tiU0kuNfK1WYIW9h85EUEACkSijbWn4QxpHIyRQxqJdFIcMNCes7s9o69Fvxx8IQJqtAlFYIrciRhGChaJgk4qqLreKYeMFn4YXuZESfkWJYSUh0Mu8LMnR3dzuTZGnb9N6ai7sOfgpJV1SF5mAG3qn7xArsHrCk0T67UdkWSB3Zr9KDEbxIdrIEKmGSPTzI6Zfo5dCudBqqwyhOQkqVARd/H/PPXDOI2WE+67CYL1RN+rm/Q6uUEYCU7ln3/FR3I0P/6Nuwe925Thnha16TTUaPD3PjyrUPVmgUjOGmvqTEPShoFgDeD7KHHwffWIq7RI5EUotIWoutjl5pY4+R+a+1lcwQniBV9whp0iMxLcspFU5Ix0fua/VkQHmX1VU+RngrVU6MBLbJeopS0LvhZFS+JV61d0yfYYzcS/c0PJcZr/1DuX9ZUcpSBRGAUiy1M1ap7gXQqtCkO6dg1xlftQeTT6DZedUQP+gM2PER5CVH3B0xWv2IyrulDYBbb7WRG6mo6XhV6iSRGAM=",
+            "page_age": "90 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "7 Best Real Estate Agent Sydney Picks for 2026",
+            "url": "https://www.gregory.agency/best-real-estate-agent-sydney/",
+            "encrypted_content": "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",
+            "page_age": "60 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Top 20 Real Estate Agents in Sydney, NSW",
+            "url": "https://www.salebyhomeowner.com.au/realestate/top-real-estate-agents-sydney-nsw/",
+            "encrypted_content": "EtwICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDFIPQgxZAledpSKS5BoMbdTWgPDfJIKvDQrBIjD/CF+l+Qv5Nz0yJfX140danYDTLbPs831mOOHqAhZktxiEzquJibQFJCAjw8ULyYQq3wfnf/FzBtdDS9GH23Z5OzN5jFocYrKHieVeE5v4ic5EQbE37ubIgNnnrXjaYczVxsZRQeKFpdhNFqx2meS7RrHP/47NXvkBtm/e9tF360k1ppUkw4FgzDsoQ1TKnZDq0mjZ8hO7yAmCOCPREkMqjIEkUaHC0lsX1jNjlqY4IvZYbqVcaaduqXW1oJT3XEjPCbjKcNWc7ArJhntUSxV4k+e8SgD3Q7yCpl8T8cKpM4cBtZ0qQIpWimZffzG6gMyl6TRtkvw+xGcIFE4ELlOiIl60SDNN52BID7LTaYyBMYnpyQEGyrF5M1+yzrAu/tiFx8OSvRmaNlWGRW7fYeeQQ1gXGUdSpia7Cb7j5fGQjyBQvZvIbknzjfEP1I/OoOBCuksDOKKpXPSeu6cmcfsq5mu4Kvu7/BUpYW3fm4EnD5ioQkOx6IcWJwh0hrONeYTMrgKPSJL/rIo0Dmw2lpbuCpGKXImerWLiY2xI8/5g+OIKvOz9z7c9VoR4lyEvbLyhuRIVc6vytwQY5hZh4aejcQCoteub7w0kZsAwBji5czZDsoHZa88WTQkbSWA8jSJQ7BcHW00QhsglMy5XvX/ZnZMPZdoaSB4YkPk93L5mZaC1bgHxkEuHi2O7c2DP9q+/GQ0ar7u2WDRa1BJGE9PPCV4TUZbVf/c7qpWIHwuZUhPNZe51avY5UjwQnr7PbsueRJkMKM7yNQmdOXwZC5Uvx9O2n++kMBNW2O1shxjmhV7tioAfgJjinoZBzF0A++Ti1m0/LEFFGn1yQm8shGemuqKPQjr8+d+BxRf1pVRIEMbmFNe2Vg/6A8AaL2nRnN9E3cewF0v2FlDro4DegZoKfXTSduVMrCDyl9nkKnIBm81i1eHwVJmvlbyIHeL9fx7oRkHDixjLIvCfJFFqp4lphP9qTwW4YFFj+WuVup13VZUsCxUSoEByXecETI7ZXl6Z2PZ2RcQVAKiXeOY5O2MW5wWijSWmhudBCpM0XvcJqN21myUNwI/IJXr3VXHNTOIlcd7FuXrvfVpYnQfx9FyNKhZqE2MVN0xK7Hxkaq8tKl5XEwU4cMcfd+oNogcreqXMGV0CfXUsXsfANzEkfGst2vWtYnLfUnvnO7Hur75oFmdv1OeA2KoTb7svvq29rRe02J5DLNxGNaFTgtmrQYg5IbV5XAKdNLIkIdVagPDMmtCTS+BnXQV3X4upIu7w4LopQPX5x4mtdjkbIS7OCyCJKKFfOwOlaUyRRP9Wlk33y3QUiJS7EfKBsuL5zkNUV4LVI2GxRt+NJ0r/ywWBxpueb+xpiIBH++KsaV5ocxob9S41GAM=",
+            "page_age": "495 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Amir Prestige: Gold Coast Luxury Real Estate Agency",
+            "url": "https://www.amirprestige.com.au/",
+            "encrypted_content": "Es4ICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDPVocakhHCbWRQc5yBoMkeEsDM4Vifipz038IjDk/DCVRxs/7Rpre3CW4bYoODL28IHMN61u9kSjkZr3InUi7CB2mRJeTK2IAA/cs3gq0QfjotfNzWlvqvBuaFUYQVqPEgEj6eZisShQ/ExFTTl0K7f68zrrMvwQ/RXgzO4lSwtrK9KT0uPxkvfsDbeoHoFzUqWfu2z7TGKFUE8WyJH6te3noPYIxCAHz16ATLFMHJrNrOOoUNMnz+/K9xXYDwMP3NySSAEvRRJLXedt5kKEi98K9zvQg2Kgk6tWU9M4AHjR9HxTeuJvGDR/F+H8sH7ut2NhbyVgOPwVrV7LYDY3/cqAZA0LE9k1Pr81bFxEJ3PmizuJyByYRfb8pk7mlhM/p3xrtLOiaq4pZzmCIDegFfQPlLIiy2DjuHlhqVMHkmB2Ba/urBc9NuSitQmy0rCTQMNKfrkrG1OzgFjksrLYdMc6XHwYCSX/ZiDblPBUTrYGTKk9p+ToR544cOG/rGDeABIcZ8GRhE2tac3W6FLWP7BsGfSpGJEQhsOWAvrsgCzQtpjXZar/CXCa9YG7kT2Cm+f2dxZBIwVG60EdGxunu53u/Ir5o1e4vZi7CSzSFLsBXOGbnqD09hxZx0EMgkANjh3vNMbRHvZcH/3p6YowBX37FQlWCDggTE7+wL9Ux+6gw+T/t39Ixe3exZS8982J2a7dV77mpNunE8H1fUEXxkIX5RZNQcGGII6ity5D0W9zOnvYSYCMmFrPBS8T21ZzVrAMVZ5JO/mJhhl1/dA9jUwsEavWi+Ce+m7kwsVqLscagI123dzfNapsJcPsZB4YvUg5/a6i3WiEOhffHqSoN90rcx+Iqc1ktWFeDj8VQ4O++CnYbQJmbGx3uu0+y50ZHV7C+SFznUUSofQpLolV/IOGsDyQeB9pTOqrx9Wn8cPzWplYi+JXsQWbQsXOVANvtxRLG6e9dW7CVYaqeUYuaZ3dnsLcDUM6UomqBa3wm6AoOwTy5d6l5329libBPzTpRyNQ4fpIk5R2DnNMiZYMWUfvC1gL+fVMJBfSWPmipetS0SEzWNY3Je+Jjp3J0ybbRX1VwUWu9h3gQQu8vjRfsAZx/l4N/5+EgS7fDLcS6XVIK4fnLHywiPG7YToFt19keWfXd3gkou44WSG86IZEo/IGA6JmmVloUwJ8gnj6MnpMgaUeiI54J5uuzhHdcssmdw9b/aJW3FgwV/Jsjh2K2vmWMXQNB0cOYYjqxAC+qwvykUmoufK/siDPnd4cnZP5sfIe6KQESZtV3wpR7nmcXwsIi0DFg8yHqSiUPjl2iDlXdespg3zz83ZRDeOMJRHd+M19bB85dslwiH9l9m3AGa+tkLqNGLFLBzgBFpgOYHSl1kpW88njk+G/j/b1nEeCYhgD",
+            "page_age": "320 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Sydney’s 5 best real estate agents you can trust [2026]",
+            "url": "https://www.thebestsydney.com/best-real-estate-agents-sydney/",
+            "encrypted_content": "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",
+            "page_age": "656 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Sydney Sotheby’s International Realty",
+            "url": "https://sydneysothebysrealty.com/",
+            "encrypted_content": "EsYGCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDJMevvi6OSa3ms8FqhoMiz9cFehNin6SoJRZIjAks01ipLV+eC7cEL97GATRGgvGDBwyrHE7t5TFb73+E1bhj4HWCjFRcxyGAvpK9ZsqyQUZMRs+kz5DVe/R3jdhNEjVUgDfDDtbzDITBZs+oe+GkBDvyRIQbfSioPk+LD8ET6svhliZtgJbd5j5kic9cYo4aGEfEfbZuOMr05ZwgS+v1qp5wZu6Iux2b7YZ5dKA/XZVGTrdaiU4NFN6oiP7kBQ7G9OEPOjTpkSdfKASGWz5QjKhxPtbMPG1xcqU9Fq7x4gm6tNVATEmsR2NaCxtIK3p0P7wpM5BgwdYZrN8uaTE88HYU8Qeg0A8kw3KFFMLCJiWIGl3M8Nd6qA0BeDyYeK4wCpN0lcOV6EG3rUXjNCQdKg9+97z5g39onK2OvqJ9IDQkIy4GE8gUiTHcykLTQA8L57Sp0NfDeMBz7tL0XheU7nPXADknuYsDuuHI4klg1mvYx/MckDecXU0tcPHwXTuEz0ccQUR3XIbu/tfdjS2C82PlsthtGyIek3vHfIisdLzOtMZ/9TDf1j8Wxp/OglTT6EQpQ5IfYBqnQHFtuaKg0V6WlV9ansRdeTIwAFyQy+5S4bakfkmw6phGvW+M0nOItzwivgEniYdO07qNcKYQS6Wnk/ONivYvcEPyS7fFF49mv9rpK68oSpoaXdZRBEmjVlB9qHEmOXzSdf0VDz8LzU1JMeIuFT3QgQNCG/VCPDiUFy4NgIbDCEBGOf4nIqFTdXzHaxXoQYMd2he9ABBJ/JLNy0T76vZObFhQniaQjfo1SA+dHusDhJdMGfhLWAirvmh5BAUxkXyQc9izP62Y/yozbpK2XOusxJ+a/+XlngRze9snhXqKZM64u7FqHGdIy19htnE6J0+dyOYbbXSoJCS1oMxXXca0VDirj0OI7RiqFYCoYcHKAxWl6QvyfURvXwa+gGRzH+JMKrVeEud5kwcA3ldMypYRpD0PdVWtRZ6yew0lH5yMSoLIxkKaGyNbknh8Gj1gHAizpE0x4uBWXOPi6ceHWuCeBgD",
+            "page_age": "229 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Luxury Real Estate Agents in Sydney: Masters of Prestige and Exclusivity",
+            "url": "https://hcacademy.housecollective.com.au/luxury-real-estate-agents-in-sydney-masters-of-prestige-and-exclusivity/airbnb-management-sydney-and-central-coast/",
+            "encrypted_content": "EvQICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDFJCSnffWRdx3aCFDhoMLL2P6VPC0nQuaRm3IjCvZ6GhXjCqxhHeQcIFnZjMNXEVUNWUBrtGLl3Cc443NAprGZwadMCrh89R88bwefIq9wd+q+wfhFNn+gYMsEHtIVr9it/h05j3MJL6NjFLY4GFdLQPoF+pq3dJ/fSIkYGlfJfV1xDT2QwuamvMN/SjU3hLAg4YA6Qcj6eJmJKADVTLc3DA5jOVJjz7wRS5P0yCUE7LZqOm+EKZRqO1UZHen1ikopwTR4SesuvLw7hB0fRvrNV1+HuoyGBFt/1ilSw3M3/9sC1RtnS+fYrSG7pA9KBS1piLXxLoCGItdeNEh2+fE4xGUlnwshpIUo80RydrK9yu5NPrjj4+CZiMF6XKNzFgqY+ICSXTZhOhHenbiMr9KaqocLnl34gWCf9SN1XG9kDS2Yy/Fbew7pQF//dOSWDDmhIglcwY5hjCbNLTKIcJSOQPv3io9RqMRz74r5D2rAtHhq8f1RTqtoXj0LJJ3npEcu2rupq3DuIcyctV21cuGPg8v3Tvlb/tnRRkzuCyvWTY1838y7mAGHAckjQMphl6w1lapxf/sqFLX1E/LZsiZav90v9O1leeJn5lxJwJoUPQnzMoc0Ke4Rjz+tV1NVG1DBhZoO8FZJ/m0nnzXHnnO/lw8l4t4P5SR/g/y/v+JaHLkriUQIZUMOZt+IQ1UvAd/3ix4QNswmUj01lmMEMCwc+QPFaODNbkgXEKCFcsAq+GU7NNRcr9YPXDU1DAI98ZOB8E+QohomKLIWX3mZzxJ/Dlg5gR42ob6h8jDw8F4aEVAoSPAjQsDi7UHuUDX99TQ8EBV3lvOk8X4jdXlUOk1LPvY5O/ecy/TFPPQO3XNt4ajcrvFH0E+kGnKl7T61wla8R+8RM8Gh+DPECcTba7hITaIQcOLaOCzeGvrKoVKxLucnJsMMXiw8Cv9CWoT/WKJF0MkEVaxzl2dH1IBrAwgkIYowJ4J85ryt+Bn8sbqOhUi6SREmwmo8x59GJXbwSJhtwotw0YPZsXWhXLh+cJXxLAwW3RB+0pPKP/EqZ1LITrdIgww/Ekp3nCpB+4LkHOa8n22+Sq+hcgxLNwyGn6Ox4ZPumK6MXmKfbTk9PXhdn6pW+mXbKPzNsVOKnx1cTNzQGcx54T7q656CX94aqPyYGBQ1TfrRDXgySRR650tPnYqu5GlZdPnEhuCSG+BGSssOTELrmu7HVgWW0O2GDKKiMWtGkpYUJbZYHYRJcJXR4km2XKKwdaWyAnID3rPbk68kpPFIaRTPORjE8L6eV1tdt6igzixHSMLvZ5Y1BxTzVKXTsfys8/UMk2IbstdGFETamWNIJRtr4pm6FPQYgip4DkMSwzIiio6hM1y1Y+s+0sG5rd1vRX1T9uKLqZ2wJUb7IdAZn1ca8yRc4UeIksvSH4ynb6w1RZ3f1F4bzS1av6yjOC41jLGAM=",
+            "page_age": "568 days ago"
+          }
+        ],
+        "caller": {
+          "type": "direct"
+        }
+      },
+      {
+        "type": "web_search_tool_result",
+        "tool_use_id": "srvtoolu_014WvLDGxFNjWEHNdKgJhEsN",
+        "content": [
+          {
+            "type": "web_search_result",
+            "title": "Private Property Global, Luxury real estate agency in Sydney, Melbourne and Gold Coast, Australia",
+            "url": "https://www.forbesglobalproperties.com/members/private-property-global",
+            "encrypted_content": "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",
+            "page_age": "90 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Top 19 Luxury property pr firms based in Sydney, Australia",
+            "url": "https://revenuebase.ai/companies/luxury-property-pr-firms/australia/sydney",
+            "encrypted_content": "ErMICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDD/7nX3COY0QrhIQzBoMZj9ic94Ur1TWVpi3IjC9/mI3u/Myk+kcasBty48C4kDk6cgaO1SHL1yAv9uS8HX/H1hgeQHP92pCP8xD7fkqtgeb/RZCyICSKahSlIWWsgEnx+BaB8WBdQF/l4JVFXvasTOXH74eQw/xYQxE2q1qzQBVIpFKkC1xRYyNCXKuUD0JCRayugQsySxXy4m/R1Wlf7hazhR1aAeEXaGls5iOyfnBqrVW1rDg6KmNsDuve409+j76E8OkaK49rJ6H5IC/bGCqui5zPPizmiYQ0HURx72fxRBnGNAf1QSWo6O9qtdiI69S6D/9+Y2q9q7y2u0EUdFGMRAMYGSapnaxS0mSm6+Y9rn0ndphaeo8V+96ulX53cUTmnAkUN7do4Qwjc8MrcngH0vYY3TnM5LQMSI6q5T5WNNo6kxOlrxLTDyWoDOfs6lVQk9A652zXkemXHf0bO8VIklpChT/Yq282nE8cDvZhCvgTu3RuR8nnVoU4K82LFFVoASBu71b7Jt2My49bAU0vNAtNPVvaVBXAAXQdQIgz7OhWksLzrK/faucg2hKcaHkJMnaJOfVPOI4o1ZI8MTEaw8lnfb++/pq2m5Aj/NtECNSuooYcAumg17DWnrBBKv93BidhSyOoqzaGIVPaiCP/y81pWxoVU77ggoAz8dOrf/jCMm+n65qh68fqwF81S7oNUsUKeQ0uVhh04f0uBB2APLX65lzAoMA3hbpGWSD/YgKy9YaC4+zVPpsBzu1pbjg4lsPIQwJgTAsSnHXSKC9YtiMEccYhyoRdr49p60aBUnLbKWs3unoiE+5kUD/9KXjdtf1jOwmyQtaZyplm5sl+qhlHbfkOdZY0vRTbsg1FpZm3/n80Q2TdcVpXOEy1sinrKEKHP7mB05N5Jmi6gLFTyHc1HDCckKEjL2b02trRqETlEHQguTQQaydUrSElliS3NPdATdOz4QFBAetaQOXW+3iuu5RAB3IO4WYQWdk6zqnYhoa+UBXJvzHPp+0jEcXyN2tJuqlMTN/tL92OiUw/LBEqSziHeG0wbitsb8KolsBLJYFFLlfIULLkFwIOaYYrTl6GROUABhxg0rxjKeiBJE/YFMvR/iYj5RtUS0XBwU9kWsnUdlPFiVzLe1FBKRkq9AlsDN9ZpG4XcySfVCnYoB868pqF3xi1gz7SOKm6UOu1/oq+h9xNMKZoaMJBW1Io6iBVe94ZvsP/Isejnpeew6CxS5y+PWcIoz2Ii3YMduvz3hyDwevd46wE+NgiOpGcNqupEH5cio9tznVnHW+aQfna9+HnufwCi35ti8xHgOlFLRCER78YQ/LRC6Sq6mW/FiGqQohUx1qZZn3Jd7eHINWSBgD",
+            "page_age": "23 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Australia's largest real estate agencies - A guide for agents - Entry Education",
+            "url": "https://entryeducation.edu.au/blog/australias-largest-real-estate-agencies/",
+            "encrypted_content": "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",
+            "page_age": "15 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Luxury Real Estate Agencies in New South Wales, Australia (20)",
+            "url": "https://www.jamesedition.com/offices/real_estate/new-south-wales-australia",
+            "encrypted_content": "EpYKCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDC8o4nTYGbzpykQOUhoMx4MrrAtyos3+viHfIjD2FkJnUkY9R9WS6QTte37dMKwOc0EtWJ+XXLFIq/pZAdYfQlBQP4U5uHq6uKOWN7EqmQlNm12YVfXiG/SEu1xcJu+W6AemRfACPBPg2AMV9zg2IAdVtNiBBAj6S5lR5WZHlOMqTwK7/1Nq4mFeQmRxp+OjUno6SWlJFmGDiR9TJc8oNuLE9hVixi7KGentKBUH9Hht64P4hqL8+j4rYZQlLolrQH6nKhn5teYdsnXYOjbvgJ7fJByNldWK3sOhhEu3PSCc8U09hBjaCmU2wT7ihajjDTPdhTpePGnQpEwXHcm8c247Jt6j6ZD4eONIRriMRSQ6rUrpJnphLxoeOazIFA9YIR4TOR67Qylork+NQEF1/EX6PqRpiQE9K2+d7k9XmzQ0yvDH2xzPCE0Azevp0OKbVHLTEEzRUNSWyuEb3LOxLFoCoFm1qbBSPoJrGPhhQtcHEddbe+hNVEzH7OEtaru6SWfNSPHHSH2R0Q3TLbrUxyfLl7Cvge7lSuC3B+ndkdZNF60l/1ZbU0pGcMNfaXuuB1G4oLjDUAuu+nv2S9ckHmTkD4jbODqSXkoTldTdPH8e23osp+zHkm5NlC7eoAetGHpzx1rZyv9MQSS+87PCc7g4nyhY181J8g3EIBg7Q6FKfA4cpiEtiNWurKdjKr3brMxFGVsnhW6XV/uLRnLu+1hguVUor+i1DUME9FyQ0oDW+o8pHJRQUTGjb3LGRmCuiBpLEmivn+DztDDzlg07zKWPkCgRmejRx/JpuGtAt1PgDSshwUaRRYzbHcxskR4U/klJlVbH/o7Nx7KwaJeRhu2K1iI2xvEYJ4vu7qyTUfCFgEsrjWEdhGNqiVK4pUa5Z8k/QMsK8jHLscKjooCP1oNvKlpHcPma4xD8lUhVcxaPNzYREH0nwTtXkD4MsmYf2YBY62cI8xHCW18XnCnOJ4nYxoW3bdIZH6u9xlja3ORnlpqT50UOiacBUGDnzubm2wNULbUvWkjNNr9HJaPpYXGTsuyKgf9tddGNNvAe94cNPw/51SJSUM4GuooodL7VrP5a8/fQy/GkXgJQjEvwC2rJ6zdnazp9X/ZcLAjZBP8b7+L79yLG/DdOEPsRSS4/2KiPjJ2wL9qpqBdQXU2tarOKkj6Moo5RchuXgc2bDh5BTLv+VdfGR6AbeAtfcDLcU1YzwT97wljdAEQtUVggKglUL5VI9Xd+6tZXHFbINMLyJsZdfnmgvEBgj9rRwp4VcA/h+H/NYugfxpKOEe49MPN42UTD0OMPjujQC2XF/1W0iY01/H2nRxdC971bCY1XTndQeaTbdevMHFv8nJq+tNXw7yi6nHus+883C2PZvPPTJl4KnL1ULBvcmwPqQdlE+N0wCGjZbh48RmvOXRI92lEqoxcGO2QBglqD5KBP2UQSQ1NXMqzcpYn3krbXreBbW41z6MZIePp8cMesSANV8Ry6cltEyIidKDBEZKK+ECHJHa3QmUEkqYsRV+lFUfWvymB24MMQJv0VMh7EeFFVgfgT/5wyCFjPBZCOR2VGJ03yqFA0x6/lXgRcaP3zmsj1MTNpTWS6rABVqVnGcb6wK9WUEY6n5MAceOO5VbsT9lMLmiVw9p48n5RKKG/rv8RYv3+88izDcq4WGAM=",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Top 18 Real Estate Agencies in Australia: Ranking the Best in Property Services",
+            "url": "https://www.starinvestment.com.au/top-real-estate-agencies-australia/",
+            "encrypted_content": "EuAQCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDNE/T7pUfUylv9DPLBoMD1CuJC/bhnX7QYEaIjCHq3K7x+PxRKFVrxjpe8QRekiG5vt2AJmmBMwaBbujwK3PqFsApF6OShBiEZXmcO8q4w/D2qzqpz2+5BJQ9GzN014p/h0QN9M7wJwCjFEkYvX6rMQysa3NEV3hl9G7ozqP/yrwX6W37lMkLd33vvD7HFM5PUbjRedT82RGuFeN8tsa66YaCNzDwFCYyw85gEMne+dDgh16eM6gs6d09O8sO3fxVEcAjBIcL4yIaoWqWliT97BHMmWREa8LlRDXfrdLJu/GCe257cWIciK5LKXDrM1ny+GES8kHOlvNXVwE4gsRbCQDoXH4xawSJNpqAbRaN1H2Ve2xDEl2GuTcOLV4+Qk+SzhMs4EKIFAD/5g5wo759L04GcQEGskHGJE32izOPVbX8ZF+sbsG+yL3a8+1218V2IgC7iMef3tHeBzNOsZpNeDijLg1vslyrwtUTQqD5wpSYeNtaDiesFFSmsPLU6bJxpnQq6I3VDR+UrSaF9tewkpRSlCpT4uENkdFJPAa/tkeYbppGpq58NEGulzSr4sgfoJ3OE03BGbQzzSZsX5pmtKP+hIP/XUB87kulshAFzMnVPHTqjNa3z78B8fRKwQaeD83joM47lHJLsai9CoHtYLIUPwVT8ZOwvTHkhcu0u+US8MwSuoTR7fULIrKIe/Ou0npNOt0Dz/zvTXaXBoO1G465rw2c88tzfCkC7kTSFcKT3uFAraIi4qUNzbPJO0Mg66w1nfsaLHvNJMq/espoZ6aMYT0Xx4zRzH47BXXYoq0Nmr1tE0VMo25yb+O4TDNQRukUixCVd5W0hL0nNyzci4xdtaP/3lXeynEZqAB5mVxaBZcatI3ZEiITpOiLgIooXYTwcdxNwH80jA9GwVqpdWjRYT584eMSs6J/CpfCWgOsYN8eeur1sAwKimRQap27Ek23mj1wkMiU01XkfPoPrWzkRdXw+VtRN9T44kT15Z6L3P+BvcHz9ZLASDzAUsN9GRhkBxFNrNEXruT4zkkXNo7iaGAEW7IWS0YVYo7bihW7J9E5uhY/MhGLT0bhydQqPHW2L5QHQekZBKh8oeeqiBZKb38mPbA9WUBExNqE0ONeAR1bnw4Ct6W/WIQhFfjFHYA2oZ4lvLExfNI+5P5nTP922qkRK3SOhe+c/NvpeGgmfIZqxqipNXXPbNwrtVU/GOP+M3Bksi+D18e0+xpFQo9O8b5TkhKJSqHEkT/D29gH/NLKgQKEF6toU2Wu517jJGpf9at061wNacnihp4IKDMv50P3Tx3Cp5mXU4BI+iJvb8ls0LmW9i4fZ7pR2N5R/MRe0g62C3IG0l5jLxRcNzKkRJ852mnqpDZS8fm0Gz2cxduK9tioxFcJwU78/O1q3/9aFe31qcUtYZS1BZg2oMXks1QngET9vYR5NWU7yxR7os5h7A7AWscLSn9QgdApEX0b0YK5DRRMld5N6FXnL6brQx9mUn5k1in/KqCOVIBjBMNepFW07b9CqAogLqOJr4YzAs2tYBX+UEwfEyNXK3qCqNXrH1llLcB8VUC6nCnyJZLR2SsAC8dtBqpQ2HWm5abPVx4mfsmXvC3iOaOx5exrETFDr4BbWVg1OGu4C7iQrc1AEyEAS7BBM0dyhlPAB5+csAhCkfwW2ufVzu9fgtADgi9zycg0gdTXQ5CCnjhCpL6w1EYEJxbX47NGkPyyb+8i4R1tigZBIHbKMQE7p39wqafl9L2meYHQ4/ltYBJRFHTbKm/AFvd0cy0FEjN1FobBCOFHBegJ+8Poh0mweex8HxIUhc3MkUKY7iBzP6xauGfOUER9K58vS1OUNBzZmmtpJ69kgFwvhW7g3su0h3/9vCD32JlvjuaocrtZEWQIwKi1mKbKAtYWv37M2YcmcygfVeiK0YgmsLNPD4h6OsMTggZ3OFTXxmOT8QH1C/v/OqWDxWhbzvITrE1GfDSjW5UIXH413HrGZsDY+xubk9Xt+UMMuJq7Cuk+7a4RkIgu7EYH2IXdqJ9asglwNHwCBD1VaGGkVy86Gqgz6wMPmnbs/nhUQ+tbGUxft12stCg1ypK3TcrH8vhOpd0KKQu4LAQBBAUXC9dAmjEl6WGxtK3D3yjC2TjDNJmWlPOm/G58ssIGgTjHL4ZnGgGaGchjj4puXGWtpClEoWNROL2AND9fKXNiAae3SV70BcX87GJ2n0hlel4NHQCXsyK9SW2IPEKYLZVzItbsLSBCJDl0N2hiTeau/ns+LSMiFtoRZ01xw5bb4BHJ6gC0ucUVw2i7oaddFv2T7/M91a2UuzGUOpIvIwECz4pm9zOeYPEjHRTBHkgx8pkb4onNC0y6bJ6r6/Begd7xi9Uo7qT7gdaFDJBskSqjHnPA9EM5RLDv0hNOVsLYUxlWyVRd8HtDIU4bry75oaVzSdZG0i0hHUESD2pmu/epxOgCFerVyQDSroR56IScsZUvMx6IYDuGVhZAmcd6FINJMJLjqeT5WSpZGPUQcBvshi+J07cE1jcB9C2h4XzwQYcVJcmo+aAkv4tm5Odqt6PwnRJEWagsPX+Fa8OlWIV1xJukxDKXbN3KVY2jy6308K5LMx4C5GSzIjGugvCvsohlm4CDdDWAmRI1dkdRjifoohuWfVN4VI7Mjyqx8Ua3q+Sky8ei/CeWxuoiyg43M6Ri5oF0ouS33zPD4LMJJJKlOOpT+2CrZooK644TQZF6zTShVNT+K0K+7v1PHzkiIpR6sGlvYEyoO9VzU2lg0NFUgFfjXOS4z+KlevxE68YAw==",
+            "page_age": "372 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Top 20 Real Estate Agencies in Australia: Expert Reviews & Insights",
+            "url": "https://www.starinvestment.com.au/top-20-real-estate-agencies-australia/",
+            "encrypted_content": "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",
+            "page_age": "372 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Top 20 Real Estate Agents in Sydney, NSW",
+            "url": "https://www.salebyhomeowner.com.au/realestate/top-real-estate-agents-sydney-nsw/",
+            "encrypted_content": "EugPCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDE2Vddho2owRerE5YxoMyBeFOQUU78Q+fv50IjCK5AsJYxXVab97QPE+Aav5BqaO0xITjgF8szqRwkKq4CpwySaoeDtztSH7mkrSyL4q6w6uXPXD8g+mjQmjd9gm/E85h7mttQkwmKc+MTfGvJLrTYiB3xH7XFVXbOoZTKmvFoRMtutl20JQ6m6xOTBbdAPbxCHqQQl0lrVMmMRVzVMIfencdEp90JzCe51jCLPtfdBKO5gIS+KnlSIzPVuTmVxRbBY+X5GdX7ILcVLwXM6NCeBjq+H2y7E2JuAYb3wZLgmPCwh3AMcLq4NBOjV6kZbvhBV85HPOcSmlcycL6L2nJW1vsAR/RSicu+qi3E+o5o77dyeE29O1HVf5EXTugEfzPgOXNX6D3aXJwcFtcG4Eoh52/M1B9WeCFLi3/2ntRZgKlWSqrg/r+F9vJ2oQ7u0pA0pjE/hoMTYyOoY79VnmTHy2biaCaicBVvUFQXCVhsdBmBpP65Hx4ne7gILhEfvfk5TSSLZYusb+E+QUhO4HCf/aYB2LJoE4EU9p6EtXOhb33Be5T1ujkDsA4/q0HMz69Xvy/AvBg+UZv0BgEVeQq4i5toq3Jns62Roy4U2s0iUE5jtfK+VVw9duku99LHMiYsbkOOWsP2jyz0ZWG0tx6ISf1Zslgb8AsajysYy9tG5UhFVRCHpRL9414tVbs1gCAVHi5k/ku45GOcvc7awmu3getCyXCwONr3yg26SdG4Uo/pzWkk7cJ0SCjFV/qZnhgDy3K32m7ceIT/lZiDVGz8a2fQ3DU3ZYgK5Fid/Iubssm9qrzpNzjQ5x124YNMn88kCDAIW63OoKd+mQeUKgTg9/FW0CBkU/57l/MIrc/Ltkt6NHF9QdyDF/oGXowwdtLN02LnmDzpbHqwE+e2vpkJbgFi3fxfJumij5y4hFpyYqAGhbrrEAFegLCCYf7glBaRQfuryL9sEvy5XL9twVJ6qxi5TI3fmZEaeuKFmf1amqwqqvd3Mn4CAxi1JCPiOekrdbb+jOkmSwVWy8HzTqqgo3FlaNKuu07BNvQZYQXmNt8UDiC1ikDLzCUm+lHUiFbCENu6NmQWsdjtC0XrGODxlk2jKOQVESgLN2/m7UmRjfEUqb/gTCAjoIlnya7RDLHNU7YWjVscwhUFjhdhMF/puKvfQ8AP0sjGjE1hMWMUgv65VjtCC1OVRLiDP+55s7z36Ig8RqSXCBfFeGN5xeoMCJ4amngbBwLaz7dD5+aeqrMEqVE9yXxIQForCazvWIKqbUuUNBbVw/lVld01OhyRTVnjjupDVBfLezOn8neznKbvUwS8PmKqbk1vV2q2JhDDmo7sWALzgVUCq6eKe6CJh+Ugo5ipj3eEO6tIXVP8zs/yG1Q9XciP4QNzWBq+5kqt1tG0ILK3H6JyD7v55Oc3uq7VADm4kg4iNoh7oiPtSNDOZ7DmX+yiVGKJX60CT5wwNFdStwU82xbNv0S624pV0iO4+7LO3c8D2FQOBPbSQpRLP//JwOQmI6Tw1BU+jVl3Wy/VAPQNJIN97ribnKyQU0qM8j9JqNYGjieVAf5Ex75QguJquCidg+RwJ/lXK3icRXMsf4Xt03Qp9s1446SevVwG2P3ULiZd431gAttj+5AXy18o3Mc64GpNCWiqy5I3bDAXUKTNhw3gL+RXTUW1jg6vNMGOWxGI4q108jtTLX2XO/vg8/Dd2mPlQtHT+hzy/FMwrh/CKaGMkLDZuH/SzTtN9ngT6suBI6JC0zTxbXX1vhsZcBy/ywzVlDkfLCYdwcvnhUoc9T8CJ3uosJOioDLdCUJ809SgzEZjkCxYxSgUJXOS80geFDIArY9uTSTOZj//psl40YZfvVZYqsK7HDt+udcsJKp/m9j9OdW7dqr8+5eyY2RAKCR3QVvoy/AAN/6ynfVY9L3XhYisybaDS4CLHX+Q1SZxdxamNrx1r74ygDR75j/rHt+CptUAay1E7kOTgxLbWkh1VE53/VbQ1utIBbk1xfBDuKpdHNnxUJRf/TcUF66t61O2fznhjr6SmSaRNxwIHOVrR2tvDmRFOS9eM0KGo4ZwB/erPEuNhM5VRis6Rh0JLmbiEIIGChzjD1mf3C41Aw276Ughyz/kJ6OaIlhw10uc7OStQ9ahmQdPdYvchSAL3F9RTu0GQhQvWDiIWeUq3BH95iMkqePxL8VjS6I5Naa8YMVoda+N1Cg2RsDTQw3QAjJPgu4mViJfA8HYGw5y9LwBInVGD1++sVlpcBbYeQao9BB/0eiJPJ/hEHcXwsMWlWcE6kLVCY1BFOlv79bxUooykiUIQ23bp4lQxLjG+yot1qLyprHtz3nWNauDmkWZoVqeuAzdRrBu6bANjMjkOvpuv5d9g8FTYatyf9RxczO3miROKcAI6Mp0Z+R/hwWsZo9czHKyig3HRmU7L4HlzT7KHA4VuBWCQxUcY5SF+9/g+pFnijSDP33WhdK485tdPcnIzplJiD4D95BiRcdJ/pAUUr+V6G8jzr+4L8Vm+e8AVFYZnzvnUYoQkR2/5Sv1BKBQNDQmMDMBFg2kcFLsTOQPFMGf80eco4/a+VTg8tC7lOx3f6H+7ZkajMPFrl4A5ucLQKYkP9L6fSDbAXlFBQGrsYAw==",
+            "page_age": "495 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "The Best Residential Real Estate Agents in Sydney, Australia",
+            "url": "https://best10realestateagents.com.au/sydney/best-real-estate-sydney/",
+            "encrypted_content": "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",
+            "page_age": "2961 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "LJ Hooker",
+            "url": "https://en.wikipedia.org/wiki/LJ_Hooker",
+            "encrypted_content": "EqIICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDOofpMLjQojVXDr6ZBoM7Befjr0ufUDvCeI1IjAieAFo0Rv6Y5C6nGaP01y8/1IZeDnebncX4cuBFMuOOjINCpDVzQRoReJgS33/ujYqpQc62xtTv78tzcEHGYsMbdRoTZ8tpVnt6i9PsqE0R5hFbKVj1g/2oNJv8k5t5D+P1rv1Dw8lEXpeYQoEtfzaltv2F2XhFaEvfKeCX9s5wtUNw9kwm5lFf1z/MsvWvXpT7RK4yy3UZpJP20eyp9xAFSAyDf4mI031PBLukq9l6cUeqFCY1Oz+jMI1Yb6E37+cQXgqmkfrE/yqNEWULtbp7625YLFuTsbK8J7KdXDepwJCtgjJefyJUMBw5wTi58N58PE+ntG0w31kdpnXL7UCrksGKxSWKa6TL2ddz5eBcP+2G9n1GNXuk7yFfyLLGC60bS1vJlcCX00qhyKr31LFWviw1Z+0rA5s+ZEFVaD2hFV5I1wCa8gDtPyUVIXgKlWIpJn3pTbnwYjYWGQh+hdl+C89ix7L8M6MpltaFVO3c5E4eSKkFJ5F+7RTRrDBcTSjQmPAy1dYLcvGL1spR0CF9qcCKITRrdzlJeLJLDhT5oQyuEtRRPwWae196IW+do0tbHscgxNoUYgbpQ9gHIiZQhqo6R37Mex1oeM6q8R0bYUL1QKdZuJwOnf273DQiRMFVj25CgYK1M25Zo+2XHjaSEpWIi5D2GJdLGPzwb2C4I1GrDkp02bYAkmG5N1IwdmV9YFxQcQm8iXIjpKJcNAqRmldLR07mDf/j49yTsfgWvjfGEPoYx0Z+o8/Ht8HF4TqaJ6xRb3WA+Y6+YZiVhhAzhfYGo/R2KnLxgPTbRFdSAL4cSSELPyrLODZpDOwruBAwI+1gOgY9sBkGJ9HYR3XLGNUzl4nerJxRngbO0XDvhg5vJFjVZMMd7GkuBXr+DkcJfkpL5dbWMU2rX5404fh5uRxhwq65zb3h4lI54vaQljxnaDGcBhLO8WfrcOE/fNoynSo4RENtiUyePdOIJUUjQTL9mNNMw7C0BIZ/vYWFP21u4bAANvG+T2jmv2yfexWhE7OOn3h7dmBk7mBSw7BL4JzBycFaNSDoylfnsCnkK1tNrTMKv1x5HrvpiqY8pjwijA3lKACYm4HELdM6TDtAG5u2UOp8sKwM25CZ6tA+Put+Xlmw/KXPo2j0MZI30TMYEw/VkNudluH0Ml1O2pGF0y6wXiIkFx4fI/qn+AGZErzWcTfgIPR1iaE8EHyggZlftHOCgreg2T7Du3QZiawZs4DYc7aH5iUBYaA/lggooHk3p2oW543J70z3cXw8hk2r2JIDAHU9+xmaYnYzd9nHNJiuV55oMAYAw==",
+            "page_age": null
+          }
+        ],
+        "caller": {
+          "type": "direct"
+        }
+      },
+      {
+        "type": "text",
+        "text": "Great — here is a comprehensive overview of the **top prestige real estate agencies in Sydney** best suited for a $10M luxury residential sale:\n\n---\n\n## 🏡 Top Prestige Real Estate Agencies for a $10M+ Sydney Property Sale\n\n---\n\n### 1. 🔑 **Sydney Sotheby's International Realty**\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "From its beginnings as one of the world's finest art auction houses, Sotheby's has developed into a world-leading provider of luxury real estate throu...",
+            "url": "https://sydneysothebysrealty.com/",
+            "title": "Sydney Sotheby’s International Realty",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDGx9ajPGU7i/KWeBVRoMoq0DScCbf/YNMmNFIjCtd9FpGIbYqCPhqNVKPzk8dgLuk2bhRoZNQSzujkx1Ntz3USQnjGlB5ACHBdW9WjsqFVmxMNdLbAyYgeItFLWgJZyP/aqtixgE"
+          }
+        ],
+        "type": "text",
+        "text": "From its beginnings as one of the world's finest art auction houses, Sotheby's has developed into a world-leading provider of luxury real estate. Today, the company's global reach spans around 1,100 offices across 86 countries and territories, with nearly 26,000 independent sales associates worldwide."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "** **Sydney Sotheby’s International Realty**\n\nSpecializing in luxury real estate, Sydney Sotheby’s International Realty offers premium services for hi...",
+            "url": "https://www.salebyhomeowner.com.au/realestate/top-real-estate-agents-sydney-nsw/",
+            "title": "Top 20 Real Estate Agents in Sydney, NSW",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDFJXI3uTp7pr3a3u7BoMCY40x3wpxfllzcE7IjAIKlRKjyn4hwPNouFr85vXLIduV4hrsszRnFpAoy/4dRg6u5P5DCbly80V+5Wt+lQqFZ82+4/Mc7Opq8jXgwSAAPwvvJNs9xgE"
+          }
+        ],
+        "type": "text",
+        "text": "Specialising in luxury real estate, Sydney Sotheby's International Realty offers premium services for high-end properties."
+      },
+      {
+        "type": "text",
+        "text": " Their global network is a key advantage for attracting international ultra-high-net-worth buyers.\n\n---\n\n### 2. 🔑 **Christie's International Real Estate (Ken Jacobs)**\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "**Ken Jacobs (Christie’s International Real Estate)**: A veteran in the luxury market, Ken Jacobs is synonymous with high-end properties in Sydney. Hi...",
+            "url": "https://hcacademy.housecollective.com.au/luxury-real-estate-agents-in-sydney-masters-of-prestige-and-exclusivity/airbnb-management-sydney-and-central-coast/",
+            "title": "Luxury Real Estate Agents in Sydney: Masters of Prestige and Exclusivity",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDPhST9pCjViBjzcNQRoMQUIAIZfqY/ypWfuvIjCmFwwDl1+1R/4MAoQYhZhkYS1z30oJPVuXchP6xu237C5MAS3YgzFvg4RrZ/8qqggqFWjm3rpjmw+DyTIk8mRVNpRWxpfzghgE"
+          }
+        ],
+        "type": "text",
+        "text": "Ken Jacobs of Christie's International Real Estate is a veteran in the luxury market and is synonymous with high-end properties in Sydney. His portfolio includes some of the most expensive homes ever sold in Australia."
+      },
+      {
+        "type": "text",
+        "text": " Christie's brand is globally recognised and caters exclusively to the top end of the market, making it a natural fit for a $10M+ listing.\n\n---\n\n### 3. 🔑 **Private Property Global (Forbes Global Properties)**\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "There is no more definitive statement that underscores the standing ...\n\n# Private Property Global Luxury real estate agency in Sydney, Melbourne and ...",
+            "url": "https://www.forbesglobalproperties.com/members/private-property-global",
+            "title": "Private Property Global, Luxury real estate agency in Sydney, Melbourne and Gold Coast, Australia",
+            "encrypted_index": "EpIBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDLc8jmsR0fA8JCKKEBoMCAXgmEi/SSeG3i9aIjDfks1gWcEoQs1LjlGS/5/9IRZ6cfoq2V9laNLpOSkFOHf2ygVX/hwi9V6G8lwVCnkqFlMOFqgyxKlfwrAePvotwsLPH21gucYYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Private Property Global was established as an international bespoke advisory service for owners and buyers of trophy homes and homes of historical significance and architectural merit. The team has 20 years of record-setting, recalibrating the Australian price benchmark 4 times and achieving the highest annual Australian sale in 9 of those years."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "We are the only Australian based residential real estate agency that specialise in the sale of property above $5,000,000 without geographical boundari...",
+            "url": "https://www.forbesglobalproperties.com/members/private-property-global",
+            "title": "Private Property Global, Luxury real estate agency in Sydney, Melbourne and Gold Coast, Australia",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDBd+gR1d4SsUVw59mhoMRfuANw4DutsC/5c+IjBcyKpzRRaZm97Om7aBe204kuCazC4jRJtPWHoX8oPHpaIEkdsjSAllGgy9AAAzMGUqFASFYZuM3sXuZ6VBOjTslep6M/hyGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "They are the only Australian-based residential real estate agency that specialises in the sale of property above $5,000,000 without geographical boundaries."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n### 4. 🔑 **Knight Frank Sydney**\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Knight Frank Australia\nKnight Frank Australia\n\nKnight Frank is a global real estate powerhouse with a strong presence in Australia, particularly in th...",
+            "url": "https://www.starinvestment.com.au/top-20-real-estate-agencies-australia/",
+            "title": "Top 20 Real Estate Agencies in Australia: Expert Reviews & Insights",
+            "encrypted_index": "EpIBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDIxFPsdfdP6vf2+dqxoMOVCec4iAppZNc1c4IjBTT3RkVPmRMDH+JmRlwECw+Vi1uLGcUI2nifz2mLKnQJbDT7yx8fwvPe8gpWKbURkqFnYUWYHCannEdLHqGMPBd1u7wXQC4EAYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Knight Frank is a global real estate powerhouse with a strong presence in Australia, particularly in the luxury residential and commercial property markets. They are known for their expertise in high-end properties and handling some of the country's most exclusive real estate transactions."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "One notable achievement in 2023 was the sale of a $30 million mansion in Sydney’s prestigious Vaucluse neighborhood. The sale was orchestrated by Knig...",
+            "url": "https://www.starinvestment.com.au/top-20-real-estate-agencies-australia/",
+            "title": "Top 20 Real Estate Agencies in Australia: Expert Reviews & Insights",
+            "encrypted_index": "EpQBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDJaZzFbc1E9Qgu5l/BoM8EmSArtGKczMP7bgIjDON9WeialmXpECLN/vubs0SLQRAdQDoLW4qozXGWvA3rn1bZplqS/64731POrWfXoqGNOoFEpTxC1XUpF/cJDK0EownqJh5ohHshgE"
+          }
+        ],
+        "type": "text",
+        "text": "One notable achievement was the sale of a $30 million mansion in Sydney's prestigious Vaucluse neighbourhood, which attracted international attention thanks to their extensive global network of high-net-worth clients."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n### 5. 🔑 **McGrath Estate Agents**\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "### McGrath Estate Agents\nMcGrath’s niche in the luxury property market allows it to achieve an estimated annual revenue of $424.2 million (growjo.com...",
+            "url": "https://entryeducation.edu.au/blog/australias-largest-real-estate-agencies/",
+            "title": "Australia's largest real estate agencies - A guide for agents - Entry Education",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDMdcoqMv9SP0atpFIRoMgyDCRogTMz4uxbxzIjBMH9YqnWmWFwvVYGgmCUrS8JyQtDvbPUTumE75Ip2+LTWqmRZJ2HaDEVwzwE1vGQ4qFOGdspha9TceJ6EwL+aRIScEUOZqGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "McGrath's niche in the luxury property market allows it to achieve an estimated annual revenue of $424.2 million."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "McGrath Estate Agents\n- McGrath completed over 20,000 property transactions in 2023, with a total sales volume of AUD 25 billion. Notable sales includ...",
+            "url": "https://www.starinvestment.com.au/top-real-estate-agencies-australia/",
+            "title": "Top 18 Real Estate Agencies in Australia: Ranking the Best in Property Services",
+            "encrypted_index": "EpIBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDMWDO/ZejiqS5VauSxoM7KbEyLrdX2b8Fy7VIjAdYDy3UMM4agmkG0WpP2Zduut/z7hA4LvXkx4sQOvZ5MdFESksRZ2aA2VguOI1vO4qFu66uhFwgK7nfcEFlqh6BsxpZqf+wfEYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "McGrath completed over 20,000 property transactions in 2023, with a total sales volume of AUD $25 billion. Notable sales include a beachfront estate in Sydney's Eastern Suburbs sold for AUD $15 million, reflecting McGrath's dominance in the luxury real estate market."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n### 6. 🔑 **The Agency**\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "The Agency\n- The Agency completed over 20,000 property transactions in 2023, with a total sales volume of AUD 15 billion. \n\nA notable transaction incl...",
+            "url": "https://www.starinvestment.com.au/top-real-estate-agencies-australia/",
+            "title": "Top 18 Real Estate Agencies in Australia: Ranking the Best in Property Services",
+            "encrypted_index": "EpQBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDBc7EIeIo3AkN5V21BoMvMqa6VhIIxzrZPZLIjBzsyPV1MK8NhYbp66j9f2CuphYug0DVgOvMoU+dHApJCEpILP3an8D6XjEu8AEWI8qGHcHaOFeYIFol6+EFRkMxlo0EFQrVgfCFBgE"
+          }
+        ],
+        "type": "text",
+        "text": "The Agency completed over 20,000 property transactions in 2023, with a total sales volume of AUD $15 billion. A notable transaction included the sale of a waterfront property in Sydney's Eastern Suburbs for AUD $10 million, underscoring their expertise in luxury markets."
+      },
+      {
+        "type": "text",
+        "text": " They are also known for appearing in some of Sydney's biggest recent off-market prestige deals.\n\n---\n\n### 7. 🔑 **Belle Property**\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "### Belle Property\nBelle Property positions itself as a lifestyle real estate agency for luxury residential property sales. \n\nBelle Property is a rela...",
+            "url": "https://entryeducation.edu.au/blog/australias-largest-real-estate-agencies/",
+            "title": "Australia's largest real estate agencies - A guide for agents - Entry Education",
+            "encrypted_index": "EpIBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDAhQ7Uj8lvHhqbaMjhoMGOuJ8xEc0uIZHhbTIjBj1ec/BdTn4esqrFNx+s209hwvXqQ0U1vLTwQoNHB1Ly0N0gtGmULTKzuyk9JEwV4qFogL00iSLKw7dOcg0LyxnwSVmyVP+dkYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Belle Property positions itself as a lifestyle real estate agency for luxury residential property sales, with a unique focus on delivering boutique real estate services that are highly personalised to their discerning clientele."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "This shift in business model has led to its rapid expansion past Sydney’s borders to over 170 offices across New South Wales, Victoria, Queensland, So...",
+            "url": "https://entryeducation.edu.au/blog/australias-largest-real-estate-agencies/",
+            "title": "Australia's largest real estate agencies - A guide for agents - Entry Education",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDPROcLKWwGaqV10nlhoMqTSKD4M/MDNGA6xzIjCyv4ZN/4aFNywXawxYbPMRP9vVKZ59SovEcnnyiv8Jk4pS39OZzzbt4dS0kEI49QQqFEZOATx7wDRk2B1k4C9B/SzPE3hVGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "Their franchise model has led to rapid expansion past Sydney's borders to over 170 offices across multiple Australian states and territories."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n### 8. 🔑 **Savills Sydney**\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Savills offers high-end real estate services, specializing in luxury properties and commercial real estate. ",
+            "url": "https://www.salebyhomeowner.com.au/realestate/top-real-estate-agents-sydney-nsw/",
+            "title": "Top 20 Real Estate Agents in Sydney, NSW",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDEdsNqxkfDhLynGroBoMdAS+orpdVZ4IYENnIjDGQmAJQi4EsdsJtLd81kRX0Updam0N1htOihVdkAuK1nVXUdx7SRBA2tERjBd4l90qE1196tTiw7MwaXqceTw7fISBsdEYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Savills offers high-end real estate services, specialising in luxury properties and commercial real estate."
+      },
+      {
+        "type": "text",
+        "text": " As a globally established brand, Savills brings strong international buyer reach and deep market intelligence to prestige residential sales.\n\n---\n\n## 📋 Key Tips for Selling Your $10M Property\n\n- **Suburb matters:** "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "# Luxury Real Estate Agents in Sydney: Masters of Prestige and Exclusivity\n### Sydney’s Most Prestigious Suburbs\n- **Point Piper**: Known as one of th...",
+            "url": "https://hcacademy.housecollective.com.au/luxury-real-estate-agents-in-sydney-masters-of-prestige-and-exclusivity/airbnb-management-sydney-and-central-coast/",
+            "title": "Luxury Real Estate Agents in Sydney: Masters of Prestige and Exclusivity",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDAQoTRaxgVqhtnjLJhoMru80MC5LzyJdcgjpIjBkgcJKCzeu2snbfaKap34mkJ+8OM19hGB3ZzH5mXqhKRTg1bsxlA4N1D0r+rwIyhkqFXrXEjVQgEBYBBeiYJVTW35catNZixgE"
+          }
+        ],
+        "type": "text",
+        "text": "The most prestigious Sydney suburbs for luxury sales include Point Piper (home to multi-million-dollar waterfront mansions), Vaucluse (offering stunning harbour views and sprawling estates), and Mosman (a favourite among celebrities and executives)."
+      },
+      {
+        "type": "text",
+        "text": "\n- **Market is active:** "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "From landmark harbourfront estates steeped in history to state-of-the-art penthouses offering unmatched views of the harbour, these homes represent th...",
+            "url": "https://www.cumberlandrg.com.au/post?post_id=16950",
+            "title": "Sydney’s Most Expensive Property Sales in 2025",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDIZ9+dkYfynFF2OqGxoMyz1EceLavxoC3ssBIjDsqKRexBq7Cb7/V6L3b3VU19NbqrdrzexL4jsHFBl53xF4g17qpK7Wd2tFI9BmeiwqFStt+Uuea64TUh14oIM09ud8/NFIcBgE"
+          }
+        ],
+        "type": "text",
+        "text": "Sydney's luxury homes represent the very best of the city's living, and what makes the current market particularly interesting is the diversity of buyers — global business leaders, tech entrepreneurs, and high-net-worth locals — all competing for rare and tightly held properties."
+      },
+      {
+        "type": "text",
+        "text": "\n- **Agent fees:** "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "**It costs between 1.5% and 3% of the property’s sale price to hire a real estate agent in Sydney.** The final cost depends on factors like the agent’...",
+            "url": "https://www.thebestsydney.com/best-real-estate-agents-sydney/",
+            "title": "Sydney’s 5 best real estate agents you can trust [2026]",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDCdlbEJFwX6x7NrB8BoMSiHXEmeenTcVQhJOIjCdKw37mX5UK6q3zF4mqNuwx63LWvo9XgYSDzHCCaL64j22SsgksIZYTls14ZUkZ2gqFShhTJyN3CE8Gg9F6FGFb2MfuI40lhgE"
+          }
+        ],
+        "type": "text",
+        "text": "It costs between 1.5% and 3% of the property's sale price to hire a real estate agent in Sydney, with the final cost depending on factors like the agent's experience, the type of property, and the marketing efforts required."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\nFor a $10M sale, I'd strongly recommend shortlisting **2–3 agencies** for presentations and comparing their recent comparable sales (ideally $8M+), their buyer database depth, their international marketing reach, and the specific agent who would handle your campaign personally. Would you like help crafting questions to ask agents during appraisal meetings?"
+      }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 16251,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1584,
+      "service_tier": "standard",
+      "inference_geo": "global",
+      "speed": "standard",
+      "server_tool_use": {
+        "web_search_requests": 2,
+        "web_fetch_requests": 0
+      }
+    },
+    "diagnostics": null
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "sydney",
+  "pk": "off_market",
+  "plat": "perplexity",
+  "text": "Which luxury real estate agents and agencies in Sydney specialise in confidential off-market prestige property sales and high-net-worth buyer networks?",
+  "loc": 1000286,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\sydney__off_market__perplexity.json",
+  "at": "2026-10-21T05:11:39.760Z",
+  "cost": 0.006276,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 33,
+      "output_tokens": 643,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005676,
+      "datetime": "2026-10-21 05:11:39 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For **confidential off-market prestige sales in Sydney**, the strongest candidates to shortlist are:\n\n- **Propertybuyer Prestige** — A major buyers-agency platform with Sydney prestige specialists, including Munro Donen and William Losch. It promotes silent-listing access, strict confidentiality, discreet inspections and high-net-worth representation, including NDAs and privacy-focused purchasing structures.[10]\n- **Propertybuyer** — Offers on- and off-market sourcing for high-profile and high-net-worth clients, with a stated policy of not publicly disclosing client purchases and access to a curated luxury-property portfolio.[9]\n- **Kincade International Realty** — Based in Double Bay and focused on Eastern Suburbs luxury property, pre-market access and international/high-net-worth clients. It also highlights connections with private banking, legal, lending and cross-border advisory networks.[5]\n- **Ray White TRG — The Rubinstein Group** — A prestige-focused Eastern Suburbs sales team within the Ray White network. It is suited to sellers seeking luxury presentation, tightly managed campaigns, auction expertise and access to affluent buyers nationally.[4]\n- **Blue Ember Realty** — A boutique Sydney luxury agency promoting off-market sales and a private database of finance-ready buyers, with a focus on premium lifestyle precincts and bespoke representation.[1]\n- **Levy Property Group** — A boutique Eastern Suburbs agency specialising in discreet buyer matching and premium off-market sales, particularly around Rose Bay and neighbouring prestige suburbs.[6]\n- **Sydney Cove Property** — An independent prestige agency with a focus on harbour-side homes, The Rocks, luxury apartments and high-end residences. It specifically highlights discretion, privacy protection and access to qualified prestige buyers.[2]\n- **PK Property** — A buyer-focused service with long-established industry contacts for uncovering off-market prestige homes, arranging private inspections and maintaining buyer anonymity.[7]\n- **SIBS Buyers Agent** — Represents buyers exclusively and promotes access to off-market luxury properties, private negotiations and high-net-worth lending connections.[8]\n\n### Best fit by requirement\n\n| Requirement | Shortlist |\n|---|---|\n| **Seller seeking discreet off-market exposure** | Blue Ember, Levy Property Group, Kincade International Realty |\n| **Eastern Suburbs luxury specialist** | Ray White TRG, Kincade, Levy Property Group |\n| **High-net-worth buyer seeking silent listings** | Propertybuyer Prestige, Propertybuyer, SIBS |\n| **Buyer requiring independent representation** | PK Property, SIBS, Propertybuyer |\n| **International or complex wealth structures** | Kincade International Realty, Propertybuyer Prestige |\n| **Harbour, The Rocks or prestige apartments** | Sydney Cove Property |\n\nBefore appointing one, ask for evidence of **recent comparable off-market transactions**, the size and qualification process of its private buyer database, whether it signs NDAs, how buyer identity is protected, and whether the agency is acting exclusively for the seller or buyer. Claims such as “exclusive database” or “off-market specialist” should be verified against recent settled sales and references.",
+              "annotations": [
+                {
+                  "title": "Blue Ember Realty | Premier Luxury Real Estate Sydney ...",
+                  "url": "https://blueember.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Sydney Cove Property",
+                  "url": "https://qxweb.com.au/en/company/sydney-cove-property-1",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Buyers Agents in Sydney (2026) – Ranked & Reviewed",
+                  "url": "https://whichrealestateagent.com.au/buyers-agent/best-buyers-agents-in-sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "7 Best Real Estate Agent Sydney Picks for 2026 - gregory.agency",
+                  "url": "https://www.gregory.agency/best-real-estate-agent-sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Sydney Luxury Property for Sale: What Serious Buyers Must Know - Real Estate Sydney NSW | Kincade International Realty",
+                  "url": "https://www.kincadeintrealty.com.au/blog/property-for-sale/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Real Estate Agent in Rose Bay | Levy Property Group",
+                  "url": "https://www.levypropertygroup.com.au/suburb/rose-bay/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Prestige Property",
+                  "url": "https://pkproperty.com.au/prestige-property",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Prestige / Luxury Buyers – Sibsba",
+                  "url": "https://sibsba.com.au/prestige-luxury-buyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Prestige Real Estate | Luxury Property Buyers Agents Sydney",
+                  "url": "https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Prestige Property Buyers Agent | Propertybuyer",
+                  "url": "https://prestigepropertybuyer.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

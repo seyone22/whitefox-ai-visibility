@@ -1,0 +1,226 @@
+{
+  "slug": "peninsula",
+  "pk": "architectural_projects",
+  "plat": "claude",
+  "text": "Which prestige real estate agencies in Mornington Peninsula are the market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing?",
+  "loc": 9056918,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\peninsula__architectural_projects__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:20:45.548Z",
+  "cost": 0.085783,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 18306,
+      "output_tokens": 1351,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.085183,
+      "datetime": "2026-10-21 05:20:45 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Based on the search results gathered, here is a comprehensive overview of the prestige real estate agencies that are market leaders for luxury properties, off-the-plan developments, penthouses, and architectural project marketing on the **Mornington Peninsula**:\n\n---\n\n## 🏡 Prestige Real Estate Market Leaders – Mornington Peninsula\n\n---\n\n### 1. 🥇 **Peninsula Sotheby's International Realty**\nPeninsula Sotheby's International Realty is widely regarded as one of the most prominent prestige agencies on the Mornington Peninsula. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Agents such as Rob Curtain and James Hallahan at Peninsula Sotheby's International Realty are consistently presenting and marketing some of the most exceptional luxury listings across the Peninsula, including landmark estates in Flinders, Red Hill South, and Balnarring.",
+              "annotations": [
+                {
+                  "title": "Luxury Properties for sale in Mornington Peninsula Province - LuxuryEstate.com",
+                  "url": "https://www.luxuryestate.com/australia/victoria/mornington-peninsula",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Luxury Properties for sale in Mornington Peninsula Province - LuxuryEstate.com",
+                  "url": "https://www.luxuryestate.com/australia/victoria/mornington-peninsula",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " As part of the globally recognised Sotheby's International Realty brand, they have an unrivalled reach for high-end buyers both domestically and internationally, making them a natural leader in off-the-plan and architectural project marketing.\n\n---\n\n### 2. 🥈 **Kay & Burton**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Kay & Burton is a leading luxury real estate agency operating across Melbourne and the Mornington Peninsula, specialising in prestige property for buying, selling, and property management.",
+              "annotations": [
+                {
+                  "title": "Luxury real estate Melbourne",
+                  "url": "https://www.kayburton.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Leaders in real estate since 1938, Kay & Burton has positioned itself as a trusted advisor to the most astute private clients, families, and institutions, creating enduring value through specialist knowledge, impeccable service, and extraordinary results.",
+              "annotations": [
+                {
+                  "title": "Luxury real estate Melbourne",
+                  "url": "https://www.kayburton.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "With strategically placed offices throughout Melbourne and Victoria's Mornington Peninsula, their sphere of influence connects ultra-high-net-worth clients across Australia and internationally in Singapore, Hong Kong, China, New York, London, and Dubai.",
+              "annotations": [
+                {
+                  "title": "Luxury real estate Melbourne",
+                  "url": "https://www.kayburton.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " This global network makes them particularly well-suited for luxury off-the-plan and penthouse project marketing.\n\n---\n\n### 3. 🥉 **Danckert Real Estate**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The Danckert Real Estate team specialises in the marketing and sale of luxury and lifestyle properties across the Mornington Peninsula.",
+              "annotations": [
+                {
+                  "title": "MARKETING YOUR PRESTIGE PROPERTY",
+                  "url": "https://danckert.com.au/article/marketing-your-prestige-property",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Established in 2017, Danckert has grown into a leader in Mornington Peninsula real estate, with over 50 years of combined experience and an intimate knowledge of luxury homes and premium real estate.",
+              "annotations": [
+                {
+                  "title": "Mornington Peninsula Real Estate Agents",
+                  "url": "https://danckert.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Notably, ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "they have partnered with LuxuryRealEstate.com to advertise premium listings to an international audience, and have successfully sold properties to buyers in Singapore, America, England, Italy, Hong Kong, and Malaysia.",
+              "annotations": [
+                {
+                  "title": "MARKETING YOUR PRESTIGE PROPERTY",
+                  "url": "https://danckert.com.au/article/marketing-your-prestige-property",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. **Abode Peninsula**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Abode Peninsula is an authentic, Mornington Peninsula family-owned agency established in 2010 with a strong desire to create real estate excellence and make a positive contribution to the local community.",
+              "annotations": [
+                {
+                  "title": "Abode Peninsula Real Estate Agents",
+                  "url": "https://www.abodepeninsula.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their dedicated and experienced team work with integrity in all areas of real estate, aiming to help clients achieve premium results in residential sales and property management.",
+              "annotations": [
+                {
+                  "title": "Abode Peninsula Real Estate Agents",
+                  "url": "https://www.abodepeninsula.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are known for boutique, personalised service in the prestige residential and development space.\n\n---\n\n### 5. **One Agency Peninsula**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Specialising in all residential property sales including rural, marina, subdivision, and developments across the entire Peninsula, One Agency Peninsula's agents are experienced professional senior agents who combine as a powerful team to consistently achieve outcomes for their clients that meet and exceed expectations.",
+              "annotations": [
+                {
+                  "title": "One Agency Peninsula",
+                  "url": "https://oneagency.com.au/office?office_id=185",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Their coverage of subdivisions and developments makes them relevant to off-the-plan project marketing.\n\n---\n\n## 🌟 Key Takeaways\n\n| Agency | Strength |\n|---|---|\n| **Peninsula Sotheby's International Realty** | Global luxury brand, architectural & prestige listings |\n| **Kay & Burton** | Ultra-high-net-worth clients, international reach, since 1938 |\n| **Danckert Real Estate** | Boutique prestige marketing, international buyer network |\n| **Abode Peninsula** | Family-owned boutique, residential & development sales |\n| **One Agency Peninsula** | Broad development, subdivision & project coverage |\n\n---\n\nFor **off-the-plan developments and penthouse project marketing** specifically, **Peninsula Sotheby's International Realty** and **Kay & Burton** stand out as the most internationally connected and prestige-focused agencies, while **Danckert Real Estate** is a strong boutique contender with a growing international buyer pipeline. If you'd like more detail on any specific agency or suburb, feel free to ask!",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "prestige real estate agencies Mornington Peninsula luxury off-the-plan developments market leaders",
+        "luxury penthouse architectural project marketing Mornington Peninsula real estate agencies",
+        "Peninsula Sotheby's International Realty off-the-plan penthouse project marketing Mornington Peninsula"
+      ]
+    }
+  ]
+}

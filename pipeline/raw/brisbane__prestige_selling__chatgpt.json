@@ -1,0 +1,700 @@
+{
+  "slug": "brisbane",
+  "pk": "prestige_selling",
+  "plat": "chatgpt",
+  "text": "I am selling a $10M luxury residential property in Brisbane. Which prestige real estate agencies have the strongest track record for high-end home sales?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\brisbane__prestige_selling__chatgpt.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:15:11.769Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "I am selling a $10M luxury residential property in Brisbane. Which prestige real estate agencies have the strongest track record for high-end home sales?",
+      "location_code": 2036,
+      "language_code": "en",
+      "model": "gpt-6",
+      "check_url": "https://chatgpt.com/?prompt=I%20am%20selling%20a%20%2410M%20luxury%20residential%20property%20in%20Brisbane.%20Which%20prestige%20real%20estate%20agencies%20have%20the%20strongest%20track%20record%20for%20high-end%20home%20sales%3F&hints=search",
+      "datetime": "2026-10-21 05:15:11 +00:00",
+      "markdown": "For a \\$10 million luxury home in Brisbane, I would focus on agents with a demonstrable history of selling **\\$5 million–\\$20 million-plus homes**, rather than simply choosing a large real estate brand. At this price point, the agent's personal negotiation record, relationships with high-net-worth buyers, discretion and ability to create competition can matter more than the agency's overall sales volume.\n\nMy research points to several strong candidates, with **Ray White Collective Luxury's Matt Lancashire and Adcock Prestige's Jason Adcock** standing out for their publicly documented experience with Brisbane's top-end residential market. Here is how I would shortlist the agencies and what I would verify before signing an appointment.\n\n## My shortlist of Brisbane prestige agencies\n\n![Matt Lancashire - Principal - Ray White New Farm](https://images.openai.com/static-rsc-4/PXmJXB-zv2HFF7ZJbCDy5J-ezRuWRl9_tTUdY-PmZxy5b0VWpiyqmrwAmAfLe3fCWdLFumHmg1t_AqpOvLjtmbulxwd3IdgGOr-VpiSndeYzNVKH54sr9Q5LOtig4FYMfxc0uyHo_ZUQaytPNFI7hYLB2N740HNO1gIfvyMEWv2ybkCJ4kZJgl4HqmvlmbRF?purpose=fullsize)\n\n## 1\\. Matt Lancashire — Ray White Collective Luxury\n\n(Strongest documented \\$10M+ sales record)\n\n**Why consider them\\:** The clearest publicly documented match for a \\$10 million Brisbane house. Ray White reports that Lancashire has completed \\$1.5 billion in residential transactions over 20 years and lists multiple sales between \\$11.75 million and \\$20.5 million. The agency now focuses exclusively on properties valued above \\$4 million. [www.raywhite.com](https://www.raywhite.com/news-media/matt-lancashire-launches-new-era-ray-white-collective-luxury?utm_source=chatgpt.com)\n\n**Best suited to\\:** Trophy homes, riverfront estates and architectural properties where access to qualified affluent buyers is essential.\n\nWebsite: [Ray White Collective Luxury](https://www.raywhite.com/news-media/matt-lancashire-launches-new-era-ray-white-collective-luxury)\n\n---\n\n![Jason Adcock - Adcock Prestige](https://images.openai.com/static-rsc-4/Xq9QSkkCvY2eCMiwtZZU-1hZ_bUVTdOTrBMkavCjHOK-6JopxVFZKCmrjAMZSU_3wpAzliXY1BQh4MiJ3kbhkrJ0ZnHYacPLy6VavTJxKJFvD0-3eJHCcNV_j5-iDNEDygjj6OSxejYbBsJjc_1sJwNwJVv_HHNj_IfzFj5Rwh-BR1uJTelWCxi5XUCVJpYv?purpose=fullsize)\n\n## 2\\. Jason Adcock — Adcock Prestige\n\n**Why consider them\\:** Adcock Prestige reports more than 25 years of experience in Brisbane's prestige market, including numerous sales above \\$10 million, riverfront homes and suburb-record results. Its boutique positioning may suit owners seeking close involvement from the principal. These track-record claims are published by the agency itself. [prestigeproperty.com.au](https://prestigeproperty.com.au/jasonadcock?utm_source=chatgpt.com)\n\n**Best suited to\\:** Riverfront residences, distinctive architectural homes and sellers wanting a specialist boutique agency.\n\nWebsite: [Adcock Prestige](https://prestigeproperty.com.au/jasonadcock)\n\n---\n\n![From science to selling: Sarah Hackett’s impressive rise to the top](https://images.openai.com/static-rsc-4/P0U1UX5DAfVozAKa6IGtEV0Wuyrzg-LpF53dUByIoG5_SDisGCvtzipYmtC3M8Js-jiQ_TN6Q_FABk0wUPPpCJjdXtoFfTV02avnWEOh3XtP_gUJTLX9YujfbJmttOMYD7KEM6Mx_w35tQd2g4c7JtXK0YM9U-wOpGRWSJ1rFypYTmJ9079SF2QTqnCOUJdg?purpose=fullsize)\n\n## 3\\. Sarah Hackett — Place Estate Agents\n\n**Why consider them\\:** An independent property-news report identified Hackett as the agent behind the \\$20.25 million sale of 46 Gordon Street, Hawthorne, in 2024. The report also described Place as holding buyers looking for properties above \\$5 million and up to \\$20 million-plus. [www.realestate.com.au](https://www.realestate.com.au/news/qlds-20-biggest-home-sales-of-2024-revealed/?utm_source=chatgpt.com)\n\n**Best suited to\\:** High-end inner-east homes, riverfront properties and campaigns requiring strong local buyer relationships.\n\nWebsite: [Place Estate Agents](https://www.eplace.com.au/)\n\n---\n\n![Damon Warat - Director | Selling Principal - Ray White Ascot](https://images.openai.com/static-rsc-4/DNa5hTlSEGB2Ttwp_6gJwNXBz2ztQRtZ_zAJwIij1sW617oc79eu5r_k2WWxXSIHhxaPbyWER4No0WRUyiYpbJtNyixQFsPVDw3D-FVB-gTihKPgjDqSmMX56VcWu2G2ammyiG2g1ZSYPntSCTKDFtf7lyC-snzrwQy9tZPdsHztufWZ8weGGqEaKAierqYm?purpose=fullsize)\n\n## 4\\. Damon Warat — Ray White Ascot\n\n**Why consider them\\:** Warat negotiated the \\$23 million sale of 32 Sutherland Avenue, Ascot, in 2024, which set a Brisbane house-price record at the time. That is a directly relevant benchmark for selling at the upper end of the Brisbane market. [www.realestate.com.au](https://www.realestate.com.au/news/qlds-20-biggest-home-sales-of-2024-revealed/?utm_source=chatgpt.com)\n\n**Best suited to\\:** Ascot, Hamilton, Clayfield and other blue-chip inner-north properties.\n\nWebsite: [Ray White Ascot](https://raywhite.com/)\n\n---\n\n![Luxury Real Estate Brisbane | Queensland Sotheby’s International Realty](https://images.openai.com/static-rsc-4/4ZLQvnuz0PR1VmJ083uj63JxFcUWjGmttUOBVhA7GggNYSC_VmOqRgjWBSSRdckep2aaifFtXOCmNBO32kapV8fDVRzK8iwS8xk9BJbPoWdC92b2Ib8v4guMyk-GCWNAbT1paWubLqabEetUcJ7Xd_aGR0hFkbv6wR_Lw10hkrhDDtYiELWzQdWWJlS1uXU7?purpose=fullsize)\n\n## 5\\. Queensland Sotheby's International Realty\n\n**Why consider them\\:** A luxury-focused agency worth inviting to pitch if your property needs interstate or international buyer exposure. Its Brisbane office is in Newstead. I found less independently verified evidence of specific Brisbane \\$10 million-plus house sales than for the agents above, so I would require a detailed, named transaction list before appointing them.\n\n**Best suited to\\:** Internationally marketable luxury homes, distinctive design-led residences and properties likely to attract interstate buyers.\n\nWebsite: [Queensland Sotheby's International Realty](https://www.sothebysrealty.com/)\n\n## What the current market means for your sale\n\nBrisbane's prestige market has been active. McGrath's Spring 2026 report recorded 677 residential sales above \\$3 million in the year to Q2 2026, up 16% year-on-year. Properties above \\$5 million accounted for a growing share of prestige transactions. These figures are encouraging context, but they do not establish what your particular home will sell for. [www.mcgrath.com.au](https://www.mcgrath.com.au/research/prestige-brisbane-residential-spring-2026-report?utm_source=chatgpt.com)\n\nFor a \\$10 million property, I would ask each shortlisted agent for the following\\:\n\n- **Three to five comparable settled sales** from the past 24 months, ideally between \\$8 million and \\$15 million, including their exact role in each transaction.\n- **A credible buyer list\\:** how many qualified buyers they can approach now, including interstate and overseas prospects.\n- **A clear launch strategy\\:** whether to test discreet off-market demand first or launch publicly to maximise competition.\n- **A defensible price strategy\\:** evidence behind their appraisal, not simply the highest suggested price.\n- **A complete marketing proposal\\:** photography, film, styling, digital distribution, campaign costs and commission.\n- **References from recent vendors** who sold properties at a similar price point.\n\nAsk for settled prices and documentary evidence where possible, rather than relying on advertised prices or claims of offers received.\n\n## My recommendation\n\nI would invite **Matt Lancashire, Jason Adcock and Sarah Hackett** to provide competing proposals first. Add Damon Warat if your property is in Brisbane's inner north, particularly Ascot or Hamilton. This gives you a mix of a dedicated ultra-prestige operation, a boutique specialist and a broader agency with demonstrated high-end sales.\n\nI would compare the agents' actual comparable transactions and proposed buyer strategy before deciding; I would not award the listing solely on the basis of an appraisal.\n\n**One detail would help me refine this shortlist\\:** which Brisbane suburb is the property in?",
+      "search_results": [
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.couriermail.com.au/real-estate/queensland/brisbane/work-starts-on-12b-hamilton-grove-precinct-as-brisbane-riverside-boom-begins/news-story/628f2341f8feeff21b02b6505c8a1480",
+          "domain": "www.couriermail.com.au",
+          "title": "Hamilton Grove: $1.2b luxury towers break ground in Brisbane",
+          "description": "Wentworth Equities has commenced construction on the $1.2 billion Hamilton Grove precinct in Brisbane, marked by an official sod-turning ceremony attended by government representatives. Located in the 304-hectare Northshore Hamilton Priority Development Area, the ambitious project includes three luxury residential towers comprising 292 apartments, a 196-room five-star hotel, 3,000 square meters of retail space, and a vibrant public precinct. Executive Chairman Sameh Ibrahim emphasized the project's historic significance and its aim to redefine apartment living by offering suburban-style space and character in an urban setting. Contractor Mainland Civil, known for its work on other high-profile Brisbane projects such as Queens Wharf and Infinity Tower, is leading construction. The Queensland Government is supporting the broader development of Hamilton Northshore with a $154 million infrastructure investment, aiming to add more than $14 billion to the local economy upon completion. Hamilton Grove has drawn strong buyer interest since its April launch, and future development phases, including the hotel, are already in planning. The project aspires to set a new standard for luxury living in Brisbane with its standout “sky homes” serving as its centerpiece.",
+          "breadcrumb": "www.couriermail.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.couriermail.com.au/news/longhurst-property-notches-50-sales-after-launching-independent-townsville-agency/news-story/812e7dd218643e442ea655f8be789ce2",
+          "domain": "www.couriermail.com.au",
+          "title": "Longhurst Property launches in Townsville with 50 deals in year one",
+          "description": "Longhurst Property, founded by Nathan Longhurst, officially launched as an independent real estate agency in January 2026 after previously operating under the Professionals franchise. Leveraging Mr. Longhurst's international sales experience, the agency quickly gained momentum, completing approximately 50 property transactions within its first year. Specializing in various residential properties, the firm expanded from zero to four staff members. The current Townsville real estate market has shifted due to government tax changes, causing a reduction in investor activity and a rise in owner-occupier buyers. This led to a growing inventory of available homes, increasing from 250-300 to 600-700 properties. Longhurst highlighted the importance of property pricing, presentation, and marketing, emphasizing that the right strategy can turn it into a sellers' market. The agency secured a prominent office location at 219 Charters Towers Rd, Mysterton—a former book shop and Asian supermarket—which was purchased for $560,000 and renovated. The property offers high visibility and includes four onsite parking spaces, supporting the firm’s operational needs.",
+          "breadcrumb": "www.couriermail.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.couriermail.com.au/real-estate/queensland/brisbane/519m-snapped-up-before-luxury-brisbane-apartments-even-hit-market/news-story/fc6de581f3b6055621e1da06ce02efa4",
+          "domain": "www.couriermail.com.au",
+          "title": "Aria's Sanctuary Residences: $519m sold before public launch",
+          "description": "Aria Property Group has reported a record-breaking pre-launch success for its Sanctuary Residences project in South Brisbane, achieving $519 million in apartment sales, making it Queensland’s largest apartment launch to date. Remarkably, sales were made without any public advertising, focusing on high-end three and four-bedroom apartments priced from $2.72 million and $4.01 million. Of the 231 apartments available in the first tower, only 86 remain unsold. Designed for buyers seeking spacious, luxurious homes without downsizing, the project has attracted strong interest. The development at 164-190 Melbourne Street includes restoration of two heritage buildings and features expansive amenities such as a wellness club, rooftop bar, and 2.9-meter ceilings. It is part of a larger master-planned precinct with public parks, laneways, and retail spaces. The first tower is set to complete by mid-to-late 2029, aligning with Brisbane's preparation for the 2032 Olympic and Paralympic Games. This overwhelming response reflects growing demand for high-quality apartment living in Brisbane. The remaining units will be publicly released on October 19, with potential price increases expected.",
+          "breadcrumb": "www.couriermail.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.couriermail.com.au/real-estate/dream-homes/chemist-warehouse-boss-breaks-ground-on-record-new-farm-mansion/news-story/0a3d0f4c2a703049d03afcce25495579",
+          "domain": "www.couriermail.com.au",
+          "title": "Graya breaks ground on Brisbane's most expensive house in New Farm",
+          "description": "Celebrity developers Graya have commenced construction on a lavish mansion dubbed “Ivory,” on an exclusive riverfront block in New Farm, Brisbane, purchased by Chemist Warehouse boss Jeff Wasley and his wife Tanya for a record-breaking $25 million in 2025. Designed and built by Graya over 11 months, the home is expected to be worth between $40-$50 million upon completion. The 688 sqm site was previously owned by Graya co-founder Rob Gray and originally intended as his personal residence before it was sold for a $16.5 million profit. Ivory features a five-storey design including high-end amenities such as a luxury car showroom with river views, resort-style pools, rooftop entertainment areas, a wellness center, state-of-the-art golf simulator, and a master suite with 10-meter wardrobes. The house boasts a sleek, neutral finish with white, curved terraces and mushroom-style pillars. Located between New Farm Park and the Story Bridge, the property offers panoramic views of Brisbane’s skyline. This milestone build reflects Graya’s continued influence in Brisbane's luxury real estate market. The Wasleys had previously acquired another Graya-built home in Hamilton for $12.5 million.",
+          "breadcrumb": "www.couriermail.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.couriermail.com.au/real-estate/queensland/brisbane/historic-1884-hamilton-hill-estate-hits-the-market-after-modern-luxury-transformation/news-story/c5b2a903fbc40d805e78de2fe7684b36",
+          "domain": "www.couriermail.com.au",
+          "title": "Inside Katanga: Hamilton's grand 1884 riverfront estate for sale",
+          "description": "Katanga, a prestigious 1884 riverfront estate in Hamilton, Brisbane, is now on the market after an extensive transformation blending historical charm with modern luxury. Located at 25 Langside Road on a 1113 m² plot, the home has been thoughtfully redesigned by Twohill & James, maintaining its original heritage while introducing contemporary, lift-connected living across three levels. Current owners Sam and Brad Hopper, who previously owned a prominent Sunshine Beach property, sought to honor the home's history through elegant updates, including Calacatta Viola marble and travertine finishes. The residence features five ensuite bedrooms, including a luxurious parents' retreat, a self-contained guest wing, and numerous leisure amenities such as a gym, sauna, cinema, alfresco terrace, wet-edge pool, and heated spa. The impressive kitchen and entertaining areas integrate seamlessly with modern family functionality, while features such as a 10-car garage, dual EV chargers, and private office further enhance its appeal. With its sweeping river views and seamless blend of old and new, Katanga is a rare Brisbane gem now ready for new owners.",
+          "breadcrumb": "www.couriermail.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.couriermail.com.au/real-estate/queensland/gold-coast/awardwinning-mediterranean-mansion-eyes-gold-coast-sales-record/news-story/26aa50ae368608a858f71c56048293a9",
+          "domain": "www.couriermail.com.au",
+          "title": "Villa Alcyone: Award-winning Elanora mansion eyes suburb record",
+          "description": "Villa Alcyone, a Mediterranean-style mansion situated on a steep 890 sqm block at 6 Bicton Ct in Elanora, has entered the market with expectations to surpass the suburb's sales record by millions. Designed by Jayson Pate and built by Resolve Constructions, the award-winning home reflects a growing trend of luxury builders tackling challenging vertical sites. The property garnered multiple accolades at the 2026 HIA Gold Coast and Northern Rivers Awards and a Master Builders Queensland award. The four-bedroom, four-bathroom home spans 579 sqm and features high-end finishes such as Italian marble, dramatic archways, and a Sukabumi stone pool, all inspired by European influences during the owners' travels. Interior design was led by co-owner Helen Foukkare. Positioned to maximize ocean views and offering access to popular nearby beaches like Currumbin and Palm Beach, the mansion is drawing interest from high-end buyers typically focused on more traditionally prestigious areas. Although quarterly data shows a slight dip in Elanora home prices, the suburb's annual values rose 14.7 percent, reflecting its evolving luxury market appeal. The Foukkares are already planning another unique luxury build in the Gold Coast region.",
+          "breadcrumb": "www.couriermail.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.couriermail.com.au/real-estate/national/culture-kings-founder-simon-beard-takes-glitter-strip-penthouse-to-auction/news-story/5b779e8542ea24d94191ccb337e9cc6b",
+          "domain": "www.couriermail.com.au",
+          "title": "Surfers Paradise mega-penthouse heads to auction as Simon Beard 'meets market'",
+          "description": "Simon Beard, founder of Culture Kings, and his wife Tah-nee are putting their luxurious four-level penthouse in Surfers Paradise up for auction after failing to sell it at the original $30 million asking price in 2024. Despite receiving strong offers at the time, Beard held out in hopes of setting a record, a decision he now regrets. With falling national home prices and rising interest rates, the couple is ready to meet the market and sell the property to the highest bidder. The exclusive penthouse atop the Soul building includes five bedrooms, seven bathrooms, panoramic views, a whisky bar, cigar lounge, eight-car garage, balcony gym, and Australia's highest private rooftop pool. Interior highlights feature opulent finishes such as a marble and brass staircase, custom chandeliers, and a $1 million sneaker display. Originally purchased for a record $15.25 million in 2021, the property is listed by agent Tolemy Stevens and will go to private auction on November 20, 2026. The Beards now live in a waterfront mansion nearby with their four children, which they bought for $11.75 million in 2020.",
+          "breadcrumb": "www.couriermail.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.raywhite.com/news-media/matt-lancashire-launches-new-era-ray-white-collective-luxury",
+          "domain": "www.raywhite.com",
+          "title": "Matt Lancashire launches new era: Ray White Collective Luxury • Ray White",
+          "description": null,
+          "breadcrumb": "www.raywhite.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.raywhite.com/the-white-report/brisbanes-most-decorated-luxury-agent-marks-20-years-with-ray-white",
+          "domain": "www.raywhite.com",
+          "title": "Brisbane's most decorated luxury agent marks 20 years with Ray White • Ray White",
+          "description": null,
+          "breadcrumb": "www.raywhite.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.raywhite.com/news-media/matt-lancashire-launches-new-era-ray-white-collective-luxury",
+          "domain": "www.raywhite.com",
+          "title": "Matt Lancashire launches new era: Ray White Collective Luxury • Ray White",
+          "description": "Total lines: 235\n",
+          "breadcrumb": "www.raywhite.com"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.mcgrath.com.au/research/prestige-brisbane-residential-winter-2026-report",
+          "domain": "www.mcgrath.com.au",
+          "title": "Prestige Brisbane Residential | Winter 2026 Report | McGrath Estate Agents",
+          "description": null,
+          "breadcrumb": "www.mcgrath.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.mcgrath.com.au/research/prestige-brisbane-residential-spring-2026-report",
+          "domain": "www.mcgrath.com.au",
+          "title": "Prestige Brisbane Residential | Spring 2026 Report | McGrath Estate Agents",
+          "description": null,
+          "breadcrumb": "www.mcgrath.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.mcgrath.com.au/research/prestige-brisbane-residential-spring-2026-report",
+          "domain": "www.mcgrath.com.au",
+          "title": "Prestige Brisbane Residential | Spring 2026 Report | McGrath Estate Agents",
+          "description": "Total lines: 161\n",
+          "breadcrumb": "www.mcgrath.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://raywhiteeastbrisbane.com.au/agents/matt-lancashire/16194",
+          "domain": "raywhiteeastbrisbane.com.au",
+          "title": "Matt Lancashire - Principal - Ray White East Brisbane",
+          "description": null,
+          "breadcrumb": "raywhiteeastbrisbane.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.huntergather.com.au/prestige",
+          "domain": "www.huntergather.com.au",
+          "title": "Prestige Buyers Agent Brisbane | Jacob Butler, Hunter Gather",
+          "description": null,
+          "breadcrumb": "www.huntergather.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.realestate.com.au/news/qlds-20-biggest-home-sales-of-2024-revealed/",
+          "domain": "www.realestate.com.au",
+          "title": "Qld’s 20 biggest home sales of 2024 revealed - realestate.com.au",
+          "description": null,
+          "breadcrumb": "www.realestate.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.realestate.com.au/news/top-20-property-sales-across-australia-in-2024/",
+          "domain": "www.realestate.com.au",
+          "title": "$1bn record: Top 20 Australian home sales of 2024 revealed - realestate.com.au",
+          "description": null,
+          "breadcrumb": "www.realestate.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.realestate.com.au/news/video-the-buyers-behind-the-10-biggest-home-sales-of-2024/",
+          "domain": "www.realestate.com.au",
+          "title": "Video: The buyers behind the 10 biggest home sales of 2024 - realestate.com.au",
+          "description": null,
+          "breadcrumb": "www.realestate.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.realestate.com.au/news/qlds-20-biggest-home-sales-of-2024-revealed/",
+          "domain": "www.realestate.com.au",
+          "title": "Qld’s 20 biggest home sales of 2024 revealed - realestate.com.au",
+          "description": "Total lines: 346\n",
+          "breadcrumb": "www.realestate.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://raywhitetoowong.com.au/agents/matt-lancashire/16194",
+          "domain": "raywhitetoowong.com.au",
+          "title": "Matt Lancashire - Principal - Ray White Toowong",
+          "description": null,
+          "breadcrumb": "raywhitetoowong.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://prestigeproperty.com.au/jasonadcock",
+          "domain": "prestigeproperty.com.au",
+          "title": "Jason Adcock — Prestigeproperty.com.au",
+          "description": null,
+          "breadcrumb": "prestigeproperty.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://prestigeproperty.com.au/jasonadcock",
+          "domain": "prestigeproperty.com.au",
+          "title": "Jason Adcock — Prestigeproperty.com.au",
+          "description": "Total lines: 34\n",
+          "breadcrumb": "prestigeproperty.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://raywhitebulimba.com.au/agents/matt-lancashire/16194",
+          "domain": "raywhitebulimba.com.au",
+          "title": "Matt Lancashire - Principal - Ray White Bulimba",
+          "description": null,
+          "breadcrumb": "raywhitebulimba.com.au"
+        },
+        {
+          "type": "chatgpt_search_result",
+          "url": "https://www.westpac.com.au/content/dam/public/wbc/images/personal/services/premium/Prestige-Property-Report-2025.pdf",
+          "domain": "www.westpac.com.au",
+          "title": "Queensland\n\nQueensland reached a new milestone in",
+          "description": null,
+          "breadcrumb": "www.westpac.com.au"
+        }
+      ],
+      "sources": [
+        {
+          "type": "chat_gpt_source",
+          "title": "Matt Lancashire launches new era: Ray White Collective Luxury",
+          "snippet": "Total lines: 235",
+          "domain": "www.raywhite.com",
+          "url": "https://www.raywhite.com/news-media/matt-lancashire-launches-new-era-ray-white-collective-luxury?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Ray White",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Ray White Collective Luxury",
+          "snippet": null,
+          "domain": "www.raywhite.com",
+          "url": "https://www.raywhite.com/news-media/matt-lancashire-launches-new-era-ray-white-collective-luxury",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Ray White Collective Luxury](https://www.raywhite.com/news-media/matt-lancashire-launches-new-era-ray-white-collective-luxury)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Jason Adcock",
+          "snippet": "Total lines: 34",
+          "domain": "prestigeproperty.com.au",
+          "url": "https://prestigeproperty.com.au/jasonadcock?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Prestigeproperty.com.au",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Adcock Prestige",
+          "snippet": null,
+          "domain": "prestigeproperty.com.au",
+          "url": "https://prestigeproperty.com.au/jasonadcock",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Adcock Prestige](https://prestigeproperty.com.au/jasonadcock)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Qld’s 20 biggest home sales of 2024 revealed",
+          "snippet": "Total lines: 346",
+          "domain": "www.realestate.com.au",
+          "url": "https://www.realestate.com.au/news/qlds-20-biggest-home-sales-of-2024-revealed/?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "Realestate",
+          "publication_date": null,
+          "markdown": null
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Place Estate Agents",
+          "snippet": null,
+          "domain": "www.eplace.com.au",
+          "url": "https://www.eplace.com.au/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Place Estate Agents](https://www.eplace.com.au/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Ray White Ascot",
+          "snippet": null,
+          "domain": "raywhite.com",
+          "url": "https://raywhite.com/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Ray White Ascot](https://raywhite.com/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Queensland Sotheby's International Realty",
+          "snippet": null,
+          "domain": "www.sothebysrealty.com",
+          "url": "https://www.sothebysrealty.com/",
+          "thumbnail": null,
+          "source_name": null,
+          "publication_date": null,
+          "markdown": "[Queensland Sotheby's International Realty](https://www.sothebysrealty.com/)"
+        },
+        {
+          "type": "chat_gpt_source",
+          "title": "Prestige Brisbane Residential | Spring 2026 Report",
+          "snippet": "Total lines: 161",
+          "domain": "www.mcgrath.com.au",
+          "url": "https://www.mcgrath.com.au/research/prestige-brisbane-residential-spring-2026-report?utm_source=chatgpt.com",
+          "thumbnail": null,
+          "source_name": "McGrath Estate Agents",
+          "publication_date": null,
+          "markdown": null
+        }
+      ],
+      "fan_out_queries": [
+        "Brisbane prestige real estate agents $10 million luxury home sales track record 2025 2026",
+        "Brisbane highest residential property sales agents prestige homes records luxury sales 2024 2025 agency"
+      ],
+      "brand_entities": [
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Matt Lancashire",
+          "category": "people",
+          "markdown": "Matt Lancashire",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Brisbane prestige residential real estate agency",
+          "category": "organization",
+          "markdown": "Ray White Collective Luxury",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Jason Adcock",
+          "category": "people",
+          "markdown": "Jason Adcock",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Boutique Brisbane luxury residential real estate agency",
+          "category": "organization",
+          "markdown": "Adcock Prestige",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Sarah Hackett",
+          "category": "people",
+          "markdown": "Sarah Hackett",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Queensland residential real estate agency",
+          "category": "organization",
+          "markdown": "Place Estate Agents",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Damon Warat",
+          "category": "people",
+          "markdown": "Damon Warat",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Brisbane residential real estate agency",
+          "category": "organization",
+          "markdown": "Ray White Ascot",
+          "urls": null
+        },
+        {
+          "type": "chat_gpt_brand_entity",
+          "title": "Luxury residential real estate agency Queensland",
+          "category": "organization",
+          "markdown": "Queensland Sotheby's International Realty",
+          "urls": null
+        }
+      ],
+      "se_results_count": 0,
+      "item_types": [
+        "chat_gpt_text",
+        "chat_gpt_images"
+      ],
+      "items_count": 11,
+      "items": [
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "markdown": "For a \\$10 million luxury home in Brisbane, I would focus on agents with a demonstrable history of selling **\\$5 million–\\$20 million-plus homes**, rather than simply choosing a large real estate brand. At this price point, the agent's personal negotiation record, relationships with high-net-worth buyers, discretion and ability to create competition can matter more than the agency's overall sales volume.\n\nMy research points to several strong candidates, with **Ray White Collective Luxury's Matt Lancashire and Adcock Prestige's Jason Adcock** standing out for their publicly documented experience with Brisbane's top-end residential market. Here is how I would shortlist the agencies and what I would verify before signing an appointment.\n\n## My shortlist of Brisbane prestige agencies\n\n",
+          "sources": null,
+          "brand_entities": null
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "markdown": "![Matt Lancashire - Principal - Ray White New Farm](https://images.openai.com/static-rsc-4/PXmJXB-zv2HFF7ZJbCDy5J-ezRuWRl9_tTUdY-PmZxy5b0VWpiyqmrwAmAfLe3fCWdLFumHmg1t_AqpOvLjtmbulxwd3IdgGOr-VpiSndeYzNVKH54sr9Q5LOtig4FYMfxc0uyHo_ZUQaytPNFI7hYLB2N740HNO1gIfvyMEWv2ybkCJ4kZJgl4HqmvlmbRF?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://rwnf.com.au/agents/matt-lancashire/16194",
+              "alt": "Matt Lancashire - Principal - Ray White New Farm",
+              "image_url": "https://images.openai.com/static-rsc-4/PXmJXB-zv2HFF7ZJbCDy5J-ezRuWRl9_tTUdY-PmZxy5b0VWpiyqmrwAmAfLe3fCWdLFumHmg1t_AqpOvLjtmbulxwd3IdgGOr-VpiSndeYzNVKH54sr9Q5LOtig4FYMfxc0uyHo_ZUQaytPNFI7hYLB2N740HNO1gIfvyMEWv2ybkCJ4kZJgl4HqmvlmbRF?purpose=fullsize",
+              "markdown": "![Matt Lancashire - Principal - Ray White New Farm](https://images.openai.com/static-rsc-4/PXmJXB-zv2HFF7ZJbCDy5J-ezRuWRl9_tTUdY-PmZxy5b0VWpiyqmrwAmAfLe3fCWdLFumHmg1t_AqpOvLjtmbulxwd3IdgGOr-VpiSndeYzNVKH54sr9Q5LOtig4FYMfxc0uyHo_ZUQaytPNFI7hYLB2N740HNO1gIfvyMEWv2ybkCJ4kZJgl4HqmvlmbRF?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 2,
+          "rank_absolute": 3,
+          "markdown": "\n\n## 1\\. Matt Lancashire — Ray White Collective Luxury\n\n(Strongest documented \\$10M+ sales record)\n\n**Why consider them\\:** The clearest publicly documented match for a \\$10 million Brisbane house. Ray White reports that Lancashire has completed \\$1.5 billion in residential transactions over 20 years and lists multiple sales between \\$11.75 million and \\$20.5 million. The agency now focuses exclusively on properties valued above \\$4 million. [www.raywhite.com](https://www.raywhite.com/news-media/matt-lancashire-launches-new-era-ray-white-collective-luxury?utm_source=chatgpt.com)\n\n**Best suited to\\:** Trophy homes, riverfront estates and architectural properties where access to qualified affluent buyers is essential.\n\nWebsite: [Ray White Collective Luxury](https://www.raywhite.com/news-media/matt-lancashire-launches-new-era-ray-white-collective-luxury)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Matt Lancashire launches new era: Ray White Collective Luxury",
+              "snippet": "Total lines: 235",
+              "domain": "www.raywhite.com",
+              "url": "https://www.raywhite.com/news-media/matt-lancashire-launches-new-era-ray-white-collective-luxury?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Ray White",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Ray White Collective Luxury",
+              "snippet": null,
+              "domain": "www.raywhite.com",
+              "url": "https://www.raywhite.com/news-media/matt-lancashire-launches-new-era-ray-white-collective-luxury",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Ray White Collective Luxury](https://www.raywhite.com/news-media/matt-lancashire-launches-new-era-ray-white-collective-luxury)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Matt Lancashire",
+              "category": "people",
+              "markdown": "Matt Lancashire",
+              "urls": null
+            },
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Brisbane prestige residential real estate agency",
+              "category": "organization",
+              "markdown": "Ray White Collective Luxury",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 2,
+          "rank_absolute": 4,
+          "markdown": "![Jason Adcock - Adcock Prestige](https://images.openai.com/static-rsc-4/Xq9QSkkCvY2eCMiwtZZU-1hZ_bUVTdOTrBMkavCjHOK-6JopxVFZKCmrjAMZSU_3wpAzliXY1BQh4MiJ3kbhkrJ0ZnHYacPLy6VavTJxKJFvD0-3eJHCcNV_j5-iDNEDygjj6OSxejYbBsJjc_1sJwNwJVv_HHNj_IfzFj5Rwh-BR1uJTelWCxi5XUCVJpYv?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://adcockprestige.com/about/jason-adcock/",
+              "alt": "Jason Adcock - Adcock Prestige",
+              "image_url": "https://images.openai.com/static-rsc-4/Xq9QSkkCvY2eCMiwtZZU-1hZ_bUVTdOTrBMkavCjHOK-6JopxVFZKCmrjAMZSU_3wpAzliXY1BQh4MiJ3kbhkrJ0ZnHYacPLy6VavTJxKJFvD0-3eJHCcNV_j5-iDNEDygjj6OSxejYbBsJjc_1sJwNwJVv_HHNj_IfzFj5Rwh-BR1uJTelWCxi5XUCVJpYv?purpose=fullsize",
+              "markdown": "![Jason Adcock - Adcock Prestige](https://images.openai.com/static-rsc-4/Xq9QSkkCvY2eCMiwtZZU-1hZ_bUVTdOTrBMkavCjHOK-6JopxVFZKCmrjAMZSU_3wpAzliXY1BQh4MiJ3kbhkrJ0ZnHYacPLy6VavTJxKJFvD0-3eJHCcNV_j5-iDNEDygjj6OSxejYbBsJjc_1sJwNwJVv_HHNj_IfzFj5Rwh-BR1uJTelWCxi5XUCVJpYv?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 3,
+          "rank_absolute": 5,
+          "markdown": "\n\n## 2\\. Jason Adcock — Adcock Prestige\n\n**Why consider them\\:** Adcock Prestige reports more than 25 years of experience in Brisbane's prestige market, including numerous sales above \\$10 million, riverfront homes and suburb-record results. Its boutique positioning may suit owners seeking close involvement from the principal. These track-record claims are published by the agency itself. [prestigeproperty.com.au](https://prestigeproperty.com.au/jasonadcock?utm_source=chatgpt.com)\n\n**Best suited to\\:** Riverfront residences, distinctive architectural homes and sellers wanting a specialist boutique agency.\n\nWebsite: [Adcock Prestige](https://prestigeproperty.com.au/jasonadcock)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Jason Adcock",
+              "snippet": "Total lines: 34",
+              "domain": "prestigeproperty.com.au",
+              "url": "https://prestigeproperty.com.au/jasonadcock?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Prestigeproperty.com.au",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Adcock Prestige",
+              "snippet": null,
+              "domain": "prestigeproperty.com.au",
+              "url": "https://prestigeproperty.com.au/jasonadcock",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Adcock Prestige](https://prestigeproperty.com.au/jasonadcock)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Jason Adcock",
+              "category": "people",
+              "markdown": "Jason Adcock",
+              "urls": null
+            },
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Boutique Brisbane luxury residential real estate agency",
+              "category": "organization",
+              "markdown": "Adcock Prestige",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 3,
+          "rank_absolute": 6,
+          "markdown": "![From science to selling: Sarah Hackett’s impressive rise to the top](https://images.openai.com/static-rsc-4/P0U1UX5DAfVozAKa6IGtEV0Wuyrzg-LpF53dUByIoG5_SDisGCvtzipYmtC3M8Js-jiQ_TN6Q_FABk0wUPPpCJjdXtoFfTV02avnWEOh3XtP_gUJTLX9YujfbJmttOMYD7KEM6Mx_w35tQd2g4c7JtXK0YM9U-wOpGRWSJ1rFypYTmJ9079SF2QTqnCOUJdg?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://agent.domain.com.au/news/from-science-to-selling-sarah-hacketts-impressive-rise-to-the-top-1417118/",
+              "alt": "From science to selling: Sarah Hackett’s impressive rise to the top",
+              "image_url": "https://images.openai.com/static-rsc-4/P0U1UX5DAfVozAKa6IGtEV0Wuyrzg-LpF53dUByIoG5_SDisGCvtzipYmtC3M8Js-jiQ_TN6Q_FABk0wUPPpCJjdXtoFfTV02avnWEOh3XtP_gUJTLX9YujfbJmttOMYD7KEM6Mx_w35tQd2g4c7JtXK0YM9U-wOpGRWSJ1rFypYTmJ9079SF2QTqnCOUJdg?purpose=fullsize",
+              "markdown": "![From science to selling: Sarah Hackett’s impressive rise to the top](https://images.openai.com/static-rsc-4/P0U1UX5DAfVozAKa6IGtEV0Wuyrzg-LpF53dUByIoG5_SDisGCvtzipYmtC3M8Js-jiQ_TN6Q_FABk0wUPPpCJjdXtoFfTV02avnWEOh3XtP_gUJTLX9YujfbJmttOMYD7KEM6Mx_w35tQd2g4c7JtXK0YM9U-wOpGRWSJ1rFypYTmJ9079SF2QTqnCOUJdg?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 4,
+          "rank_absolute": 7,
+          "markdown": "\n\n## 3\\. Sarah Hackett — Place Estate Agents\n\n**Why consider them\\:** An independent property-news report identified Hackett as the agent behind the \\$20.25 million sale of 46 Gordon Street, Hawthorne, in 2024. The report also described Place as holding buyers looking for properties above \\$5 million and up to \\$20 million-plus. [www.realestate.com.au](https://www.realestate.com.au/news/qlds-20-biggest-home-sales-of-2024-revealed/?utm_source=chatgpt.com)\n\n**Best suited to\\:** High-end inner-east homes, riverfront properties and campaigns requiring strong local buyer relationships.\n\nWebsite: [Place Estate Agents](https://www.eplace.com.au/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Qld’s 20 biggest home sales of 2024 revealed",
+              "snippet": "Total lines: 346",
+              "domain": "www.realestate.com.au",
+              "url": "https://www.realestate.com.au/news/qlds-20-biggest-home-sales-of-2024-revealed/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Realestate",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Place Estate Agents",
+              "snippet": null,
+              "domain": "www.eplace.com.au",
+              "url": "https://www.eplace.com.au/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Place Estate Agents](https://www.eplace.com.au/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Sarah Hackett",
+              "category": "people",
+              "markdown": "Sarah Hackett",
+              "urls": null
+            },
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Queensland residential real estate agency",
+              "category": "organization",
+              "markdown": "Place Estate Agents",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 4,
+          "rank_absolute": 8,
+          "markdown": "![Damon Warat - Director | Selling Principal - Ray White Ascot](https://images.openai.com/static-rsc-4/DNa5hTlSEGB2Ttwp_6gJwNXBz2ztQRtZ_zAJwIij1sW617oc79eu5r_k2WWxXSIHhxaPbyWER4No0WRUyiYpbJtNyixQFsPVDw3D-FVB-gTihKPgjDqSmMX56VcWu2G2ammyiG2g1ZSYPntSCTKDFtf7lyC-snzrwQy9tZPdsHztufWZ8weGGqEaKAierqYm?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://raywhiteascot.com.au/agents/damon-warat/19574",
+              "alt": "Damon Warat - Director | Selling Principal - Ray White Ascot",
+              "image_url": "https://images.openai.com/static-rsc-4/DNa5hTlSEGB2Ttwp_6gJwNXBz2ztQRtZ_zAJwIij1sW617oc79eu5r_k2WWxXSIHhxaPbyWER4No0WRUyiYpbJtNyixQFsPVDw3D-FVB-gTihKPgjDqSmMX56VcWu2G2ammyiG2g1ZSYPntSCTKDFtf7lyC-snzrwQy9tZPdsHztufWZ8weGGqEaKAierqYm?purpose=fullsize",
+              "markdown": "![Damon Warat - Director | Selling Principal - Ray White Ascot](https://images.openai.com/static-rsc-4/DNa5hTlSEGB2Ttwp_6gJwNXBz2ztQRtZ_zAJwIij1sW617oc79eu5r_k2WWxXSIHhxaPbyWER4No0WRUyiYpbJtNyixQFsPVDw3D-FVB-gTihKPgjDqSmMX56VcWu2G2ammyiG2g1ZSYPntSCTKDFtf7lyC-snzrwQy9tZPdsHztufWZ8weGGqEaKAierqYm?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 5,
+          "rank_absolute": 9,
+          "markdown": "\n\n## 4\\. Damon Warat — Ray White Ascot\n\n**Why consider them\\:** Warat negotiated the \\$23 million sale of 32 Sutherland Avenue, Ascot, in 2024, which set a Brisbane house-price record at the time. That is a directly relevant benchmark for selling at the upper end of the Brisbane market. [www.realestate.com.au](https://www.realestate.com.au/news/qlds-20-biggest-home-sales-of-2024-revealed/?utm_source=chatgpt.com)\n\n**Best suited to\\:** Ascot, Hamilton, Clayfield and other blue-chip inner-north properties.\n\nWebsite: [Ray White Ascot](https://raywhite.com/)\n\n---\n\n",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Qld’s 20 biggest home sales of 2024 revealed",
+              "snippet": "Total lines: 346",
+              "domain": "www.realestate.com.au",
+              "url": "https://www.realestate.com.au/news/qlds-20-biggest-home-sales-of-2024-revealed/?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "Realestate",
+              "publication_date": null,
+              "markdown": null
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Ray White Ascot",
+              "snippet": null,
+              "domain": "raywhite.com",
+              "url": "https://raywhite.com/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Ray White Ascot](https://raywhite.com/)"
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Damon Warat",
+              "category": "people",
+              "markdown": "Damon Warat",
+              "urls": null
+            },
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Brisbane residential real estate agency",
+              "category": "organization",
+              "markdown": "Ray White Ascot",
+              "urls": null
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_images",
+          "rank_group": 5,
+          "rank_absolute": 10,
+          "markdown": "![Luxury Real Estate Brisbane | Queensland Sotheby’s International Realty](https://images.openai.com/static-rsc-4/4ZLQvnuz0PR1VmJ083uj63JxFcUWjGmttUOBVhA7GggNYSC_VmOqRgjWBSSRdckep2aaifFtXOCmNBO32kapV8fDVRzK8iwS8xk9BJbPoWdC92b2Ib8v4guMyk-GCWNAbT1paWubLqabEetUcJ7Xd_aGR0hFkbv6wR_Lw10hkrhDDtYiELWzQdWWJlS1uXU7?purpose=fullsize)",
+          "items": [
+            {
+              "type": "chat_gpt_images_element",
+              "url": "https://brisbane.queenslandsothebysrealty.com/",
+              "alt": "Luxury Real Estate Brisbane | Queensland Sotheby’s International Realty",
+              "image_url": "https://images.openai.com/static-rsc-4/4ZLQvnuz0PR1VmJ083uj63JxFcUWjGmttUOBVhA7GggNYSC_VmOqRgjWBSSRdckep2aaifFtXOCmNBO32kapV8fDVRzK8iwS8xk9BJbPoWdC92b2Ib8v4guMyk-GCWNAbT1paWubLqabEetUcJ7Xd_aGR0hFkbv6wR_Lw10hkrhDDtYiELWzQdWWJlS1uXU7?purpose=fullsize",
+              "markdown": "![Luxury Real Estate Brisbane | Queensland Sotheby’s International Realty](https://images.openai.com/static-rsc-4/4ZLQvnuz0PR1VmJ083uj63JxFcUWjGmttUOBVhA7GggNYSC_VmOqRgjWBSSRdckep2aaifFtXOCmNBO32kapV8fDVRzK8iwS8xk9BJbPoWdC92b2Ib8v4guMyk-GCWNAbT1paWubLqabEetUcJ7Xd_aGR0hFkbv6wR_Lw10hkrhDDtYiELWzQdWWJlS1uXU7?purpose=fullsize)"
+            }
+          ]
+        },
+        {
+          "type": "chat_gpt_text",
+          "rank_group": 6,
+          "rank_absolute": 11,
+          "markdown": "\n\n## 5\\. Queensland Sotheby's International Realty\n\n**Why consider them\\:** A luxury-focused agency worth inviting to pitch if your property needs interstate or international buyer exposure. Its Brisbane office is in Newstead. I found less independently verified evidence of specific Brisbane \\$10 million-plus house sales than for the agents above, so I would require a detailed, named transaction list before appointing them.\n\n**Best suited to\\:** Internationally marketable luxury homes, distinctive design-led residences and properties likely to attract interstate buyers.\n\nWebsite: [Queensland Sotheby's International Realty](https://www.sothebysrealty.com/)\n\n## What the current market means for your sale\n\nBrisbane's prestige market has been active. McGrath's Spring 2026 report recorded 677 residential sales above \\$3 million in the year to Q2 2026, up 16% year-on-year. Properties above \\$5 million accounted for a growing share of prestige transactions. These figures are encouraging context, but they do not establish what your particular home will sell for. [www.mcgrath.com.au](https://www.mcgrath.com.au/research/prestige-brisbane-residential-spring-2026-report?utm_source=chatgpt.com)\n\nFor a \\$10 million property, I would ask each shortlisted agent for the following\\:\n\n- **Three to five comparable settled sales** from the past 24 months, ideally between \\$8 million and \\$15 million, including their exact role in each transaction.\n- **A credible buyer list\\:** how many qualified buyers they can approach now, including interstate and overseas prospects.\n- **A clear launch strategy\\:** whether to test discreet off-market demand first or launch publicly to maximise competition.\n- **A defensible price strategy\\:** evidence behind their appraisal, not simply the highest suggested price.\n- **A complete marketing proposal\\:** photography, film, styling, digital distribution, campaign costs and commission.\n- **References from recent vendors** who sold properties at a similar price point.\n\nAsk for settled prices and documentary evidence where possible, rather than relying on advertised prices or claims of offers received.\n\n## My recommendation\n\nI would invite **Matt Lancashire, Jason Adcock and Sarah Hackett** to provide competing proposals first. Add Damon Warat if your property is in Brisbane's inner north, particularly Ascot or Hamilton. This gives you a mix of a dedicated ultra-prestige operation, a boutique specialist and a broader agency with demonstrated high-end sales.\n\nI would compare the agents' actual comparable transactions and proposed buyer strategy before deciding; I would not award the listing solely on the basis of an appraisal.\n\n**One detail would help me refine this shortlist\\:** which Brisbane suburb is the property in?",
+          "sources": [
+            {
+              "type": "chat_gpt_source",
+              "title": "Queensland Sotheby's International Realty",
+              "snippet": null,
+              "domain": "www.sothebysrealty.com",
+              "url": "https://www.sothebysrealty.com/",
+              "thumbnail": null,
+              "source_name": null,
+              "publication_date": null,
+              "markdown": "[Queensland Sotheby's International Realty](https://www.sothebysrealty.com/)"
+            },
+            {
+              "type": "chat_gpt_source",
+              "title": "Prestige Brisbane Residential | Spring 2026 Report",
+              "snippet": "Total lines: 161",
+              "domain": "www.mcgrath.com.au",
+              "url": "https://www.mcgrath.com.au/research/prestige-brisbane-residential-spring-2026-report?utm_source=chatgpt.com",
+              "thumbnail": null,
+              "source_name": "McGrath Estate Agents",
+              "publication_date": null,
+              "markdown": null
+            }
+          ],
+          "brand_entities": [
+            {
+              "type": "chat_gpt_brand_entity",
+              "title": "Luxury residential real estate agency Queensland",
+              "category": "organization",
+              "markdown": "Queensland Sotheby's International Realty",
+              "urls": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

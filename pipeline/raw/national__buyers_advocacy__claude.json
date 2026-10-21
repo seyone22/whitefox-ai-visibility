@@ -1,0 +1,327 @@
+{
+  "slug": "national",
+  "pk": "buyers_advocacy",
+  "plat": "claude",
+  "text": "Which luxury real estate agencies or buyers advocates in Australia offer the best buyers advocacy and acquisition advisory for prestige homes?",
+  "loc": 2036,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\national__buyers_advocacy__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:22:00.343Z",
+  "cost": 0.098212,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 19434,
+      "output_tokens": 1954,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.097612,
+      "datetime": "2026-10-21 05:22:00 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a comprehensive guide to some of the **best luxury real estate buyers' advocates and acquisition advisory firms in Australia** for prestige homes:\n\n---\n\n## 🏡 Top Buyers' Advocates & Acquisition Advisory Firms for Prestige Homes in Australia\n\n---\n\n### 1. **Propertybuyer / Propertybuyer Prestige**\n🌐 propertybuyer.com.au | prestigepropertybuyer.com.au\n📍 Sydney, Melbourne, Brisbane, Adelaide, Perth\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Rich Harvey, the CEO and Founder of Propertybuyer, is a licensed buyers' agent, seasoned property investor, and professional economist with over two decades of experience in the property industry.",
+              "annotations": [
+                {
+                  "title": "Propertybuyer Buyers Agent Sydney, Brisbane, Melbourne",
+                  "url": "https://www.propertybuyer.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "His expertise extends to prestige real estate and luxury property in Sydney's Eastern Suburbs, North Shore, and Northern Beaches, with offices servicing Melbourne, Brisbane, Gold Coast, and Adelaide.",
+              "annotations": [
+                {
+                  "title": "Propertybuyer Buyers Agent Sydney, Brisbane, Melbourne",
+                  "url": "https://www.propertybuyer.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Propertybuyer is Australia's most awarded buyers' advocacy firm, winning the 2025 Buyers Agency of the Year, the 2025 Award for Excellence – Buyers' Agent (Rich Harvey), and the 2024 REINSW Award for Excellence – Buyers' Agency.",
+              "annotations": [
+                {
+                  "title": "Prestige Real Estate",
+                  "url": "https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They represent a limited number of prestige clients each year to ensure discretion, access, and strategic advantage.",
+              "annotations": [
+                {
+                  "title": "Propertybuyer Prestige",
+                  "url": "https://prestigepropertybuyer.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their offering includes exclusive inventory of properties never publicly advertised, and they leverage a discreet network of long-standing relationships with top prestige selling agents in Sydney, Melbourne, Brisbane, and beyond to uncover exclusive properties and mansions in high-end suburbs.",
+              "annotations": [
+                {
+                  "title": "Prestige Real Estate",
+                  "url": "https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. **Propertybuyer Prestige (Dedicated Prestige Division)**\n🌐 prestigepropertybuyer.com.au\n📍 Sydney, Melbourne, Brisbane\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "As a trusted prestige property buyers' agent, Propertybuyer Prestige provides the insight, discretion, and strategic access required to secure Australia's most extraordinary homes.",
+              "annotations": [
+                {
+                  "title": "Propertybuyer Prestige",
+                  "url": "https://prestigepropertybuyer.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The firm was recognised at the REINSW Awards for Excellence 2025 and was a finalist at the CUB Awards 2025 – Australian Business Person of the Year and PIPA Large Business of the Year Finalist 2025.",
+              "annotations": [
+                {
+                  "title": "Propertybuyer Prestige",
+                  "url": "https://prestigepropertybuyer.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. **PMC Property Buyers**\n🌐 pmcproperty.com.au\n📍 Queensland\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "PMC Property Buyers specialises in prestige property acquisitions — from waterfront estates and architecturally designed residences to coveted family homes in exclusive suburbs — delivering an elevated property buying experience grounded in local experience, strategic insights, and strong advocacy in negotiations and contract terms.",
+              "annotations": [
+                {
+                  "title": "Prestige Property Buyers - PMC Property Buyers",
+                  "url": "https://www.pmcproperty.com.au/prestige-property-buyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. **Pivot Property Buyers**\n🌐 pivotpb.com.au\n📍 Sydney\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Sydney's prestige property market continues to attract discerning buyers seeking luxury real estate that combines lifestyle with strong investment potential, and Pivot's buyers' agents focus on the city's premium suburbs, which offer unique advantages from harbour views to elite school zones.",
+              "annotations": [
+                {
+                  "title": "The Top 5 Sydney Suburbs for Prestige Property Buyers",
+                  "url": "https://pivotpb.com.au/top-5-suburbs-for-prestige-properties-in-sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Professional buyers' agents at Pivot play a vital role in securing luxury real estate opportunities in Sydney.",
+              "annotations": [
+                {
+                  "title": "The Top 5 Sydney Suburbs for Prestige Property Buyers",
+                  "url": "https://pivotpb.com.au/top-5-suburbs-for-prestige-properties-in-sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. **The Luxury Marketplace™ (luxuryproperty.com)**\n🌐 luxuryproperty.com\n📍 National (Sydney, Melbourne, Brisbane, Gold Coast)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "This platform focuses on Point Piper, Mosman, Bellevue Hill, and the broader harbourfront luxury tier, offering access to luxury properties in Bondi Beach and across the Sydney premium market.",
+              "annotations": [
+                {
+                  "title": "Australia Unlocked",
+                  "url": "https://www.luxuryproperty.com/blog/australia-unlocked",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "In Melbourne, they specialise in Toorak real estate — a category of its own — where the 2025 Coonac sale of $131M–$150M set a Melbourne benchmark for an Italianate mansion on one hectare, sold off-market.",
+              "annotations": [
+                {
+                  "title": "Australia Unlocked",
+                  "url": "https://www.luxuryproperty.com/blog/australia-unlocked",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 🔑 Key Things to Look for in a Prestige Buyers' Advocate\n\nWhen selecting a buyers' advocate for a prestige or luxury home in Australia, consider:\n\n- **Off-market access** – The finest residences are rarely publicly listed. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "In 2025, 3,295 homes sold for over $5 million, up 5.2% year-on-year and 217% higher than five years ago, highlighting a tightly held market where the finest residences are rarely publicly listed.",
+              "annotations": [
+                {
+                  "title": "Propertybuyer Prestige",
+                  "url": "https://prestigepropertybuyer.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Discretion & confidentiality** – Ultra-high-net-worth clients require absolute privacy in their search and acquisition process.\n- **Local market expertise** – ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Sydney continues to dominate Australia's trophy home landscape, with top-end harbourside suburbs like Point Piper, Bellevue Hill, and Vaucluse pushing into the tens of millions.",
+              "annotations": [
+                {
+                  "title": "Australia's prestige property powerhouses: Inside the 2025 shake-up",
+                  "url": "https://www.brokernews.com.au/news/breaking-news/australias-prestige-property-powerhouses-inside-the-2025-shakeup-288585.aspx",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **National reach** – ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Significant growth has emerged outside the traditional strongholds of Sydney and Melbourne, with Brisbane, Perth, and Adelaide each posting record volumes of prestige sales.",
+              "annotations": [
+                {
+                  "title": "Your single destination for prestige property insights and intelligence.",
+                  "url": "https://www.westpac.com.au/content/dam/public/wbc/images/personal/services/premium/Prestige-Property-Report-2025.pdf",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Negotiation strength** – Particularly important for off-market and private treaty transactions at the top end.\n- **Awards & recognition** – Industry accolades from bodies like REINSW, PIPA, and REB are strong indicators of quality.\n\n---\n\n## 🗺️ Best Prestige Markets in Australia (2025–2026)\n\n| City | Top Suburbs | Price Range |\n|------|------------|-------------|\n| **Sydney** | Point Piper, Bellevue Hill, Vaucluse, Mosman | $10M–$100M+ |\n| **Melbourne** | Toorak, South Yarra, Hawthorn, Brighton | $5M–$150M+ |\n| **Brisbane** | New Farm, Ascot, Hamilton, Teneriffe | $3M–$17.5M+ |\n| **Perth** | Peppermint Grove, Dalkeith, Cottesloe | $5M–$20M+ |\n| **Gold Coast/Noosa** | Main Beach, Noosa Heads, Broadbeach Waters | $3M–$20M+ |\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Perth is among the strongest luxury home markets in Australia in 2025, having recorded the highest growth in luxury residential property among Australian capitals over recent years.",
+              "annotations": [
+                {
+                  "title": "Australia's prestige property powerhouses: Inside the 2025 shake-up",
+                  "url": "https://www.brokernews.com.au/news/breaking-news/australias-prestige-property-powerhouses-inside-the-2025-shakeup-288585.aspx",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n> 💡 **Pro Tip:** Always engage a buyers' advocate who works **exclusively for buyers** (not dual agents), has deep off-market networks in your target suburb, and charges a transparent fee structure — either a fixed fee or a percentage of the purchase price.\n\nWould you like more detail on any specific city, agency, or what to look for in a prestige buyers' advocacy agreement?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best luxury real estate buyers advocates Australia prestige homes 2024 2025",
+        "top buyers advocacy acquisition advisory prestige property Australia",
+        "best buyers advocates luxury prestige property Australia Abercromby's Morrell Koren Cate Bakos PPD"
+      ]
+    }
+  ]
+}

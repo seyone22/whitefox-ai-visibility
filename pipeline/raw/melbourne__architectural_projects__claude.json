@@ -1,0 +1,184 @@
+{
+  "slug": "melbourne",
+  "pk": "architectural_projects",
+  "plat": "claude",
+  "text": "Which prestige real estate agencies in Melbourne are the market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing?",
+  "loc": 1000567,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\melbourne__architectural_projects__claude.json",
+  "at": "2026-10-21T05:11:35.958Z",
+  "cost": 0.141358,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 34501,
+      "output_tokens": 1817,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.140758,
+      "datetime": "2026-10-21 05:11:35 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Based on my knowledge and the search results, here is a comprehensive overview of Melbourne's prestige real estate agencies that are market leaders in luxury off-the-plan developments, penthouses, and architectural project marketing:\n\n---\n\n## 🏙️ Melbourne's Leading Prestige Real Estate Agencies for Luxury Developments\n\n---\n\n### 1. 🏆 Marshall White Projects\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Marshall White are the leading prestige real estate agents for luxury properties in Melbourne.",
+              "annotations": [
+                {
+                  "title": "Best Luxury Real Estate Agents in Melbourne",
+                  "url": "https://www.marshallwhite.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Their dedicated **Marshall White Projects** division is one of the most recognised names in off-the-plan and new development marketing. They handle some of Melbourne's most architecturally significant boutique apartment projects, particularly in blue-chip suburbs like Toorak, South Yarra, Brighton, and Kew. They are known for their deep buyer database and ability to achieve strong off-the-plan sales results for developer clients.\n\n---\n\n### 2. 🏅 Kay & Burton\nKay & Burton is widely regarded as one of Melbourne's most exclusive prestige agencies, with a strong footprint in the inner east — Toorak, South Yarra, Hawthorn, and Portsea. They regularly market architecturally designed new residences and boutique developments, and their brand is synonymous with ultra-high-end buyers. Their project arm markets luxury off-the-plan apartments and penthouse residences to a highly curated buyer pool.\n\n---\n\n### 3. 🏅 RT Edgar\nRT Edgar has a long-standing reputation in Melbourne's prestige market, particularly across the inner-eastern and Mornington Peninsula corridors. Their projects division markets luxury new developments and off-the-plan penthouses, often working with boutique developers on architecturally significant builds.\n\n---\n\n### 4. 🏅 Jellis Craig Projects\nJellis Craig's dedicated projects arm operates across Melbourne's inner and middle-ring suburbs. They have established themselves as a go-to agency for developer-led architectural projects and boutique off-the-plan campaigns in suburbs like Fitzroy, Carlton, Hawthorn, and Kew.\n\n---\n\n### 5. 🏅 Zammit Real Estate\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Zammit Real Estate is a leader in luxury penthouses, offering exclusive penthouses for sale in Melbourne and surrounding suburbs.",
+              "annotations": [
+                {
+                  "title": "18 Exclusive Penthouses for Sale in Melbourne, VIC, 3000",
+                  "url": "https://zammitrealestate.com.au/property-type/penthouses/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They specialise in high-end CBD and inner-city off-the-plan apartments and penthouses, including flagship projects on St Kilda Road and Collins Street. Their portfolio includes some of Melbourne's most iconic and high-value penthouse residences.\n\n---\n\n### 6. 🏅 Clements International\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Clements International's core philosophy is to achieve extraordinary real estate results for every client by tailoring their approach to the unique strengths of each property. As a trusted boutique agency, they prioritise precision, strategy, and exclusivity over volume.",
+              "annotations": [
+                {
+                  "title": "Luxury Off-the-Plan Projects",
+                  "url": "https://www.clementsinternational.au/buy/projects-off-the-plan/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are active in marketing luxury off-the-plan developments and penthouse residences across Melbourne's prestige precincts.\n\n---\n\n### 7. 🏅 Abercromby's Real Estate\nAbercromby's is a boutique prestige agency with a strong presence in Armadale, Toorak, and South Yarra. They are known for handling high-end off-the-plan projects and architecturally designed residences, often working with award-winning developers and architects on exclusive campaigns.\n\n---\n\n### 8. 🏅 Melcorp Luxe / Melcorp Real Estate\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Melcorp Luxe offers exclusive residences for lease and to own, with a collection of luxury apartments handpicked for those who value location, lifestyle, and discretion.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate, Residences & Apartments in Melbourne",
+                  "url": "https://melcorpluxe.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They specialise in Melbourne's most exclusive homes and penthouses, where architectural excellence, location, and prestige come together.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate, Residences & Apartments in Melbourne",
+                  "url": "https://melcorpluxe.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are particularly active in the Southbank, CBD, and Docklands luxury apartment market.\n\n---\n\n### 9. 🏅 CBRE Residential Projects (Melbourne)\nCBRE's residential projects division is one of the largest and most active project marketing agencies in Melbourne, handling major luxury off-the-plan towers and mixed-use precincts. They work with institutional developers and are known for large-scale prestige project launches.\n\n---\n\n### 10. 🏅 Colliers Residential / JLL Residential\nBoth Colliers and JLL have dedicated residential project marketing arms in Melbourne that handle landmark luxury developments, often involving international developers, branded residences, and architecturally significant towers.\n\n---\n\n## 🔑 Key Trends in Melbourne's Luxury Project Market\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Penthouses are smashing suburb records across Melbourne, with sky-high homes from South Yarra to Alphington leading the luxury pack.",
+              "annotations": [
+                {
+                  "title": "Melbourne’s top five new penthouses to buy in 2025",
+                  "url": "https://kanebridgenews.com/melbournes-top-five-new-penthouses-to-buy-in-2025/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Recent sales have seen penthouses atop under-construction developments change hands for $10 million, with additional millions spent on fitouts — setting new benchmarks for their areas.",
+              "annotations": [
+                {
+                  "title": "Melbourne’s top five new penthouses to buy in 2025",
+                  "url": "https://kanebridgenews.com/melbournes-top-five-new-penthouses-to-buy-in-2025/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "While Melbourne's skyline remains more restrained than Sydney's, its penthouses are growing more ambitious in scale and design, with most crowning boutique developments between 10 and 20 storeys high, taking advantage of uninterrupted views and prime, walkable locations.",
+              "annotations": [
+                {
+                  "title": "Melbourne’s top five new penthouses to buy in 2025",
+                  "url": "https://kanebridgenews.com/melbournes-top-five-new-penthouses-to-buy-in-2025/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 🗺️ Key Precincts for Luxury Off-the-Plan Projects\n| Precinct | Notable Agencies Active |\n|---|---|\n| **Toorak / South Yarra** | Marshall White, Kay & Burton, RT Edgar |\n| **St Kilda Road / Domain** | Zammit, Melcorp, CBRE |\n| **Southbank / CBD / Docklands** | Melcorp, CBRE, JLL, Colliers |\n| **Inner East (Kew, Hawthorn, Armadale)** | Jellis Craig, Abercromby's, Marshall White |\n| **Brighton / Bayside** | Marshall White, Kay & Burton |\n\n---\n\nWould you like a deeper dive into any specific agency, suburb, or type of development?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "prestige real estate agencies Melbourne luxury off-the-plan developments penthouses 2025",
+        "top Melbourne architectural project marketing luxury real estate agencies",
+        "best Melbourne project marketing agencies luxury off-the-plan Kay Burton Jellis Craig RT Edgar",
+        "Melbourne prestige project marketing agencies off-the-plan luxury penthouses Kay Burton RT Edgar Abercromby's",
+        "Melbourne luxury project marketing real estate agency leaders 2025 off the plan"
+      ]
+    }
+  ]
+}

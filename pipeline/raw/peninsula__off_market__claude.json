@@ -1,0 +1,308 @@
+{
+  "slug": "peninsula",
+  "pk": "off_market",
+  "plat": "claude",
+  "text": "Which luxury real estate agents and agencies in Mornington Peninsula specialise in confidential off-market prestige property sales and high-net-worth buyer networks?",
+  "loc": 9056918,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\peninsula__off_market__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:20:23.005Z",
+  "cost": 0.064402,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10104,
+      "output_tokens": 1566,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.063802,
+      "datetime": "2026-10-21 05:20:22 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a comprehensive overview of the leading luxury real estate agents and agencies in the **Mornington Peninsula** that specialise in confidential off-market prestige property sales and high-net-worth buyer networks:\n\n---\n\n## 🏡 Top Luxury & Off-Market Prestige Real Estate Specialists – Mornington Peninsula\n\n---\n\n### 1. **Kay & Burton**\n**Website:** kayburton.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "With strategically placed offices throughout Melbourne and Victoria's Mornington Peninsula, Kay & Burton's sphere of influence allows them to speak with authority and intelligence to a vast and enviable network of highly engaged buyers around the world.",
+              "annotations": [
+                {
+                  "title": "Luxury real estate Melbourne",
+                  "url": "https://www.kayburton.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their teams are connected to ultra-high-net-worth clients across Australia and internationally, including in Singapore, Hong Kong, China, New York, London, and Dubai.",
+              "annotations": [
+                {
+                  "title": "Luxury real estate Melbourne",
+                  "url": "https://www.kayburton.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Established since 1938, they are one of the most recognised prestige agencies operating across the Peninsula.\n\n---\n\n### 2. **Michael Keating International**\n**Website:** michaelkeating.international\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Michael Keating is a name synonymous with the sale of luxury and trophy properties on the Mornington Peninsula, in Toorak and South Yarra. In the Melbourne property press, he became known as the **'off-market sales specialist'** and the acknowledged leading exponent of international real estate sales, exporting the ownership of unique properties to foreign buyers and Australian expatriates.",
+              "annotations": [
+                {
+                  "title": "“Luxury Homes",
+                  "url": "https://www.michaelkeating.international/about_",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "He is renowned among vendors and agents alike as the agent who recognised the uniqueness and value of properties across the Mornington Peninsula — from Flinders and Merricks to Portsea and Sorrento, Mount Eliza and Olivers Hill to Red Hill and Balnarring — and reset the benchmarks for sale prices accordingly.",
+              "annotations": [
+                {
+                  "title": "“Luxury Homes",
+                  "url": "https://www.michaelkeating.international/about_",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. **Danckert Real Estate**\n**Website:** danckert.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The Danckert Real Estate team specialises in the marketing and sale of luxury and lifestyle properties across the Mornington Peninsula.",
+              "annotations": [
+                {
+                  "title": "MARKETING YOUR PRESTIGE PROPERTY",
+                  "url": "https://danckert.com.au/article/marketing-your-prestige-property",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They have partnered with LuxuryRealEstate.com as part of a broader strategy to advertise premium listings to an international audience, and have received enquiries from buyers based in America, England, Italy, Hong Kong, and Malaysia interested in purchasing luxury property on the Peninsula.",
+              "annotations": [
+                {
+                  "title": "MARKETING YOUR PRESTIGE PROPERTY",
+                  "url": "https://danckert.com.au/article/marketing-your-prestige-property",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "With over 50 years of combined experience, their team has an intimate knowledge of luxury homes and premium real estate on the Mornington Peninsula.",
+              "annotations": [
+                {
+                  "title": "Mornington Peninsula Real Estate Agents",
+                  "url": "https://danckert.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. **NI Advocacy Buyers Agents**\n**Website:** niadvocacybuyersagents.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "As a specialist buyers agent on the Mornington Peninsula, they engineer the acquisition of prestige Peninsula homes, often before they hit the market.",
+              "annotations": [
+                {
+                  "title": "Buyers Agent Mornington Peninsula - Prestige & Lifestyle Homes",
+                  "url": "https://niadvocacybuyersagents.com.au/buying-locations/mornington-peninsula/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Buyers gain access to premier properties from a network of over 2,000+ off-market listings, including the \"silent sales\" common in Portsea and Sorrento.",
+              "annotations": [
+                {
+                  "title": "Buyers Agent Mornington Peninsula - Prestige & Lifestyle Homes",
+                  "url": "https://niadvocacybuyersagents.com.au/buying-locations/mornington-peninsula/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their services include private agent networks, silent listing access, pre-market inspections, and exclusive property alerts.",
+              "annotations": [
+                {
+                  "title": "Buyers Agent Mornington Peninsula - Prestige & Lifestyle Homes",
+                  "url": "https://niadvocacybuyersagents.com.au/buying-locations/mornington-peninsula/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. **Your Australian Property (Buyers Agents)**\n**Website:** youraustralianproperty.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Accessing off-market properties on the Peninsula is the result of decades spent building trust with local agents who manage the Peninsula's most prestigious estates.",
+              "annotations": [
+                {
+                  "title": "Buyers Agent Mornington Peninsula: Expert Advocacy to Secure Your Property",
+                  "url": "https://www.youraustralianproperty.com.au/buyers-agent-mornington-peninsula-expert-advocacy-to-secure-your-property/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "When a high-value asset in Sorrento or Red Hill becomes available, the selling agent doesn't always want the exposure of a public campaign — they want a qualified buyer who is ready to move. This is why local agents call them first when a \"silent listing\" becomes available.",
+              "annotations": [
+                {
+                  "title": "Buyers Agent Mornington Peninsula: Expert Advocacy to Secure Your Property",
+                  "url": "https://www.youraustralianproperty.com.au/buyers-agent-mornington-peninsula-expert-advocacy-to-secure-your-property/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 6. **Jacobs & Lowe**\n**Website:** jacobsandlowe.com.au\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Jacobs and Lowe is one of the most well-established real estate agencies on the Mornington Peninsula, assisting clients navigate the property market across all aspects of buying, selling, leasing, and management.",
+              "annotations": [
+                {
+                  "title": "Real Estate Agents and Property Managers Mornington 3931",
+                  "url": "https://www.jacobsandlowe.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They have deep-rooted local relationships and long-standing market knowledge across the Peninsula's prestige suburbs.\n\n---\n\n## 🔑 Key Insights for Off-Market Prestige Buyers & Sellers\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The Mornington Peninsula is a prestige market where the \"lifestyle premium\" is a very real financial risk.",
+              "annotations": [
+                {
+                  "title": "Buyers Agent Mornington Peninsula: Expert Advocacy to Secure Your Property",
+                  "url": "https://www.youraustralianproperty.com.au/buyers-agent-mornington-peninsula-expert-advocacy-to-secure-your-property/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "It is not a standard property market — success requires navigating its unique culture, complex assets, and **discreet sales channels**.",
+              "annotations": [
+                {
+                  "title": "Buyers Agent Mornington Peninsula - Prestige & Lifestyle Homes",
+                  "url": "https://niadvocacybuyersagents.com.au/buying-locations/mornington-peninsula/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- The most exclusive transactions — particularly in **Portsea, Sorrento, Flinders, Red Hill, and Mount Eliza** — are frequently handled entirely off-market, with properties never publicly advertised.\n\n---\n\n## 💡 Tips for Engaging These Specialists\n\n| Need | Best Approach |\n|---|---|\n| **Selling discreetly** | Engage Kay & Burton or Michael Keating International for their UHNW buyer databases |\n| **Buying off-market** | Use a specialist buyers agent like NI Advocacy or Your Australian Property |\n| **International buyer/seller** | Danckert (LuxuryRealEstate.com network) or Kay & Burton (global offices) |\n| **Deep local knowledge** | Jacobs & Lowe or Danckert for long-standing Peninsula relationships |\n\nWould you like more detail on any specific agency, suburb, or price bracket?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "luxury real estate agents Mornington Peninsula off-market prestige property sales high-net-worth",
+        "Mornington Peninsula confidential off-market prestige property agencies 2024 2025"
+      ]
+    }
+  ]
+}

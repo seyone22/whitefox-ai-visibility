@@ -1,0 +1,273 @@
+{
+  "slug": "perth",
+  "pk": "boutique_luxury",
+  "plat": "claude",
+  "text": "Which boutique luxury real estate agencies in Perth are best known for modern social media marketing, high-impact video campaigns, and architectural homes?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\perth__boutique_luxury__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:17:58.908Z",
+  "cost": 0.08587,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 18130,
+      "output_tokens": 1392,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.08527,
+      "datetime": "2026-10-21 05:17:58 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here's a curated overview of the boutique agencies and production partners in Perth that are best known for modern social media marketing, high-impact video campaigns, and the marketing of architectural/luxury homes:\n\n---\n\n## 🏡 Boutique Luxury Real Estate & Property Marketing Agencies in Perth\n\n---\n\n### 1. **Luxury & Prestige**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "An exclusive property marketing agency specialising in bespoke marketing for exceptional luxury homes, Luxury & Prestige is a leader in the fast-changing field of high-end property sales. Their innovative approach combines unparalleled expertise, cutting-edge media, and market-leading tools — from captivating video tours to personalised campaigns — to ensure every home reaches its perfect audience.",
+              "annotations": [
+                {
+                  "title": "Luxury & Prestige: Bespoke Property Marketing for Luxury Homes",
+                  "url": "https://luxuryandprestige.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " This makes them a standout choice for architectural and prestige properties in Perth.\n\n---\n\n### 2. **Properth**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Boutique by design and bold by delivery, Properth is widely regarded as Perth's premier video production company, specialising in real estate, small-to-medium businesses, and aerial videography & photography — creating engaging video content that gets clients recognised for all the right reasons.",
+              "annotations": [
+                {
+                  "title": "Video Marketing",
+                  "url": "https://www.properth.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Not afraid to \"step outside the square,\" Properth sets a new benchmark for real estate videos in Perth, continually researching marketing trends and evolving to deliver the best value and highest quality content.",
+              "annotations": [
+                {
+                  "title": "Video Marketing",
+                  "url": "https://www.properth.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They also assist with various social media, marketing, and real estate-specific service videos.",
+              "annotations": [
+                {
+                  "title": "Video Marketing",
+                  "url": "https://www.properth.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. **Dark Horse Agency**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Dark Horse is a boutique social media management, video production, and content creation team passionate about creating unique digital content to build relationships, increase brand awareness, and translate engagements into sales.",
+              "annotations": [
+                {
+                  "title": "Dark Horse Agency Perth: Expert Social Media Strategists",
+                  "url": "https://darkhorseagency.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They have a strong track record in luxury real estate — ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "the Dark Horse team has been instrumental in helping position various land estate projects in the digital space, with creativity in producing high-quality social media, blog, and video content for land estates and high-end apartment projects.",
+              "annotations": [
+                {
+                  "title": "Dark Horse Agency Perth: Expert Social Media Strategists",
+                  "url": "https://darkhorseagency.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Clients have noted receiving compliments specifically on their socials and website design.",
+              "annotations": [
+                {
+                  "title": "Dark Horse Agency Perth: Expert Social Media Strategists",
+                  "url": "https://darkhorseagency.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. **Blackbox Design**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Blackbox Design is a boutique branding and marketing agency for property development projects in Perth and Melbourne, offering social media management among its core services.",
+              "annotations": [
+                {
+                  "title": "Project Marketing Agency - Perth and Melbourne - Blackbox Design",
+                  "url": "https://www.blackboxdesign.com.au/project-marketing/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They provide cutting-edge brand identity and web designs, marketing communications, and digital marketing campaigns, leveraging analytics and creativity to uncover each project's unique selling proposition.",
+              "annotations": [
+                {
+                  "title": "Project Marketing Agency - Perth and Melbourne - Blackbox Design",
+                  "url": "https://www.blackboxdesign.com.au/project-marketing/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They have worked with luxury and prestige property developers across Perth's most sought-after suburbs.\n\n---\n\n### 5. **Brandform**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Brandform doesn't just market property — they develop luxury brands that create demand, delivering authentic place branding, engaging storytelling, and captivating experiences that deliver outstanding commercial outcomes.",
+              "annotations": [
+                {
+                  "title": "Property Marketing Agency Melbourne, Sydney & Perth",
+                  "url": "https://brandform.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "From media planning to lead nurturing, Brandform helps developers at every stage of their customer journey.",
+              "annotations": [
+                {
+                  "title": "Property Marketing Agency Melbourne, Sydney & Perth",
+                  "url": "https://brandform.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " With a Perth presence, they are particularly well-suited for architectural and prestige developments.\n\n---\n\n### 6. **Little Hinges**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "As a Perth property marketing partner, Little Hinges offers tailored packages that capture the heritage appeal of a Fremantle home, the modern vibe of a Subiaco commercial space, or the coastal charm of a Cottesloe residence.",
+              "annotations": [
+                {
+                  "title": "Property Marketing Perth",
+                  "url": "https://littlehinges.com.au/in/perth/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their services include 3D virtual tours, professionally lit DSLR photography, and drone photography to showcase the full property, streetscape, and surrounds",
+              "annotations": [
+                {
+                  "title": "Property Marketing Perth",
+                  "url": "https://littlehinges.com.au/in/perth/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — ideal for architectural homes that demand visually immersive marketing.\n\n---\n\n## 💡 Tips for Choosing the Right Agency\n\n| Feature | Best Options |\n|---|---|\n| **High-Impact Video Campaigns** | Properth, Dark Horse Agency |\n| **Social Media Strategy** | Dark Horse Agency, Blackbox Design |\n| **Luxury Brand Building** | Luxury & Prestige, Brandform |\n| **Architectural/Prestige Homes** | Luxury & Prestige, Brandform, Blackbox Design |\n| **Drone & Immersive Media** | Properth, Little Hinges |\n\nIf you're selling or marketing an architectural home in Perth, the best approach is often to **combine a boutique real estate agency** (like Luxury & Prestige) with a **specialist video/social media production partner** (like Properth or Dark Horse Agency) for maximum impact. Would you like more detail on any of these?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "boutique luxury real estate agencies Perth modern social media marketing video campaigns architectural homes",
+        "best luxury real estate agents Perth architectural homes high-end marketing 2024 2025",
+        "boutique luxury real estate agencies Perth architectural homes Instagram video marketing 2025"
+      ]
+    }
+  ]
+}

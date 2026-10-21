@@ -1,0 +1,375 @@
+{
+  "slug": "perth",
+  "pk": "luxury_agency",
+  "plat": "claude",
+  "text": "Who are the best luxury real estate agencies in Perth? Give me a shortlist of specific prestige property agencies with reasons.",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\perth__luxury_agency__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:17:38.280Z",
+  "cost": 0,
+  "result": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011CgEpFApMfztuZHhp7b5qG",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "server_tool_use",
+        "id": "srvtoolu_01KMApKm3rgyJt2eQbbUT8ry",
+        "name": "web_search",
+        "input": {
+          "query": "best luxury prestige real estate agencies Perth 2024"
+        }
+      },
+      {
+        "type": "server_tool_use",
+        "id": "srvtoolu_01FjMjGrVkbpWeawczLARfwx",
+        "name": "web_search",
+        "input": {
+          "query": "top high end property agencies Perth Western Australia"
+        }
+      },
+      {
+        "type": "web_search_tool_result",
+        "tool_use_id": "srvtoolu_01KMApKm3rgyJt2eQbbUT8ry",
+        "content": [
+          {
+            "type": "web_search_result",
+            "title": "Perth joins Australia’s prestige property elite - Resolve Property Solutions",
+            "url": "https://resolvepropertysolutions.com.au/perth-joins-australias-prestige-property-elite/",
+            "encrypted_content": "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",
+            "page_age": "427 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Perth’s Top Real Estate Agents for Luxury Property - Custom Homes",
+            "url": "https://customhomesonline.com.au/perths-top-real-estate-agents/",
+            "encrypted_content": "EsEKCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDE2ASLBgVsdoTgdzwRoMKK1EFuGD1LZuc4UYIjA1wuN7aLteuhgNRerAhspiONgawkZMWny2EyvphpeUNCDjEDDbfOAJXCj4wMj4Kv4qxAnRz1ZjwJYQs+D8UVTXYWl1TSejxsPSIM5QjEF8OiCOr9lcomgkUjFdzTqtRwNkc2ij7VyDgWW9bmyqUyuy7wSR9jRk48wDACveiS0Ov9Y7+yUfOQm52YXih7ruD98c7Qt3f0yCuQMxITsN/7NEPnqpfV/H6Yv3I5YZlK49WenosR3eBaVtd/t+FlhdWpJh0FSpQGPxoolZUdwOAGHsX+PQU0oX9lphxzpOD8DqqYWkdj5+xL15fXB11kdGwpF/DA7FX747xQY2DeTNJyfZ1iqiHfCAx630081oCApHzt2XQx0oCUskRfWj1lqc5B1ykf/0o+On8hfNPHUYVUQcQRB6d74Cjb/Ix4ZPx6RhGetit4DlYRc5Uqm7stbutv4YOD4Hi2osw8B/00ntS/ExgZyHeA3ZVZxvOxLwqn+IU2aFGTL/NNKD1JCKhg7D3h8AXHNZHXG7MktPOBrh23h+VmwK0W36luzApV41ZHvmYuFypVX3S7fQ+AU+lNUjSIS/htTtD5nQWzwXRgjgBGubOtORJ/i87lT3hqo3cV0P9ki1z7714uier7uRq8thZ973y9KXmIGOId2qkZr/d8G4Ot8sA+nydF4TgNcJer9gssYwoG7T9jYfjzQ5FsM9K1ev9asc5Pa+TWgicbDaEr3jIuooho6qhjljsZeP+BTpw0NBMLF0Dop4VqzZICoLtwABtBt13dYecCRdJ5qcW6JqS3/vucTGaD73sdCrQirKBmNCmghBSdtm0Xx6ldyJMrqIXG71wVE0z8YIGmS0gg/sv6BczMKlV06JSxsvHlAdqQrdIjNe8ntfzrkSGl75DQGz/JNbEOk3ev/DmyF1dRAZ129w4kpRgPXkuFo+YmjEV9leVEO5gV9JYsYrcBpIE5fXtDjAmI93pivak1G4kRfh5eEg98bmfBnNMrfVjmX6Vyq8aBsuZb0M1Ft9/Bwv6S67fHQZiDnIH1La7JzHCAqvAkdZRNYj5Th7OvOKiS3Yd68v829LNJ/LKKA26qEWz8/5HgXvkuDSi4cBbsXTCStSKxSSCF20xpzF5+CTdYvsHxP9rqkSyk08JjVE7ANa7yVInUxBJOKTjnEDfuSm/XSpYlvSss72TbJsssM6plA6hzT9MsDDQCzvxqMQrBHixj7J9yz76TFlpsSBTgrTbDuWwrzOvAnAIoMs+tg0pIgKPDgJ9v3qTOGw3vxNJOfb5JwHm6UCXopUE3btQR9/i5TgnCXMdVMwpeOo7QfSJGk2Ar8+NfqQAWpVecvKfLuhGMJJT0TfjvwTKRHXaTuJuDMyPN3uDu3nwXqnQ+bR3VLGltPSYyo1iocUwWMHQTDUZ+uhzpIyeWnGq6lRmq+HWyC0tdom90a8SWOEFpETUszVft24XCUtsJkRCuRHGCzI5W/sXaauLWPI+tdLUkc5zc0KQNbFN1RY9jK4u+nPJ93JYKbTJyiHD4MAvHs9C/620ZQIY0OHMVuZJAS/0hLi8vFCqGxWPKwISMlyxgTvH2ZJ8HBhOIBEWHo65l+yiSfWbAp5HPs3OmLy5TTKYHvnkydW7RDcTLuxfGIsvRN8TgNQMnuwFG4+lZL5OKlT7TLD2RDy6MrQvZnMz+KrTzFCqw/89mqM55e02RgD",
+            "page_age": "57 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Luxury Real Estate Agencies in Western Australia, Australia (6)",
+            "url": "https://www.jamesedition.com/offices/real_estate/western-australia-australia",
+            "encrypted_content": "EpwHCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDIQnLbQvei/incdcSxoMjc63b5olPVvk2yWUIjCkQDfkAZLEUIQO3QMs3VM4US1Csc8NBkCwQvO+CTaGp8ocLn16xjJf/eA41A99yM8qnwbJ89Rv0dAo4hjgLCEa18Vp3wHn9bhXODdJ8fam0GuzP1J5pdjJ3MgZQS1ZO1ToqXu/5qT17cr2oLu9nJP++82TrZ0+e5X5yuRg4CgDWr0vpKfbZyNfKfVSDCf4+Xdhh8a7jn3QoqYReKyVj+Kow6P6se5UK1murc6jJ4oVC/O8Vm/AVbaXBXQPlLZoXnTWKGZK8dIKULXyT0yo3cU013B6AHPp3M6a7uPijuk0YC9kLbZk4BcbDLGKzooZn8WW38g2TM9ur+Gbyr0KcaPTFa9UOCEyw7JSAtCR4di7Fz9naNxPfUr7OZfIyTPoMsGggUKml6EQz/8ml11XRwGx7Kpq6Ebf1sAJXTma+jHR53iSDVJ//nNHRioFQTiClDr7kfaDBfZ1ZDPyzHVHbtoki9PNShcRkRLuwp2zj8U/dXvQhLYpW3Y1/u5O05aHY7++ZAYJ4CS3yfjvIeFYnuK1SAm3mR+XHs8+qMuUpcKASrqmA4J9VoLd0NmkKTzDzOSOV9pklh8WWb0+2mWNH2u9Sv6Ap2N58ptFXo6x6J3Yev05F986qWXtmyi8aRjGN3YHCtyDLjlBjy1zq45hcqvelXw5GJbeFvzlVI+UyNANQOI/SoD9FeK/NKYSH+nLdswuIIDFA4b/TkR7BuKZOnBRRijhLmIcbtLRwBuTAsRTEbwMbMEWS6JUq+7g6vvcQ34FFsUDPc9RIoSDqD/GTfaOyyxjtg5E6GA66NmyUKgZPlIq7kWju7upCGg5Dh2bJLwjflnXcFWJKf/T1QBAnHj29PemCb5rc7y3WkkXdJvqdl2l3nZlq2eVY11RS6Pa4wlUriFUaXf9Tvj6Yslpdyp8e6Z/5clplpPxrsX5MsqaXPfi2ESV8BaTyaMMb2hps5ns5z95VFaZTNoNgf9WAfgkqUIIwSKzArQqdYwMzzfLfuXCZBQQ+03kjnVmbLWtfIvcnarq5vkSZZqO/x3ZxpyXi3Twq9VosrhJrj75z43R7+RxhnTsC9wF1eVVjiUFme3APPtArmEWGMkDzfYSqHC+i8nxX03F6LUSxOoPYMg/g21PGAM=",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Prestige Property Buyers Agent Perth-",
+            "url": "https://resolvepropertysolutions.com.au/prestige-properties/",
+            "encrypted_content": "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",
+            "page_age": "219 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Meryl Carter",
+            "url": "https://www.luxuryrealestatesales.com.au/",
+            "encrypted_content": "Eo0PCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDDbWfTGqcV93wsqXYhoMjonmBW1rDS2RkVwqIjAsqyg4IIW22e2u36kcFrXggooGKmvbZsHKV1AXJNbhQUGBe0XdfrFIPjilB+A9/2kqkA6dYhkHjqSL2h0rOOsMZe0jE72z/YFrGxMxaDxVd8fMCxjyIOQfz+wSqUN54N7aEfnfxhP/e1LhazEBLE/7pOX3GTaSJhdH1dawwru583vp4Up1nUoYxzDB9uZyptZCVVSs970Oc7Yi/0Fj8ZL5A5Od7MCWFWVRPpOEd1GZ4ncskmW3U9PHcYtuyxYJA0lzjR49E/vFitLv6ANtdrp+8ciJbY7PpsF7Sa1boDGFqu3d7HLVRrmxLyVjddXgei2VPZzWqo0LGGltuARqjiwBrQaLJ/lqZXWKDo7OHBgJP0hHSwgzps4o87xv6FEIsPqSFDUx8WlsHOcrEtz+b03YaW1ZiL2xtc6HZMJNAC4vsMDYeCuLmstrUF/H9ozLe7X0p8CJRxJfTD1XlkjkgfsAtbMVECODW6mv2HwS399KzcOB9Y75PXpWttuPqPEsGxCJUr2GmBQES6tcjjawAKA4YQhUW2P1SPFsQdfbTIY5XKfjBg2j2n7hk6uQ8TXCJwKtyuBy2z9tONcTm8LrsAsdNH4bOTegVJeuLpUZ2quPRJe22gisvPbHRsJ3J8ucu75zZ4QJjoFgd5fe1FPHoJvtUXScaBfd0xt1Og9WVSMn45SuLPCBE56tMeE9XKGW3YXytpvS62MhSrpavxOJWOGCsIy4IfBVpkSJcrsmpAAnuZriD97qvXqbqcSMN+fqvhw1M1WRWaKQNwcqxAeRPInEHCDHOIF7ApF3d35dcC1zr/7cTeVZoEXrIRAWB0ZHAyY2wAXX+spyCafQmPEPNiPaZ+j0ZvgiF8hAUgOcuecH1jtzAtnVaalCj2JaL79YsT0z2NCirwy3uG53ZjKzo8LySFw6PB3zkbQPrMM0ZIBfZGg8X1Hvt8WbStJRShgEmWG8cD/ZYhxxzxzhy7Lza59qbU2toDWNYN8tnNyoO9qzsJFasde8Qdd8pQhkOaoDeiNGjC2j9qeN7sK5NZrAhWTzI8xsigXRO+uu3BFvSeIlQMrz6FhTLaY6wcXOOYokHUF0S2Htzgz3SQycPY9lNoDkRjvFwUAP3pZwH19w+Ss8Q47NR2etPnxk/Vnq9RcuRT+lL6S4jwxPtp73v2cAbc/TOAYBoT1BnVYNeYfCGgHtj9XyYUYZLVFNri9H9h1/Fr5Fw2DxY+STXrgGbHZAuGneaXXwuwjqB9+vtlGt2LIq3nmNkhlfcWOOBZsub4R5MDD4bakZQjAjsUlRXuxrdDbmqX1BOdDh1UDhnmI6+yljBp1Oivrgj8DCWbu5q1YL3v1b/K0hNzwEXTSQ4ts+MErH/zjvdCsULv0tL2I2m+eKyHrbnoKCJvO4U6Jf7rF6DimAB/HHPThPp+BeIUSEqFuRNZVHBIkhXYfmiU1YWMjdkXQgxnQL2SrossuxuoBKM8PpUvtiW9r06Jbj28C0ZkuMHo23/saI35Kyb3/AkxvS1fvLsUNpjTnPK0KVlyi7ndeo8kUUOBA0YyzU0gNPULxbyOloYkoZyhfDAzL2nL5RzE77Slulb0Jf4mfA8FsqH1IvCM2bqsH5i+sPTXKX7qjK31yoTh1EAWTCLLS21XcTicqvjDVz0kWfA+1JSd+azEWui07Ni0A/NYNGlF+maYlwfm8h9mpILrta7woPql0tpzdJTOWQEngSF5gIELR1jEL+nHMqO8/wKPXIKiwmMijgold1V8UcRnd2uSdFofOy8Pru/6tZRpgxPw4kQVrnCgHV8q3NUQ/rrngdjbvEI+fSlifJx1cejFy/f8FwknXFzf/tHpJ3zMTeuppZBvmtHLr+TEsMlRWVRLw6yCqX+FhdrS160ZXlVPWz10UkdcK6B+Eb5t+Z7QkorCvt8ITgJipIcYMhi363HV3vJ8ndUcVSY2b5EGPnuT8EN5bqNZ5K7po19xWsDtcBvbn5iVtRBVy+913DauvcuAMnejJ52C0YU0RV1rDTamahYtFVqslCzjW/VRzu4oFZjVlMAxF/T3AIIctdko120WgfbpANzd1P9SLvC4HHD4MalT1ZRI+uyUhD4gMXAxvsnS2kdQC1gDP/Z49TTbAZ2tFaAXAgWtmO3dHrvVPvmirz6HpDp9qXDUlcyB777o6eC0C4+0K3Hy+g1U+sa9cStLQhdO3rqiPlnm73mQF4NAoNxM9gMzNa27km5qZT1cU6uavg0X8qQSBkYfJH/DcQWziGW54SOrHOSMJ+e3Hp7bPJRTv6c6p4TozwV9Vytdf9EdwNpAgKfzxGJOVWcvLInppj+IafJHdW+lpKnLT0e23XFLVHax8Kaocu+0S8AEUlaH6ucJwO6woCt1Wam31+eiwpQYSS5zCF2+wwDLXwGcZE43O4pmUc0romPRdAnUzDu5oJJf2qTrNOgLIl+HBKBX+xHVCQaoD4tsShFYuhHlQFWonzCd4xF6BcCRgD",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Realestate 88",
+            "url": "https://re88.com.au/",
+            "encrypted_content": "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",
+            "page_age": "864 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Prestige Estates Group - Luxury Real Estate Agent",
+            "url": "https://www.prestigeestatesgroup.com.au/",
+            "encrypted_content": "EpYOCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDH7bYBicaXzKdE4tYRoMRfmH/As4kJfcGQgSIjCXgYC3KzLLCt2CllKFmhe4xdHsP/4Zlx5VVHpKy/R/tNoli5eLI9tLq62865enIUcqmQ1r0bdVcWCW5czFKzEJ/7FuYSzoxCsXCuSSul/+iBzVBNa7NMRoNmTjgnHSXtyuvwHHMdXHh+qJ0B0hKGoDXeqh2ZNjhEblmrwDTIzBYMBXqFZ3noU4FjmJBe2iJZsXd0gV6dXSGDPdNIzJI/HrhEhCzxeywrA0zDAv4MS/ayJp+ByPcs5kMduqjEtY1uoGSb1EhzFZ0ymLJt/Xlo9FCK+kPNYkerQCxOxphfVDww3ElZRSTL/Mecnlb2N9ENAGhvHv4EGMKSeYyzfXxLg6fvZcgjkPmrIzENw9H6J+MC07mkQlb0t1636/kHWmCYLFAwBB6fJkyRXK3/o5KogLWMLz/Gx/ook8GMjDXmWphg8HH7xuQFuYM6x31zoiSaH3AorC1KMPPrK86Gdn2ymaGaNiPJ37hbWDW5+aQBRtNAaANT5AeKrEaEqmHJU4u7JbcrdsjwItnX8j+O/Ah2nHWMV/fC0TVEekBuiFtGzvH/M8/qmdxYKE6teR1g0i+b8IKmxftSUfzTp+apiRruqdhYDgePg+/fu8G/q1U5CZDCJHhEZGtyVIL/U3qp5lhdGodU2afbpV1PIx655FzDi7RMlFbTa2X7CmgxjAPllwtUdlm5wzs3IfbFIn0wrxaS/kfWXua1Tm/a1CxCEpGhXYCV1MWMxKLiV6KBMqcY5EIG7TBaQfS7x2qvoK0+P9IKVm99m6BtKNoX3k1kKWVFGpXJkaAmCC2jX8ZggT1N/3LLzhF7a6xyU7CbKw+WzUVAHpHhWgDQWuCmzTNOwbTss2goq3RL/LClcAcf1PS2lXuGvrCn4l+7rLFAepRwDU7oS47Rv5yQLGL5Gxlz1ZwfblUpNLFVn6F/x2o6Rl48MOH3qn/Je14d4Wj4Gerbitsx17WFlOnLkHcs4EBkCQCfYG41HcryRz9Jx/+RvGq3NdT9YEeI8KJyZHVGG6wdb92Rbs3sv2Zw/JLsiL+CLXFIoReo06Y4V9xVHs/dfniExwNCjkjl9SoBB8uenOplRcKdWGC6Y4myUhLltKGo5psB+g16/c6cMbCYdGW9VfoD66QUGA0uE1j/QZAvE5Ig260mf5LA6A8iFdzGL7+WpxM+Urd+Gw8QqpIV1r45zKY15BePgzKLGOUvjhMxpp/sPlb+oGh4YRNMEYmiFTjQNq8Pa6DOHoKn2kaR9pu9hH62wwKAWVE0szwgMEPDdwPeAK/PosckDc39qkZ6RAfgPvtXCpc/wq1Ns+QJMu2w3FdRwBR4YP+gq0u8/wHWO7+RQzO2LlfFaPbgncqZEKEu6lTNdiYjOsVGidQUgHR78aBTRONyjL3WNa0Y5N4Oe/T5gaUWFJ0Ez1iE3tRUArvKPjYGjQCK8sjdGXC04D/HYKXARelkHlbVpmkpouLkQANxJmIK1JWbHvnwx4KjDOlLpBrkTVjMs8pBn6pGfIK+ILA6EQ6OJm2/5XpaNQPqofsPgBY6siGOz05GwOtj0O6HmTqH3ZY5vfImPoyK7/oBxXXd+RrmV2SSc/9IMQeqG2mqHk8WsnApMMK0CqTOVHnZtDAfg8z2TXd+bCJiA3yXGJDpdpTFElX2oFvBOuzFQb2C0nXKAx679Dsn1osWKx5hkj+eBlhGphDGW1IWath8RUuTdVvVSNB8miIj7pDKu12EUaJYngGgZc8LBu2uVFQsLN2SlRg3LZHTj/+iyVA6B2LVb+WFtLH28MjOiA7mDCzQGSD/JMndbPeeJe79SFKH2JQa3EMRIP4DRbTipTz87zrHZXLk3Rn/j37wFe2k/fU9Xr+lvVdTTAzddzXExhhHSLsFZt6YndJfXY2bRm5pPcqJWkHmL5nAME+h6kcs1QjbWopJvSfor4mjiW2iEXrLCtLdLSbgHg77boxQyFAk+/im2wk3ewX2euNu0RDmbznqaoQeTnlUxd5YUD6L31KZ68Ot75YWdwYFP6Z3WzaCkVxH+7neRl4olI9KtDON/ELf/dde972pJvXonwc0tCiMnGidNHfKulnO9hkWn7eliQR/KpJ+WrQtgpDNbKlUd+NYhfkBjJ8xjsmSl+OFF0BmTlCHdmEEtlCHsvetMsUpCZ4hHpC32tM4Yx+8XzKkY9jcq0ajSgDNVhsYRvMb6i2GoQ4PMlHbOFn8sPiz6jgET5Dju2ucRlBvWA6hebQu1KoMof4LxIWimViy2XWvDCrFL2/OdfW8cpvT+OjlZDoA3HfovLuX71xjNQXIgcF7sO8Vxqx9IMtHiOgKq0RjbK+SQYAw==",
+            "page_age": "1049 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Real Estate Agents in Perth, WA",
+            "url": "https://reiwa.com.au/real-estate-agents/perth/",
+            "encrypted_content": "Ep8ICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDOliQUqV61Erg3jJgxoMWgXGRo/LlrrSP3XTIjDzCXM8vFPC/ZB28nWpwVTCgWSOL2gTHFth4RBtWe4aXxJH4qLDwPitsaSaafGZsrEqogcvyi51q2GrFJbKskh2H1Y3fTfbbTGsSRWjHEZI50mR9vdpbQdfkrkanC38/iGTKhqDVd9xMEyIbwU3hTUohWy2v9xPN5BLOSxMv37asSp6j0bW6Jc9XnwPjmHJxg2wQCVHOfAsBkPxEZchh2/w4jcYupdpUgr7vAOjg9PCceKNreDjztIYqneR49npnav2Nsgb/o+/nRfPTAY+/FGcfQxGzYKfIK4lv+lyQR5jWMEQordNzumAtQ1uSsMTRUfp8LPXCNB7SN7TcHC7F+P7uwXP1kkggSTrsy2OYxhIPFAty5bZypMbIztSTInIS/Bab7Sbihmg9FvHCmWF+WsfRTclAt6luQ+6BuzazkPsTnKMymlMoT51UmXBzaF4WJ15gEe5QugbSMbax+osKffP6ac6U4sMmycbQI3TD4LQJRpqlU5sB8r++Lmhq/E3LNNOCxM0Nv24abdPGBdEIkA3Vwjc/zo9Q6W7uC3WM4JdSHhzKNFACN2FSEhCnje5Nynfa84A3/S718/9W2tVB/JU509acSykDTcmLr3ZJwh4dcJ+3JpJIQkQZ6li3ih9pLSYXRv+9X1P01xFQBBtV3qWk0wtYBI5B/sGnPgAt1aZpysdNFuQkQxEs49XN//kS4mZ+0nRWwJ6FzGELSQrovugvnhrXtQqbfwX5X5PXwUXVFLD3J+DFDwJ6N5IrDSKaCUJF0oJFp7ZsaVQFENLnExaR9TzJmQtmBm0BFKeuk+s//sRQYbiaREDTqPP3zmvixli7dx05ZUxKdXaCqdKlkLJGhkGobn0FQk9YIMLB2904xYGUn0lAklzSQWilAIVmKEv/joEdpXDX7jg7n4h6Eqhp0snO4EpUnRHQo3pA5ctCRuIfpLxU8xyuEAkEWc8dEebdQenERhS/XYOA+dPpYVvgjOznY4W8viymysHHe/S9xsMfXFS/FZl5jmdDisUMm40XKJLpNof6EWRC8pTu+WQ5LSSLUd1rNbPWlBrz/wlZ0eFmse5++wzfF1x3xKJ1o4wVM+1q8P+DWFZfTG6BhjnJ1Vojdn31XLnwNUwDIBqn4nNUUUTzpd2FhWRc11dD1226ptY+ftOtBClR3+YscLxluoD2sytMTpS2E6RBFGGhOXLvgrV2dzb48dGaRONmBfQvucq4E6KVIak/wabJyYEVsz/SXDZCWTGq61AYH5aqFQPr44lEDaYsGgzfXM4M8limq0u8+RWpDQjYpjb1YltpzMnLZUYAw==",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Top 7 Real Estate Agents in Perth [2026 ]",
+            "url": "https://www.avenueperth.com/top-real-estate-agents-perth/",
+            "encrypted_content": "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",
+            "page_age": "138 days ago"
+          }
+        ],
+        "caller": {
+          "type": "direct"
+        }
+      },
+      {
+        "type": "web_search_tool_result",
+        "tool_use_id": "srvtoolu_01FjMjGrVkbpWeawczLARfwx",
+        "content": [
+          {
+            "type": "web_search_result",
+            "title": "Luxury Real Estate Agencies in Western Australia, Australia (6)",
+            "url": "https://www.jamesedition.com/offices/real_estate/western-australia-australia",
+            "encrypted_content": "EsIFCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDLmmkX1wepr+vT2uwhoMIjJa5D+tWeey97BGIjAJ5TJfU+WxnBtgaF9/NVXsX0DM6+z2MOUNFZdIzdp7dupWjouhP241GgPZRY30/fYqxQS0/7Ht6SLKeYVbEU84A1qbQ4sMwVqmlAE7InEnukSIKOZuFNhXMTx/GZCrVDSLhFjHjerXvpm+BT5SXlzq5v4/ToXl9SUgMT35FeK9YFe1N2MfjgN9QPDIh+qZN2gBtYS/0YH+IHukXL2UmMRLH9oldCpM0kzrAVh9Te/8qKkScEZwQNIksHh2bkclbQHhx+FtyZ6fE0zArh69x76ERB+iwkl924LOK9eN6eFB8zc9kunRv0ufzu3hTcV4AvHy54mvR8AUX7USuB+OVrAoaNxLZaRBviVMF4KIRcWAWMa8SKZ+rQTdzXi5l5SlvCNjKI+sWwyx0ThD2OFu0OVCmRuqVLyR5rL2sm2ROEWiamAQLpuHygSGDPHRW0LgK1K76GCRVEa6oaGIfAFdWaLECP7DWriWRXGXr7CnVy+poKRrsuQEtETardgr8TztnMCw9iVfvUd6gDEr/O5pgyfCeZBlOiDeXqamqvRJZZbDRMWvf0BK0AnQyeARAjQ1CvdGUZVHEnlHRa5+Fbtivy2+JHEcAUrkd8iH356XqtW+kaFjGPnUTQehkeHE+/ltwFHJUDJLn6Xjoo5/rQL3g9mmwaeT3Aep7OH5nwdw7IfcGgSzM1nw8SYa2kUJGD42FN/o1lw+z7PoZ7WwuR6L4zDpdmYdg7nHwUJB8wmdO80VH/BOXficyGMs0Hgv+MLtOmWoFPXUfu9DxbBvvX7J9oOi5gdtUFF3WJQX8jMfgoVHUtbivcGbL9U6N/RNDYIyHx8rrPZEqZiCHhgD",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "THE BEST 10 PROPERTY MANAGEMENT IN PERTH WESTERN AUSTRALIA, AUSTRALIA - UPDATED OCTOBER 2026 - VERIFIED LISTINGS ONLY - HOURS - YELP",
+            "url": "https://www.yelp.com/search?cflt=propertymgmt&find_loc=Perth+Western+Australia",
+            "encrypted_content": "EswICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDPglD4Mmd7Y6apFPFxoM8x0O2zRbuysAFqZIIjBYymD8/k2ow32NmNxItVeNkQya55Zla6hIySHxMmiAtCbvQCyPwUeSy0ky7Mzva3Eqzwer72XMUT5gh5BvZIKCVYkmwABaLs0zYtOXPk/PZOZ3al/qoIVZSPX8NdtXBv1Lu7AqHhaBxg9YRor87U0qbWRXZ4TGVGS7/NuvvZp+0Pd/uu+QUEoM6MEGr4eivMSBviuyX27EW6J7Tup27SO/NlZU430s99IShie2RIZXwGERs82i571BPmaIiRs5G9wbT64YN/Z/bv1gch3K7EvDSZwXqUnwJm3SccW9+RceDv+e2VkF08eCXLTuBuY3kAV1QvV16UalIgFys0e4U0UBTx/sHjPe59SUWPizFZoE8Od7VHyQxDA/z04SZRURHBJ2MX1l4XHYp2uYIpSg3RcRa+P3JQYBlNvbLsRtmXRKIK3pmBtZfiwhMi83AH6kt1lsD0bgmCJQStwQwtJuKRTfkLX403KuG4R1a+utxCjLUGwTp+EwFmOT74VpIgG0YAa8+4vzCXcHKhYdSGyZycr2WwIIMUu75IGrDOPxFxFiR9gbojngXM8atsNo/3tMuBPJlkqM2PW4AvPKK3sbYWdyj8b+B3SO1mE6cA27dSAeq8SByfnRV05UASzxLPhTu8L426S5G1wuoFGmowvtWFnSxn9H00jLRohqwuPyzom7XFVAj2fbppOF2es8Zqfe62MD2ZOuX0HR4uDn2dJ0G4YnfTkAuLyUBl7gKIpEhVItiC31I1YWKiJPYF6i0VeXX7XqZD4BnAhL82+VRYq0kOrEiDJYIi8TSLgYz7LylP+Y+Zm/kXbiV2ymxLINnAC64QtODgD5imYBHNimzuiAkkM2GNTLhC6lP7cO5gfx18gACP3Vhj+Dvu/EPPvsSYGkgXGVLlRBfR2jq9rAxcASQN4zSQZAUNC8GwjSEz3PDXagOyiOCkEYXp5UwzwD7uouWQnzKT5whiJubKlkbIzyPjOMunSdNZFBu0nOuL6A3QfsmpxZ4BaWAqYeEzPPDjnV+UipgWLdYTosnhXp9nd7VOWVD/2Lps/5PbMxMXs85xBlIhFREYyXFomYFA/hBsUep6nySximxOV+igXnSGuD+Rf4bSstO/GIWUvjlGwSEZ6OhIl8wFrmpxnlNDttPQSsSDNliUZzXeuWBqPrGhgrphOWDPjlxoQlNakQmcwqG1/X2xCap6xFAmirfFLeRmyFD99YVRjDJG/LjbWPfhP0OLLYiueALIj/hYHS7IxRchAqrNH5+xJNo3MN58Zq8a9I+mzzwqA5ZU4SYpaFTP7ydodOmiywRcw9vk8OjSY5mpYaY1GgL+bBbM5hejlLuHGQo2hhAvkgx0Hrko8Cr4Mpe33yUHgYAw==",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "THE BEST 10 REAL ESTATE AGENTS IN PERTH WESTERN AUSTRALIA, AUSTRALIA - UPDATED 2026 - HOURS - YELP",
+            "url": "https://www.yelp.com/search?cflt=realestateagents&find_loc=Perth+Western+Australia",
+            "encrypted_content": "EsAICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDFTv8T7zNaWaTWDKsxoMm1XuYJq2uIWVnOzNIjA41fCB9102Tu+8STizFGHi3bontS0sllqmwMphSQb5PGtUC78/OwB9S9qkrlxPKyoqwwfPjTYyTmWei+ml9YYXK8+PB6azBUh7Wn9zUkmjV0Ma3gfkMtsVuOlD1NRMhcRkT4fQheNzGLboNqj3LD4xOSE7uTUZ6hQYG8HDzR0G+tT9i8i9Tk71wtSXDLeGET9j+Osa5J/sloXtnmP1kDov5DiydZCQdmArXwIEYVHiX6LYMvj4OdRO/PYcSFl2IoUAXoG77NGmn8peqxA1chPhE+RyVcOwx7jzaJNbKlNLfOuutQna0dgl3RApCS4Npp/ztUE9Gk0g1fmrrL8/yTlU6a5k2Dqi+JO+hbPix0qgWy7cPBNSunMqlWzbX7YWWJxpqgQN62SJdhlkb+BT4N9ItlDWy8OwgFfhI04astpCOk+/ndIqj4Y+bsL/I1nwzNwLJlOt439oeAOFYfLt6FUkDonksuATyjFdTQnCIK3GEDqZkfJxvyG2uf+d/4+iDw0uMu4mFdTTbD4RC3D/TXvNwH+7YVZwGbcG41wrrZgAESYQdndODLelmJB3Cr4DmEFQsNXLMwEF/QfZKVkAPEtsuh47dYcSIa2RHXTvc76vXXnWze3QuB1SXyTr84a3eD4hNkWBrw9cCfLtCMoL1fndH5MLhb0/yr0ETkqzoSDunvV9Vs/5l9py28szVMbN4/r4PH4A992uiXVIzCjwrdN5rM+IaqEfJPH72MHSn6IM0tjcmNeA1gm4AdaicXT+TdmTJAJpkYOHV2pqoRPaMQUJH7tB52hBuN5IQ9vSUHVppHC9buBYGQ10cW9dbp6mgp6NYwDzluR3da/eN8cKy6V+jkUqAsLEibi+C6VnOadgSZBaPP2tLw67M+vUp2GnZHw1LpF+kgN5NLqs3Ge8AvOViMDLhTuS5qd8w3TmZHZdEfZTqYgYjXHLILkeuA9TOplK1Dz9RP7YNbuEH9q/JtReAx5OSAQZ4lHtgB4OEqSsrJJ0WX4myfMtcxBL2UlyIwVg25aaiXw7LsS1Lr4651Kf+PYA+hftbOLtIGiJi/6I3qatzmy8Oui1qn1ZBa6UYbShxixQAor+lh0JNmIjKvr9HbH38i0pv9BhCi71WZXw5ldShhO9/vJm1QZYcbYGifuIiegC5S0Wot5ll28n925KjAswmQGx+QlFxFfLGK4+uHSs2/cKRXS2HZ69FssPi0jMBVqAWSBzLgazFOzFdmmYwC6/5xh1VCyY2Gs8OOsoN2ViiwA0eXfGDvWRlGZJ2DPRfODeHO1rg2wJDmBC+Lz1IXUY4AhLB5YFmcBNs2MuEaTZ36J5dyCqdbgz40Jjz7v73ljtviMYAw==",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Real Estate Agency",
+            "url": "https://hky.com.au/",
+            "encrypted_content": "EqIICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDOfdkfQ3t00jaRwEgBoMe5nqLaSD1N//INEfIjCwk9P4gH9C8Nu5m02GjebTM7uqeu12qSKX6M1l8jMCsi/6VAhV1Y5kUrSACpVg5lsqpQfafxKDXRYHfkQIvffmrXruWHk3WrbFAW8sp+PADbZRDkRA4NiTQueES8PpLFOw9RjthHu18PmnQPpdp0ptrtViCW6/L/9cmi+TRxOMPslj+qng1kTTxhqC3HABScBeUJ8bgUoLXB5vAs1qVaMCldqnDEr5qg+Gsd+HvUdYPDeJSHuME+2iDRLw0SARgKmFiCl3bIQR+fzcULxunfQ//HNNr/+vR8aFOq1PSyFNKDqbvtB+xWdEYmtF7wq8K+ieJGEPBEtipMQWlQDG+BS+hJPmONw6HnloZNceR+mJqG6MJUTvrbWotlW5iof8mxLoWzAb19vnHvYRqAm1KkbQqfvtp3m1BmnrRaM0qKPe/H9S4C52nvHGtzlffsNOnu0ABYMxNVofBwJS+gHq9NECaNuDhkCfSNqU1fHc5nmfzyxpS4PFxG3G11KVVqiotEklyQeTVP4SyUQX5QLpe68KrCC6hCKpFspL3Z4M/swShUL5bgEpx2ZdRPO+IPv/cf/Z+XkSSda1WtE+AM9LwvbePHe3Rq2QVqtv+2bfMxlyObmqy5agulAtJfTopfnTCiRE3hXelEiZfnn1uegT0RqrPf+G/OjRkkoxoYyb14sUq3yzC9NV2FhBlu1VnOF/6GUPgAMhQs4bz4vfCmFSLrExkLcnUUi6ox/90Puy01XXtPsW0bDtQfrLk7oH8b18ilb7liDcXUeyAFaCVH7qo+sfBmo/f/EQjmkQetyFjFHZlQwRLStrIafHtqTE9qkerjmpz60y3S25ZqZYkLWcVveL9wQa6L4z7v8S//o2Lr9DthxGI9ACM0I9oY/aprBjKwTMbT6ETlqECp+XpN+4ys5SumlCO6fbB/PndvlRCguZ/5Rnt7jZsYHJpVtzI0sdmLMtMMN4i6Vt5wMJTbWgkxGdwDIzt9O/9+eySvFeL1Y35phgEzU9hxHuMe4s/V2YwLh1V7gkPhqNRjkGBnQe4/r2HPhg/EtfrDaYeLfUWDog0ccGJQyoSVtHDxWlTceK7UEuppsGWxz4Lsbuspe5NwPJwWKJ4rRkQ94yX0zpJNUOKUVHMwSfdhvFEaUFWHMlG6tAPjJtUiLnyuSoZNetI9uK3DDVlqG2S5rQQV6ENF34/kINIVSUv/+oZWCvWsRdsPVoAFOi3PYbZAFWovnW7I4Srj9zSuuIgRIe0GCyy4mVW+qOctQBxU5qnFA55/XdwzKJU8OhZrldzS7fdf+KNcVTkgAddM/PYbAYAw==",
+            "page_age": "21 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Property Management Perth - Award Winning",
+            "url": "https://www.vividpropertyperth.com.au/",
+            "encrypted_content": "Eu0HCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDDM/+79BEhJJicOt6xoMdwraoXaWsrB1kdiBIjDTDtu9qq3cUPiHsdJXsVJKL/U1Q9WnHANgWseVdaZw1Fk+FjTowRRyIyOxyX2BCM0q8AZb71edXM5PdCsAuHzQdV/0nh5y9QdadyxmMJRqSh6rIxg57I+WoEpU1+Xa8OjbELZup61oICAS51N5le8Wzx2Izsjs1L5U4dY9R3HDkb/8Cy5okIm2KkK9ErNr3B/juDh8deADwQZ+wp6roCoMvGk6kJ1m05IIXfCRAP5TUoahXxQyHvyngfUj9Wsxd7tuTDsDrCf7UZf7fFgRCSwg67TF6j5bpKPxFwaJ8DcdQ7Q7vgnPHZYYutHzBE27wMlcZmF7Jw6tvrGzA7hVUnurxx/Mfh2ZqeWCifXuY6yQoB7NqYdlcidkuyJdmoIBMlq7xPHuilMKagEb3omxcRCBqhdue/MvLYqfgUJei4kS7dtGdcz+HkQT1hz3OSxqzlm+iMkajrUmCi0QURT9gxqlVEfxNcxW5O5V1knB5en5CdGySnZYAkcx0NtEorJ2ejP3CQ0Cuj+BE41bVnkKiXuhDY+eHk/mjsuEsG9hx64bvMaCzU3POJpCYrjUEaKXH9zUQvw4olsAm/SZp7gngdYtQe7nX8Ai+Xuf1tqFsdG1AivRWMEZd/BfosAILYuYD8iF78HRTkfqytLXQBVf/NUAd7QYPn0+Q9RDI+fforkQXN/CAI3zaihNWQe24L+qRJNdXjSUsQJlwF5CRpj3GuZUaYXhkfrC826SyrGiZhTW37bxY0DGUcNjabmaI3MDxaqQCwSjJpJWGwVIDef2Qy9kAfG1cT0TLmbNZdIoz4dWmV5eJWitqW/s8lR3hook4SRuGTDoPQwW0sJbrIpiFpXYOa6aJRvkQT1cL2hHQ/sM5X1yO5zx22DT0Q8tOUadIpZVaemdlAkufl7SSbzEtdN1egwt+ihhN5xNZY1dlTKZrvXXhkYZFwXQv2fMtZtMUbEX5iypzqmQMiUuv1WHUHt2om8BOOCikxhAj+bdqEDuFgW8LQTZRuc8CFcee6lw6ad6LNa14gJJzxzxaz6cqrP6/uiZfiwrTV1ElbpbXPQwnjihcRo/so4KKP0ApiTgo9LEqPQ49EfvLROza3LWnxhOt+GjZGA6D/zzp9eZX+4V+BJpjNwhd1/h+K8EQxFYRLbej1nsTS9v6kGdm8qMkyGKtlp1A96qxd3Txz2fnSUHdl7H2dGpbpRe4ww1W/qeZIUKV5WOB6NaSH6DhMkfhihDWiHuGAM=",
+            "page_age": "776 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Top 10 Property Management Services in Perth",
+            "url": "https://smartrealty.com.au/top-10-property-management-services-in-perth/",
+            "encrypted_content": "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",
+            "page_age": "26 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Top 7 Real Estate Agents in Perth [2026 ]",
+            "url": "https://www.avenueperth.com/top-real-estate-agents-perth/",
+            "encrypted_content": "EtwICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDA6nU3hOYCgZRxRe9hoMqRBVoe1EaBToZq3CIjCWY2re/DUbO58MX3PiZ3Km5xOj2c0r63t1bGq1l2ki4tRx9KCtjR/QfHEPty2amiEq3wfnDIzMlvL/PjeaiSKb+LHtkEcVKKQBlhIgJko3hNgvaCX3EORx8l2CJFBRosbmCVkV2kTBs3sxBwUUIwU6tMDlYh1BWOXQi0R9s8oWcCwaprJe9H+tdq+t8i9HfPEzYxEbo3ECuzGQfvqIUKiB9CgwqpLlEP+NqavVr/XY1p/vTkQM3JmRSOjYzlbwVi4PgJl2TvaBi6oy0igQpDzwUd1vGddY2+XCXV/yKEThBB4yo805Z/6at3QnJLi41WTfQeviNv5IAaesS3kClXeohD12SQv91Wot9BaWX3ZxQ+Q1gJX2VyhNdvXM8Ri3WMZzedpCy4LiIGJomS+rtDZ8Ot4Ez8nLYhdAJwVnrVeM5e5bdSK90Hpdlrw3BO6u76qKvzIdN6J3Elx/kXeuCwotPUsNMJCNQKEjixMS1j7MQ+d9dGufPPMI3y8gRPSmv9oZgARcurY7IIyGGKovS4iVp5DiOW84CW27WIPzMeVfzcGwrKtSTxtp4xxmYG+mqwquNiitWa0X+lt56FHHTOfEntFf7zXEb7bI57/d6IwqVqc4NhRRGSgjdMOzGxi1AupIuxgmWS2Lp0hWeD+g4EOESViJjqH5o4SRRH7GGPl/G+vKHaCMJfzLUOO+qgSjlev+teaaKmqczChgal4DjEcHY2HWXV5PUAgiRkVRdu29v0gAz/nLoWr/QQjR9vD66+Pr00nlBxNpbvfpvEdN1IKwCkLh1l4IFVWxC6QnKfYU5+6XFqZl49DYCcVrWNY0wWolqK2Q0sDXoVbkvRJnoEwUFFpqkbKLlyxIePEwTHL0QklOsi0reXas5ptTZbXLJaztIiq/y+rRwt3rBTDuQeVCYDkQHHvtdnxRtvYxatVw5Pu477zBSHIBkX1jLPuLVSD3c/yQaiPc6I8G0LOLvJcje8KyJYMBZMx/i2CiTr9S4CE/aNoNxPqVmq+3agtR/VyO4IW0FufoOuhnkWJByDUzn1bZNTRVX8Ix7ALvK7aKSC4t/pJt5uw43X2mmS03+4lt+ltwx7u2NdR6X/87kVdh3j4W+gV6QtyYZjepP4zF8iCaTRL5iPZni64E9aNEf/UNggHjjjCB9jajyGXYNIdmqj+DfWYCsRjZPXPh/PalF00ZK9mu1dRd7vsoa2qOwoyZp/7/BQeCzEGgkpCai31HbXz3j459HTj7iqJQOt+nBHfNIWaWViA9/rpge/LQaNanu73gB3exGetZDo+M2ONx38KJD+9zsdTVrrodcHTKAOu1cMhQGbvapaPVl40crF3hugKab/321jTah3PigIBIZBOp13nBjV1x9B28vRyQKPftGAM=",
+            "page_age": "138 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Top Perth Real Estate Agencies: Commercial Property Reviews - Buy",
+            "url": "https://smartrealty.com.au/top-perth-real-estate-agencies-commercial-property-reviews/",
+            "encrypted_content": "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",
+            "page_age": "286 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Top Real Estate Agencies in Perth for Investment Properties - Smart Realty - Buy",
+            "url": "https://smartrealty.com.au/top-real-estate-agencies-in-perth-for-investment-properties/",
+            "encrypted_content": "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",
+            "page_age": "69 days ago"
+          }
+        ],
+        "caller": {
+          "type": "direct"
+        }
+      },
+      {
+        "type": "text",
+        "text": "Here is a shortlist of the best **luxury and prestige real estate agencies in Perth**, based on their specialisation, reputation, and track record in the high-end market:\n\n---\n\n## 🏡 Top Luxury & Prestige Real Estate Agencies in Perth\n\n---\n\n### 1. **W Porteous Properties International**\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "In this feature, we look at what sets Perth’s leading agents apart, with insight from Olivia Porteous of W Porteous, one of Perth’s recognised names i...",
+            "url": "https://customhomesonline.com.au/perths-top-real-estate-agents/",
+            "title": "Perth’s Top Real Estate Agents for Luxury Property - Custom Homes",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDPvkB3/77ugiCEVCNRoMvIOr8PeMgAB8x8VYIjBzUTFAZiNkq1W+s3oY3i7/1WciZmNmTfYI9XAxiZiqZeOxlMC923CbxN8rcKF4ZPIqE6QjgHlMXb8JTzQGrRNrmFDA694YBA=="
+          }
+        ],
+        "type": "text",
+        "text": "W Porteous is one of Perth's most recognised names in prestige property."
+      },
+      {
+        "type": "text",
+        "text": " Led by Olivia Porteous, the agency has built a reputation for selling some of Perth's most prestigious homes — including coastal residences, riverfront properties, and western suburbs estates. "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "In the prestige market, the best agents understand architecture, land value, buyer networks, privacy, negotiation, presentation and how to position a ...",
+            "url": "https://customhomesonline.com.au/perths-top-real-estate-agents/",
+            "title": "Perth’s Top Real Estate Agents for Luxury Property - Custom Homes",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDMKD3678HVsnXdqHYRoM8xhPIvifR1yaMmD0IjApduA4MvFpdJu/AavkB1sjFMQpC3PBfeHZCoV75bAAhbRCYf2ZKSgHlScSQgrCvo4qE8A/xh0vZJgKgacZtpR9KUUGV/0YBA=="
+          }
+        ],
+        "type": "text",
+        "text": "The best prestige agents understand architecture, land value, buyer networks, privacy, negotiation, presentation, and how to position a luxury home to the right audience"
+      },
+      {
+        "type": "text",
+        "text": " — and W Porteous is widely regarded as exemplifying this standard.\n\n---\n\n### 2. **ACTON | Belle Property**\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "- Agencies such as Professionals Real Estate, ACTON, and Peard Real Estate are well-established and trusted in Perth.\n",
+            "url": "https://smartrealty.com.au/top-real-estate-agencies-in-perth-for-investment-properties/",
+            "title": "Top Real Estate Agencies in Perth for Investment Properties - Smart Realty - Buy",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDCXKahfQf5c5VRXP+hoMkrKzEOG6MymC4SzSIjCaplF4MbSK13FQV761p3bsXMHyN2aAESa3utwFEaUzGbHvJQS84gBhS9LJ1Zn6jxMqFAspU8lw52C4e+m/D6Z8JPAytuZSGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "ACTON is a well-established and trusted agency in Perth"
+      },
+      {
+        "type": "text",
+        "text": ", with a strong presence across the prestige suburbs of the western corridor, including Dalkeith, Cottesloe, and Claremont. As part of the Belle Property network, they combine deep local expertise with a national luxury brand, giving sellers and buyers broad market exposure.\n\n---\n\n### 3. **Blackburne Property Group**\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Blackburne Property Management: Boutique Excellence in High-End Properties\nFor Perth owners who specialise in or own premium apartments and townhouses...",
+            "url": "https://smartrealty.com.au/top-10-property-management-services-in-perth/",
+            "title": "Top 10 Property Management Services in Perth",
+            "encrypted_index": "EpMBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDIeoBvhDQHPKOfKhlxoM5KWzkhak946cS7A9IjD4NUAoVd9qOrCeESZSbwr7blL8zfx+a19lD6i9GC6G97kMauk66PYQKGMhzspKr3AqF9op75VTwUMb1pr0SWSsGkmtmhD4ZmAnGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "For Perth owners who specialise in or own premium apartments and townhouses, Blackburne Property Group emerges as a strong contender. This WA-born agency has carved out a niche by focusing on top-end residential properties, managing a portfolio exceeding 1,600. Their boutique approach aims to provide a highly personalised experience for owners of discerning, high-value assets."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n### 4. **Luxury Real Estate Sales (Meryl Carter)**\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Meryl Carter is widely regarded as one of Western Australia's most accomplished and discreet luxury real estate agents, with over $100 million in resi...",
+            "url": "https://www.luxuryrealestatesales.com.au/",
+            "title": "Meryl Carter",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDBZIPQMRZkgJjcCHBxoMtzdDAm1mWtnElfXCIjA/8fIEeOgqAi3LpKkMoKnD/ThoStQihcnITW2a1R3bxVzLJt73ONufK5F89RYpNUYqEzSE8jGR5X9Y4IgGhcbrM+TW3/EYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Meryl Carter is widely regarded as one of Western Australia's most accomplished and discreet luxury real estate agents, with over $100 million in residential sales achieved across a focused five-year career."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "**\n\n\n\nMeryl's network of luxury agents offers unparalleled exposure of your property to a qualified, discerning audience of local and international bu...",
+            "url": "https://www.luxuryrealestatesales.com.au/",
+            "title": "Meryl Carter",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDLx32NgNGpYUeOdNfBoM9V41hwbuk9j3EIckIjD+0j+1k1IByN+S43ybarxt1a9kKSgTqmeUC8lIus5RNJ1ljToWhh2tSRJuIGkNpTYqFSsFGUgBrWtYCnN4rgDE9Dah6c6lpxgE"
+          }
+        ],
+        "type": "text",
+        "text": "Her network of luxury agents offers unparalleled exposure to a qualified, discerning audience of local and international buyers, with an active approach to international marketing that puts WA's finest properties on a worldwide stage."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n### 5. **Realestate 88**\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "## Evolution of Realestate 88\nRealestate 88 is a sophisticated boutique real estate company based in Perth, Western Australia. Specialising in selecte...",
+            "url": "https://re88.com.au/",
+            "title": "Realestate 88",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDP2D8rg5o6ECfpWq7BoMJejLI34SoKPjcmGuIjA6fkj7RFBhzCTQOWROl+F0lHQXWSltY+UjLWHxIphIs7hQTZdn9KKYlqhCECSHAjkqFdL9Axhk/z06X8XuRcC27hnpN/K4UBgE"
+          }
+        ],
+        "type": "text",
+        "text": "Realestate 88 is a sophisticated boutique real estate company based in Perth, Western Australia, specialising in selected metropolitan and lifestyle locations catering to a discerning clientele that values their premium, boutique identity. From studio apartments to luxury penthouses, they bring the same level of dedication, professionalism, and attention to detail to every sale."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Our expertise extends beyond traditional real estate—we are leaders in new project sales and have successfully sold numerous apartment complexes since...",
+            "url": "https://re88.com.au/",
+            "title": "Realestate 88",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDF9ThKd+eP0U9kGsvRoMwaZVNGwOxgrLQfyLIjAlpJglQuOoYlNqGyAfTnSMg0qMWARJIo5OKoWWXZdPE3fn0g1VCdfKPY2UaOPKa0QqE068a474lJJHczJtyrB4vEHTFUoYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Their expertise extends beyond traditional real estate — they are leaders in new project sales and have successfully sold numerous apartment complexes working with some of Western Australia's biggest developers."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n### 6. **The Agency (Perth)**\nThe Agency is a modern, high-profile real estate brand with a strong Perth presence and a roster of top-performing agents who regularly handle prestige listings. They are known for their sleek marketing, digital reach, and agent-centric model that attracts some of the city's best sales talent. They appear frequently in the upper end of the Perth residential market.\n\n---\n\n## 💡 Why Perth's Prestige Market Is Booming Right Now\n\nIt's worth noting that the timing is excellent to engage a specialist agency. "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "In 2024, Perth achieved a significant milestone in its real estate landscape, recording its highest-ever number of $5 million-plus home sales. This su...",
+            "url": "https://resolvepropertysolutions.com.au/perth-joins-australias-prestige-property-elite/",
+            "title": "Perth joins Australia’s prestige property elite - Resolve Property Solutions",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDNL9bRDcbR9hl5HhChoMtKcMYxwLf7beKXgRIjCgXbMUCQgPCqrwC+A7gr9VzOgY+ta+M62Pv8Crok3l+Zv7qOpXgzdH7wSgwtS0R7EqFVqdqZlOa+aWQaqa1ZwltbDn5pMmxBgE"
+          }
+        ],
+        "type": "text",
+        "text": "In 2024, Perth achieved a significant milestone, recording its highest-ever number of $5 million-plus home sales — a 69% increase year-on-year according to Westpac's Prestige Property Report — underscoring the city's emergence as a strong player in Australia's luxury property market."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Strong performance of WA’s resource sector\nWA’s mining and petroleum industries are powering the state’s economy and boosting buyer confidence.\n\n\n\nIn ...",
+            "url": "https://resolvepropertysolutions.com.au/perth-joins-australias-prestige-property-elite/",
+            "title": "Perth joins Australia’s prestige property elite - Resolve Property Solutions",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDJ6d4OqH8GTzbcQlMRoMG4HPMDKv2lviMpvcIjAd/wQ2u9BAgbW47buQ0QYCyS+8orgcOGYO6u2iZLzqL2PTlJfEdHTRZ68fFkKABJoqFUx1t5343Uihj6r+9Jv/AqLkuhH7NxgE"
+          }
+        ],
+        "type": "text",
+        "text": "WA's mining and petroleum industries are powering the state's economy, with more than $32 billion flowing into projects in 2024 alone, and a lot of that wealth is finding its way into high-end property."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n**Key prestige suburbs to focus on** include Dalkeith, Mosman Park, Cottesloe, City Beach, Peppermint Grove, and Claremont — all well-served by the agencies above."
+      }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 15057,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1199,
+      "service_tier": "standard",
+      "inference_geo": "global",
+      "speed": "standard",
+      "server_tool_use": {
+        "web_search_requests": 2,
+        "web_fetch_requests": 0
+      }
+    },
+    "diagnostics": null
+  }
+}

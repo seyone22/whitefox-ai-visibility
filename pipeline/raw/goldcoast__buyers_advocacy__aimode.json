@@ -1,0 +1,227 @@
+{
+  "slug": "goldcoast",
+  "pk": "buyers_advocacy",
+  "plat": "aimode",
+  "text": "Which luxury real estate agencies or buyers advocates in Gold Coast offer the best buyers advocacy and acquisition advisory for prestige homes?",
+  "loc": 1000665,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\goldcoast__buyers_advocacy__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:17:03.098Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which luxury real estate agencies or buyers advocates in Gold Coast offer the best buyers advocacy and acquisition advisory for prestige homes?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000665,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20luxury%20real%20estate%20agencies%20or%20buyers%20advocates%20in%20Gold%20Coast%20offer%20the%20best%20buyers%20advocacy%20and%20acquisition%20advisory%20for%20prestige%20homes%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCbdgXStHGpFrEXCv3vNaowID",
+      "datetime": "2026-10-21 05:17:02 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "Top-tier buyers advocacy and acquisition advisory for prestige and luxury homes on the Gold Coast are led by specialized independent agencies like [Avodah Buyers Advocacy](https://avodahbuyersadvocacy.com/gold-coast-buyers-agent/) and national heavyweights with dedicated local prestige divisions like [Cohen Handler](https://cohenhandler.com.au/gold-coast/).[[1]](https://avodahbuyersadvocacy.com/gold-coast-buyers-agent/)[[2]](https://cohenhandler.com.au/gold-coast/)\n\n### Specialized & Boutique Buyers Advocacy\n\n- Avodah Buyers Advocacy : Principal-led advisory managed personally by Cody Trigg, offering exclusive buyer representation, deep off-market access, and structural/build risk assessments tailored to high-end coastal properties.[[1]](https://avodahbuyersadvocacy.com/gold-coast-buyers-agent/)\n- [Prestige Buyers Advocates](https://prestigebuyersadvocates.com.au/) : Offers 20+ years of local acquisition experience, specializing in discreet procurement, direct door-knocking for unlisted trophy homes, and comprehensive due diligence.[[1]](https://prestigebuyersadvocates.com.au/)\n\n### National Networks with Elite Gold Coast Presence\n\n- Cohen Handler (Gold Coast): Australia's largest buyer agency features a robust Queensland team handling high-net-worth acquisitions, auction bidding, and strategic negotiations across premier enclaves like Mermaid Beach and Paradise Waters.[[1]](https://cohenhandler.com.au/gold-coast/)\n\n### Leading Luxury Sales Agencies (Advisory & Vendor/Acquisition Insight)\n\n- [Amir Prestige](https://www.amirprestige.com.au/) : Dominate the ultra-prestige market on Hedges Avenue and Isle of Capri with record-breaking transactions above $20,000,000, providing critical market intelligence for high-end buyers.[[1]](https://www.amirprestige.com.au/)\n- [JW. Prestige Agents](https://prestigeagents.com.au/) : A boutique luxury agency specializing in custom marketing, remarkable high-end estates, and bespoke client advisory across the Gold Coast.[[1]](https://prestigeagents.com.au/)\n\nIf you can share your **target suburb** (e.g., Burleigh Heads, Hedges Avenue, Paradise Waters) and your **approximate budget** , I can help you decide whether a **buyers advocate** or a **local prestige listing agent** is your best initial point of contact.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Top-tier buyers advocacy and acquisition advisory for prestige and luxury homes on the Gold Coast are led by specialized independent agencies like Avodah Buyers Advocacy and national heavyweights with dedicated local prestige divisions like Cohen Handler.",
+              "markdown": "Top-tier buyers advocacy and acquisition advisory for prestige and luxury homes on the Gold Coast are led by specialized independent agencies like [Avodah Buyers Advocacy](https://avodahbuyersadvocacy.com/gold-coast-buyers-agent/) and national heavyweights with dedicated local prestige divisions like [Cohen Handler](https://cohenhandler.com.au/gold-coast/).[[1]](https://avodahbuyersadvocacy.com/gold-coast-buyers-agent/)[[2]](https://cohenhandler.com.au/gold-coast/)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Avodah Buyers Advocacy",
+                  "description": null,
+                  "url": "https://avodahbuyersadvocacy.com/gold-coast-buyers-agent/",
+                  "domain": "avodahbuyersadvocacy.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Cohen Handler",
+                  "description": null,
+                  "url": "https://cohenhandler.com.au/gold-coast/",
+                  "domain": "cohenhandler.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Avodah Buyers Advocacy",
+                  "domain": "avodahbuyersadvocacy.com",
+                  "url": "https://avodahbuyersadvocacy.com/gold-coast-buyers-agent/",
+                  "title": "Buyers Agent Gold Coast | Avodah Buyers Advocacy",
+                  "text": "Avodah Buyers Advocacy brings principal-led advocacy, genuine off-market reach, and a tradesman's assessment capability to every G..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Cohen Handler",
+                  "domain": "cohenhandler.com.au",
+                  "url": "https://cohenhandler.com.au/gold-coast/",
+                  "title": "Buyers Agents Gold Coast | Cohen Handler",
+                  "text": "Cohen Handler (Gold Coast buyer's agency) Stats: Since 2009, 5,000+ successful purchases, 100,000+ inspections across Australia. B..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Specialized & Boutique Buyers Advocacy",
+              "text": "Avodah Buyers Advocacy : Principal-led advisory managed personally by Cody Trigg, offering exclusive buyer representation, deep off-market access, and structural/build risk assessments tailored to high-end coastal properties. Avodah Buyers Advocacy Prestige Buyers Advocates : Offers 20+ years of local acquisition experience, specializing in discreet procurement, direct door-knocking for unlisted trophy homes, and comprehensive due diligence.",
+              "markdown": "- Avodah Buyers Advocacy : Principal-led advisory managed personally by Cody Trigg, offering exclusive buyer representation, deep off-market access, and structural/build risk assessments tailored to high-end coastal properties.[[1]](https://avodahbuyersadvocacy.com/gold-coast-buyers-agent/)\n- [Prestige Buyers Advocates](https://prestigebuyersadvocates.com.au/) : Offers 20+ years of local acquisition experience, specializing in discreet procurement, direct door-knocking for unlisted trophy homes, and comprehensive due diligence.[[1]](https://prestigebuyersadvocates.com.au/)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Prestige Buyers Advocates",
+                  "description": null,
+                  "url": "https://prestigebuyersadvocates.com.au/",
+                  "domain": "prestigebuyersadvocates.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Avodah Buyers Advocacy",
+                  "domain": "avodahbuyersadvocacy.com",
+                  "url": "https://avodahbuyersadvocacy.com/gold-coast-buyers-agent/",
+                  "title": "Buyers Agent Gold Coast | Avodah Buyers Advocacy",
+                  "text": "Avodah Buyers Advocacy brings principal-led advocacy, genuine off-market reach, and a tradesman's assessment capability to every Gold Coast engagement."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "prestigebuyersadvocates.com.au",
+                  "domain": "prestigebuyersadvocates.com.au",
+                  "url": "https://prestigebuyersadvocates.com.au/",
+                  "title": "Gold Coast buyers advocate - Prestige Buyers Advocates",
+                  "text": "Experience: 20+ years, 1,000+ properties inspected, 250+ property deals, 100% success rate. Services: Property procurement, online..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "National Networks with Elite Gold Coast Presence",
+              "text": "Cohen Handler (Gold Coast) : Australia's largest buyer agency features a robust Queensland team handling high-net-worth acquisitions, auction bidding, and strategic negotiations across premier enclaves like Mermaid Beach and Paradise Waters. Cohen Handler (Gold Coast)",
+              "markdown": "- Cohen Handler (Gold Coast): Australia's largest buyer agency features a robust Queensland team handling high-net-worth acquisitions, auction bidding, and strategic negotiations across premier enclaves like Mermaid Beach and Paradise Waters.[[1]](https://cohenhandler.com.au/gold-coast/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Cohen Handler",
+                  "domain": "cohenhandler.com.au",
+                  "url": "https://cohenhandler.com.au/gold-coast/",
+                  "title": "Buyers Agents Gold Coast | Cohen Handler",
+                  "text": "Cohen Handler (Gold Coast buyer's agency) Stats: Since 2009, 5,000+ successful purchases, 100,000+ inspections across Australia. full service, negotiation, auction..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Leading Luxury Sales Agencies (Advisory & Vendor/Acquisition Insight)",
+              "text": "Amir Prestige : Dominate the ultra-prestige market on Hedges Avenue and Isle of Capri with record-breaking transactions above $20,000,000, providing critical market intelligence for high-end buyers. JW. Prestige Agents : A boutique luxury agency specializing in custom marketing, remarkable high-end estates, and bespoke client advisory across the Gold Coast.",
+              "markdown": "- [Amir Prestige](https://www.amirprestige.com.au/) : Dominate the ultra-prestige market on Hedges Avenue and Isle of Capri with record-breaking transactions above $20,000,000, providing critical market intelligence for high-end buyers.[[1]](https://www.amirprestige.com.au/)\n- [JW. Prestige Agents](https://prestigeagents.com.au/) : A boutique luxury agency specializing in custom marketing, remarkable high-end estates, and bespoke client advisory across the Gold Coast.[[1]](https://prestigeagents.com.au/)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Amir Prestige",
+                  "description": null,
+                  "url": "https://www.amirprestige.com.au/",
+                  "domain": "www.amirprestige.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "JW. Prestige Agents",
+                  "description": null,
+                  "url": "https://prestigeagents.com.au/",
+                  "domain": "prestigeagents.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Amir Prestige",
+                  "domain": "www.amirprestige.com.au",
+                  "url": "https://www.amirprestige.com.au/",
+                  "title": "Amir Prestige: Gold Coast Luxury Real Estate Agency",
+                  "text": "Key Sales & Records: 41-45 Hedges Avenue, 127 Hedges Avenue ($27,500,000, highest for 2025); Isle of Capri ($27,000,000); 10 trans..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "JW Prestige Agents",
+                  "domain": "prestigeagents.com.au",
+                  "url": "https://prestigeagents.com.au/",
+                  "title": "JW Prestige Agents | Gold Coast Prestige Properties | Prestige Agents",
+                  "text": "Prestige Agents (Gold Coast boutique agency established by Jordan Williams specializing in remarkable homes, high-end sales, and r..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you can share your target suburb (e.g., Burleigh Heads, Hedges Avenue, Paradise Waters) and your approximate budget, I can help you decide whether a buyers advocate or a local prestige listing agent is your best initial point of contact.",
+              "markdown": "If you can share your **target suburb** (e.g., Burleigh Heads, Hedges Avenue, Paradise Waters) and your **approximate budget** , I can help you decide whether a **buyers advocate** or a **local prestige listing agent** is your best initial point of contact.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Cohen Handler",
+              "domain": "cohenhandler.com.au",
+              "url": "https://cohenhandler.com.au/gold-coast/",
+              "title": "Buyers Agents Gold Coast | Cohen Handler",
+              "text": "Cohen Handler (Gold Coast buyer's agency) Stats: Since 2009, 5,000+ successful purchases, 100,000+ inspections across Australia. full service, negotiation, auction..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Amir Prestige",
+              "domain": "www.amirprestige.com.au",
+              "url": "https://www.amirprestige.com.au/",
+              "title": "Amir Prestige: Gold Coast Luxury Real Estate Agency",
+              "text": "Key Sales & Records: 41-45 Hedges Avenue, 127 Hedges Avenue ($27,500,000, highest for 2025); Isle of Capri ($27,000,000); 10 transactions over $20,000,000. Network..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Avodah Buyers Advocacy",
+              "domain": "avodahbuyersadvocacy.com",
+              "url": "https://avodahbuyersadvocacy.com/gold-coast-buyers-agent/",
+              "title": "Buyers Agent Gold Coast | Avodah Buyers Advocacy",
+              "text": "Avodah Buyers Advocacy brings principal-led advocacy, genuine off-market reach, and a tradesman's assessment capability to every Gold Coast engagement."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

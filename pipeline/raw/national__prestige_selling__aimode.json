@@ -1,0 +1,237 @@
+{
+  "slug": "national",
+  "pk": "prestige_selling",
+  "plat": "aimode",
+  "text": "I am selling a $10M luxury residential property in Australia. Which prestige real estate agencies have the strongest track record for high-end home sales?",
+  "loc": 2036,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\national__prestige_selling__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:20:53.949Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "I am selling a $10M luxury residential property in Australia. Which prestige real estate agencies have the strongest track record for high-end home sales?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 2036,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=I%20am%20selling%20a%20%2410M%20luxury%20residential%20property%20in%20Australia.%20Which%20prestige%20real%20estate%20agencies%20have%20the%20strongest%20track%20record%20for%20high-end%20home%20sales%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCd_Fh2cH_SsrEVITW5WhZ4JT",
+      "datetime": "2026-10-21 05:20:53 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "For a $10M luxury property in Australia, top-tier agencies with proven high-end track records include Sotheby's International Realty, [Knight Frank Prestige](https://www.knightfrank.com.au/), Ray White Prestige, [Kay & Burton](https://www.kayburton.com.au/) (Victoria), [Marshall White](https://www.marshallwhite.com.au/) (Victoria), and [Amir Prestige](https://www.amirprestige.com.au/) (Queensland). Selection depends heavily on your local property market.[[1]](https://www.salebyhomeowner.com.au/realestate/top-real-estate-agents-sydney-nsw/)\n\n### National & International Luxury Specialists\n\n- **Sotheby's International Realty** : Unmatched global database and affluent buyer reach across Sydney, Melbourne, and coastal lifestyle regions.[[1]](https://ultraprime.com.au/)[[2]](https://worthbury.com/magazine/best-real-estate-companies-world/)\n- **[Knight Frank Prestige](https://www.knightfrank.com.au/)** : Strong international private-client network with deep connections to ultra-high-net-worth expat and overseas buyers.[[1]](https://www.mordorintelligence.com/industry-reports/australia-luxury-residential-real-estate-market/companies)\n- **Ray White Prestige** : Massive national footprint with specialized high-end offices handling top-tier metro and holiday-market estates.\n\n### State & Regional Market Leaders\n\n- **[Kay & Burton](https://www.kayburton.com.au/)** : The benchmark for high-end heritage and contemporary luxury sales across Melbourne’s elite inner-suburbs.\n- **[Marshall White](https://www.marshallwhite.com.au/)** : Dominates high-value auction and private treaty campaigns across Melbourne.\n- **[Amir Prestige](https://www.amirprestige.com.au/)** : Market leader for record-breaking multi-million dollar waterfront and luxury house sales on the Gold Coast.\n- **Pillinger / Ken Jacobs / McGrath Prestige** : Elite boutique or specialized high-end divisions handling landmark trophy homes in Sydney's eastern suburbs and lower north shore.[[1]](https://www.amirprestige.com.au/)[[2]](https://ultraprime.com.au/)[[3]](https://www.mordorintelligence.com/industry-reports/australia-luxury-residential-real-estate-market/companies)\n\nIf you tell me the **city or region** where your property is located, I can give you the **exact top local agent** and office with the best record for $10M+ sales in that specific pocket.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "For a $10M luxury property in Australia, top-tier agencies with proven high-end track records include Sotheby's International Realty, Knight Frank Prestige, Ray White Prestige, Kay & Burton (Victoria), Marshall White (Victoria), and Amir Prestige (Queensland). Selection depends heavily on your local property market.",
+              "markdown": "For a $10M luxury property in Australia, top-tier agencies with proven high-end track records include Sotheby's International Realty, [Knight Frank Prestige](https://www.knightfrank.com.au/), Ray White Prestige, [Kay & Burton](https://www.kayburton.com.au/) (Victoria), [Marshall White](https://www.marshallwhite.com.au/) (Victoria), and [Amir Prestige](https://www.amirprestige.com.au/) (Queensland). Selection depends heavily on your local property market.[[1]](https://www.salebyhomeowner.com.au/realestate/top-real-estate-agents-sydney-nsw/)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Knight Frank Prestige",
+                  "description": null,
+                  "url": "https://www.knightfrank.com.au/",
+                  "domain": "www.knightfrank.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Kay & Burton",
+                  "description": null,
+                  "url": "https://www.kayburton.com.au/",
+                  "domain": "www.kayburton.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Marshall White",
+                  "description": null,
+                  "url": "https://www.marshallwhite.com.au/",
+                  "domain": "www.marshallwhite.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Amir Prestige",
+                  "description": null,
+                  "url": "https://www.amirprestige.com.au/",
+                  "domain": "www.amirprestige.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Sale By Home Owner",
+                  "domain": "www.salebyhomeowner.com.au",
+                  "url": "https://www.salebyhomeowner.com.au/realestate/top-real-estate-agents-sydney-nsw/",
+                  "title": "Top 20 Real Estate Agents in Sydney, NSW - Find the Best Agents",
+                  "text": "Key Selection Considerations: Local expertise, property type experience, marketing strategy, track record, communication skills, n..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "National & International Luxury Specialists",
+              "text": "Sotheby's International Realty : Unmatched global database and affluent buyer reach across Sydney, Melbourne, and coastal lifestyle regions. Sotheby's International Realty Knight Frank Prestige : Strong international private-client network with deep connections to ultra-high-net-worth expat and overseas buyers. Ray White Prestige : Massive national footprint with specialized high-end offices handling top-tier metro and holiday-market estates. Ray White Prestige",
+              "markdown": "- **Sotheby's International Realty** : Unmatched global database and affluent buyer reach across Sydney, Melbourne, and coastal lifestyle regions.[[1]](https://ultraprime.com.au/)[[2]](https://worthbury.com/magazine/best-real-estate-companies-world/)\n- **[Knight Frank Prestige](https://www.knightfrank.com.au/)** : Strong international private-client network with deep connections to ultra-high-net-worth expat and overseas buyers.[[1]](https://www.mordorintelligence.com/industry-reports/australia-luxury-residential-real-estate-market/companies)\n- **Ray White Prestige** : Massive national footprint with specialized high-end offices handling top-tier metro and holiday-market estates.",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Knight Frank Prestige",
+                  "description": null,
+                  "url": "https://www.knightfrank.com.au/",
+                  "domain": "www.knightfrank.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "ultraprime.com.au",
+                  "domain": "ultraprime.com.au",
+                  "url": "https://ultraprime.com.au/",
+                  "title": "Luxury Property Australia | Premium Real Estate Over $10M | UltraPrime",
+                  "text": "UltraPrime is Australia's premier luxury real estate marketplace specializing in exclusive properties valued over AUD$10m across m..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Worthbury",
+                  "domain": "worthbury.com",
+                  "url": "https://worthbury.com/magazine/best-real-estate-companies-world/",
+                  "title": "The Top Luxury Real Estate Companies In The World",
+                  "text": "Sotheby's, Christie's, and Barnes leveraging brand prestige and networks spanning 80-plus countries."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Mordor Intelligence",
+                  "domain": "www.mordorintelligence.com",
+                  "url": "https://www.mordorintelligence.com/industry-reports/australia-luxury-residential-real-estate-market/companies",
+                  "title": "Top Luxury Residential Real Estate Companies in Australia",
+                  "text": "List of Luxury Residential Real Estate Companies in Australia. Knight Frank Prestige Residential * International Realty – Australi..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "State & Regional Market Leaders",
+              "text": "Kay & Burton : The benchmark for high-end heritage and contemporary luxury sales across Melbourne’s elite inner-suburbs. Marshall White : Dominates high-value auction and private treaty campaigns across Melbourne. Amir Prestige : Market leader for record-breaking multi-million dollar waterfront and luxury house sales on the Gold Coast. Pillinger / Ken Jacobs / McGrath Prestige : Elite boutique or specialized high-end divisions handling landmark trophy homes in Sydney's eastern suburbs and lower north shore.",
+              "markdown": "- **[Kay & Burton](https://www.kayburton.com.au/)** : The benchmark for high-end heritage and contemporary luxury sales across Melbourne’s elite inner-suburbs.\n- **[Marshall White](https://www.marshallwhite.com.au/)** : Dominates high-value auction and private treaty campaigns across Melbourne.\n- **[Amir Prestige](https://www.amirprestige.com.au/)** : Market leader for record-breaking multi-million dollar waterfront and luxury house sales on the Gold Coast.\n- **Pillinger / Ken Jacobs / McGrath Prestige** : Elite boutique or specialized high-end divisions handling landmark trophy homes in Sydney's eastern suburbs and lower north shore.[[1]](https://www.amirprestige.com.au/)[[2]](https://ultraprime.com.au/)[[3]](https://www.mordorintelligence.com/industry-reports/australia-luxury-residential-real-estate-market/companies)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Kay & Burton",
+                  "description": null,
+                  "url": "https://www.kayburton.com.au/",
+                  "domain": "www.kayburton.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Marshall White",
+                  "description": null,
+                  "url": "https://www.marshallwhite.com.au/",
+                  "domain": "www.marshallwhite.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Amir Prestige",
+                  "description": null,
+                  "url": "https://www.amirprestige.com.au/",
+                  "domain": "www.amirprestige.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Amir Prestige",
+                  "domain": "www.amirprestige.com.au",
+                  "url": "https://www.amirprestige.com.au/",
+                  "title": "Amir Prestige: Gold Coast Luxury Real Estate Agency",
+                  "text": "Amir Prestige (Gold Coast and Northern NSW luxury real estate). Only Queensland agency with 10 transactions over $20,000,000. Netw..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "ultraprime.com.au",
+                  "domain": "ultraprime.com.au",
+                  "url": "https://ultraprime.com.au/",
+                  "title": "Luxury Property Australia | Premium Real Estate Over $10M | UltraPrime",
+                  "text": "Australia's premier luxury. Premium houses, apartments, and land for sale. Handpicked top-performing agencies such as. White, and Kay & Burton."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Mordor Intelligence",
+                  "domain": "www.mordorintelligence.com",
+                  "url": "https://www.mordorintelligence.com/industry-reports/australia-luxury-residential-real-estate-market/companies",
+                  "title": "Top Luxury Residential Real Estate Companies in Australia",
+                  "text": "List of Luxury Residential Real Estate Companies in Australia"
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you tell me the city or region where your property is located, I can give you the exact top local agent and office with the best record for $10M+ sales in that specific pocket.",
+              "markdown": "If you tell me the **city or region** where your property is located, I can give you the **exact top local agent** and office with the best record for $10M+ sales in that specific pocket.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Amir Prestige",
+              "domain": "www.amirprestige.com.au",
+              "url": "https://www.amirprestige.com.au/",
+              "title": "Amir Prestige: Gold Coast Luxury Real Estate Agency",
+              "text": "Amir Prestige (Gold Coast and Northern NSW luxury real estate). Only Queensland agency with 10 transactions over $20,000,000. Network: Over 250,000 qualified buyer..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "ultraprime.com.au",
+              "domain": "ultraprime.com.au",
+              "url": "https://ultraprime.com.au/",
+              "title": "Luxury Property Australia | Premium Real Estate Over $10M | UltraPrime",
+              "text": "Australia's premier luxury. Premium houses, apartments, and land for sale. Handpicked top-performing agencies such as. White, and Kay & Burton."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Mordor Intelligence",
+              "domain": "www.mordorintelligence.com",
+              "url": "https://www.mordorintelligence.com/industry-reports/australia-luxury-residential-real-estate-market/companies",
+              "title": "Top Luxury Residential Real Estate Companies in Australia",
+              "text": "List of Luxury Residential Real Estate Companies in Australia"
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

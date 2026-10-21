@@ -1,0 +1,272 @@
+{
+  "slug": "national",
+  "pk": "prestige_selling",
+  "plat": "claude",
+  "text": "I am selling a $10M luxury residential property in Australia. Which prestige real estate agencies have the strongest track record for high-end home sales?",
+  "loc": 2036,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\national__prestige_selling__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:21:13.057Z",
+  "cost": 0.057544,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 9453,
+      "output_tokens": 1239,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.056944,
+      "datetime": "2026-10-21 05:21:12 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Great question! Selling a $10M luxury property in Australia requires an agency with a proven track record in the prestige market, strong buyer networks, and sophisticated marketing. Here's a breakdown of the top agencies to consider:\n\n---\n\n## 🏆 Top Prestige Real Estate Agencies in Australia\n\n### 1. **Private Property Global**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Private Property Global is the only Australian-based residential real estate agency that specialises in the sale of property above $5,000,000 without geographical boundaries.",
+              "annotations": [
+                {
+                  "title": "Private Property Global, Luxury real estate agency in Sydney, Melbourne and Gold Coast, Australia",
+                  "url": "https://www.forbesglobalproperties.com/members/private-property-global",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The company is very active in engaging the world's premier real estate brokerages through the Forbes Global Properties network and relationships established over decades.",
+              "annotations": [
+                {
+                  "title": "Private Property Global, Luxury real estate agency in Sydney, Melbourne and Gold Coast, Australia",
+                  "url": "https://www.forbesglobalproperties.com/members/private-property-global",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " This makes them particularly well-suited for a $10M listing with international buyer appeal.\n\n---\n\n### 2. **Marshall White** *(Melbourne-focused)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Marshall White is synonymous with luxury. As a heavyweight in Australia's premium real estate market, they have built a formidable reputation, especially in Melbourne's prestigious inner suburbs, catering to a discerning clientele that expects nothing less than excellence.",
+              "annotations": [
+                {
+                  "title": "Top 20 Real Estate Agencies in Australia: Expert Reviews & Insights",
+                  "url": "https://www.starinvestment.com.au/top-20-real-estate-agencies-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their agents have honed their negotiation skills, often securing deals above asking price, and their sales data shows that 90% of their transactions are in the top 10% of the property market.",
+              "annotations": [
+                {
+                  "title": "Top 20 Real Estate Agencies in Australia: Expert Reviews & Insights",
+                  "url": "https://www.starinvestment.com.au/top-20-real-estate-agencies-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "What sets Marshall White apart is their ability to access both local and international buyers, providing an extensive reach that few agencies can match.",
+              "annotations": [
+                {
+                  "title": "Top 20 Real Estate Agencies in Australia: Expert Reviews & Insights",
+                  "url": "https://www.starinvestment.com.au/top-20-real-estate-agencies-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. **McGrath Estate Agents** *(NSW & VIC)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "McGrath Estate Agents is especially strong in New South Wales and Victoria, focusing on residential sales, property auctions, and premium real estate. Known for its high-profile marketing and media presence, McGrath has carved a niche in the luxury property market, attracting high-value listings and serious buyers.",
+              "annotations": [
+                {
+                  "title": "Top 10 Real Estate Agencies in Australia (2026)",
+                  "url": "https://recifest.org/real-state/top-10-real-estate-agencies-in-australia-2026/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "McGrath's niche in the luxury property market allows it to achieve an estimated annual revenue of $424.2 million.",
+              "annotations": [
+                {
+                  "title": "Australia's largest real estate agencies - A guide for agents - Entry Education",
+                  "url": "https://entryeducation.edu.au/blog/australias-largest-real-estate-agencies/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. **Knight Frank Australia**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Knight Frank is a global real estate powerhouse with a strong presence in Australia, particularly in the luxury residential and commercial property markets.",
+              "annotations": [
+                {
+                  "title": "Top 20 Real Estate Agencies in Australia: Expert Reviews & Insights",
+                  "url": "https://www.starinvestment.com.au/top-20-real-estate-agencies-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Their global network is a major advantage for attracting international high-net-worth buyers, which is critical at the $10M+ price point.\n\n---\n\n### 5. **Belle Property**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Belle Property is synonymous with luxury and boutique real estate, focusing on premium residential properties and lifestyle-oriented listings, including waterfront homes and high-end urban apartments.",
+              "annotations": [
+                {
+                  "title": "Top 10 Real Estate Agencies in Australia (2026)",
+                  "url": "https://recifest.org/real-state/top-10-real-estate-agencies-in-australia-2026/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Belle Property is widely renowned for its specialised focus on premium lifestyle properties and \"beautiful marketing\" strategies that appeal to high-end buyers.",
+              "annotations": [
+                {
+                  "title": "Top 10 Real Estate Agencies in Australia: Aussie Property Giants",
+                  "url": "https://www.juwai.asia/main/news/7093",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 6. **Amir Prestige** *(Queensland/Gold Coast)*\nIf your property is in Queensland, Amir Prestige is a standout. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Amir Prestige is a leading luxury real estate agency in Queensland, having achieved eight sales over $20,000,000, highlighting their expertise and dedication to excellence in the luxury market.",
+              "annotations": [
+                {
+                  "title": "Top 100 Luxury Real Estate Companies in Australia (2026)",
+                  "url": "https://ensun.io/search/luxury-real-estate/australia",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They facilitated the sale of a Mermaid Beach property for $28,000,000 — the largest residential sale on the Gold Coast — and in 2025 achieved a $27,500,000 sale, marking the largest transaction on the Gold Coast for that year.",
+              "annotations": [
+                {
+                  "title": "Amir Prestige: Gold Coast Luxury Real Estate Agency",
+                  "url": "https://www.amirprestige.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 💡 Key Tips for Selling Your $10M Property\n\n- **Location matters:** Choose an agency with deep roots in your specific suburb or city. Marshall White dominates Melbourne's Toorak, while McGrath leads in Sydney's eastern suburbs.\n- **Off-market strategy:** ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Most transactions above $20 million in Australia are now conducted off-market",
+              "annotations": [
+                {
+                  "title": "Australia Unlocked",
+                  "url": "https://www.luxuryproperty.com/blog/australia-unlocked",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", and even at $10M, a discreet off-market campaign through the right agency can attract serious, qualified buyers.\n- **International reach:** At the $10M price point, consider agencies with global networks (like Knight Frank or Private Property Global) to tap into overseas UHNWI buyers.\n- **Marketing quality:** Look for agencies with strong digital, print, and international portal presence to maximise exposure.\n\nWould you like more tailored advice based on the specific location of your property (e.g., Sydney, Melbourne, Gold Coast)?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best prestige luxury real estate agencies Australia high-end property sales 2025",
+        "top luxury residential property agencies Australia $10 million sales track record"
+      ]
+    }
+  ]
+}

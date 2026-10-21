@@ -1,0 +1,205 @@
+{
+  "slug": "melbourne",
+  "pk": "prestige_selling",
+  "plat": "aimode",
+  "text": "I am selling a $10M luxury residential property in Melbourne. Which prestige real estate agencies have the strongest track record for high-end home sales?",
+  "loc": 1000567,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\melbourne__prestige_selling__aimode.json",
+  "at": "2026-10-21T05:10:23.437Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "I am selling a $10M luxury residential property in Melbourne. Which prestige real estate agencies have the strongest track record for high-end home sales?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000567,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=I%20am%20selling%20a%20%2410M%20luxury%20residential%20property%20in%20Melbourne.%20Which%20prestige%20real%20estate%20agencies%20have%20the%20strongest%20track%20record%20for%20high-end%20home%20sales%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCYH9EQ-vQtZqEeDnjCF1VgQF",
+      "datetime": "2026-10-21 05:10:23 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "For a $10M luxury property in Melbourne, the agencies with the strongest and most consistent track records in the ultra-prime market include [Kay & Burton](https://www.kayburton.com.au/), Marshall White , and [RT Edgar](https://www.rtedgar.com/) . These firms dominate high-net-worth transactions across prime inner-east and bayside suburbs like Toorak, South Yarra, and Brighton.[[1]](https://www.rtedgar.com/)[[2]](https://www.kayburton.com.au/ultimate-high/)[[3]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdneU4yNDFkMnB5GAo)\n\n### Top Prestige Agencies in Melbourne\n\n- [Kay & Burton](https://www.kayburton.com.au/) — Long-standing luxury specialists with deep intergenerational buyer networks locally and internationally (including Asia and the Middle East), famous for high-value Stonnington and Mornington Peninsula campaigns.[[1]](https://www.kayburton.com.au/)[[2]](https://www.kayburton.com.au/ultimate-high/)\n- Marshall White — Renowned for high-end auction results and volume in the elite inner-south and eastern suburbs , led by top-tier prestige agents like Marcus Chiminello who frequently handle state-record transactions.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdneU4yNDFkMnB5GAo)\n- [RT Edgar](https://www.rtedgar.com/) — Operating for over 130 years, offering specialized blue-ribbon expertise across Toorak, Bayside, and Boroondara with a strong focus on period provenance and architectural luxury.[[1]](https://www.rtedgar.com/news/high-end-property-is-weathering-economic-ups-and-downs/)[[2]](https://www.rtedgar.com/)\n- **Jellis Craig (Prestige)** — Highly effective localized market share and premium buyer databases across inner and leafy middle-ring elite suburbs.\n- **Sotheby’s International Realty (Melbourne)** — Strong global feeder network and brand equity tailored specifically to ultra-high-net-worth international buyers.\n\nIf you can share the **specific suburb** and **property type** (e.g., modern architectural build vs. historic estate), I can help recommend the **individual lead agent** within these agencies who holds the strongest direct record for that specific asset class.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "For a $10M luxury property in Melbourne, the agencies with the strongest and most consistent track records in the ultra-prime market include Kay & Burton, Marshall White, and RT Edgar. These firms dominate high-net-worth transactions across prime inner-east and bayside suburbs like Toorak, South Yarra, and Brighton.",
+              "markdown": "For a $10M luxury property in Melbourne, the agencies with the strongest and most consistent track records in the ultra-prime market include [Kay & Burton](https://www.kayburton.com.au/), Marshall White , and [RT Edgar](https://www.rtedgar.com/) . These firms dominate high-net-worth transactions across prime inner-east and bayside suburbs like Toorak, South Yarra, and Brighton.[[1]](https://www.rtedgar.com/)[[2]](https://www.kayburton.com.au/ultimate-high/)[[3]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdneU4yNDFkMnB5GAo)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Kay & Burton",
+                  "description": null,
+                  "url": "https://www.kayburton.com.au/",
+                  "domain": "www.kayburton.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "RT Edgar",
+                  "description": null,
+                  "url": "https://www.rtedgar.com/",
+                  "domain": "www.rtedgar.com"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "RT Edgar",
+                  "domain": "www.rtedgar.com",
+                  "url": "https://www.rtedgar.com/",
+                  "title": "RT Edgar | Victoria’s Trusted Property Specialists",
+                  "text": "RT Edgar is a Victorian property specialist operating for 130 years, providing real estate services including buying, selling, and..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Kay & Burton",
+                  "domain": "www.kayburton.com.au",
+                  "url": "https://www.kayburton.com.au/ultimate-high/",
+                  "title": "Ultimate High | Kay & Burton",
+                  "text": "In Toorak alone, there has been at least 35 sales in excess of $10 million in the 12 months to October 2021, with about14 of these..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdneU4yNDFkMnB5GAo",
+                  "title": "Marshall White: Marcus Chiminello",
+                  "text": "1111 High St, Armadale VIC 3143"
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Top Prestige Agencies in Melbourne",
+              "text": "Kay & Burton — Long-standing luxury specialists with deep intergenerational buyer networks locally and internationally (including Asia and the Middle East), famous for high-value Stonnington and Mornington Peninsula campaigns. Marshall White — Renowned for high-end auction results and volume in the elite inner-south and eastern suburbs, led by top-tier prestige agents like Marcus Chiminello who frequently handle state-record transactions. Marshall White , led by top-tier prestige agents like Marcus Chiminello who frequently handle state-record transactions RT Edgar — Operating for over 130 years, offering specialized blue-ribbon expertise across Toorak, Bayside, and Boroondara with a strong focus on period provenance and architectural luxury. Jellis Craig (Prestige) — Highly effective localized market share and premium buyer databases across inner and leafy middle-ring elite suburbs. Sotheby’s International Realty (Melbourne) — Strong global feeder network and brand equity tailored specifically to ultra-high-net-worth international buyers.",
+              "markdown": "- [Kay & Burton](https://www.kayburton.com.au/) — Long-standing luxury specialists with deep intergenerational buyer networks locally and internationally (including Asia and the Middle East), famous for high-value Stonnington and Mornington Peninsula campaigns.[[1]](https://www.kayburton.com.au/)[[2]](https://www.kayburton.com.au/ultimate-high/)\n- Marshall White — Renowned for high-end auction results and volume in the elite inner-south and eastern suburbs , led by top-tier prestige agents like Marcus Chiminello who frequently handle state-record transactions.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdneU4yNDFkMnB5GAo)\n- [RT Edgar](https://www.rtedgar.com/) — Operating for over 130 years, offering specialized blue-ribbon expertise across Toorak, Bayside, and Boroondara with a strong focus on period provenance and architectural luxury.[[1]](https://www.rtedgar.com/news/high-end-property-is-weathering-economic-ups-and-downs/)[[2]](https://www.rtedgar.com/)\n- **Jellis Craig (Prestige)** — Highly effective localized market share and premium buyer databases across inner and leafy middle-ring elite suburbs.\n- **Sotheby’s International Realty (Melbourne)** — Strong global feeder network and brand equity tailored specifically to ultra-high-net-worth international buyers.",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Kay & Burton",
+                  "description": null,
+                  "url": "https://www.kayburton.com.au/",
+                  "domain": "www.kayburton.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "RT Edgar",
+                  "description": null,
+                  "url": "https://www.rtedgar.com/",
+                  "domain": "www.rtedgar.com"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Kay & Burton",
+                  "domain": "www.kayburton.com.au",
+                  "url": "https://www.kayburton.com.au/",
+                  "title": "Luxury real estate Melbourne | Kay & Burton",
+                  "text": "Kay & Burton (established 1938); luxury real estate agency in Australia. Services: Advisory, property appraisal, market insights, ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Kay & Burton",
+                  "domain": "www.kayburton.com.au",
+                  "url": "https://www.kayburton.com.au/ultimate-high/",
+                  "title": "Ultimate High | Kay & Burton",
+                  "text": "In Toorak alone, there has been at least 35 sales in excess of $10 million in the 12 months to October 2021, with about14 of these..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdneU4yNDFkMnB5GAo",
+                  "title": "Marshall White: Marcus Chiminello",
+                  "text": "1111 High St, Armadale VIC 3143"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "RT Edgar",
+                  "domain": "www.rtedgar.com",
+                  "url": "https://www.rtedgar.com/news/high-end-property-is-weathering-economic-ups-and-downs/",
+                  "title": "High",
+                  "text": "The volume of these blue-ribbon homes changing hands has surged 217 per cent over the last five years, Westpac figures show, and M..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "RT Edgar",
+                  "domain": "www.rtedgar.com",
+                  "url": "https://www.rtedgar.com/",
+                  "title": "RT Edgar | Victoria’s Trusted Property Specialists",
+                  "text": "RT Edgar is a Victorian property specialist operating for 130 years, providing real estate services including buying, selling, and leasing high-end properties."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you can share the specific suburb and property type (e.g., modern architectural build vs. historic estate), I can help recommend the individual lead agent within these agencies who holds the strongest direct record for that specific asset class.",
+              "markdown": "If you can share the **specific suburb** and **property type** (e.g., modern architectural build vs. historic estate), I can help recommend the **individual lead agent** within these agencies who holds the strongest direct record for that specific asset class.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "RT Edgar",
+              "domain": "www.rtedgar.com",
+              "url": "https://www.rtedgar.com/news/high-end-property-is-weathering-economic-ups-and-downs/",
+              "title": "High",
+              "text": "The volume of these blue-ribbon homes changing hands has surged 217 per cent over the last five years, Westpac figures show, and Melbourne remains a traditional st..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "RT Edgar",
+              "domain": "www.rtedgar.com",
+              "url": "https://www.rtedgar.com/",
+              "title": "RT Edgar | Victoria’s Trusted Property Specialists",
+              "text": "RT Edgar is a Victorian property specialist operating for 130 years, providing real estate services including buying, selling, and leasing high-end properties."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Kay & Burton",
+              "domain": "www.kayburton.com.au",
+              "url": "https://www.kayburton.com.au/",
+              "title": "Luxury real estate Melbourne | Kay & Burton",
+              "text": "Kay & Burton (established 1938); luxury real estate agency in Australia. Services: Advisory, property appraisal, market insights, and wealth network connection for..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

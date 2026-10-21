@@ -1,0 +1,222 @@
+{
+  "slug": "national",
+  "pk": "off_market",
+  "plat": "aimode",
+  "text": "Which luxury real estate agents and agencies in Australia specialise in confidential off-market prestige property sales and high-net-worth buyer networks?",
+  "loc": 2036,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\national__off_market__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:21:14.138Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which luxury real estate agents and agencies in Australia specialise in confidential off-market prestige property sales and high-net-worth buyer networks?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 2036,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20luxury%20real%20estate%20agents%20and%20agencies%20in%20Australia%20specialise%20in%20confidential%20off-market%20prestige%20property%20sales%20and%20high-net-worth%20buyer%20networks%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCd_Fh2cH_SsrEVITW5WhZ4JT",
+      "datetime": "2026-10-21 05:21:13 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "Australia's ultra-prime and prestige property sectors rely heavily on confidential, \"silent\" or off-market transactions managed by `specialist luxury buyer's agencies` , high-end independent advisors, and boutique high-net-worth real estate networks.[[1]](https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/)[[2]](https://www.pmcproperty.com.au/prestige-property-buyers/)[[3]](https://prestigepropertybuyer.com.au/)\n\n### Leading Prestige Agencies & Off-Market Specialists\n\n- [Prestige Property Buyer Australia](https://prestigepropertybuyer.com.au/) (Led by Rich Harvey and Munro Donen) – Specialises in anonymous acquisitions, silent market access, and high-end transactions across Sydney's Eastern Suburbs, Toorak in Melbourne, and Brisbane.[[1]](https://prestigepropertybuyer.com.au/)\n- Propertybuyer – An award-winning national buyer's agency with a dedicated prestige division handling confidential luxury property acquisitions, utilizing non-disclosure agreements and private vendor networks.[[1]](https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/)\n- PMC Property Buyers – Focuses on discreet, buyer-only luxury property sourcing across Sydney (Harbourside, Lower North Shore, Northern Beaches), Melbourne, and southeast Queensland.[[1]](https://www.pmcproperty.com.au/prestige-property-buyers/)\n- Private Property Global – Operating in Sydney, Melbourne, and the Gold Coast, this group partners internationally via Forbes Global Properties to handle ultra-prime transactions above $5,000,000 with a heavy focus on privacy.[[1]](https://www.forbesglobalproperties.com/members/private-property-global)\n- Elite Buyer Agents – Renowned in Melbourne’s top-tier pockets (such as Toorak, South Yarra, and Brighton) for managing off-market private vendor relationships and thorough due diligence.[[1]](https://elitebuyeragents.com.au/luxury-homes/)\n\n### Key Characteristics of Australian Off-Market Prestige Sales\n\n- **Silent Inventories:** Over 50% of ultra-prestige transactions in tightly held enclaves (like Point Piper, Vaucluse, or Toorak) occur entirely off-market to protect vendor privacy.\n- **Discretion Protocols:** Transactions are heavily protected by strict non-disclosure agreements (NDAs) and private vendor-agent alignments rather than public digital portals.\n- **HNW Networks:** Elite buyer's advocates maintain direct, longstanding relationships with private wealth lawyers, family offices, and high-end selling directors.[[1]](https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/)[[2]](https://prestigepropertybuyer.com.au/)[[3]](https://elitebuyeragents.com.au/luxury-homes/)\n\nIf you are looking to buy or sell, tell me **which city or specific suburb** you are focusing on and your **approximate budget range** so I can narrow down the most relevant specialist or network for you.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Australia's ultra-prime and prestige property sectors rely heavily on confidential, \"silent\" or off-market transactions managed by specialist luxury buyer's agencies, high-end independent advisors, and boutique high-net-worth real estate networks.",
+              "markdown": "Australia's ultra-prime and prestige property sectors rely heavily on confidential, \"silent\" or off-market transactions managed by `specialist luxury buyer's agencies` , high-end independent advisors, and boutique high-net-worth real estate networks.[[1]](https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/)[[2]](https://www.pmcproperty.com.au/prestige-property-buyers/)[[3]](https://prestigepropertybuyer.com.au/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Propertybuyer",
+                  "domain": "www.propertybuyer.com.au",
+                  "url": "https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/",
+                  "title": "Prestige Real Estate | Luxury Property Buyers Agents Sydney",
+                  "text": "Award-winning property buyers' advocacy operating over 23 years, specializing in prestige on- and off-market luxury acquisitions w..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "www.pmcproperty.com.au",
+                  "domain": "www.pmcproperty.com.au",
+                  "url": "https://www.pmcproperty.com.au/prestige-property-buyers/",
+                  "title": "Prestige Property Buyers",
+                  "text": "Prestige properties are high-value homes often located in exclusive or highly sought-after areas. They may include waterfront esta..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "prestigepropertybuyer.com.au",
+                  "domain": "prestigepropertybuyer.com.au",
+                  "url": "https://prestigepropertybuyer.com.au/",
+                  "title": "Prestige Buyer's Agent Australia | Luxury Property",
+                  "text": "Services: Anonymous acquisition, silent market access, bespoke lifestyle mapping, concierge post-settlement services. Ultra-high-n..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Leading Prestige Agencies & Off-Market Specialists",
+              "text": "Prestige Property Buyer Australia (Led by Rich Harvey and Munro Donen) – Specialises in anonymous acquisitions, silent market access, and high-end transactions across Sydney's Eastern Suburbs, Toorak in Melbourne, and Brisbane. Propertybuyer – An award-winning national buyer's agency with a dedicated prestige division handling confidential luxury property acquisitions, utilizing non-disclosure agreements and private vendor networks. Propertybuyer PMC Property Buyers – Focuses on discreet, buyer-only luxury property sourcing across Sydney (Harbourside, Lower North Shore, Northern Beaches), Melbourne, and southeast Queensland. PMC Property Buyers Private Property Global – Operating in Sydney, Melbourne, and the Gold Coast, this group partners internationally via Forbes Global Properties to handle ultra-prime transactions above $5,000,000 with a heavy focus on privacy. Private Property Global Forbes Global Properties Elite Buyer Agents – Renowned in Melbourne’s top-tier pockets (such as Toorak, South Yarra, and Brighton) for managing off-market private vendor relationships and thorough due diligence. Elite Buyer Agents",
+              "markdown": "- [Prestige Property Buyer Australia](https://prestigepropertybuyer.com.au/) (Led by Rich Harvey and Munro Donen) – Specialises in anonymous acquisitions, silent market access, and high-end transactions across Sydney's Eastern Suburbs, Toorak in Melbourne, and Brisbane.[[1]](https://prestigepropertybuyer.com.au/)\n- Propertybuyer – An award-winning national buyer's agency with a dedicated prestige division handling confidential luxury property acquisitions, utilizing non-disclosure agreements and private vendor networks.[[1]](https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/)\n- PMC Property Buyers – Focuses on discreet, buyer-only luxury property sourcing across Sydney (Harbourside, Lower North Shore, Northern Beaches), Melbourne, and southeast Queensland.[[1]](https://www.pmcproperty.com.au/prestige-property-buyers/)\n- Private Property Global – Operating in Sydney, Melbourne, and the Gold Coast, this group partners internationally via Forbes Global Properties to handle ultra-prime transactions above $5,000,000 with a heavy focus on privacy.[[1]](https://www.forbesglobalproperties.com/members/private-property-global)\n- Elite Buyer Agents – Renowned in Melbourne’s top-tier pockets (such as Toorak, South Yarra, and Brighton) for managing off-market private vendor relationships and thorough due diligence.[[1]](https://elitebuyeragents.com.au/luxury-homes/)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Prestige Property Buyer Australia",
+                  "description": null,
+                  "url": "https://prestigepropertybuyer.com.au/",
+                  "domain": "prestigepropertybuyer.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "prestigepropertybuyer.com.au",
+                  "domain": "prestigepropertybuyer.com.au",
+                  "url": "https://prestigepropertybuyer.com.au/",
+                  "title": "Prestige Buyer's Agent Australia | Luxury Property",
+                  "text": "Services: Anonymous acquisition, silent market access, bespoke lifestyle mapping, concierge post-settlement services. Ultra-high-n..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Propertybuyer",
+                  "domain": "www.propertybuyer.com.au",
+                  "url": "https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/",
+                  "title": "Prestige Real Estate | Luxury Property Buyers Agents Sydney",
+                  "text": "specializing in prestige on- and off-market luxury acquisitions with guaranteed confidentiality and non-disclosure agreements. Access to exclusive unadvertised inv..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "www.pmcproperty.com.au",
+                  "domain": "www.pmcproperty.com.au",
+                  "url": "https://www.pmcproperty.com.au/prestige-property-buyers/",
+                  "title": "Prestige Property Buyers",
+                  "text": "Buyer-only agencies like PMC work exclusively for the buyer. We focus on your interests, maintain discretion, and leverage market knowledge to secure properties ef..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Forbes Global Properties",
+                  "domain": "www.forbesglobalproperties.com",
+                  "url": "https://www.forbesglobalproperties.com/members/private-property-global",
+                  "title": "Private Property Global, Luxury real estate agency in Sydney ...",
+                  "text": "We are the only Australian based residential real estate agency that specialise in the sale of property above $5,000,000 without g..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Elite Buyer Agents",
+                  "domain": "elitebuyeragents.com.au",
+                  "url": "https://elitebuyeragents.com.au/luxury-homes/",
+                  "title": "Luxury Homes",
+                  "text": "Elite Buyer Agents maintains deep, longstanding relationships with prestige selling directors across Melbourne's most sought-after..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Key Characteristics of Australian Off-Market Prestige Sales",
+              "text": "Silent Inventories: Over 50% of ultra-prestige transactions in tightly held enclaves (like Point Piper, Vaucluse, or Toorak) occur entirely off-market to protect vendor privacy. Discretion Protocols: Transactions are heavily protected by strict non-disclosure agreements (NDAs) and private vendor-agent alignments rather than public digital portals. HNW Networks: Elite buyer's advocates maintain direct, longstanding relationships with private wealth lawyers, family offices, and high-end selling directors.",
+              "markdown": "- **Silent Inventories:** Over 50% of ultra-prestige transactions in tightly held enclaves (like Point Piper, Vaucluse, or Toorak) occur entirely off-market to protect vendor privacy.\n- **Discretion Protocols:** Transactions are heavily protected by strict non-disclosure agreements (NDAs) and private vendor-agent alignments rather than public digital portals.\n- **HNW Networks:** Elite buyer's advocates maintain direct, longstanding relationships with private wealth lawyers, family offices, and high-end selling directors.[[1]](https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/)[[2]](https://prestigepropertybuyer.com.au/)[[3]](https://elitebuyeragents.com.au/luxury-homes/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Propertybuyer",
+                  "domain": "www.propertybuyer.com.au",
+                  "url": "https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/",
+                  "title": "Prestige Real Estate | Luxury Property Buyers Agents Sydney",
+                  "text": "specializing in prestige on- and off-market luxury acquisitions with guaranteed confidentiality and non-disclosure agreements. Access to exclusive unadvertised inv..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "prestigepropertybuyer.com.au",
+                  "domain": "prestigepropertybuyer.com.au",
+                  "url": "https://prestigepropertybuyer.com.au/",
+                  "title": "Prestige Buyer's Agent Australia | Luxury Property",
+                  "text": "Services: Anonymous acquisition, silent market access, bespoke lifestyle mapping, concierge post-settlement services. Ultra-high-n..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Elite Buyer Agents",
+                  "domain": "elitebuyeragents.com.au",
+                  "url": "https://elitebuyeragents.com.au/luxury-homes/",
+                  "title": "Luxury Homes",
+                  "text": "Many high-net-worth vendors actively choose not to list publicly, preferring to protect their privacy, security, and the exclusivity of their home."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you are looking to buy or sell, tell me which city or specific suburb you are focusing on and your approximate budget range so I can narrow down the most relevant specialist or network for you.",
+              "markdown": "If you are looking to buy or sell, tell me **which city or specific suburb** you are focusing on and your **approximate budget range** so I can narrow down the most relevant specialist or network for you.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Propertybuyer",
+              "domain": "www.propertybuyer.com.au",
+              "url": "https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/",
+              "title": "Prestige Real Estate | Luxury Property Buyers Agents Sydney",
+              "text": "specializing in prestige on- and off-market luxury acquisitions with guaranteed confidentiality and non-disclosure agreements. Access to exclusive unadvertised inv..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "www.pmcproperty.com.au",
+              "domain": "www.pmcproperty.com.au",
+              "url": "https://www.pmcproperty.com.au/prestige-property-buyers/",
+              "title": "Prestige Property Buyers",
+              "text": "Buyer-only agencies like PMC work exclusively for the buyer. We focus on your interests, maintain discretion, and leverage market knowledge to secure properties ef..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Elite Buyer Agents",
+              "domain": "elitebuyeragents.com.au",
+              "url": "https://elitebuyeragents.com.au/luxury-homes/",
+              "title": "Luxury Homes",
+              "text": "Many high-net-worth vendors actively choose not to list publicly, preferring to protect their privacy, security, and the exclusivity of their home."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

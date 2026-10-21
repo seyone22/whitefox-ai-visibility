@@ -1,0 +1,200 @@
+{
+  "slug": "goldcoast",
+  "pk": "prestige_selling",
+  "plat": "aimode",
+  "text": "I am selling a $10M luxury residential property in Gold Coast. Which prestige real estate agencies have the strongest track record for high-end home sales?",
+  "loc": 1000665,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\goldcoast__prestige_selling__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:16:00.703Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "I am selling a $10M luxury residential property in Gold Coast. Which prestige real estate agencies have the strongest track record for high-end home sales?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000665,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=I%20am%20selling%20a%20%2410M%20luxury%20residential%20property%20in%20Gold%20Coast.%20Which%20prestige%20real%20estate%20agencies%20have%20the%20strongest%20track%20record%20for%20high-end%20home%20sales%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCbdgXStHGpFrEXCv3vNaowID",
+      "datetime": "2026-10-21 05:16:00 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "For a $10M property on the Gold Coast, top-tier local agencies with proven ultra-luxury track records include [Kollosche](http://www.kollosche.com.au/) in Broadbeach , renowned for high-end residential sales, and [Amir Prestige](https://www.amirprestige.com.au/) , which holds multiple multi-million dollar coastal records. Boutique specialists like [Lucy Cole Prestige](https://www.lucycole.com.au/) also focus extensively on luxury waterfront and beachfront estates.[[1]](https://www.amirprestige.com.au/)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdacU1IUXdjRzV3GAo)[[3]](https://www.lucycole.com.au/)\n\n### Leading Luxury Agencies\n\n- **Kollosche** : Widely recognized as a dominant force in high-end coastal and acreage properties, consistently ranking among top national performers for premium transactions.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdacU1IUXdjRzV3GAo)\n- **Amir Prestige** : Noted for major record-breaking luxury sales along Hedges Avenue and Main River, specializing in high-net-worth buyer networks.[[1]](https://www.amirprestige.com.au/)\n- **Lucy Cole Prestige** : A long-standing boutique agency providing tailored, discreet marketing campaigns specifically for high-end waterfront and penthouse residences.[[1]](https://www.lucycole.com.au/)\n\nIf you'd like, share:\n\n- The **exact suburb or micro-location** (e.g., Hedges Avenue, Isle of Capri, Paradise Point)\n- Whether the home is **waterfront, beachfront, or acreage** \n\nI can help tailor an approach or suggest which specific lead agent within these networks best fits your property type.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "For a $10M property on the Gold Coast, top-tier local agencies with proven ultra-luxury track records include Kollosche in Broadbeach, renowned for high-end residential sales, and Amir Prestige, which holds multiple multi-million dollar coastal records. Boutique specialists like Lucy Cole Prestige also focus extensively on luxury waterfront and beachfront estates.",
+              "markdown": "For a $10M property on the Gold Coast, top-tier local agencies with proven ultra-luxury track records include [Kollosche](http://www.kollosche.com.au/) in Broadbeach , renowned for high-end residential sales, and [Amir Prestige](https://www.amirprestige.com.au/) , which holds multiple multi-million dollar coastal records. Boutique specialists like [Lucy Cole Prestige](https://www.lucycole.com.au/) also focus extensively on luxury waterfront and beachfront estates.[[1]](https://www.amirprestige.com.au/)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdacU1IUXdjRzV3GAo)[[3]](https://www.lucycole.com.au/)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Kollosche",
+                  "description": null,
+                  "url": "http://www.kollosche.com.au/",
+                  "domain": "www.kollosche.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Amir Prestige",
+                  "description": null,
+                  "url": "https://www.amirprestige.com.au/",
+                  "domain": "www.amirprestige.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Lucy Cole Prestige",
+                  "description": null,
+                  "url": "https://www.lucycole.com.au/",
+                  "domain": "www.lucycole.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Amir Prestige",
+                  "domain": "www.amirprestige.com.au",
+                  "url": "https://www.amirprestige.com.au/",
+                  "title": "Amir Prestige: Gold Coast Luxury Real Estate Agency",
+                  "text": "Key Sales & Records: 41-45 Hedges Avenue, Mermaid Beach ($28,000,000 to Clive Palmer, Gold Coast record); 127 Hedges Avenue ($27,5..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdacU1IUXdjRzV3GAo",
+                  "title": "Kollosche",
+                  "text": "Oracle West, Level 2/19 Elizabeth Ave, Broadbeach QLD 4218 · Gold Coast real estate agency specializing in efficient rental proper..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Lucy Cole Prestige Properties",
+                  "domain": "www.lucycole.com.au",
+                  "url": "https://www.lucycole.com.au/",
+                  "title": "Lucy Cole Prestige | Prestige Real Estate Agents Gold Coast",
+                  "text": "Lucy Cole Prestige is an independent Gold Coast real estate agency specializing in luxury residential properties, beachfront/water..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Leading Luxury Agencies",
+              "text": "Kollosche : Widely recognized as a dominant force in high-end coastal and acreage properties, consistently ranking among top national performers for premium transactions. Amir Prestige : Noted for major record-breaking luxury sales along Hedges Avenue and Main River, specializing in high-net-worth buyer networks. Lucy Cole Prestige : A long-standing boutique agency providing tailored, discreet marketing campaigns specifically for high-end waterfront and penthouse residences.",
+              "markdown": "- **Kollosche** : Widely recognized as a dominant force in high-end coastal and acreage properties, consistently ranking among top national performers for premium transactions.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdacU1IUXdjRzV3GAo)\n- **Amir Prestige** : Noted for major record-breaking luxury sales along Hedges Avenue and Main River, specializing in high-net-worth buyer networks.[[1]](https://www.amirprestige.com.au/)\n- **Lucy Cole Prestige** : A long-standing boutique agency providing tailored, discreet marketing campaigns specifically for high-end waterfront and penthouse residences.[[1]](https://www.lucycole.com.au/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdacU1IUXdjRzV3GAo",
+                  "title": "Kollosche",
+                  "text": "Oracle West, Level 2/19 Elizabeth Ave, Broadbeach QLD 4218 · Gold Coast real estate agency specializing in efficient rental property management and seamless tenant placement."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Amir Prestige",
+                  "domain": "www.amirprestige.com.au",
+                  "url": "https://www.amirprestige.com.au/",
+                  "title": "Amir Prestige: Gold Coast Luxury Real Estate Agency",
+                  "text": "Key Sales & Records: 41-45 Hedges Avenue, Only Queensland agency with 10 transactions over $20,000,000. Network: Over 250,000 qualified buyers including high-net-w..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Lucy Cole Prestige Properties",
+                  "domain": "www.lucycole.com.au",
+                  "url": "https://www.lucycole.com.au/",
+                  "title": "Lucy Cole Prestige | Prestige Real Estate Agents Gold Coast",
+                  "text": "Lucy Cole Prestige is an independent Gold Coast real estate agency specializing in luxury residential properties, beachfront/waterfront homes, apartments, and pent..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you'd like, share:",
+              "markdown": "If you'd like, share:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "The exact suburb or micro-location (e.g., Hedges Avenue, Isle of Capri, Paradise Point) Whether the home is waterfront, beachfront, or acreage",
+              "markdown": "- The **exact suburb or micro-location** (e.g., Hedges Avenue, Isle of Capri, Paradise Point)\n- Whether the home is **waterfront, beachfront, or acreage**",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "I can help tailor an approach or suggest which specific lead agent within these networks best fits your property type.",
+              "markdown": "I can help tailor an approach or suggest which specific lead agent within these networks best fits your property type.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Amir Prestige",
+              "domain": "www.amirprestige.com.au",
+              "url": "https://www.amirprestige.com.au/",
+              "title": "Amir Prestige: Gold Coast Luxury Real Estate Agency",
+              "text": "Key Sales & Records: 41-45 Hedges Avenue, Only Queensland agency with 10 transactions over $20,000,000. Network: Over 250,000 qualified buyers including high-net-w..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Lucy Cole Prestige Properties",
+              "domain": "www.lucycole.com.au",
+              "url": "https://www.lucycole.com.au/",
+              "title": "Lucy Cole Prestige | Prestige Real Estate Agents Gold Coast",
+              "text": "Lucy Cole Prestige is an independent Gold Coast real estate agency specializing in luxury residential properties, beachfront/waterfront homes, apartments, and pent..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Google",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdacU1IUXdjRzV3GAo",
+              "title": "Kollosche",
+              "text": "Oracle West, Level 2/19 Elizabeth Ave, Broadbeach QLD 4218 · Gold Coast real estate agency specializing in efficient rental property management and seamless tenant placement."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

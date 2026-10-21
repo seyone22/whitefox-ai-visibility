@@ -1,0 +1,215 @@
+{
+  "slug": "adelaide",
+  "pk": "off_market",
+  "plat": "aimode",
+  "text": "Which luxury real estate agents and agencies in Adelaide specialise in confidential off-market prestige property sales and high-net-worth buyer networks?",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\adelaide__off_market__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:18:58.946Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which luxury real estate agents and agencies in Adelaide specialise in confidential off-market prestige property sales and high-net-worth buyer networks?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000422,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20luxury%20real%20estate%20agents%20and%20agencies%20in%20Adelaide%20specialise%20in%20confidential%20off-market%20prestige%20property%20sales%20and%20high-net-worth%20buyer%20networks%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCeekA6PXzrBqEVM-HE5YcI2z",
+      "datetime": "2026-10-21 05:18:58 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "Adelaide's top luxury real estate specialists for confidential, off-market prestige property transactions and high-net-worth databases include `boutique and specialized high-end operators`:\n\n\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLcR_UIp57KZLGaDQiGh-n1EfaB8ZwcwIdHT2XiVmclpC6xIU3NrDu_qz5q0czl8UqcEBpu77GBryskXGDEhXxC5I47j-2sXLG3LQi4-Wo480ky1TjipxGhC4lHWgLN1Nh8IV-M7=s192-w192-h144-n-k-no)\nWilliams Real Estate 4.3 (88)  \nReal estate agency  \nOpen 60 Kensington Rd  \nCall Directions Website Led by Stephanie and John Williams, widely recognized for high-end residential transactions in prime belts like Unley Park, Tusmore, and Beaumont. They maintain an extensive private database exceeding 20,000 high-net-worth clients tailored for discreet campaigns.\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLd4q3my1ZZ2S3RY2SWBYIZr2WUgpB4OZU_7j9gBovG8KrIoVEjo8URj2rnhMGaOAnabFRJIx1HESLNKOIqhksUaYiuLqM7RtbuKcWJVtxnv_BCJ04PF0IjoO1QcNGT0yfgJUGESrw=s192-w192-h144-n-k-no)\nGiordano & Partners 4.8 (72)  \nReal estate agency  \nOpen 429 Pulteney St  \nCall Directions Website Operating on a low-volume, high-service model, they focus heavily on architectural masterpieces, heritage estates, and Adelaide Hills retreats, managing confidential portfolios for prominent local and interstate vendors.\n\n---\n\n![](https://api.dataforseo.com/cdn/i/10210518-2877-0139-0000-55164695b3ed:4)\nTurner Real Estate 4.8 (1.5K)  \nReal estate agency  \nOpen 49 Greenhill Rd  \nCall Directions Website Backed by decades of local experience in Adelaide, their dedicated prestige division manages high-value property portfolios and leverages targeted private networks for discreet vendor and buyer matchmaking.\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLdpdij6xgTtyUNfGMHmiRv-4aQz_1_ihXU8ZNlE5Pkv8rVhQoRYPrHU7CPDgfuRbKV1kJBQ9yoB9KRloswu6GMt0GZsvChy9ote3aasudDU2C_5Kjs8PmJy3X8lWMMXmP-CkYRA=s192-w192-h144-n-k-no)\nEncore Real Estate 5.0 (4)  \nMarketing agency  \nOpen 145 South Tce  \nCall Directions Website Frequently utilizes structured off-market strategies specifically designed to protect the privacy of high-profile owners and manage private negotiations outside public portals.[[1]](https://www.williamsproperty.com.au/)[[2]](https://www.williamsproperty.com.au/592046/stephanie-and-john-williams)[[3]](https://www.williamsproperty.com.au/592041/stephanie-williams)[[4]](https://giordanopartners.com/)[[5]](https://www.turnerrealestate.com.au/prestige-sales/)[[6]](https://www.encorerealestate.com.au/off-market/)\n\nIf you are looking to buy or sell, would you like details on **how to access off-market databases** or the **typical commission and marketing structures** for these high-end agencies?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Adelaide's top luxury real estate specialists for confidential, off-market prestige property transactions and high-net-worth databases include boutique and specialized high-end operators :",
+              "markdown": "Adelaide's top luxury real estate specialists for confidential, off-market prestige property transactions and high-net-worth databases include `boutique and specialized high-end operators`:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Williams Real Estate 4.3 (88) Real estate agency Open 60 Kensington Rd Call Directions Website Led by Stephanie and John Williams, widely recognized for high-end residential transactions in prime belts like Unley Park, Tusmore, and Beaumont. They maintain an extensive private database exceeding 20,000 high-net-worth clients tailored for discreet campaigns.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLcR_UIp57KZLGaDQiGh-n1EfaB8ZwcwIdHT2XiVmclpC6xIU3NrDu_qz5q0czl8UqcEBpu77GBryskXGDEhXxC5I47j-2sXLG3LQi4-Wo480ky1TjipxGhC4lHWgLN1Nh8IV-M7=s192-w192-h144-n-k-no)\nWilliams Real Estate 4.3 (88)  \nReal estate agency  \nOpen 60 Kensington Rd  \nCall Directions Website Led by Stephanie and John Williams, widely recognized for high-end residential transactions in prime belts like Unley Park, Tusmore, and Beaumont. They maintain an extensive private database exceeding 20,000 high-net-worth clients tailored for discreet campaigns.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcR_UIp57KZLGaDQiGh-n1EfaB8ZwcwIdHT2XiVmclpC6xIU3NrDu_qz5q0czl8UqcEBpu77GBryskXGDEhXxC5I47j-2sXLG3LQi4-Wo480ky1TjipxGhC4lHWgLN1Nh8IV-M7=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Giordano & Partners 4.8 (72) Real estate agency Open 429 Pulteney St Call Directions Website Operating on a low-volume, high-service model, they focus heavily on architectural masterpieces, heritage estates, and Adelaide Hills retreats, managing confidential portfolios for prominent local and interstate vendors.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLd4q3my1ZZ2S3RY2SWBYIZr2WUgpB4OZU_7j9gBovG8KrIoVEjo8URj2rnhMGaOAnabFRJIx1HESLNKOIqhksUaYiuLqM7RtbuKcWJVtxnv_BCJ04PF0IjoO1QcNGT0yfgJUGESrw=s192-w192-h144-n-k-no)\nGiordano & Partners 4.8 (72)  \nReal estate agency  \nOpen 429 Pulteney St  \nCall Directions Website Operating on a low-volume, high-service model, they focus heavily on architectural masterpieces, heritage estates, and Adelaide Hills retreats, managing confidential portfolios for prominent local and interstate vendors.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd4q3my1ZZ2S3RY2SWBYIZr2WUgpB4OZU_7j9gBovG8KrIoVEjo8URj2rnhMGaOAnabFRJIx1HESLNKOIqhksUaYiuLqM7RtbuKcWJVtxnv_BCJ04PF0IjoO1QcNGT0yfgJUGESrw=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Turner Real Estate 4.8 (1.5K) Real estate agency Open 49 Greenhill Rd Call Directions Website Backed by decades of local experience in Adelaide, their dedicated prestige division manages high-value property portfolios and leverages targeted private networks for discreet vendor and buyer matchmaking.",
+              "markdown": "---\n\n![](https://api.dataforseo.com/cdn/i/10210518-2877-0139-0000-55164695b3ed:2)\nTurner Real Estate 4.8 (1.5K)  \nReal estate agency  \nOpen 49 Greenhill Rd  \nCall Directions Website Backed by decades of local experience in Adelaide, their dedicated prestige division manages high-value property portfolios and leverages targeted private networks for discreet vendor and buyer matchmaking.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://api.dataforseo.com/cdn/i/10210518-2877-0139-0000-55164695b3ed:3"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Encore Real Estate 5.0 (4) Marketing agency Open 145 South Tce Call Directions Website Frequently utilizes structured off-market strategies specifically designed to protect the privacy of high-profile owners and manage private negotiations outside public portals.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLdpdij6xgTtyUNfGMHmiRv-4aQz_1_ihXU8ZNlE5Pkv8rVhQoRYPrHU7CPDgfuRbKV1kJBQ9yoB9KRloswu6GMt0GZsvChy9ote3aasudDU2C_5Kjs8PmJy3X8lWMMXmP-CkYRA=s192-w192-h144-n-k-no)\nEncore Real Estate 5.0 (4)  \nMarketing agency  \nOpen 145 South Tce  \nCall Directions Website Frequently utilizes structured off-market strategies specifically designed to protect the privacy of high-profile owners and manage private negotiations outside public portals.[[1]](https://www.williamsproperty.com.au/)[[2]](https://www.williamsproperty.com.au/592046/stephanie-and-john-williams)[[3]](https://www.williamsproperty.com.au/592041/stephanie-williams)[[4]](https://giordanopartners.com/)[[5]](https://www.turnerrealestate.com.au/prestige-sales/)[[6]](https://www.encorerealestate.com.au/off-market/)",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdpdij6xgTtyUNfGMHmiRv-4aQz_1_ihXU8ZNlE5Pkv8rVhQoRYPrHU7CPDgfuRbKV1kJBQ9yoB9KRloswu6GMt0GZsvChy9ote3aasudDU2C_5Kjs8PmJy3X8lWMMXmP-CkYRA=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Williams Real Estate",
+                  "domain": "www.williamsproperty.com.au",
+                  "url": "https://www.williamsproperty.com.au/",
+                  "title": "Home | Williams Real Estate",
+                  "text": "Williams Real Estate property search and listings in Adelaide and surrounding suburbs (including Beaumont, Tusmore, and Stepney). ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Williams Real Estate",
+                  "domain": "www.williamsproperty.com.au",
+                  "url": "https://www.williamsproperty.com.au/592046/stephanie-and-john-williams",
+                  "title": "Stephanie and John Williams | Williams Real Estate",
+                  "text": "Stephanie and John Williams Adelaide-born … buying, renovating and developing a range of residential properties in Adelaide's inne..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Williams Real Estate",
+                  "domain": "www.williamsproperty.com.au",
+                  "url": "https://www.williamsproperty.com.au/592041/stephanie-williams",
+                  "title": "Stephanie Williams | Williams Real Estate",
+                  "text": "Number One Real Estate Agent in Luxury Property Sales. Phone 0413 874 888, Client Base: Over 20,000 clients on personal database."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Giordano & Partners",
+                  "domain": "giordanopartners.com",
+                  "url": "https://giordanopartners.com/",
+                  "title": "Luxury Real Estate | Giordano & Partners",
+                  "text": "Low volume, high service model; achieved 41 suburb record sales. * Expertise: heritage estates, Adelaide Hills retreats, inner-cit..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Turner Real Estate",
+                  "domain": "www.turnerrealestate.com.au",
+                  "url": "https://www.turnerrealestate.com.au/prestige-sales/",
+                  "title": "Prestige Sales - Turner Real Estate",
+                  "text": "Turner Prestige Sales is a dedicated luxury property service in Adelaide, backed by 33 years of Turner's experience and currently ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "encorerealestate.com.au",
+                  "domain": "www.encorerealestate.com.au",
+                  "url": "https://www.encorerealestate.com.au/off-market/",
+                  "title": "Off Market",
+                  "text": "Off-Market sales have become a popular and often viable way to sell property. An off-market sale occurs out of the public eye, whe..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you are looking to buy or sell, would you like details on how to access off-market databases or the typical commission and marketing structures for these high-end agencies?",
+              "markdown": "If you are looking to buy or sell, would you like details on **how to access off-market databases** or the **typical commission and marketing structures** for these high-end agencies?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Williams Real Estate",
+              "domain": "www.williamsproperty.com.au",
+              "url": "https://www.williamsproperty.com.au/",
+              "title": "Home | Williams Real Estate",
+              "text": "Williams Real Estate property search and listings in Adelaide and surrounding suburbs (including Beaumont, Tusmore, and Stepney). Services include property alerts"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Williams Real Estate",
+              "domain": "www.williamsproperty.com.au",
+              "url": "https://www.williamsproperty.com.au/592046/stephanie-and-john-williams",
+              "title": "Stephanie and John Williams | Williams Real Estate",
+              "text": "Stephanie and John Williams Adelaide-born … buying, renovating and developing a range of residential properties in Adelaide's inner suburbs"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Williams Real Estate",
+              "domain": "www.williamsproperty.com.au",
+              "url": "https://www.williamsproperty.com.au/592041/stephanie-williams",
+              "title": "Stephanie Williams | Williams Real Estate",
+              "text": "Number One Real Estate Agent in Luxury Property Sales. Phone 0413 874 888, Client Base: Over 20,000 clients on personal database."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

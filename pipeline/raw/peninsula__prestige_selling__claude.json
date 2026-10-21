@@ -1,0 +1,236 @@
+{
+  "slug": "peninsula",
+  "pk": "prestige_selling",
+  "plat": "claude",
+  "text": "I am selling a $10M luxury residential property in Mornington Peninsula. Which prestige real estate agencies have the strongest track record for high-end home sales?",
+  "loc": 9056918,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\peninsula__prestige_selling__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:20:01.302Z",
+  "cost": 0.061591,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10927,
+      "output_tokens": 1214,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.060991,
+      "datetime": "2026-10-21 05:20:01 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Great question! Selling a $10M luxury property on the Mornington Peninsula requires an agency with deep local expertise, a strong network of high-net-worth buyers, and a proven track record in prestige sales. Based on current market activity, here are the top agencies to consider:\n\n---\n\n## 🏡 Top Prestige Real Estate Agencies for Mornington Peninsula\n\n### 1. **Kay & Burton**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "With strategically placed offices throughout Melbourne and Victoria's Mornington Peninsula, Kay & Burton's sphere of influence allows them to speak with authority, confidence and intelligence to a vast and enviable network of highly engaged buyers.",
+              "annotations": [
+                {
+                  "title": "Luxury real estate Melbourne",
+                  "url": "https://www.kayburton.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their teams are connected to ultra-high-net-worth clients across Australia and in Singapore, Hong Kong, China, New York, London and Dubai",
+              "annotations": [
+                {
+                  "title": "Luxury real estate Melbourne",
+                  "url": "https://www.kayburton.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — critical for a $10M listing that may attract international buyers. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They have been leaders in real estate since 1938.",
+              "annotations": [
+                {
+                  "title": "Luxury real estate Melbourne",
+                  "url": "https://www.kayburton.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. **RT Edgar**\nRT Edgar is one of the most prominent names in Mornington Peninsula prestige property. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Agents like Michael Ebeling and Warwick Anderson of RT Edgar Toorak handle oceanfront and high-end listings on the Peninsula",
+              "annotations": [
+                {
+                  "title": "Mornington Peninsula luxury real estate for sale",
+                  "url": "https://www.therealestateconversation.com.au/tag/mornington-peninsula-luxury-real-estate-sale",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", while ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "agents such as James Redfern, Holly Longmuir, Samantha Moffatt, and Martina Richardson handle multi-acre prestige estates across Flinders and surrounds.",
+              "annotations": [
+                {
+                  "title": "Mornington Peninsula luxury real estate for sale",
+                  "url": "https://www.therealestateconversation.com.au/tag/mornington-peninsula-luxury-real-estate-sale",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Their dual presence in both Toorak and the Peninsula gives them a strong pipeline of wealthy Melbourne-based buyers.\n\n---\n\n### 3. **Marshall White**\nMarshall White has an exceptionally strong presence across the Peninsula's most prestigious suburbs. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their agents handle high-end listings ranging from resort-style vineyard properties in Sorrento to 15-acre rural estates in Rosebud.",
+              "annotations": [
+                {
+                  "title": "Mornington Peninsula luxury real estate for sale",
+                  "url": "https://www.therealestateconversation.com.au/tag/mornington-peninsula-luxury-real-estate-sale",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They have listed properties in the $8.5M–$9.3M+ range in Flinders",
+              "annotations": [
+                {
+                  "title": "60 Luxury Houses for Sale in Shire of Mornington Peninsula",
+                  "url": "https://www.properstar.com.au/australia/mornington-peninsula-shire/buy/house/luxury",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", making them directly relevant for a $10M sale. They operate dedicated offices in Sorrento, Flinders, and Mornington.\n\n---\n\n### 4. **Peninsula Sotheby's International Realty**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Peninsula Sotheby's International Realty, led by agents like Rob Curtain, handles ultra-premium listings such as 54-acre oceanfront coastal estates in Flinders and iconic 27-acre lifestyle sanctuary estates in Merricks North.",
+              "annotations": [
+                {
+                  "title": "Rob Curtain",
+                  "url": "https://www.luxuryestate.com/a9386381-rob-curtain--peninsula-sotheby-s-international-realty",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " The Sotheby's global brand provides unrivalled international marketing reach, which is especially valuable for a $10M property that may appeal to overseas buyers.\n\n---\n\n### 5. **Danckert Real Estate**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The Danckert Real Estate team specialises in the marketing and sale of luxury and lifestyle properties across the Mornington Peninsula.",
+              "annotations": [
+                {
+                  "title": "MARKETING YOUR PRESTIGE PROPERTY",
+                  "url": "https://danckert.com.au/article/marketing-your-prestige-property",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "With over 50 years' of combined experience, their team has an intimate knowledge of luxury homes and premium real estate on the Peninsula.",
+              "annotations": [
+                {
+                  "title": "Mornington Peninsula Real Estate Agents",
+                  "url": "https://danckert.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They have also invested in international marketing: ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "they have partnered with LuxuryRealEstate.com to advertise premium listings to an international audience, and have received enquiries from buyers based in America, England, Italy, Hong Kong and Malaysia.",
+              "annotations": [
+                {
+                  "title": "MARKETING YOUR PRESTIGE PROPERTY",
+                  "url": "https://danckert.com.au/article/marketing-your-prestige-property",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 💡 Key Tips for Choosing the Right Agency\n\n| Factor | What to Look For |\n|---|---|\n| **Local Track Record** | Ask for evidence of $8M+ sales on the Peninsula |\n| **Buyer Database** | How many active HNW buyers do they have on file? |\n| **International Reach** | Do they have offshore marketing partnerships? |\n| **Marketing Quality** | Review their photography, campaigns & digital presence |\n| **Agent Specialisation** | Choose an agent who *specialises* in prestige, not just handles it occasionally |\n\n---\n\nFor a $10M property, I'd recommend interviewing **Kay & Burton**, **Marshall White**, and **Peninsula Sotheby's International Realty** as your top three, given their demonstrated ability to transact at that price point and their access to both domestic and international ultra-high-net-worth buyers. Would you like more detail on any of these agencies or tips on how to evaluate their proposals?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "prestige real estate agencies Mornington Peninsula luxury property sales 2024 2025",
+        "top high end real estate agents Mornington Peninsula $10M property sales record"
+      ]
+    }
+  ]
+}

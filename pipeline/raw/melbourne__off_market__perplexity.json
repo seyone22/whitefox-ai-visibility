@@ -1,0 +1,105 @@
+{
+  "slug": "melbourne",
+  "pk": "off_market",
+  "plat": "perplexity",
+  "text": "Which luxury real estate agents and agencies in Melbourne specialise in confidential off-market prestige property sales and high-net-worth buyer networks?",
+  "loc": 1000567,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\melbourne__off_market__perplexity.json",
+  "at": "2026-10-21T05:10:27.328Z",
+  "cost": 0.006267,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 33,
+      "output_tokens": 634,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005667,
+      "datetime": "2026-10-21 05:10:27 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For **confidential off-market prestige sales in Melbourne**, the strongest apparent matches are:\n\n- **Marshall White — Marcus Chiminello:** A leading option for vendors of Toorak, South Yarra, Armadale and Malvern properties. Chiminello specialises in prestige homes, luxury developments and generational estates, with confidential off-market transactions and a substantial high-net-worth buyer network identified as core strengths.[2]\n- **WHITEFOX:** A prominent Melbourne luxury agency listed among Australia’s specialist luxury real-estate companies, although its off-market and private-buyer-network capabilities should be confirmed directly for the specific suburb and property type.[8]\n- **Kincade International Realty:** Suited to vendors seeking private-network and international exposure. It describes cross-market high-net-worth relationships, inter-agency off-market distribution and campaigns targeting buyers across Asia-Pacific, Europe, the Americas and the Middle East.[4]\n- **Propertybuyer Prestige — Amanda Jones:** A buyer-side specialist rather than a conventional listing agency. Its Melbourne service is designed for discreet acquisitions, including silent and off-market listings, with a limited client load and privacy protections for high-net-worth buyers.[9]\n- **LP Advisory:** A Melbourne luxury buyers’ agency offering private access to pre-market and off-market homes through established selling-agent relationships. It represents buyers exclusively and emphasises confidentiality throughout the search and negotiation.[1]\n- **Elite Buyer Agents:** Focused on Melbourne luxury buyers, with established relationships across major agencies and claimed access to off-market opportunities. It offers private viewings, identity protection, NDAs and contractual privacy provisions where required.[3]\n- **Buyer’s Advocate:** A Melbourne buyers’ agency with more than three decades of local experience, sourcing advertised, pre-market and suitable off-market properties through agency relationships while maintaining a discreet, buyer-focused process.[5]\n- **Ni Advocacy:** A Toorak-based buyers’ advocate specialising in luxury purchases, including unlisted Melbourne residences, confidential searches and access generated through its property-network relationships.[6]\n\n## Best fit by objective\n\n| Objective | Shortlist |\n|---|---|\n| Selling a Melbourne prestige property discreetly | **Marshall White / Marcus Chiminello**, **Kincade International Realty** |\n| Finding a private, off-market Melbourne residence | **LP Advisory**, **Elite Buyer Agents**, **Propertybuyer Prestige** |\n| Protecting the buyer’s identity | **Elite Buyer Agents**, **Propertybuyer Prestige**, **LP Advisory** |\n| Reaching international or interstate HNW buyers | **Kincade International Realty**, potentially **Marshall White** |\n| Independent buyer representation | **LP Advisory**, **Buyer’s Advocate**, **Ni Advocacy** |\n\nFor a vendor, ask each agency to substantiate the network with recent comparable transactions, the proportion of sales completed privately, how buyers are qualified, whether the agency represents both sides, and how confidentiality around the owner, price and property imagery is contractually protected. Claims about buyer databases and off-market volume are largely agency-reported and should be independently verified.",
+              "annotations": [
+                {
+                  "title": "Luxury Buyers Agent Melbourne",
+                  "url": "https://lpadvisory.com.au/luxury-homes/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Marcus Chiminello | Estate Agent Stonnington - Marshall White",
+                  "url": "https://www.marshallwhite.com.au/agent/marcus-chiminello",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Luxury Homes",
+                  "url": "https://elitebuyeragents.com.au/luxury-homes/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Melbourne Luxury Real Estate: A 2026 Market Intelligence ...",
+                  "url": "https://www.kincadeintrealty.com.au/blog/real-estate-melbourne/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Luxury Buyers Agent in Melbourne | Book a Consultation",
+                  "url": "https://www.buyersadvocate.com.au/our-clients/luxury-buyers-agent-melbourne/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Luxury Property Buyer | Discreet & Data-Driven Service - Ni Advocacy",
+                  "url": "https://niadvocacybuyersagents.com.au/luxury-property-buyer/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Luxury Buyers Agent Sydney | Contact Us | BFP Property",
+                  "url": "https://bfpproperty.com/luxury-buyers",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 100 Luxury Real Estate Companies in Australia (2026)",
+                  "url": "https://ensun.io/search/luxury-real-estate/australia",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Prestige Property Buyers Agent | Propertybuyer",
+                  "url": "https://prestigepropertybuyer.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Luxury Real Estate Agents – Best Real Estate Agents In ...",
+                  "url": "https://luxuryrea.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

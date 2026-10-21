@@ -1,0 +1,164 @@
+{
+  "slug": "peninsula",
+  "pk": "prestige_selling",
+  "plat": "aimode",
+  "text": "I am selling a $10M luxury residential property in Mornington Peninsula. Which prestige real estate agencies have the strongest track record for high-end home sales?",
+  "loc": 9056918,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\peninsula__prestige_selling__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:19:47.278Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "I am selling a $10M luxury residential property in Mornington Peninsula. Which prestige real estate agencies have the strongest track record for high-end home sales?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 9056918,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=I%20am%20selling%20a%20%2410M%20luxury%20residential%20property%20in%20Mornington%20Peninsula.%20Which%20prestige%20real%20estate%20agencies%20have%20the%20strongest%20track%20record%20for%20high-end%20home%20sales%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCQOoQ4mOxdVqEZXT2c1Pc_Yg",
+      "datetime": "2026-10-21 05:19:46 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "For a $10M luxury property on the Mornington Peninsula, agencies with dedicated high-end networks and proven ultra-prestige track records include `Peninsula Sotheby's International Realty`, [Marshall White](https://www.marshallwhite.com.au/), [Jellis Craig](https://www.jelliscraig.com.au/) , and WHITEFOX Peninsula.[[1]](https://melbourne.whitefoxrealestate.com.au/office/peninsula)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVc1bk56TmtNWGMxGAo)\n\n### Top Agencies for $10M+ Properties\n\n- **Peninsula Sotheby's International Realty:** Renowned for luxury coastal and rural acreage sales, with a strong international and Melbourne buyer database suited to ultra-high-end transactions.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVc1bk56TmtNWGMxGAo)\n- **Marshall White (Mornington Peninsula):** Brings massive reach via their high-end Melbourne buyer networks, specializing in elite holiday homes and permanent prestige residences.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVc1bk56TmtNWGMxGAo)\n- **Jellis Craig:** Highly active across top-tier pockets like Mount Martha, Red Hill, and Mornington, boasting stellar local auction and private sale records.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVc1bk56TmtNWGMxGAo)\n- **WHITEFOX Peninsula:** A modern, high-branding agency known for aggressive digital marketing and dealing with design-forward luxury coastal homes.[[1]](https://melbourne.whitefoxrealestate.com.au/office/peninsula)\n\nIf you'd like, share the **specific town/location** on the Peninsula and the **property style** (modern beachfront, rural acreage, historic estate) so I can recommend the **most relevant lead agent** for your property.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "For a $10M luxury property on the Mornington Peninsula, agencies with dedicated high-end networks and proven ultra-prestige track records include Peninsula Sotheby's International Realty, Marshall White, Jellis Craig, and WHITEFOX Peninsula.",
+              "markdown": "For a $10M luxury property on the Mornington Peninsula, agencies with dedicated high-end networks and proven ultra-prestige track records include `Peninsula Sotheby's International Realty`, [Marshall White](https://www.marshallwhite.com.au/), [Jellis Craig](https://www.jelliscraig.com.au/) , and WHITEFOX Peninsula.[[1]](https://melbourne.whitefoxrealestate.com.au/office/peninsula)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVc1bk56TmtNWGMxGAo)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Marshall White",
+                  "description": null,
+                  "url": "https://www.marshallwhite.com.au/",
+                  "domain": "www.marshallwhite.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Jellis Craig",
+                  "description": null,
+                  "url": "https://www.jelliscraig.com.au/",
+                  "domain": "www.jelliscraig.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "WHITEFOX Real Estate",
+                  "domain": "melbourne.whitefoxrealestate.com.au",
+                  "url": "https://melbourne.whitefoxrealestate.com.au/office/peninsula",
+                  "title": "WHITEFOX Peninsula | Real Estate Agents Mornington Peninsula | WHITEFOX Melbourne",
+                  "text": "WHITEFOX Peninsula at 2/ 1016 Mornington-Flinders Road, Red Hill VIC (Phone: +61 3 5989 2145). Featured Properties: 7 Vue Road, Mo..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVc1bk56TmtNWGMxGAo",
+                  "title": "Peninsula Sotheby's International Realty",
+                  "text": "158 Ocean Beach Rd, Sorrento VIC 3943"
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Top Agencies for $10M+ Properties",
+              "text": "Peninsula Sotheby's International Realty: Renowned for luxury coastal and rural acreage sales, with a strong international and Melbourne buyer database suited to ultra-high-end transactions. Marshall White (Mornington Peninsula): Brings massive reach via their high-end Melbourne buyer networks, specializing in elite holiday homes and permanent prestige residences. Jellis Craig: Highly active across top-tier pockets like Mount Martha, Red Hill, and Mornington, boasting stellar local auction and private sale records. WHITEFOX Peninsula: A modern, high-branding agency known for aggressive digital marketing and dealing with design-forward luxury coastal homes.",
+              "markdown": "- **Peninsula Sotheby's International Realty:** Renowned for luxury coastal and rural acreage sales, with a strong international and Melbourne buyer database suited to ultra-high-end transactions.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVc1bk56TmtNWGMxGAo)\n- **Marshall White (Mornington Peninsula):** Brings massive reach via their high-end Melbourne buyer networks, specializing in elite holiday homes and permanent prestige residences.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVc1bk56TmtNWGMxGAo)\n- **Jellis Craig:** Highly active across top-tier pockets like Mount Martha, Red Hill, and Mornington, boasting stellar local auction and private sale records.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVc1bk56TmtNWGMxGAo)\n- **WHITEFOX Peninsula:** A modern, high-branding agency known for aggressive digital marketing and dealing with design-forward luxury coastal homes.[[1]](https://melbourne.whitefoxrealestate.com.au/office/peninsula)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVc1bk56TmtNWGMxGAo",
+                  "title": "Peninsula Sotheby's International Realty",
+                  "text": "158 Ocean Beach Rd, Sorrento VIC 3943"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "WHITEFOX Real Estate",
+                  "domain": "melbourne.whitefoxrealestate.com.au",
+                  "url": "https://melbourne.whitefoxrealestate.com.au/office/peninsula",
+                  "title": "WHITEFOX Peninsula | Real Estate Agents Mornington Peninsula | WHITEFOX Melbourne",
+                  "text": "WHITEFOX Peninsula at 2/ 1016 Mornington-Flinders Road, Red Hill VIC (Phone: +61 3 5989 2145). across HQ and Peninsula divisions. Featured Properties: 7 Vue Road"
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you'd like, share the specific town/location on the Peninsula and the property style (modern beachfront, rural acreage, historic estate) so I can recommend the most relevant lead agent for your property.",
+              "markdown": "If you'd like, share the **specific town/location** on the Peninsula and the **property style** (modern beachfront, rural acreage, historic estate) so I can recommend the **most relevant lead agent** for your property.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "WHITEFOX Real Estate",
+              "domain": "melbourne.whitefoxrealestate.com.au",
+              "url": "https://melbourne.whitefoxrealestate.com.au/office/peninsula",
+              "title": "WHITEFOX Peninsula | Real Estate Agents Mornington Peninsula | WHITEFOX Melbourne",
+              "text": "WHITEFOX Peninsula at 2/ 1016 Mornington-Flinders Road, Red Hill VIC (Phone: +61 3 5989 2145). across HQ and Peninsula divisions. Featured Properties: 7 Vue Road"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Google",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVc1bk56TmtNWGMxGAo",
+              "title": "Peninsula Sotheby's International Realty",
+              "text": "158 Ocean Beach Rd, Sorrento VIC 3943"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Google",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdkNmNXUTBOMk51GAo",
+              "title": "Jellis Craig Mount Martha - Real Estate Agency",
+              "text": "Professional real estate agency offering expert house buying and selling services."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Google",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhFNE1teDBjRGRyGAo",
+              "title": "Peninsula Sotheby's International Realty - Mount Eliza",
+              "text": "45 Mount Eliza Way, Mount Eliza VIC 3930 · Peninsula Sotheby's International Realty"
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "slug": "peninsula",
+  "pk": "architectural_projects",
+  "plat": "aimode",
+  "text": "Which prestige real estate agencies in Mornington Peninsula are the market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing?",
+  "loc": 9056918,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\peninsula__architectural_projects__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:21:11.571Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which prestige real estate agencies in Mornington Peninsula are the market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 9056918,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20prestige%20real%20estate%20agencies%20in%20Mornington%20Peninsula%20are%20the%20market%20leaders%20for%20luxury%20off-the-plan%20developments%2C%20penthouses%2C%20and%20architectural%20project%20marketing%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCQOoQ4mOxdVqEZXT2c1Pc_Yg",
+      "datetime": "2026-10-21 05:21:11 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "The market leaders for luxury off-the-plan developments, high-end penthouses, and architectural project marketing on the Mornington Peninsula are `prominent prestige agencies` with deep roots in both Melbourne’s high-net-worth buyer circles and the local coastal market. The top firms handling these specialized luxury portfolios include:[[1]](https://www.kayburton.com.au/about/)[[2]](https://www.kayburton.com.au/)[[3]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdwemJYRmljSGx3GAo)\n\n- [Kay & Burton](https://www.kayburton.com.au/) — Renowned for high-end project marketing, intergenerational client wealth networks, and high-value coastal properties spanning from Mount Eliza down to Portsea.[[1]](https://www.prestigeliving.au/areas-we-serve/mornington-peninsula)[[2]](https://www.kayburton.com.au/sell/our-services/)[[3]](https://www.kayburton.com.au/about/)[[4]](https://www.kayburton.com.au/)\n- Marshall White — Operates specialized luxury offices across the Peninsula (including Mount Eliza, Flinders, and Sorrento) with a dominant reach for premium developments and high-end lifestyle properties.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdwemJYRmljSGx3GAo)\n- Danckert Real Estate — A specialized boutique prestige agency focusing heavily on architectural and luxury lifestyle properties across the Peninsula, leveraging international luxury networks.[[1]](https://danckert.com.au/article/marketing-your-prestige-property)\n- RT Edgar — A heritage luxury agency with extensive coast and country division experience handling premium local developments, penthouses, and premium coastal estates.[[1]](https://www.rtedgar.com/coast-country/)\n\nIf you are looking to buy or sell a specific type of property, let me know:\n\n- Are you focusing on a **particular township** (e.g., Sorrento, Portsea, Mount Eliza, or Flinders)?\n- Are you looking for **off-the-plan investment advice** or an **appraisal for an architectural build**?\n\nI can provide more tailored insights or direct contacts.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "The market leaders for luxury off-the-plan developments, high-end penthouses, and architectural project marketing on the Mornington Peninsula are prominent prestige agencies with deep roots in both Melbourne’s high-net-worth buyer circles and the local coastal market. The top firms handling these specialized luxury portfolios include :",
+              "markdown": "The market leaders for luxury off-the-plan developments, high-end penthouses, and architectural project marketing on the Mornington Peninsula are `prominent prestige agencies` with deep roots in both Melbourne’s high-net-worth buyer circles and the local coastal market. The top firms handling these specialized luxury portfolios include:[[1]](https://www.kayburton.com.au/about/)[[2]](https://www.kayburton.com.au/)[[3]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdwemJYRmljSGx3GAo)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Kay & Burton",
+                  "domain": "www.kayburton.com.au",
+                  "url": "https://www.kayburton.com.au/about/",
+                  "title": "Luxury & lifestyle real estate in Melbourne & Mornington Peninsula",
+                  "text": "Company: Kay & Burton (established 1938); luxury and lifestyle real estate agency. 130-strong team of trusted advisors and profess..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Kay & Burton",
+                  "domain": "www.kayburton.com.au",
+                  "url": "https://www.kayburton.com.au/",
+                  "title": "Luxury real estate Melbourne | Kay & Burton",
+                  "text": "luxury real estate agency in Australia. Services: Advisory, property appraisal, market insights, and wealth network connection for..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdwemJYRmljSGx3GAo",
+                  "title": "Marshall White - Real Estate Sorrento",
+                  "text": "60 Ocean Beach Rd, Sorrento VIC 3943 · The Sorrento office of Marshall White will commence operation in November 2022, basing itse..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Kay & Burton — Renowned for high-end project marketing, intergenerational client wealth networks, and high-value coastal properties spanning from Mount Eliza down to Portsea. Marshall White — Operates specialized luxury offices across the Peninsula (including Mount Eliza, Flinders, and Sorrento) with a dominant reach for premium developments and high-end lifestyle properties. Marshall White Danckert Real Estate — A specialized boutique prestige agency focusing heavily on architectural and luxury lifestyle properties across the Peninsula, leveraging international luxury networks. Danckert Real Estate RT Edgar — A heritage luxury agency with extensive coast and country division experience handling premium local developments, penthouses, and premium coastal estates. RT Edgar",
+              "markdown": "- [Kay & Burton](https://www.kayburton.com.au/) — Renowned for high-end project marketing, intergenerational client wealth networks, and high-value coastal properties spanning from Mount Eliza down to Portsea.[[1]](https://www.prestigeliving.au/areas-we-serve/mornington-peninsula)[[2]](https://www.kayburton.com.au/sell/our-services/)[[3]](https://www.kayburton.com.au/about/)[[4]](https://www.kayburton.com.au/)\n- Marshall White — Operates specialized luxury offices across the Peninsula (including Mount Eliza, Flinders, and Sorrento) with a dominant reach for premium developments and high-end lifestyle properties.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdwemJYRmljSGx3GAo)\n- Danckert Real Estate — A specialized boutique prestige agency focusing heavily on architectural and luxury lifestyle properties across the Peninsula, leveraging international luxury networks.[[1]](https://danckert.com.au/article/marketing-your-prestige-property)\n- RT Edgar — A heritage luxury agency with extensive coast and country division experience handling premium local developments, penthouses, and premium coastal estates.[[1]](https://www.rtedgar.com/coast-country/)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Kay & Burton",
+                  "description": null,
+                  "url": "https://www.kayburton.com.au/",
+                  "domain": "www.kayburton.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Prestige Living Australia",
+                  "domain": "www.prestigeliving.au",
+                  "url": "https://www.prestigeliving.au/areas-we-serve/mornington-peninsula",
+                  "title": "Granny Flats Mornington Peninsula - Prestige Living",
+                  "text": "Prestige Living builds architecturally inspired second dwellings. Mount Eliza down to Portsea. Turn-key builds from $130,000. Flag..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Kay & Burton",
+                  "domain": "www.kayburton.com.au",
+                  "url": "https://www.kayburton.com.au/sell/our-services/",
+                  "title": "Our Services | Kay & Burton",
+                  "text": "Projects: Strategic, creative development services from planning to post-launch sales for developers. Tailored Marketing: In-house..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Kay & Burton",
+                  "domain": "www.kayburton.com.au",
+                  "url": "https://www.kayburton.com.au/about/",
+                  "title": "Luxury & lifestyle real estate in Melbourne & Mornington Peninsula",
+                  "text": "Premium and luxury real estate markets, intergenerational client relationships, global reach combined with boutique agency culture."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Kay & Burton",
+                  "domain": "www.kayburton.com.au",
+                  "url": "https://www.kayburton.com.au/",
+                  "title": "Luxury real estate Melbourne | Kay & Burton",
+                  "text": "luxury real estate agency in Australia. Services: Advisory, property appraisal, market insights, and wealth network connection for..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdwemJYRmljSGx3GAo",
+                  "title": "Marshall White - Real Estate Sorrento",
+                  "text": "60 Ocean Beach Rd, Sorrento VIC 3943 · The Sorrento office of Marshall White will commence operation in November 2022, basing itse..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Danckert Real Estate",
+                  "domain": "danckert.com.au",
+                  "url": "https://danckert.com.au/article/marketing-your-prestige-property",
+                  "title": "MARKETING YOUR PRESTIGE PROPERTY",
+                  "text": "The Danckert Real Estate team specialises in the marketing and sale of luxury and lifestyle properties across the Mornington Penin..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "RT Edgar",
+                  "domain": "www.rtedgar.com",
+                  "url": "https://www.rtedgar.com/coast-country/",
+                  "title": "Coast & Country | RT Edgar",
+                  "text": "Coast & Country * 5 Point King Road, Sorrento * 2 Mccolls Way, Portsea * 1662 - 1710 Bellarine Highway, Marcus Hill … 490 Settleme..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you are looking to buy or sell a specific type of property, let me know:",
+              "markdown": "If you are looking to buy or sell a specific type of property, let me know:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Are you focusing on a particular township (e.g., Sorrento, Portsea, Mount Eliza, or Flinders)? Are you looking for off-the-plan investment advice or an appraisal for an architectural build ?",
+              "markdown": "- Are you focusing on a **particular township** (e.g., Sorrento, Portsea, Mount Eliza, or Flinders)?\n- Are you looking for **off-the-plan investment advice** or an **appraisal for an architectural build**?",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "I can provide more tailored insights or direct contacts.",
+              "markdown": "I can provide more tailored insights or direct contacts.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Kay & Burton",
+              "domain": "www.kayburton.com.au",
+              "url": "https://www.kayburton.com.au/about/",
+              "title": "Luxury & lifestyle real estate in Melbourne & Mornington Peninsula",
+              "text": "Premium and luxury real estate markets, intergenerational client relationships, global reach combined with boutique agency culture."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Danckert Real Estate",
+              "domain": "danckert.com.au",
+              "url": "https://danckert.com.au/article/marketing-your-prestige-property",
+              "title": "MARKETING YOUR PRESTIGE PROPERTY",
+              "text": "The Danckert Real Estate team specialises in the marketing and sale of luxury and lifestyle properties across the Mornington Peninsula."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "RT Edgar",
+              "domain": "www.rtedgar.com",
+              "url": "https://www.rtedgar.com/coast-country/",
+              "title": "Coast & Country | RT Edgar",
+              "text": "Coast & Country * 5 Point King Road, Sorrento * 2 Mccolls Way, Portsea * 1662 - 1710 Bellarine Highway, Marcus Hill … 490 Settlement Road, Sunbury * 310"
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

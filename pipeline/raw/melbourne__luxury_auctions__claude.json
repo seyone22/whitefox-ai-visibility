@@ -1,0 +1,273 @@
+{
+  "slug": "melbourne",
+  "pk": "luxury_auctions",
+  "plat": "claude",
+  "text": "Who are the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in Melbourne?",
+  "loc": 1000567,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\melbourne__luxury_auctions__claude.json",
+  "at": "2026-10-21T05:11:19.228Z",
+  "cost": 0.110467,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 24429,
+      "output_tokens": 1772,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.109867,
+      "datetime": "2026-10-21 05:11:19 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a comprehensive overview of the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in Melbourne:\n\n---\n\n## 🏡 Leading Luxury Real Estate Agencies in Melbourne\n\n### 1. **Marshall White**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Marshall White are widely regarded as the leading prestige real estate agents for luxury properties in Melbourne.",
+              "annotations": [
+                {
+                  "title": "Best Luxury Real Estate Agents in Melbourne",
+                  "url": "https://www.marshallwhite.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "With unrivalled experience and specialist local knowledge, their six decades of commitment to excellence in prestige property is evident in every tailored strategy and successful outcome.",
+              "annotations": [
+                {
+                  "title": "Best Luxury Real Estate Agents in Melbourne",
+                  "url": "https://www.marshallwhite.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are particularly active in blue-chip suburbs such as Toorak, Brighton, and Armadale.\n\n---\n\n### 2. **Kay & Burton**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "As trusted advisors to the most astute private clients, families and institutions, Kay & Burton occupies a rarefied position within the Australian property landscape. For more than eight decades, their specialist teams have embraced the opportunity to create enduring value for clients through specialist knowledge, impeccable service, trustworthy advice and extraordinary results.",
+              "annotations": [
+                {
+                  "title": "Luxury real estate Melbourne",
+                  "url": "https://www.kayburton.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "With strategically placed offices throughout Melbourne and Victoria's Mornington Peninsula, their sphere of influence allows them to speak with authority to a vast network of highly engaged buyers around the world, connected to ultra-high-net-worth clients across Australia and in Singapore, Hong Kong, China, New York, London and Dubai.",
+              "annotations": [
+                {
+                  "title": "Luxury real estate Melbourne",
+                  "url": "https://www.kayburton.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. **Melbourne Sotheby's International Realty**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "When you choose Melbourne Sotheby's International Realty, you're partnering with the world's most prestigious name in luxury real estate. Their local experts have an intimate knowledge of Victoria's property landscape, from the historic homes of Toorak to the coastal retreats of the Mornington Peninsula.",
+              "annotations": [
+                {
+                  "title": "Property & Real Estate for Sale in Melbourne",
+                  "url": "https://melbournesothebysrealty.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Distinguished homes deserve a considered audience, and through the Sotheby's International Realty network, they connect each property with discerning buyers locally and around the world.",
+              "annotations": [
+                {
+                  "title": "Property & Real Estate for Sale in Melbourne",
+                  "url": "https://melbournesothebysrealty.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. **Private Property Global**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Private Property Global was established as an international bespoke advisory service for owners and buyers of trophy homes and homes of historical significance and architectural merit, utilising Forbes Global Properties infrastructure and services.",
+              "annotations": [
+                {
+                  "title": "Private Property Global, Luxury real estate agency in Sydney, Melbourne and Gold Coast, Australia",
+                  "url": "https://www.forbesglobalproperties.com/members/private-property-global",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The Private Property Global team has 20 years of record-setting results, recalibrating the Australian price benchmark 4 times and achieving the highest annual Australian sale in 9 of those years.",
+              "annotations": [
+                {
+                  "title": "Private Property Global, Luxury real estate agency in Sydney, Melbourne and Gold Coast, Australia",
+                  "url": "https://www.forbesglobalproperties.com/members/private-property-global",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They are the only Australian-based residential real estate agency that specialises in the sale of property above $5,000,000 without geographical boundaries.",
+              "annotations": [
+                {
+                  "title": "Private Property Global, Luxury real estate agency in Sydney, Melbourne and Gold Coast, Australia",
+                  "url": "https://www.forbesglobalproperties.com/members/private-property-global",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. **Melcorp Luxe**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "With over two decades of proven excellence in Melbourne real estate, Melcorp Luxe stands as a refined expression of experience, trust, and prestige.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate, Residences & Apartments in Melbourne",
+                  "url": "https://melcorpluxe.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They offer exclusive residences for lease and to own, with a collection of luxury apartments handpicked for those who value location, lifestyle, and discretion.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate, Residences & Apartments in Melbourne",
+                  "url": "https://melcorpluxe.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 🔨 Top-Performing Auctioneers for Prestige Residential Properties in Melbourne\n\nMelbourne's prestige auction market is dominated by a number of well-known individual auctioneers, many of whom are affiliated with the agencies above. Here are the most prominent:\n\n### 1. **John Bongiorno** *(Marshall White)*\nOne of Melbourne's most celebrated auctioneers, John Bongiorno is synonymous with prestige property auctions. He has handled some of Melbourne's highest-value residential sales and is known for his commanding presence and ability to drive competitive bidding at the top end of the market.\n\n### 2. **Gerald Delany** *(Kay & Burton)*\nGerald Delany is one of the most respected names in Melbourne's prestige auction scene. With decades of experience, he has conducted auctions for some of the city's most iconic homes, particularly in the inner-eastern and bayside suburbs.\n\n### 3. **Scott Patterson** *(Marshall White)*\nScott Patterson is a highly regarded auctioneer and sales agent at Marshall White, known for his expertise in Toorak and South Yarra prestige properties and his ability to achieve strong results in competitive auction environments.\n\n### 4. **David Morrell** *(Morrell & Koren – Buyer's Advocate)*\nWhile primarily a buyer's advocate, David Morrell is a significant figure in Melbourne's prestige property market, often cited in record-breaking transactions and known for his deep knowledge of the top-tier residential segment.\n\n### 5. **Paul Castran** *(Castran Gilbert)*\nPaul Castran and the Castran Gilbert agency are well known in Melbourne's prestige apartment and residential market, with Paul himself being a prominent figure in high-end auctions and private sales.\n\n---\n\n## 🏆 Market Context\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Melbourne's prestige property market has proved a two-speed market, with a handful of record-breaking sales punctuating some quieter periods. The Victorian house price record was reset recently as Melbourne marked its first deal north of $100 million.",
+              "annotations": [
+                {
+                  "title": "Founded Year",
+                  "url": "https://www.cbinsights.com/company/kay-burton",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The standout sale involved logistics boss Paul Little and his wife Jane Hansen, who offloaded their grand mansion Coonac in Toorak.",
+              "annotations": [
+                {
+                  "title": "Founded Year",
+                  "url": "https://www.cbinsights.com/company/kay-burton",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### Summary Table\n\n| Agency | Est. | Key Strength |\n|---|---|---|\n| Marshall White | 1964 | Prestige sales, Toorak/Brighton |\n| Kay & Burton | 1938 | Ultra-high-net-worth clients, global network |\n| Melbourne Sotheby's Int'l Realty | Global brand | International buyer reach |\n| Private Property Global | ~2005 | $5M+ trophy homes, national/international |\n| Melcorp Luxe | ~2005 | Luxury apartments & penthouses |\n\nFor the most current rankings and individual auctioneer performance data, resources like the **Real Estate Institute of Victoria (REIV)** and **Domain's Agent Finder** are excellent tools to consult.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "leading luxury real estate agencies Melbourne prestige residential",
+        "top performing auctioneers prestige residential properties Melbourne",
+        "top auctioneers prestige luxury property Melbourne 2024 2025",
+        "best auctioneers luxury prestige property Melbourne"
+      ]
+    }
+  ]
+}

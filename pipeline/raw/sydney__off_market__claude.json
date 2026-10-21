@@ -1,0 +1,362 @@
+{
+  "slug": "sydney",
+  "pk": "off_market",
+  "plat": "claude",
+  "text": "Which luxury real estate agents and agencies in Sydney specialise in confidential off-market prestige property sales and high-net-worth buyer networks?",
+  "loc": 1000286,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\sydney__off_market__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:14:21.742Z",
+  "cost": 0.066361,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10582,
+      "output_tokens": 1601,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.065761,
+      "datetime": "2026-10-21 05:14:21 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a comprehensive guide to the leading luxury real estate agents and agencies in Sydney that specialise in confidential off-market prestige property sales and high-net-worth buyer networks:\n\n---\n\n## 🏡 Top Sydney Luxury Real Estate Agents & Agencies for Off-Market Prestige Sales\n\n---\n\n### 1. **Sydney Sotheby's International Realty – Michael Pallier**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Michael Pallier is the Managing Director of Sydney Sotheby's International Realty.",
+              "annotations": [
+                {
+                  "title": "Inside the playbook of Australia’s top prestige agents",
+                  "url": "https://agent.domain.com.au/advice/inside-the-playbook-of-australias-top-prestige-agents-1408401/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "He has sold luxury properties across Sydney's Eastern Suburbs and is well known for his high-end strategy when it comes to upholding the privacy of high-net-worth individuals.",
+              "annotations": [
+                {
+                  "title": "Inside the playbook of Australia’s top prestige agents",
+                  "url": "https://agent.domain.com.au/advice/inside-the-playbook-of-australias-top-prestige-agents-1408401/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Pallier emphasises that the job is not just to sell the house but to protect the privacy of owners, screening all prospective buyers to ensure only genuine, qualified parties access the property.",
+              "annotations": [
+                {
+                  "title": "Inside the playbook of Australia’s top prestige agents",
+                  "url": "https://agent.domain.com.au/advice/inside-the-playbook-of-australias-top-prestige-agents-1408401/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Sotheby's global network also provides access to international ultra-high-net-worth buyers.\n\n---\n\n### 2. **Christie's International Real Estate – Ken Jacobs**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Ken Jacobs of Christie's International Real Estate is a veteran in the luxury market and is synonymous with high-end properties in Sydney, with a portfolio that includes some of the most expensive homes ever sold in Australia.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agents in Sydney: Masters of Prestige and Exclusivity",
+                  "url": "https://hcacademy.housecollective.com.au/luxury-real-estate-agents-in-sydney-masters-of-prestige-and-exclusivity/airbnb-management-sydney-and-central-coast/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Christie's global brand provides unparalleled access to international collectors and UHNW buyers who operate entirely off-market.\n\n---\n\n### 3. **Pillinger Real Estate – Brad Pillinger**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Specialising in Sydney's Eastern Suburbs, Brad Pillinger is known for his deep market knowledge and ability to secure record-breaking sales.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agents in Sydney: Masters of Prestige and Exclusivity",
+                  "url": "https://hcacademy.housecollective.com.au/luxury-real-estate-agents-in-sydney-masters-of-prestige-and-exclusivity/airbnb-management-sydney-and-central-coast/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " His boutique agency model is built around discretion, personal relationships, and quiet deal-making away from public portals.\n\n---\n\n### 4. **Private Property Global (Forbes Global Properties Member)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Private Property Global is the only Australian-based residential real estate agency that specialises in the sale of property above $5,000,000 without geographical boundaries.",
+              "annotations": [
+                {
+                  "title": "Private Property Global, Luxury real estate agency in Sydney, Melbourne and Gold Coast, Australia",
+                  "url": "https://www.forbesglobalproperties.com/members/private-property-global",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The company is very active in engaging the world's premier real estate brokerages through the Forbes Global Properties network and relationships established over decades.",
+              "annotations": [
+                {
+                  "title": "Private Property Global, Luxury real estate agency in Sydney, Melbourne and Gold Coast, Australia",
+                  "url": "https://www.forbesglobalproperties.com/members/private-property-global",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "No other Australian group has consistently been at the pinnacle of the prestige market with a track record of dominance over the last two decades in this rarefied sector.",
+              "annotations": [
+                {
+                  "title": "Private Property Global, Luxury real estate agency in Sydney, Melbourne and Gold Coast, Australia",
+                  "url": "https://www.forbesglobalproperties.com/members/private-property-global",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. **Propertybuyer (Rich Harvey – Buyers' Agency)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Propertybuyer offers anonymous acquisition services, acting as a shield to ensure the buyer's name never appears on public registers or is known by selling agents until the property is secured — perfect for celebrities, CEOs, and high-net-worth individuals who demand absolute privacy.",
+              "annotations": [
+                {
+                  "title": "Prestige Property Buyers Agent",
+                  "url": "https://prestigepropertybuyer.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They provide access to off-market and silent listings invisible to the public, noting that across Australia's prestige markets, a large majority of extraordinary homes over $10M–$20M are sold via silent sales — no signs and no online listings.",
+              "annotations": [
+                {
+                  "title": "Prestige Property Buyers Agent",
+                  "url": "https://prestigepropertybuyer.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 6. **Prestige Property Buyer (Munro Donen & Team)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "This agency secures luxury residential properties across Sydney, Melbourne, and Brisbane with complete discretion.",
+              "annotations": [
+                {
+                  "title": "Prestige Property Buyers Agent",
+                  "url": "https://prestigepropertybuyer.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Key Sydney specialists include Munro Donen (Director & Principal, Eastern Suburbs, off-market specialist) and William Losch (Principal Buyers Advocate with $500M+ in acquisitions).\n\n---\n\n### 7. **Levy Property Group**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Levy Property Group specialises in premium Eastern Suburbs locations including Bondi, Rose Bay, Vaucluse, Dover Heights, Woollahra, Paddington, and Bellevue Hill, selling quietly to qualified buyers with no public pressure.",
+              "annotations": [
+                {
+                  "title": "Most Successful Real Estate Agent in Sydney",
+                  "url": "https://www.levypropertygroup.com.au/most-successful-real-estate-agent-in-sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their approach includes private invitation-only previews and off-market strategies that have delivered results hundreds of thousands of dollars above competing agency offers.",
+              "annotations": [
+                {
+                  "title": "Most Successful Real Estate Agent in Sydney",
+                  "url": "https://www.levypropertygroup.com.au/most-successful-real-estate-agent-in-sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 8. **Tracey Chandler – Premium Property Finders**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Working with Tracey Chandler gives buyers a distinct advantage in securing the right property, often before it ever reaches the open market, with access to premium and off-market properties across Sydney that are not publicly advertised.",
+              "annotations": [
+                {
+                  "title": "Exclusive Premium Luxury Homes Buyers Agent in Sydney",
+                  "url": "https://premiumpropertyfinders.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "She leverages an extensive network of high-end real estate agents, developers, and industry professionals across Sydney's most sought-after suburbs.",
+              "annotations": [
+                {
+                  "title": "Exclusive Premium Luxury Homes Buyers Agent in Sydney",
+                  "url": "https://premiumpropertyfinders.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 9. **LJ Hooker Double Bay – Bill Malouf**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Bill Malouf of LJ Hooker Double Bay is a trusted name in the industry and has been instrumental in shaping Sydney's luxury market.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agents in Sydney: Masters of Prestige and Exclusivity",
+                  "url": "https://hcacademy.housecollective.com.au/luxury-real-estate-agents-in-sydney-masters-of-prestige-and-exclusivity/airbnb-management-sydney-and-central-coast/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Double Bay remains one of Sydney's most discreet and exclusive property hubs, with strong connections to both local and international wealthy buyers.\n\n---\n\n## 🔑 Key Things to Look For in This Space\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "High-end real estate transactions often occur off-market, away from public listings. Luxury agents have access to an extensive network of affluent buyers, sellers, and industry professionals, ensuring their clients have first access to premium opportunities.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agents in Sydney: Masters of Prestige and Exclusivity",
+                  "url": "https://hcacademy.housecollective.com.au/luxury-real-estate-agents-in-sydney-masters-of-prestige-and-exclusivity/airbnb-management-sydney-and-central-coast/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "To fortify confidence in confidentiality, the best agencies provide a comprehensive Non-Disclosure Agreement with every engagement, ensuring peace of mind throughout the property journey.",
+              "annotations": [
+                {
+                  "title": "Prestige Real Estate",
+                  "url": "https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n**Pro Tip:** If you are a buyer seeking complete anonymity, engaging a **buyers' agent** (such as Propertybuyer, Prestige Property Buyer, or Tracey Chandler) rather than approaching selling agents directly is the most effective way to access Sydney's true \"silent market\" while protecting your identity throughout the transaction.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "luxury real estate agents Sydney off-market prestige property sales high-net-worth",
+        "Sydney luxury real estate agencies confidential off-market property 2025"
+      ]
+    }
+  ]
+}

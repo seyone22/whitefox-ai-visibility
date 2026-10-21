@@ -1,0 +1,187 @@
+{
+  "slug": "goldcoast",
+  "pk": "luxury_agency",
+  "plat": "aimode",
+  "text": "Who are the best luxury real estate agencies in Gold Coast? Give me a shortlist of specific prestige property agencies with reasons.",
+  "loc": 1000665,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\goldcoast__luxury_agency__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:15:53.461Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the best luxury real estate agencies in Gold Coast? Give me a shortlist of specific prestige property agencies with reasons.",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000665,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Who%20are%20the%20best%20luxury%20real%20estate%20agencies%20in%20Gold%20Coast%3F%20Give%20me%20a%20shortlist%20of%20specific%20prestige%20property%20agencies%20with%20reasons.&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCbdgXStHGpFrEXCv3vNaowID",
+      "datetime": "2026-10-21 05:15:52 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[11]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "Top luxury real estate agencies on the Gold Coast include [Kollosche](https://kollosche.com.au/), [Amir Prestige](https://www.amirprestige.com.au/) , and Astras Prestige Property . These firms dominate high-end waterfront, beachfront, and acreage markets through large database networks, high-value record sales, and boutique localized service.\n\n### Shortlist of Prestige Agencies\n\n- [Kollosche](https://kollosche.com.au/) - Market leader in high-end residential and commercial coastal properties spanning from Sovereign Islands down to Byron Bay. Known for an open database model that drives team collaboration and strong results across prime postcodes like Mermaid Beach and Broadbeach.[[1]](https://kollosche.com.au/)\n- [Amir Prestige](https://www.amirprestige.com.au/) - Renowned for record-breaking multi-million dollar transactions along Hedges Avenue and Isle of Capri. Backed by an extensive network of over 250,000 high-net-worth individuals, celebrities, and qualified buyers.[[1]](https://www.amirprestige.com.au/)\n- [Astras Prestige Property](https://astras.com.au/) - Established boutique agency specializing in premium waterfront and residential communities like Clear Island Waters and Broadbeach Waters. Focuses on targeted outcomes and personalized client strategy over high-volume sales.[[1]](https://astras.com.au/)\n\nIf you'd like, let me know:\n\n- Are you looking to **buy or sell**?\n- Which specific **suburb or property type** (waterfront, beachfront, or acreage) interests you?\n\nI can provide **more targeted recommendations** or agent profiles.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Top luxury real estate agencies on the Gold Coast include Kollosche, Amir Prestige, and Astras Prestige Property. These firms dominate high-end waterfront, beachfront, and acreage markets through large database networks, high-value record sales, and boutique localized service.",
+              "markdown": "Top luxury real estate agencies on the Gold Coast include [Kollosche](https://kollosche.com.au/), [Amir Prestige](https://www.amirprestige.com.au/) , and Astras Prestige Property . These firms dominate high-end waterfront, beachfront, and acreage markets through large database networks, high-value record sales, and boutique localized service.",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Kollosche",
+                  "description": null,
+                  "url": "https://kollosche.com.au/",
+                  "domain": "kollosche.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Amir Prestige",
+                  "description": null,
+                  "url": "https://www.amirprestige.com.au/",
+                  "domain": "www.amirprestige.com.au"
+                }
+              ],
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Shortlist of Prestige Agencies",
+              "text": "Kollosche - Market leader in high-end residential and commercial coastal properties spanning from Sovereign Islands down to Byron Bay. Known for an open database model that drives team collaboration and strong results across prime postcodes like Mermaid Beach and Broadbeach. Amir Prestige - Renowned for record-breaking multi-million dollar transactions along Hedges Avenue and Isle of Capri. Backed by an extensive network of over 250,000 high-net-worth individuals, celebrities, and qualified buyers. Astras Prestige Property - Established boutique agency specializing in premium waterfront and residential communities like Clear Island Waters and Broadbeach Waters. Focuses on targeted outcomes and personalized client strategy over high-volume sales.",
+              "markdown": "- [Kollosche](https://kollosche.com.au/) - Market leader in high-end residential and commercial coastal properties spanning from Sovereign Islands down to Byron Bay. Known for an open database model that drives team collaboration and strong results across prime postcodes like Mermaid Beach and Broadbeach.[[1]](https://kollosche.com.au/)\n- [Amir Prestige](https://www.amirprestige.com.au/) - Renowned for record-breaking multi-million dollar transactions along Hedges Avenue and Isle of Capri. Backed by an extensive network of over 250,000 high-net-worth individuals, celebrities, and qualified buyers.[[1]](https://www.amirprestige.com.au/)\n- [Astras Prestige Property](https://astras.com.au/) - Established boutique agency specializing in premium waterfront and residential communities like Clear Island Waters and Broadbeach Waters. Focuses on targeted outcomes and personalized client strategy over high-volume sales.[[1]](https://astras.com.au/)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Kollosche",
+                  "description": null,
+                  "url": "https://kollosche.com.au/",
+                  "domain": "kollosche.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Amir Prestige",
+                  "description": null,
+                  "url": "https://www.amirprestige.com.au/",
+                  "domain": "www.amirprestige.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Astras Prestige Property",
+                  "description": null,
+                  "url": "https://astras.com.au/",
+                  "domain": "astras.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Kollosche",
+                  "domain": "kollosche.com.au",
+                  "url": "https://kollosche.com.au/",
+                  "title": "Gold Coast Luxury Real Estate Agency | Kollosche",
+                  "text": "Kollosche (Gold Coast luxury real estate leader, phone 1300 576 000); Residential (Sovereign Islands to Byron Bay), commercial off..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Amir Prestige",
+                  "domain": "www.amirprestige.com.au",
+                  "url": "https://www.amirprestige.com.au/",
+                  "title": "Amir Prestige: Gold Coast Luxury Real Estate Agency",
+                  "text": "Key Sales & Records: 41-45 Hedges Avenue, 127 Hedges Avenue ($27,500,000, highest for 2025); Only Queensland agency with 10 transa..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Astras Prestige Property",
+                  "domain": "astras.com.au",
+                  "url": "https://astras.com.au/",
+                  "title": "Astras Prestige Property",
+                  "text": "Astras as a boutique Gold Coast real estate agency specialising in premium properties, Locations: Clear Island Waters, Robina, Car..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you'd like, let me know:",
+              "markdown": "If you'd like, let me know:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Are you looking to buy or sell ? Which specific suburb or property type (waterfront, beachfront, or acreage) interests you?",
+              "markdown": "- Are you looking to **buy or sell**?\n- Which specific **suburb or property type** (waterfront, beachfront, or acreage) interests you?",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "I can provide more targeted recommendations or agent profiles.",
+              "markdown": "I can provide **more targeted recommendations** or agent profiles.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Kollosche",
+              "domain": "kollosche.com.au",
+              "url": "https://kollosche.com.au/",
+              "title": "Gold Coast Luxury Real Estate Agency | Kollosche",
+              "text": "Kollosche (Gold Coast luxury real estate leader, phone 1300 576 000); Residential (Sovereign Islands to Byron Bay), commercial off-the-plan projects, and property..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Amir Prestige",
+              "domain": "www.amirprestige.com.au",
+              "url": "https://www.amirprestige.com.au/",
+              "title": "Amir Prestige: Gold Coast Luxury Real Estate Agency",
+              "text": "Key Sales & Records: 41-45 Hedges Avenue, 127 Hedges Avenue ($27,500,000, highest for 2025); Only Queensland agency with 10 transactions over $20,000,000."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Astras Prestige Property",
+              "domain": "astras.com.au",
+              "url": "https://astras.com.au/",
+              "title": "Astras Prestige Property",
+              "text": "Astras as a boutique Gold Coast real estate agency specialising in premium properties, Locations: Clear Island Waters, Robina, Carrara, Broadbeach Waters, Surfers..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

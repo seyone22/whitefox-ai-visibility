@@ -1,0 +1,459 @@
+{
+  "slug": "national",
+  "pk": "off_market",
+  "plat": "claude",
+  "text": "Which luxury real estate agents and agencies in Australia specialise in confidential off-market prestige property sales and high-net-worth buyer networks?",
+  "loc": 2036,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\national__off_market__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:21:45.739Z",
+  "cost": 0.066493,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 9441,
+      "output_tokens": 1838,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.065893,
+      "datetime": "2026-10-21 05:21:45 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a comprehensive overview of the leading luxury real estate agents and agencies in Australia that specialise in confidential off-market prestige property sales and high-net-worth (HNW) buyer networks:\n\n---\n\n## 🏡 Australia's Top Luxury & Off-Market Prestige Property Specialists\n\n### 📊 Market Context\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "In 2025, 3,295 homes sold for over $5 million — up 5.2% year-on-year and 217% higher than five years ago — highlighting a tightly held market where the finest residences are rarely publicly listed.",
+              "annotations": [
+                {
+                  "title": "Propertybuyer Prestige",
+                  "url": "https://prestigepropertybuyer.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Australia's luxury property market remains very robust in 2025, with demand fuelled by a growing population of high-net-worth individuals (forecast to rise about 5.7% this year) and interest from overseas buyers.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agent",
+                  "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 🏢 Key Agencies\n\n---\n\n#### 1. **Private Property Global** *(Sydney, Melbourne & Gold Coast)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Private Property Global is the only Australian-based residential real estate agency that specialises in the sale of property above $5,000,000 without geographical boundaries.",
+              "annotations": [
+                {
+                  "title": "Private Property Global, Luxury real estate agency in Sydney, Melbourne and Gold Coast, Australia",
+                  "url": "https://www.forbesglobalproperties.com/members/private-property-global",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The company is very active in engaging the world's premier real estate brokerages through the Forbes Global Properties network and relationships established over decades.",
+              "annotations": [
+                {
+                  "title": "Private Property Global, Luxury real estate agency in Sydney, Melbourne and Gold Coast, Australia",
+                  "url": "https://www.forbesglobalproperties.com/members/private-property-global",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "No other Australian group has consistently been at the pinnacle of the prestige market and has a track record of dominance over the last two decades in this very rarefied sector.",
+              "annotations": [
+                {
+                  "title": "Private Property Global, Luxury real estate agency in Sydney, Melbourne and Gold Coast, Australia",
+                  "url": "https://www.forbesglobalproperties.com/members/private-property-global",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n#### 2. **Kay & Burton** *(Melbourne & Mornington Peninsula)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "With strategically placed offices throughout Melbourne and Victoria's Mornington Peninsula, their sphere of influence allows the business to speak with authority, confidence and intelligence to a vast and enviable network of highly engaged buyers around the world.",
+              "annotations": [
+                {
+                  "title": "Luxury real estate Melbourne",
+                  "url": "https://www.kayburton.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their teams are connected to ultra-high-net-worth clients across Australia and in Singapore, Hong Kong, China, New York, London and Dubai.",
+              "annotations": [
+                {
+                  "title": "Luxury real estate Melbourne",
+                  "url": "https://www.kayburton.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n#### 3. **Marshall White** *(Melbourne)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Marshall White are the leading prestige real estate agents for luxury properties in Melbourne, and have been pioneers of prestige since 1964.",
+              "annotations": [
+                {
+                  "title": "Best Luxury Real Estate Agents in Melbourne",
+                  "url": "https://www.marshallwhite.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Luxury Real Estate Agents in Melbourne",
+                  "url": "https://www.marshallwhite.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are widely regarded as one of Melbourne's most trusted names in high-end property.\n\n---\n\n#### 4. **North South Real Estate (NSRE)** *(Brisbane, Gold Coast & Byron Bay)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "NSRE is the preferred choice for discerning buyers, investors and developers seeking exceptional properties across Queensland's most prestigious regions, specialising in prestige apartments, trophy homes and unique development opportunities.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agent",
+                  "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their team consistently delivers outstanding results for clients who expect world-class service, discretion and deep market expertise in Australia's competitive luxury real estate sector.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agent",
+                  "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They also offer ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "private access to exclusive listings, discreetly sourcing exceptional properties including private opportunities.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agent",
+                  "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n#### 5. **Amir Prestige** *(Gold Coast & Northern NSW)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Amir Prestige is the luxury property leader serving clients with interests in residential, commercial, leasing and new projects across all parts of the Gold Coast and Northern NSW.",
+              "annotations": [
+                {
+                  "title": "Amir Prestige: Gold Coast Luxury Real Estate Agency",
+                  "url": "https://www.amirprestige.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are a well-known name in Queensland's prestige market.\n\n---\n\n### 🕵️ Specialist Buyer's Agencies (Off-Market & Confidential Acquisitions)\n\n---\n\n#### 6. **Propertybuyer Prestige** *(Sydney, Melbourne & Brisbane)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Propertybuyer Prestige provides the insight, discretion and strategic access required to secure Australia's most extraordinary homes.",
+              "annotations": [
+                {
+                  "title": "Propertybuyer Prestige",
+                  "url": "https://prestigepropertybuyer.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Their key offering is **anonymous acquisition** — ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "they act as a shield, ensuring your name never appears on public registers or is known by selling agents until the property is secured — perfect for celebrities, CEOs and high-net-worth individuals who demand absolute privacy and discretion.",
+              "annotations": [
+                {
+                  "title": "Propertybuyer Prestige",
+                  "url": "https://prestigepropertybuyer.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They also offer ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "access to off-market and silent listings invisible to the public.",
+              "annotations": [
+                {
+                  "title": "Propertybuyer Prestige",
+                  "url": "https://prestigepropertybuyer.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n#### 7. **Propertybuyer (Prestige Division)** *(Sydney, Melbourne & Brisbane)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They understand that privacy is paramount when transacting property.",
+              "annotations": [
+                {
+                  "title": "Prestige Real Estate",
+                  "url": "https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their award-winning team secures ideal luxury homes at the right price, leveraging exclusive off-market access and unmatched negotiation skills.",
+              "annotations": [
+                {
+                  "title": "Prestige Real Estate",
+                  "url": "https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 🌟 Notable Individual Agents (Sydney)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "High-end real estate transactions often occur off-market, away from public listings. Luxury agents have access to an extensive network of affluent buyers, sellers, and industry professionals, ensuring their clients have first access to premium opportunities.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agents in Sydney: Masters of Prestige and Exclusivity",
+                  "url": "https://hcacademy.housecollective.com.au/luxury-real-estate-agents-in-sydney-masters-of-prestige-and-exclusivity/airbnb-management-sydney-and-central-coast/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Some of Sydney's most prominent luxury agents include:\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "**Ken Jacobs (Christie's International Real Estate)** — a veteran in the luxury market, synonymous with high-end properties in Sydney, with a portfolio that includes some of the most expensive homes ever sold in Australia.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agents in Sydney: Masters of Prestige and Exclusivity",
+                  "url": "https://hcacademy.housecollective.com.au/luxury-real-estate-agents-in-sydney-masters-of-prestige-and-exclusivity/airbnb-management-sydney-and-central-coast/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "**Brad Pillinger (Pillinger Real Estate)** — specialising in Sydney's eastern suburbs, known for his deep market knowledge and ability to secure record-breaking sales.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agents in Sydney: Masters of Prestige and Exclusivity",
+                  "url": "https://hcacademy.housecollective.com.au/luxury-real-estate-agents-in-sydney-masters-of-prestige-and-exclusivity/airbnb-management-sydney-and-central-coast/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "**Michael Pallier (Sydney Sotheby's International Realty)** — with a focus on waterfront properties, he has built a reputation for handling some of the most exclusive listings in Sydney.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agents in Sydney: Masters of Prestige and Exclusivity",
+                  "url": "https://hcacademy.housecollective.com.au/luxury-real-estate-agents-in-sydney-masters-of-prestige-and-exclusivity/airbnb-management-sydney-and-central-coast/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "**Bill Malouf (LJ Hooker Double Bay)** — a trusted name instrumental in shaping Sydney's luxury real estate landscape.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agents in Sydney: Masters of Prestige and Exclusivity",
+                  "url": "https://hcacademy.housecollective.com.au/luxury-real-estate-agents-in-sydney-masters-of-prestige-and-exclusivity/airbnb-management-sydney-and-central-coast/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "**D'Leanne Lewis (Ray White Double Bay)** — known for exceptional service and attention to detail, a go-to agent for high-net-worth individuals.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agents in Sydney: Masters of Prestige and Exclusivity",
+                  "url": "https://hcacademy.housecollective.com.au/luxury-real-estate-agents-in-sydney-masters-of-prestige-and-exclusivity/airbnb-management-sydney-and-central-coast/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 💡 Key Things to Look For in This Space\n\nWhen engaging an agent or agency for confidential off-market prestige transactions, prioritise:\n- **Silent/off-market listing access** — many $10M+ properties never hit public portals\n- **Anonymous acquisition capability** — protecting buyer identity throughout the process\n- **Global HNW buyer networks** — especially connections to Asia-Pacific, Middle East, and European wealth\n- **Track record in $5M+ sales** — demonstrated experience in the ultra-premium segment\n- **Discretion guarantees** — formal confidentiality protocols\n\nWould you like more detail on any specific city, agency, or price bracket?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "luxury real estate agents agencies Australia off-market prestige property high-net-worth 2025",
+        "confidential off-market prestige property sales Australia HNW buyer network agencies"
+      ]
+    }
+  ]
+}

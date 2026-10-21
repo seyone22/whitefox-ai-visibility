@@ -1,0 +1,189 @@
+{
+  "slug": "sydney",
+  "pk": "prestige_selling",
+  "plat": "aimode",
+  "text": "I am selling a $10M luxury residential property in Sydney. Which prestige real estate agencies have the strongest track record for high-end home sales?",
+  "loc": 1000286,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\sydney__prestige_selling__aimode.json",
+  "at": "2026-10-21T05:11:37.199Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "I am selling a $10M luxury residential property in Sydney. Which prestige real estate agencies have the strongest track record for high-end home sales?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000286,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=I%20am%20selling%20a%20%2410M%20luxury%20residential%20property%20in%20Sydney.%20Which%20prestige%20real%20estate%20agencies%20have%20the%20strongest%20track%20record%20for%20high-end%20home%20sales%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCT-Yix5ArhJrEcDMMhZofQEF",
+      "datetime": "2026-10-21 05:11:36 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "For a $10M luxury property in Sydney, the top-tier agencies with the strongest track records, elite buyer networks, and specialized high-end marketing include **Sydney Sotheby’s International Realty**, **Pillinger**, **The Rubinstein Group (TRG)** , and **Ray White (Prestige/Elite networks)**.\n\n### Leading Luxury Agencies in Sydney\n\n- **[Sydney Sotheby’s International Realty](https://sydneysothebysrealty.com/)** : Led by heavyweights like Michael Pallier, they dominate ultra-prime and luxury eastern suburbs/lower north shore markets, offering unmatched global reach for high-net-worth international buyers.[[1]](https://www.instagram.com/sydneysothebysrealty/)\n- **[Pillinger](https://www.pillinger.com/)** : Headed by Brad Pillinger, this boutique high-end agency consistently handles a massive share of Sydney’s record-breaking coastal and harborfront transactions with strict confidentiality.[[1]](https://www.pillinger.com/sydney-eastern-suburbs-luxury-property-market-report-q2-2025/)[[2]](https://www.pillinger.com/agents/brad-pillinger-2/)\n- **[The Rubinstein Group (TRG)](https://www.therubinsteingroup.com/)** : Founded by Gavin Rubinstein, TRG leverages massive digital reach, aggressive modern marketing, and a hyper-active database specialized in Sydney's eastern suburbs and lifestyle corridors.[[1]](https://www.therubinsteingroup.com/)\n- **Ray White (Elite/Specialised Teams)** : Major local powerhouses within the broader Ray White network (such as their corporate and Chairman’s Elite performers) routinely manage high-volume, multi-million-dollar transactions across affluent pockets.[[1]](https://www.therubinsteingroup.com/team/zac-rabin)\n\nIf you'd like to narrow this down, please let me know:\n\n- The **suburb** where the property is located\n- Whether you prefer a **boutique specialist** or a **large-scale network** \n\nI can help you pinpoint the **ideal lead agent** for your campaign.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "For a $10M luxury property in Sydney, the top-tier agencies with the strongest track records, elite buyer networks, and specialized high-end marketing include Sydney Sotheby’s International Realty, Pillinger, The Rubinstein Group (TRG), and Ray White (Prestige/Elite networks).",
+              "markdown": "For a $10M luxury property in Sydney, the top-tier agencies with the strongest track records, elite buyer networks, and specialized high-end marketing include **Sydney Sotheby’s International Realty**, **Pillinger**, **The Rubinstein Group (TRG)** , and **Ray White (Prestige/Elite networks)**.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Leading Luxury Agencies in Sydney",
+              "text": "Sydney Sotheby’s International Realty : Led by heavyweights like Michael Pallier, they dominate ultra-prime and luxury eastern suburbs/lower north shore markets, offering unmatched global reach for high-net-worth international buyers. Pillinger : Headed by Brad Pillinger, this boutique high-end agency consistently handles a massive share of Sydney’s record-breaking coastal and harborfront transactions with strict confidentiality. The Rubinstein Group (TRG) : Founded by Gavin Rubinstein, TRG leverages massive digital reach, aggressive modern marketing, and a hyper-active database specialized in Sydney's eastern suburbs and lifestyle corridors. Ray White (Elite/Specialised Teams) : Major local powerhouses within the broader Ray White network (such as their corporate and Chairman’s Elite performers) routinely manage high-volume, multi-million-dollar transactions across affluent pockets.",
+              "markdown": "- **[Sydney Sotheby’s International Realty](https://sydneysothebysrealty.com/)** : Led by heavyweights like Michael Pallier, they dominate ultra-prime and luxury eastern suburbs/lower north shore markets, offering unmatched global reach for high-net-worth international buyers.[[1]](https://www.instagram.com/sydneysothebysrealty/)\n- **[Pillinger](https://www.pillinger.com/)** : Headed by Brad Pillinger, this boutique high-end agency consistently handles a massive share of Sydney’s record-breaking coastal and harborfront transactions with strict confidentiality.[[1]](https://www.pillinger.com/sydney-eastern-suburbs-luxury-property-market-report-q2-2025/)[[2]](https://www.pillinger.com/agents/brad-pillinger-2/)\n- **[The Rubinstein Group (TRG)](https://www.therubinsteingroup.com/)** : Founded by Gavin Rubinstein, TRG leverages massive digital reach, aggressive modern marketing, and a hyper-active database specialized in Sydney's eastern suburbs and lifestyle corridors.[[1]](https://www.therubinsteingroup.com/)\n- **Ray White (Elite/Specialised Teams)** : Major local powerhouses within the broader Ray White network (such as their corporate and Chairman’s Elite performers) routinely manage high-volume, multi-million-dollar transactions across affluent pockets.[[1]](https://www.therubinsteingroup.com/team/zac-rabin)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Sydney Sotheby’s International Realty",
+                  "description": null,
+                  "url": "https://sydneysothebysrealty.com/",
+                  "domain": "sydneysothebysrealty.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Pillinger",
+                  "description": null,
+                  "url": "https://www.pillinger.com/",
+                  "domain": "www.pillinger.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "The Rubinstein Group (TRG)",
+                  "description": null,
+                  "url": "https://www.therubinsteingroup.com/",
+                  "domain": "www.therubinsteingroup.com"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Instagram",
+                  "domain": "www.instagram.com",
+                  "url": "https://www.instagram.com/sydneysothebysrealty/",
+                  "title": "Sydney | Sotheby's Realty (@sydneysothebysrealty) - Instagram",
+                  "text": "Reflecting on my journey in real estate with Michael Pallier at our Sydney Sotheby's. Sydney Sotheby's International Realty. Sold ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "www.pillinger.com",
+                  "domain": "www.pillinger.com",
+                  "url": "https://www.pillinger.com/sydney-eastern-suburbs-luxury-property-market-report-q2-2025/",
+                  "title": "Discover What's Driving Sydney's Prestige Property Market this Winter",
+                  "text": "Brad Pillinger 0411 545 577 brad@pillinger.com I have committed my life to refining the art of successfully selling prestigious ho..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "www.pillinger.com",
+                  "domain": "www.pillinger.com",
+                  "url": "https://www.pillinger.com/agents/brad-pillinger-2/",
+                  "title": "Brad Pillinger",
+                  "text": "RECENT ACHIEVEMENTS: Highest priced agent-negotiated home sale in Australia 40% of the Top 15 NSW Home Sales … records in Watsons ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "The Rubinstein Group",
+                  "domain": "www.therubinsteingroup.com",
+                  "url": "https://www.therubinsteingroup.com/",
+                  "title": "Luxury Real Estate Sydney | Real Estate Agents Woollahra, Rose Bay & Hunters Hill | The Rubinstein Group | The Rubinstein Group",
+                  "text": "The Rubinstein Group (TRG) operates in luxury real estate across Sydney including Woollahra, Rose Bay, and Hunters Hill. Gavin Rub..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "The Rubinstein Group",
+                  "domain": "www.therubinsteingroup.com",
+                  "url": "https://www.therubinsteingroup.com/team/zac-rabin",
+                  "title": "Zac Rabin",
+                  "text": "Chairman's Elite Agent, Top 1% of agents nationwide, and recently awarded top 10th in the Ray White network, specialising in Sydne..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you'd like to narrow this down, please let me know:",
+              "markdown": "If you'd like to narrow this down, please let me know:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "The suburb where the property is located Whether you prefer a boutique specialist or a large-scale network",
+              "markdown": "- The **suburb** where the property is located\n- Whether you prefer a **boutique specialist** or a **large-scale network**",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "I can help you pinpoint the ideal lead agent for your campaign.",
+              "markdown": "I can help you pinpoint the **ideal lead agent** for your campaign.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "The Rubinstein Group",
+              "domain": "www.therubinsteingroup.com",
+              "url": "https://www.therubinsteingroup.com/team/zac-rabin",
+              "title": "Zac Rabin",
+              "text": "Chairman's Elite Agent, Top 1% of agents nationwide, and recently awarded top 10th in the Ray White network, specialising in Sydney's Eastern Suburbs."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Instagram",
+              "domain": "www.instagram.com",
+              "url": "https://www.instagram.com/sydneysothebysrealty/",
+              "title": "Sydney | Sotheby's Realty (@sydneysothebysrealty) - Instagram",
+              "text": "Reflecting on my journey in real estate with Michael Pallier at our Sydney Sotheby's. Sydney Sotheby's International Realty. Sold by Michael Pallier 0417. Circa $7..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "The Rubinstein Group",
+              "domain": "www.therubinsteingroup.com",
+              "url": "https://www.therubinsteingroup.com/",
+              "title": "Luxury Real Estate Sydney | Real Estate Agents Woollahra, Rose Bay & Hunters Hill | The Rubinstein Group | The Rubinstein Group",
+              "text": "The Rubinstein Group (TRG) operates in luxury real estate across Sydney including Woollahra, Rose Bay, and Hunters Hill. Gavin Rubinstein achieved Elite status six..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

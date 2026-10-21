@@ -1,0 +1,241 @@
+{
+  "slug": "brisbane",
+  "pk": "off_market",
+  "plat": "aimode",
+  "text": "Which luxury real estate agents and agencies in Brisbane specialise in confidential off-market prestige property sales and high-net-worth buyer networks?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\brisbane__off_market__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:15:20.952Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which luxury real estate agents and agencies in Brisbane specialise in confidential off-market prestige property sales and high-net-worth buyer networks?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000339,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20luxury%20real%20estate%20agents%20and%20agencies%20in%20Brisbane%20specialise%20in%20confidential%20off-market%20prestige%20property%20sales%20and%20high-net-worth%20buyer%20networks%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCbsg9lwEWpFrEcCE3vNaowIF",
+      "datetime": "2026-10-21 05:15:20 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "Several prominent boutique agencies, high-end sales teams, and `specialist buyer advisory firms` in Brisbane focus explicitly on confidential off-market transactions, ultra-luxury trophy homes, and high-net-worth networks.[[1]](https://www.nsre.com.au/about-us-luxury-real-estate-agent)[[2]](https://raywhitecollectiveluxury.com/about)[[3]](https://www.pmcproperty.com.au/prestige-property-buyers/)\n\n### Leading Luxury Sales Agencies & Agents\n\n\n\n---\n\n![](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lbEfjVYJhApqBkoS1vQHlQ&cb_client=search.gws-prod.grass&yaw=52.547047&pitch=0&thumbfov=100&w=82&h=82)\nRay White Collective Luxury 5.0 (17)  \nReal estate agent  \n612a Brunswick St  \nCall Directions Website Operating out of New Farm, this specialized white-glove division is anchored by high-profile principals and luxury agents including Matt Lancashire, Brandon Wortley, and Reuben Packer-Hill. They manage a premier portfolio of riverfront estates and architectural properties via private, concierge-driven campaigns tailored to high-net-worth clientele.\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLeFvatStQyICqdRifEdf_7_LtIYNM3O6oz1_GgwPbkZsOWuJWMPqQiKqZIvVHwTVewVsUF_KjQAfHXcyQcbRznntNiNBGBWoqx7yMHMjC7pIUEfc8GrJsH6UPdLm23RiczyEJ6E=s192-w192-h144-n-k-no)\nSarah Hackett 5.0 (12)  \nReal estate agent  \nOpen 10 James St  \nCall Directions Website Widely recognized as a dominant authority in Brisbane’s high-end and riverfront residential market. Operating with deep connections to major local developers, corporate figures, and multi-generational family groups, she regularly transacts elite properties through private channels before they hit the open market.\n\n---\n\nNorth South Real Estate (NSRE)Led by Nik and Aika Seirlis, this agency handles prestige sales, trophy apartments (such as in Riparian Plaza), and executive property management across Brisbane, the Gold Coast, and international markets. They emphasize principal-led discretion and tailored, off-market matchmaking.[[1]](https://www.eplace.com.au/brisbanes-luxury-agent)[[2]](https://raywhitecollectiveluxury.com/about)[[3]](https://www.nsre.com.au/about-us-luxury-real-estate-agent)\n\n### Specialist Prestige Buyer's Agencies\n\n- **PMC Property Buyers** : A specialized buyer-side advisory firm focusing on high-net-worth, corporate, and international buyers. They operate entirely on behalf of the purchaser to source confidential, unlisted prestige homes and riverfront properties across Southeast Queensland with strict anonymity.[[1]](https://www.pmcproperty.com.au/prestige-property-buyers/)\n- **Prestige Property Buyer / Glen Sainsbury** : Acts as a dedicated local buyer's advocate focusing on high-value acquisitions in blue-chip inner-suburbs like Ascot, Hamilton, and New Farm, specializing in securing off-market heritage and luxury modern assets.[[1]](https://prestigepropertybuyer.com.au/brisbane)\n\nIf you are looking to **buy or sell** , please let me know:\n\n- Which specific **Brisbane suburbs** or property types you are targeting (e.g., riverfront, inner-city penthouses)?\n- Whether you require a **selling agent** or a **buyer's advocate**?\n\nI can tailor this down to a specific introduction or approach.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Several prominent boutique agencies, high-end sales teams, and specialist buyer advisory firms in Brisbane focus explicitly on confidential off-market transactions, ultra-luxury trophy homes, and high-net-worth networks.",
+              "markdown": "Several prominent boutique agencies, high-end sales teams, and `specialist buyer advisory firms` in Brisbane focus explicitly on confidential off-market transactions, ultra-luxury trophy homes, and high-net-worth networks.[[1]](https://www.nsre.com.au/about-us-luxury-real-estate-agent)[[2]](https://raywhitecollectiveluxury.com/about)[[3]](https://www.pmcproperty.com.au/prestige-property-buyers/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "North South Real Estate",
+                  "domain": "www.nsre.com.au",
+                  "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+                  "title": "Luxury Real Estate Agent | Brisbane, Gold Coast & Byron Bay",
+                  "text": "Services: Prestige property sales, buyer representation, bespoke marketing, executive property management, development consulting,"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Ray White Collective Luxury",
+                  "domain": "raywhitecollectiveluxury.com",
+                  "url": "https://raywhitecollectiveluxury.com/about",
+                  "title": "About Us - Ray White Collective Luxury",
+                  "text": "Brisbane's only dedicated white-glove real estate service, Luxury represents Queensland's premium property market exclusively, Our..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "www.pmcproperty.com.au",
+                  "domain": "www.pmcproperty.com.au",
+                  "url": "https://www.pmcproperty.com.au/prestige-property-buyers/",
+                  "title": "Prestige Property Buyers",
+                  "text": "A tailored and confidential approach to property search and acquisition. Prestige properties are high-value homes. Buyer-only agen..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Leading Luxury Sales Agencies & Agents",
+              "text": "Ray White Collective Luxury 5.0 (17) Real estate agent 612a Brunswick St Call Directions Website Operating out of New Farm, this specialized white-glove division is anchored by high-profile principals and luxury agents including Matt Lancashire, Brandon Wortley, and Reuben Packer-Hill. They manage a premier portfolio of riverfront estates and architectural properties via private, concierge-driven campaigns tailored to high-net-worth clientele.",
+              "markdown": "---\n\n![](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lbEfjVYJhApqBkoS1vQHlQ&cb_client=search.gws-prod.grass&yaw=52.547047&pitch=0&thumbfov=100&w=82&h=82)\nRay White Collective Luxury 5.0 (17)  \nReal estate agent  \n612a Brunswick St  \nCall Directions Website Operating out of New Farm, this specialized white-glove division is anchored by high-profile principals and luxury agents including Matt Lancashire, Brandon Wortley, and Reuben Packer-Hill. They manage a premier portfolio of riverfront estates and architectural properties via private, concierge-driven campaigns tailored to high-net-worth clientele.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lbEfjVYJhApqBkoS1vQHlQ&cb_client=search.gws-prod.grass&yaw=52.547047&pitch=0&thumbfov=100&w=82&h=82"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Sarah Hackett 5.0 (12) Real estate agent Open 10 James St Call Directions Website Widely recognized as a dominant authority in Brisbane’s high-end and riverfront residential market. Operating with deep connections to major local developers, corporate figures, and multi-generational family groups, she regularly transacts elite properties through private channels before they hit the open market.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLeFvatStQyICqdRifEdf_7_LtIYNM3O6oz1_GgwPbkZsOWuJWMPqQiKqZIvVHwTVewVsUF_KjQAfHXcyQcbRznntNiNBGBWoqx7yMHMjC7pIUEfc8GrJsH6UPdLm23RiczyEJ6E=s192-w192-h144-n-k-no)\nSarah Hackett 5.0 (12)  \nReal estate agent  \nOpen 10 James St  \nCall Directions Website Widely recognized as a dominant authority in Brisbane’s high-end and riverfront residential market. Operating with deep connections to major local developers, corporate figures, and multi-generational family groups, she regularly transacts elite properties through private channels before they hit the open market.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeFvatStQyICqdRifEdf_7_LtIYNM3O6oz1_GgwPbkZsOWuJWMPqQiKqZIvVHwTVewVsUF_KjQAfHXcyQcbRznntNiNBGBWoqx7yMHMjC7pIUEfc8GrJsH6UPdLm23RiczyEJ6E=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "North South Real Estate (NSRE) Led by Nik and Aika Seirlis, this agency handles prestige sales, trophy apartments (such as in Riparian Plaza), and executive property management across Brisbane, the Gold Coast, and international markets. They emphasize principal-led discretion and tailored, off-market matchmaking.",
+              "markdown": "---\n\nNorth South Real Estate (NSRE)Led by Nik and Aika Seirlis, this agency handles prestige sales, trophy apartments (such as in Riparian Plaza), and executive property management across Brisbane, the Gold Coast, and international markets. They emphasize principal-led discretion and tailored, off-market matchmaking.[[1]](https://www.eplace.com.au/brisbanes-luxury-agent)[[2]](https://raywhitecollectiveluxury.com/about)[[3]](https://www.nsre.com.au/about-us-luxury-real-estate-agent)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Place Real Estate",
+                  "domain": "www.eplace.com.au",
+                  "url": "https://www.eplace.com.au/brisbanes-luxury-agent",
+                  "title": "Sarah Hackett | Brisbane's Luxury and Riverfront Specialist",
+                  "text": "We have engaged Sarah Hackett to sell our prestige residential projects for many years. We have been in real estate for 50+ years."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Ray White Collective Luxury",
+                  "domain": "raywhitecollectiveluxury.com",
+                  "url": "https://raywhitecollectiveluxury.com/about",
+                  "title": "About Us - Ray White Collective Luxury",
+                  "text": "Brisbane's only dedicated white-glove real estate service, Luxury represents Queensland's premium property market exclusively, Our..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "North South Real Estate",
+                  "domain": "www.nsre.com.au",
+                  "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+                  "title": "Luxury Real Estate Agent | Brisbane, Gold Coast & Byron Bay",
+                  "text": "North South Real Estate (NSRE), led by Nik and Aika Seirlis. High-end apartments … trophy homes, and off-market transactions"
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Specialist Prestige Buyer's Agencies",
+              "text": "PMC Property Buyers : A specialized buyer-side advisory firm focusing on high-net-worth, corporate, and international buyers. They operate entirely on behalf of the purchaser to source confidential, unlisted prestige homes and riverfront properties across Southeast Queensland with strict anonymity. Prestige Property Buyer / Glen Sainsbury : Acts as a dedicated local buyer's advocate focusing on high-value acquisitions in blue-chip inner-suburbs like Ascot, Hamilton, and New Farm, specializing in securing off-market heritage and luxury modern assets.",
+              "markdown": "- **PMC Property Buyers** : A specialized buyer-side advisory firm focusing on high-net-worth, corporate, and international buyers. They operate entirely on behalf of the purchaser to source confidential, unlisted prestige homes and riverfront properties across Southeast Queensland with strict anonymity.[[1]](https://www.pmcproperty.com.au/prestige-property-buyers/)\n- **Prestige Property Buyer / Glen Sainsbury** : Acts as a dedicated local buyer's advocate focusing on high-value acquisitions in blue-chip inner-suburbs like Ascot, Hamilton, and New Farm, specializing in securing off-market heritage and luxury modern assets.[[1]](https://prestigepropertybuyer.com.au/brisbane)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "www.pmcproperty.com.au",
+                  "domain": "www.pmcproperty.com.au",
+                  "url": "https://www.pmcproperty.com.au/prestige-property-buyers/",
+                  "title": "Prestige Property Buyers",
+                  "text": "Many prestige properties are sold off‐market or confidentially, meaning they never appear on public portals. From riverfront estates and waterfront residences"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "prestigepropertybuyer.com.au",
+                  "domain": "prestigepropertybuyer.com.au",
+                  "url": "https://prestigepropertybuyer.com.au/brisbane",
+                  "title": "Brisbane Luxury Buyer's Agent | Prestige Homes",
+                  "text": "Brisbane prestige buyer's agent securing luxury homes in Ascot, Hamilton, New Farm and beyond. Off-market listings, expert guidanc..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you are looking to buy or sell, please let me know:",
+              "markdown": "If you are looking to **buy or sell** , please let me know:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Which specific Brisbane suburbs or property types you are targeting (e.g., riverfront, inner-city penthouses)? Whether you require a selling agent or a buyer's advocate ?",
+              "markdown": "- Which specific **Brisbane suburbs** or property types you are targeting (e.g., riverfront, inner-city penthouses)?\n- Whether you require a **selling agent** or a **buyer's advocate**?",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "I can tailor this down to a specific introduction or approach.",
+              "markdown": "I can tailor this down to a specific introduction or approach.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "North South Real Estate",
+              "domain": "www.nsre.com.au",
+              "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+              "title": "Luxury Real Estate Agent | Brisbane, Gold Coast & Byron Bay",
+              "text": "North South Real Estate (NSRE), led by Nik and Aika Seirlis. High-end apartments … trophy homes, and off-market transactions"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "www.pmcproperty.com.au",
+              "domain": "www.pmcproperty.com.au",
+              "url": "https://www.pmcproperty.com.au/prestige-property-buyers/",
+              "title": "Prestige Property Buyers",
+              "text": "Many prestige properties are sold off‐market or confidentially, meaning they never appear on public portals. From riverfront estates and waterfront residences"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "prestigepropertybuyer.com.au",
+              "domain": "prestigepropertybuyer.com.au",
+              "url": "https://prestigepropertybuyer.com.au/brisbane",
+              "title": "Brisbane Luxury Buyer's Agent | Prestige Homes",
+              "text": "Brisbane prestige buyer's agent securing luxury homes in Ascot, Hamilton, New Farm and beyond. Off-market listings, expert guidance. Start your search today."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

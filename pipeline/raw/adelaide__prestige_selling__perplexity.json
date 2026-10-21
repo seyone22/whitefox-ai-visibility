@@ -1,0 +1,106 @@
+{
+  "slug": "adelaide",
+  "pk": "prestige_selling",
+  "plat": "perplexity",
+  "text": "I am selling a $10M luxury residential property in Adelaide. Which prestige real estate agencies have the strongest track record for high-end home sales?",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\adelaide__prestige_selling__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:18:31.476Z",
+  "cost": 0.006226,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 36,
+      "output_tokens": 590,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005626,
+      "datetime": "2026-10-21 05:18:31 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For a **$10 million Adelaide home**, the strongest shortlist is likely:\n\n1. **Bernard Booth / Jamie Brown** — particularly compelling for a record-setting, discreet or coastal prestige sale. Jamie Brown is credited with Adelaide sales records including *Ivanhoe* in Gilberton at $7 million and *Stormont* in Glenelg at $6.5 million, with the former achieved off-market.[4]\n2. **Toop+Toop** — a major Adelaide premium brand with strong metropolitan coverage, buyer reach and presentation capability. It is repeatedly identified among the leading Adelaide agencies for premium property.[2][6]\n3. **Turner Prestige** — a dedicated prestige division backed by Turner’s long Adelaide operating history and an existing portfolio of more than 75 prestige properties under management.[1][9]\n4. **Ray White Adelaide Group** — worth interviewing for its scale, buyer database and access to high-performing individual agents; Ray White appears prominently among Adelaide’s top-selling offices and agents.[5]\n5. **Fox Real Estate** — an established Adelaide independent with a multi-award-winning team and a stated focus on high-quality residential sales.[8]\n6. **Belle Property Adelaide** — worth considering where the home is design-led, lifestyle-oriented or requires particularly polished campaign presentation; however, verify the specific Adelaide agent’s recent $5 million-plus results rather than relying on the national brand.[5][6]\n\nA $10 million sale would sit well above many recent Adelaide prestige transactions: two Somerton Park homes sold for $7.65 million and $7.5 million in 2025, while prestige properties above $5 million are increasingly being sold through agents’ private buyer databases rather than broad online campaigns.[3]\n\n## Recommended approach\n\nInvite **three agencies** to provide competing proposals:\n\n- **Jamie Brown / Bernard Booth** for proven Adelaide record-level negotiation and off-market access.\n- **Toop+Toop** for scale, presentation and buyer reach.\n- **Turner Prestige or Ray White Adelaide Group** for a second established network and campaign strategy.\n\nAsk each agent to provide:\n\n- Their **last five settled sales above $5 million**, including sale price, suburb and whether the result was on- or off-market.\n- The number of **active qualified buyers** for a $10 million Adelaide property.\n- A proposed **off-market, invitation-only and public campaign** sequence.\n- Evidence of personally handling the campaign—not merely being listed under the agency brand.\n- A written marketing plan, fee structure and expected vendor communication schedule.\n- References from vendors of comparable prestige properties.\n\nAt this price point, the **individual agent’s recent comparable results and buyer relationships matter more than the agency’s national ranking**. The best appointment may therefore be a boutique record-holder paired with a larger agency’s database and marketing resources.",
+              "annotations": [
+                {
+                  "title": "Prestige Sales",
+                  "url": "https://www.turnerrealestate.com.au/prestige-sales/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Real estate agencies in Australia: AI ranking",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top End Plays By Different Rules - Inside Prestige Property Valuations",
+                  "url": "https://opteonsolutions.com/au/insights/inside-prestige-property-valuations",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Best Residential Real Estate Agents in Adelaide",
+                  "url": "https://www.thebestrealestateagents.com.au/best-adelaide-residential-real-estate-agents/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Real Estate Agents Adelaide, SA - Top Agents List [2026]",
+                  "url": "https://whichrealestateagent.com.au/real-estate-agents-adelaide/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Belle Property: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/belle-property",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Raine & Horne: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/raine-horne/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Fox Real Estate",
+                  "url": "https://www.foxrealestate.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Prestige Property Management",
+                  "url": "https://www.turnerrealestate.com.au/property-management/prestige-property-management/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Turner Real Estate",
+                  "url": "https://www.turnerrealestate.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

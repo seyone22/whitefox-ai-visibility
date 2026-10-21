@@ -1,0 +1,73 @@
+{
+  "slug": "melbourne",
+  "pk": "boutique_luxury",
+  "plat": "aimode",
+  "text": "Which boutique luxury real estate agencies in Melbourne are best known for modern social media marketing, high-impact video campaigns, and architectural homes?",
+  "loc": 1000567,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\melbourne__boutique_luxury__aimode.json",
+  "at": "2026-10-21T05:10:27.714Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which boutique luxury real estate agencies in Melbourne are best known for modern social media marketing, high-impact video campaigns, and architectural homes?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000567,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20boutique%20luxury%20real%20estate%20agencies%20in%20Melbourne%20are%20best%20known%20for%20modern%20social%20media%20marketing%2C%20high-impact%20video%20campaigns%2C%20and%20architectural%20homes%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCYH9EQ-vQtZqEeDnjCF1VgQF",
+      "datetime": "2026-10-21 05:10:27 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "Melbourne’s high-end property landscape features several `high-performing, independent and boutique agencies` that leverage cinematic video, targeted digital campaigns, and strong editorial branding to market architectural and design-forward homes across the inner-east and Bayside.\n\n- **RT Edgar (Boutique Bayside & Inner Suburbs Offices):** Long-established yet highly adaptive, specific boutique arms of RT Edgar (such as in Toorak, Flinders, and Portsea) excel at marrying heritage and cutting-edge contemporary architecture with high-production-value cinematic property walkthroughs and curated social media placement.\n- **Kay & Burton (Boutique Privately Managed Offices):** While a prominent name in luxury, their localized, tightly held offices operate with a boutique ethos, producing some of Melbourne's most polished, cinematic short-form video content and digital lifestyle campaigns tailored to Toorak, South Yarra, and Armadale architectural properties.\n- **Marshall White (Boutique Projects & Prestige Arm):** Renowned for high-impact digital campaigns, their prestige division pairs high-end architectural styling with sophisticated multi-channel social distribution, agent-led video walk-throughs, and targeted digital retargeting.\n- **Whitefox Real Estate:** A disruptive, design-conscious agency known for a distinct, high-fashion aesthetic, bold branding, and hyper-curated social media execution that treats high-end architectural listings like editorial campaigns.\n\nIf you have a **specific suburb** or a **particular architectural style** (e.g., mid-century modern, industrial warehouse conversion, or contemporary minimalist) in mind, let me know and I can narrow down which of these agencies has the strongest track record in that exact niche.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Melbourne’s high-end property landscape features several high-performing, independent and boutique agencies that leverage cinematic video, targeted digital campaigns, and strong editorial branding to market architectural and design-forward homes across the inner-east and Bayside.",
+              "markdown": "Melbourne’s high-end property landscape features several `high-performing, independent and boutique agencies` that leverage cinematic video, targeted digital campaigns, and strong editorial branding to market architectural and design-forward homes across the inner-east and Bayside.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "RT Edgar (Boutique Bayside & Inner Suburbs Offices): Long-established yet highly adaptive, specific boutique arms of RT Edgar (such as in Toorak, Flinders, and Portsea) excel at marrying heritage and cutting-edge contemporary architecture with high-production-value cinematic property walkthroughs and curated social media placement. Kay & Burton (Boutique Privately Managed Offices): While a prominent name in luxury, their localized, tightly held offices operate with a boutique ethos, producing some of Melbourne's most polished, cinematic short-form video content and digital lifestyle campaigns tailored to Toorak, South Yarra, and Armadale architectural properties. Marshall White (Boutique Projects & Prestige Arm): Renowned for high-impact digital campaigns, their prestige division pairs high-end architectural styling with sophisticated multi-channel social distribution, agent-led video walk-throughs, and targeted digital retargeting. Whitefox Real Estate: A disruptive, design-conscious agency known for a distinct, high-fashion aesthetic, bold branding, and hyper-curated social media execution that treats high-end architectural listings like editorial campaigns.",
+              "markdown": "- **RT Edgar (Boutique Bayside & Inner Suburbs Offices):** Long-established yet highly adaptive, specific boutique arms of RT Edgar (such as in Toorak, Flinders, and Portsea) excel at marrying heritage and cutting-edge contemporary architecture with high-production-value cinematic property walkthroughs and curated social media placement.\n- **Kay & Burton (Boutique Privately Managed Offices):** While a prominent name in luxury, their localized, tightly held offices operate with a boutique ethos, producing some of Melbourne's most polished, cinematic short-form video content and digital lifestyle campaigns tailored to Toorak, South Yarra, and Armadale architectural properties.\n- **Marshall White (Boutique Projects & Prestige Arm):** Renowned for high-impact digital campaigns, their prestige division pairs high-end architectural styling with sophisticated multi-channel social distribution, agent-led video walk-throughs, and targeted digital retargeting.\n- **Whitefox Real Estate:** A disruptive, design-conscious agency known for a distinct, high-fashion aesthetic, bold branding, and hyper-curated social media execution that treats high-end architectural listings like editorial campaigns.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you have a specific suburb or a particular architectural style (e.g., mid-century modern, industrial warehouse conversion, or contemporary minimalist) in mind, let me know and I can narrow down which of these agencies has the strongest track record in that exact niche.",
+              "markdown": "If you have a **specific suburb** or a **particular architectural style** (e.g., mid-century modern, industrial warehouse conversion, or contemporary minimalist) in mind, let me know and I can narrow down which of these agencies has the strongest track record in that exact niche.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": null,
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

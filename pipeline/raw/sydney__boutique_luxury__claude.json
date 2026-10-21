@@ -1,0 +1,272 @@
+{
+  "slug": "sydney",
+  "pk": "boutique_luxury",
+  "plat": "claude",
+  "text": "Which boutique luxury real estate agencies in Sydney are best known for modern social media marketing, high-impact video campaigns, and architectural homes?",
+  "loc": 1000286,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\sydney__boutique_luxury__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:14:16.485Z",
+  "cost": 0.061663,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10296,
+      "output_tokens": 1345,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.061063,
+      "datetime": "2026-10-21 05:14:16 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Great question! Sydney has a vibrant luxury real estate scene, with several standout boutique agencies and creative firms renowned for their cutting-edge social media marketing, cinematic video campaigns, and focus on architectural homes. Here's a curated overview:\n\n---\n\n## 🏡 Boutique Luxury Real Estate Agencies & Marketing Specialists in Sydney\n\n---\n\n### 1. **Cohen Media House**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Cohen Media House builds launch-grade marketing for Sydney property developers, real estate agencies, and off-the-plan projects — covering architectural CGI, brand and project naming, display-suite content, property films, lifestyle and area storytelling, and EOI lead-generation funnels.",
+              "annotations": [
+                {
+                  "title": "Real Estate Marketing Agency Sydney",
+                  "url": "https://www.cohenmediahouse.com/real-estate-marketing-agency-sydney",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their services include property walkthrough videos, lifestyle films, drone content, and agent profile videos — cinematic quality that elevates listings and differentiates agencies from competitors in the market.",
+              "annotations": [
+                {
+                  "title": "Real Estate Marketing Agency Sydney",
+                  "url": "https://www.cohenmediahouse.com/real-estate-marketing-agency-sydney",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Director Jude Cohen has spent 12+ years directing brand and film work across six continents.",
+              "annotations": [
+                {
+                  "title": "Real Estate Marketing Agency Sydney",
+                  "url": "https://www.cohenmediahouse.com/real-estate-marketing-agency-sydney",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are particularly well regarded for architectural and development campaigns.\n\n---\n\n### 2. **Ray White TRG (The Rubinstein Group)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Ray White TRG is a prestige-focused Eastern Suburbs team operating within the Ray White network, with a model designed for luxury properties that require high-production presentation, tightly managed campaigns, and access to affluent buyer networks.",
+              "annotations": [
+                {
+                  "title": "7 Best Real Estate Agent Sydney Picks for 2026",
+                  "url": "https://www.gregory.agency/best-real-estate-agent-sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are one of Sydney's most recognised names in high-end residential real estate marketing.\n\n---\n\n### 3. **Nuance Creative**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Nuance Creative has been Sydney's premier real estate photography, video, and content production expert since 1996 — trusted, proven, and consistent.",
+              "annotations": [
+                {
+                  "title": "Nuance Creative",
+                  "url": "https://www.nuancecreative.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their curated portfolio spans standout real estate, architectural, and editorial photography and video — each project capturing the essence of space and design, crafted to elevate property marketing and visual storytelling across Sydney, from prestige homes to commercial architecture and interior styling.",
+              "annotations": [
+                {
+                  "title": "Nuance Creative",
+                  "url": "https://www.nuancecreative.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. **Agent Social**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Agent Social specialises in real estate marketing by making daily social media posts for real estate offices and agents, creating social media ad campaigns, and producing video, photography, and graphic design.",
+              "annotations": [
+                {
+                  "title": "Agent Social - Real Estate Marketing",
+                  "url": "https://www.agentsocial.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They convert online viewers into open home attendees with engaging listing videos available across Sydney.",
+              "annotations": [
+                {
+                  "title": "Agent Social - Real Estate Marketing",
+                  "url": "https://www.agentsocial.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They have a strong track record with luxury Eastern Suburbs properties, including architectural homes.\n\n---\n\n### 5. **Design Marketing**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "A Sydney boutique property marketing agency offering end-to-end branding, digital, space activation, and sustainable placemaking for developers, retail, and retirement assets.",
+              "annotations": [
+                {
+                  "title": "Property Marketing Agency Sydney",
+                  "url": "https://designmarketing.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They specialise in launching and positioning new developments with impact and visibility, connecting physical spaces with compelling digital experiences through integrated digital and social media packages.",
+              "annotations": [
+                {
+                  "title": "Property Marketing Agency Sydney",
+                  "url": "https://designmarketing.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 6. **Highland Property Group**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Highland Property Group brings a full-service, multi-office model with its origins in the Sutherland Shire and coverage across wider Sydney. The agency is associated with prestige coastal homes, family properties, project marketing, and landlord services — more locally anchored than a purely national network.",
+              "annotations": [
+                {
+                  "title": "7 Best Real Estate Agent Sydney Picks for 2026",
+                  "url": "https://www.gregory.agency/best-real-estate-agent-sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are known for polished, high-impact campaigns across social platforms.\n\n---\n\n### 7. **If & When**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "From property renders to real estate photography and videography backed by the latest social media strategies, If & When brings developments and properties to life — positioning themselves as Sydney's #1 Property Marketing Agency.",
+              "annotations": [
+                {
+                  "title": "Property Marketing Services",
+                  "url": "https://www.ifandwhen.co/property-marketing/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They create more than just content — they build a story that resonates with the audience, with every render, video, and photograph crafted to showcase the best of a property and drive interest, inquiries, and sales.",
+              "annotations": [
+                {
+                  "title": "Property Marketing Services",
+                  "url": "https://www.ifandwhen.co/property-marketing/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 🔑 Key Takeaways\n\n| Agency / Studio | Specialty |\n|---|---|\n| **Cohen Media House** | Cinematic films, architectural CGI, development launches |\n| **Ray White TRG** | High-production prestige campaigns, Eastern Suburbs |\n| **Nuance Creative** | Architectural photography & video since 1996 |\n| **Agent Social** | Social media management, listing videos, luxury photography |\n| **Design Marketing** | Boutique branding, digital & social for developers |\n| **Highland Property Group** | Prestige coastal & full-service marketing |\n| **If & When** | Renders, photography, video & social strategy |\n\n---\n\nIf you're looking specifically for an agency that sells **architectural homes** with a **strong social media and video-first approach**, **Cohen Media House**, **Nuance Creative**, and **Agent Social** stand out as the most creatively focused options. Would you like more detail on any of these?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "boutique luxury real estate agencies Sydney modern social media marketing video campaigns architectural homes",
+        "best luxury real estate agencies Sydney architectural properties high-end marketing 2025"
+      ]
+    }
+  ]
+}

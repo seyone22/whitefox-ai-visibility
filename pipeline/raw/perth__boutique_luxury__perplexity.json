@@ -1,0 +1,106 @@
+{
+  "slug": "perth",
+  "pk": "boutique_luxury",
+  "plat": "perplexity",
+  "text": "Which boutique luxury real estate agencies in Perth are best known for modern social media marketing, high-impact video campaigns, and architectural homes?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\perth__boutique_luxury__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:17:29.724Z",
+  "cost": 0.006053,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 34,
+      "output_tokens": 419,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005453,
+      "datetime": "2026-10-21 05:17:29 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "The strongest matches are **WHITEFOX Perth** and **Monarch Real Estate**, with **House Hype** as a specialist marketing-led alternative.\n\n- **WHITEFOX Perth** — Best fit for a highly branded, modern luxury campaign. Its positioning combines in-house video production, curated social media, hyper-targeted digital campaigns and a distinctive visual identity. The Perth office specifically focuses on luxury property and high-end digital marketing, making it particularly suitable for design-led and architectural residences.[1][5]\n- **Monarch Real Estate** — A genuinely boutique option built around limited listings, tailored campaigns and design-led homes in Perth’s premium suburbs. Its “launch, not just list” approach appears well suited to architectural properties requiring careful storytelling and bespoke presentation.[8]\n- **House Hype** — Best viewed as a boutique real-estate marketing specialist or creative partner rather than a conventional sales agency. It offers professional photography, cinematic video, aerial imagery, immersive floor plans, reels, TikTok content and property-tour social media campaigns.[2]\n- **Properth** — Another strong specialist partner for high-impact video. It focuses on cinematic real-estate, aerial and social-media video production, including content highlighting interiors, workmanship, architecture and surrounding neighbourhoods.[3]\n- **Boutique Realty Perth** — Worth considering for a more traditional boutique agency relationship, particularly where project marketing or senior-led residential sales matter; the available information is less specific about its video and social-media capabilities.[10]\n\n**Best shortlist:**  \n1. **WHITEFOX Perth** for the most recognisable luxury branding and integrated digital campaign.  \n2. **Monarch Real Estate** for a small, selective agency handling distinctive, design-led homes.  \n3. **A boutique sales agency paired with House Hype or Properth** when cinematic video and social content are the priority.\n\nBefore appointing an agency, request two or three recent campaigns for comparable architectural homes and ask who controls the creative direction, video production, paid social advertising and campaign analytics.",
+              "annotations": [
+                {
+                  "title": "Dani Jones - WHITEFOX Real Estate Perth",
+                  "url": "https://perth.whitefoxrealestate.com.au/im/dani-jones/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "House Hype: Home",
+                  "url": "https://www.househype.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Video Marketing | Properth | Australia",
+                  "url": "https://www.properth.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Lux Realty Media - Bespoke Property Media Services Perth",
+                  "url": "https://www.luxrealtymedia.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Whitefox Real Estate Perth",
+                  "url": "https://perth.whitefoxrealestate.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Perth's Top Luxury Real Estate Agencies",
+                  "url": "https://smartrealty.com.au/perths-top-luxury-real-estate-agencies-6/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Video Marketing Agencies in Perth 2026",
+                  "url": "https://agencies.semrush.com/list/video-advertising/perth/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Monarch Real Estate - Luxury Property Website",
+                  "url": "https://monarchrealestate.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Georgia Robertson - WHITEFOX Real Estate Perth",
+                  "url": "https://perth.whitefoxrealestate.com.au/im/georgia-robertson/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Real Estate Services Perth | Boutique Realty Perth",
+                  "url": "https://www.boutiquerealtyperth.com.au/services/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

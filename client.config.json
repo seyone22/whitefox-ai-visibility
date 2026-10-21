@@ -1,0 +1,86 @@
+{
+  "clientName": "WHITEFOX Real Estate",
+  "shortName": "WHITEFOX",
+  "legalName": "Whitefox Real Estate Pty Ltd",
+  "founder": "Marty Fox (CEO & Founder, Est. 2017)",
+  "domain": "whitefoxrealestate.com.au",
+  "targetRegex": "\\bWhite\\s*fox(?:\\s+Real\\s+Estate)?\\b",
+  "vertical": "Luxury & Prestige Real Estate Agency",
+  "primaryMarket": "melbourne",
+  "cities": [
+    { "id": "melbourne", "name": "Melbourne", "displayLoc": "Melbourne (Toorak & Bayside HQ)", "state": "VIC", "locationCode": 1000567, "mapsQuery": "WHITEFOX Real Estate Melbourne Toorak Brighton" },
+    { "id": "sydney", "name": "Sydney", "displayLoc": "Sydney (Paddington & Manly)", "state": "NSW", "locationCode": 1000286, "mapsQuery": "WHITEFOX Real Estate Sydney Paddington Manly" },
+    { "id": "brisbane", "name": "Brisbane", "displayLoc": "Brisbane (Fortitude Valley & New Farm)", "state": "QLD", "locationCode": 1000339, "mapsQuery": "WHITEFOX Real Estate Brisbane James Street" },
+    { "id": "goldcoast", "name": "Gold Coast", "displayLoc": "Gold Coast (Mermaid Beach)", "state": "QLD", "locationCode": 1000665, "mapsQuery": "WHITEFOX Real Estate Gold Coast Mermaid Beach" },
+    { "id": "perth", "name": "Perth", "displayLoc": "Perth (Subiaco & Applecross)", "state": "WA", "locationCode": 1000676, "mapsQuery": "WHITEFOX Real Estate Perth Subiaco Applecross" },
+    { "id": "adelaide", "name": "Adelaide", "displayLoc": "Adelaide (Hyde Park & Unley)", "state": "SA", "locationCode": 1000422, "mapsQuery": "WHITEFOX Real Estate Adelaide Hyde Park" },
+    { "id": "peninsula", "name": "Mornington Peninsula", "displayLoc": "Mornington Peninsula (Red Hill & Sorrento)", "state": "VIC", "locationCode": 9056918, "mapsQuery": "WHITEFOX Real Estate Mornington Peninsula Red Hill" },
+    { "id": "national", "name": "Australia", "displayLoc": "National Australia", "state": "AU", "locationCode": 2036, "mapsQuery": "luxury real estate agency Melbourne Sydney Australia" }
+  ],
+  "prompts": [
+    {
+      "id": "luxury_agency",
+      "title": "Best Luxury Real Estate Agency",
+      "serpKeyword": "best luxury real estate agency {city}",
+      "template": "Who are the best luxury real estate agencies in {city}? Give me a shortlist of specific prestige property agencies with reasons."
+    },
+    {
+      "id": "prestige_selling",
+      "title": "Selling a $5M–$20M+ Prestige Home",
+      "serpKeyword": "top prestige real estate agents selling luxury homes {city}",
+      "template": "I am selling a $10M luxury residential property in {city}. Which prestige real estate agencies have the strongest track record for high-end home sales?"
+    },
+    {
+      "id": "boutique_luxury",
+      "title": "Boutique & Design-Led Luxury Agencies",
+      "serpKeyword": "boutique luxury real estate agency {city}",
+      "template": "Which boutique luxury real estate agencies in {city} are best known for modern social media marketing, high-impact video campaigns, and architectural homes?"
+    },
+    {
+      "id": "off_market",
+      "title": "Off-Market Prestige & Private Sales",
+      "serpKeyword": "off market luxury real estate agents {city}",
+      "template": "Which luxury real estate agents and agencies in {city} specialise in confidential off-market prestige property sales and high-net-worth buyer networks?"
+    },
+    {
+      "id": "luxury_auctions",
+      "title": "High-End Property Auctioneers",
+      "serpKeyword": "best luxury real estate auctioneers {city}",
+      "template": "Who are the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in {city}?"
+    },
+    {
+      "id": "buyers_advocacy",
+      "title": "Luxury Buyers Advocacy & Advisory",
+      "serpKeyword": "luxury buyers advocate prestige property {city}",
+      "template": "Which luxury real estate agencies or buyers advocates in {city} offer the best buyers advocacy and acquisition advisory for prestige homes?"
+    },
+    {
+      "id": "architectural_projects",
+      "title": "Luxury Off-the-Plan & Penthouse Projects",
+      "serpKeyword": "luxury penthouse off the plan project marketing real estate {city}",
+      "template": "Which prestige real estate agencies in {city} are the market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing?"
+    }
+  ],
+  "aiKeywordCluster": [
+    "luxury real estate",
+    "luxury real estate agency",
+    "prestige real estate",
+    "luxury real estate agents",
+    "boutique real estate agency",
+    "buyers advocate",
+    "luxury homes for sale",
+    "real estate agency",
+    "top real estate agents",
+    "whitefox real estate",
+    "marshall white",
+    "kay and burton"
+  ],
+  "trackedDomains": [
+    "whitefoxrealestate.com.au",
+    "marshallwhite.com.au",
+    "kayburton.com.au",
+    "sothebysrealty.com.au",
+    "theagency.com.au",
+    "belleproperty.com"
+  ]
+}

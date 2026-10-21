@@ -1,0 +1,106 @@
+{
+  "slug": "sydney",
+  "pk": "luxury_auctions",
+  "plat": "perplexity",
+  "text": "Who are the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in Sydney?",
+  "loc": 1000286,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\sydney__luxury_auctions__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:13:55.250Z",
+  "cost": 0.006509,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 29,
+      "output_tokens": 880,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005909,
+      "datetime": "2026-10-21 05:13:55 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Sydney’s leading prestige agencies include **Sydney Sotheby’s International Realty, Ray White Double Bay/The Rubinstein Group, McGrath, Belle Property, BresicWhitney, Knight Frank, Colliers Residential, and 1st City Real Estate Group**. The strongest choice depends heavily on the suburb, property type, international-buyer requirements and whether the campaign is auction-led.\n\n## Leading luxury agencies\n\n- **Sydney Sotheby’s International Realty** — Particularly suitable for trophy homes, waterfront properties and internationally marketed listings. Its global referral network and luxury branding are designed to provide international exposure.[9]\n- **Ray White Double Bay / The Rubinstein Group** — A strong Eastern Suburbs option for tightly managed luxury campaigns, high-end presentation and access to Ray White’s broader national network.[2]\n- **McGrath** — A major East Coast premium-market brand with a substantial Sydney presence, strong marketing capability and established auction expertise.[3]\n- **Belle Property** — Well suited to design-led, lifestyle, coastal and affluent inner-suburban properties; its positioning is explicitly premium and lifestyle oriented.[3]\n- **BresicWhitney** — A strong fit for inner-city, Inner West and harbourside homes where auction-led campaigns, presentation and cross-suburb buyer reach matter.[2]\n- **Knight Frank** — Worth considering for prestige residential properties requiring advisory depth, discreet handling and high-net-worth buyer engagement; its Sydney operation has a dedicated Prestige Residential focus.[10]\n- **Colliers Residential** — Particularly relevant for luxury apartments, townhouse projects, development-linked sales and large-scale residential marketing.[8]\n- **1st City Real Estate Group** — A specialist Double Bay agency focused on ultra-luxury property, prestige resales and project sales; its reported 12-month results include a $20.2 million Rose Bay apartment sale.[1]\n\n## Auctioneers to shortlist\n\n- **Jesse Davidson — AuctionWORKS** — One of Sydney’s most established independent auctioneers, with AuctionWORKS operating since 1997. He is regularly used by high-volume and premium agencies, including Belle Property offices.[4]\n- **David Scholes — AuctionWORKS** — A senior AuctionWORKS auctioneer identified alongside Davidson as central to the company’s reputation in Sydney’s auction market.[4]\n- **Lorenzo — AuctionWORKS** — Has reportedly served as Roger Mickhail Property’s primary auctioneer for 15 years, demonstrating deep experience in Sydney residential auctions.[4]\n- **Laura McKay — Highland Property Group** — An accredited auctioneer since 2012 with more than two decades in the industry and a focus on prestige and waterfront property.[5]\n- **Agency-employed auction teams at Ray White, McGrath, Belle and BresicWhitney** — These brands are strong candidates when the sales agent’s local buyer database and campaign execution are as important as the auctioneer’s performance. Ray White TRG is specifically profiled for luxury presentation and auction capability in the Eastern Suburbs.[2]\n\n## Practical shortlist by property\n\n| Property type | Agencies or auctioneers to prioritise |\n|---|---|\n| Trophy waterfront or globally marketable home | Sydney Sotheby’s, Ray White Double Bay, Knight Frank |\n| Eastern Suburbs prestige house or apartment | Ray White TRG, McGrath, Belle Property, 1st City |\n| Inner-city, Inner West or harbourside home | BresicWhitney, McGrath, Belle Property |\n| Luxury apartment or new project | Colliers Residential, 1st City, Knight Frank |\n| Auction-focused campaign | AuctionWORKS, Ray White, McGrath, BresicWhitney |\n| Discreet off-market sale | Knight Frank, Sotheby’s, Ray White Double Bay, established local prestige specialists |\n\nFor a vendor interview, request the agent’s **last 10 comparable sales**, auction clearance and withdrawal rates for the relevant suburb, buyer-source data, average days on market, and the specific auctioneer proposed. A nationally recognised brand is less important than the individual team’s recent results in the same micro-market.",
+              "annotations": [
+                {
+                  "title": "1st City Real Estate Group - Double Bay - Domain",
+                  "url": "https://www.domain.com.au/real-estate-agencies/1stcityrealestategroup-5356/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "7 Best Real Estate Agent Sydney Picks for 2026 - gregory.agency",
+                  "url": "https://www.gregory.agency/best-real-estate-agent-sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Elders in real estate companies: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/elders/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "AuctionWORKS: Home - Real Estate Property Auctions Sydney",
+                  "url": "https://auctionworks.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Laura Mckay | LinkedIn",
+                  "url": "https://www.linkedin.com/in/laura-mckay-0b87079b",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Australia's Best Luxury Real Estate Agents | UltraPrime",
+                  "url": "https://ultraprime.com.au/agents",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Oliver Stillman | LinkedIn",
+                  "url": "https://www.linkedin.com/in/oliver-stillman-a7645aa0",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Colliers Sydney. | Real Estate Agency in Sydney, NSW 2000",
+                  "url": "https://www.domain.com.au/real-estate-agencies/collierssydney-409/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Sydney Sotheby's International Realty",
+                  "url": "https://sydneysothebysrealty.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Knight Frank appoints new Senior Sales Executive to their Prestige Residential team",
+                  "url": "https://eliteagent.com/knight-frank-appoints-new-senior-sales-executive-to-their-prestige-residential-team/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

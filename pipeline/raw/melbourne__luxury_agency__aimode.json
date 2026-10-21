@@ -1,0 +1,111 @@
+{
+  "slug": "melbourne",
+  "pk": "luxury_agency",
+  "plat": "aimode",
+  "text": "Who are the best luxury real estate agencies in Melbourne? Give me a shortlist of specific prestige property agencies with reasons.",
+  "loc": 1000567,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\melbourne__luxury_agency__aimode.json",
+  "at": "2026-10-21T05:10:22.445Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the best luxury real estate agencies in Melbourne? Give me a shortlist of specific prestige property agencies with reasons.",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000567,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Who%20are%20the%20best%20luxury%20real%20estate%20agencies%20in%20Melbourne%3F%20Give%20me%20a%20shortlist%20of%20specific%20prestige%20property%20agencies%20with%20reasons.&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCYH9EQ-vQtZqEeDnjCF1VgQF",
+      "datetime": "2026-10-21 05:10:22 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "Melbourne's prestige property market is anchored by `a select group of elite agencies known for record-breaking transactions, high-net-worth client privacy, and deep local market dominance across the inner-east and Bayside` . The leading luxury agencies include:[[1]](https://www.kayburton.com.au/)\n\n- Marshall White : Recognized as a powerhouse in Melbourne’s luxury market, specializing in high-end residential real estate across Stonnington, Bayside, and the Mornington Peninsula. They are valued for exceptional auction strategies, elite local network intelligence, and consistent multi-million-dollar sales records.\n- [Kay & Burton](https://www.kayburton.com.au/) : Established in 1938, this firm is a foundational name in Victorian luxury real estate. They excel in handling generational, heritage, and architectural landmark estates, backed by an extensive international buyer network spanning Asia, the UK, and the US.[[1]](https://www.kayburton.com.au/)\n- RT Edgar : Known for a refined, boutique approach to high-value properties in Melbourne's most affluent leafy suburbs and coastal strips. They are favored for discreet off-market transactions and tailored vendor advisory services.\n- Jellis Craig (Prestige division): A dominant force across Melbourne’s inner-north, inner-east, and Bayside corridors, offering massive buyer reach paired with specialized high-end marketing campaigns for architectural and premium family homes.\n\nIf you are looking to buy or sell, tell me **which suburb or region** you are focusing on and whether you need an agency for **selling, buying advocacy, or property management** , and I can narrow down the ideal specialist.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Melbourne's prestige property market is anchored by a select group of elite agencies known for record-breaking transactions, high-net-worth client privacy, and deep local market dominance across the inner-east and Bayside. The leading luxury agencies include:",
+              "markdown": "Melbourne's prestige property market is anchored by `a select group of elite agencies known for record-breaking transactions, high-net-worth client privacy, and deep local market dominance across the inner-east and Bayside` . The leading luxury agencies include:[[1]](https://www.kayburton.com.au/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Kay & Burton",
+                  "domain": "www.kayburton.com.au",
+                  "url": "https://www.kayburton.com.au/",
+                  "title": "Luxury real estate Melbourne | Kay & Burton",
+                  "text": "luxury real estate agency in Australia. Services: Advisory, property appraisal, market insights, and wealth network connection for..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Marshall White : Recognized as a powerhouse in Melbourne’s luxury market, specializing in high-end residential real estate across Stonnington, Bayside, and the Mornington Peninsula. They are valued for exceptional auction strategies, elite local network intelligence, and consistent multi-million-dollar sales records. Marshall White Kay & Burton : Established in 1938, this firm is a foundational name in Victorian luxury real estate. They excel in handling generational, heritage, and architectural landmark estates, backed by an extensive international buyer network spanning Asia, the UK, and the US. RT Edgar : Known for a refined, boutique approach to high-value properties in Melbourne's most affluent leafy suburbs and coastal strips. They are favored for discreet off-market transactions and tailored vendor advisory services. RT Edgar Jellis Craig (Prestige division) : A dominant force across Melbourne’s inner-north, inner-east, and Bayside corridors, offering massive buyer reach paired with specialized high-end marketing campaigns for architectural and premium family homes. Jellis Craig (Prestige division)",
+              "markdown": "- Marshall White : Recognized as a powerhouse in Melbourne’s luxury market, specializing in high-end residential real estate across Stonnington, Bayside, and the Mornington Peninsula. They are valued for exceptional auction strategies, elite local network intelligence, and consistent multi-million-dollar sales records.\n- [Kay & Burton](https://www.kayburton.com.au/) : Established in 1938, this firm is a foundational name in Victorian luxury real estate. They excel in handling generational, heritage, and architectural landmark estates, backed by an extensive international buyer network spanning Asia, the UK, and the US.[[1]](https://www.kayburton.com.au/)\n- RT Edgar : Known for a refined, boutique approach to high-value properties in Melbourne's most affluent leafy suburbs and coastal strips. They are favored for discreet off-market transactions and tailored vendor advisory services.\n- Jellis Craig (Prestige division): A dominant force across Melbourne’s inner-north, inner-east, and Bayside corridors, offering massive buyer reach paired with specialized high-end marketing campaigns for architectural and premium family homes.",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Kay & Burton",
+                  "description": null,
+                  "url": "https://www.kayburton.com.au/",
+                  "domain": "www.kayburton.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Kay & Burton",
+                  "domain": "www.kayburton.com.au",
+                  "url": "https://www.kayburton.com.au/",
+                  "title": "Luxury real estate Melbourne | Kay & Burton",
+                  "text": "Kay & Burton (established 1938); luxury real estate agency in Australia. Services: Advisory, property appraisal, market insights, and wealth network connection"
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you are looking to buy or sell, tell me which suburb or region you are focusing on and whether you need an agency for selling, buying advocacy, or property management, and I can narrow down the ideal specialist.",
+              "markdown": "If you are looking to buy or sell, tell me **which suburb or region** you are focusing on and whether you need an agency for **selling, buying advocacy, or property management** , and I can narrow down the ideal specialist.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Kay & Burton",
+              "domain": "www.kayburton.com.au",
+              "url": "https://www.kayburton.com.au/",
+              "title": "Luxury real estate Melbourne | Kay & Burton",
+              "text": "Kay & Burton (established 1938); luxury real estate agency in Australia. Services: Advisory, property appraisal, market insights, and wealth network connection"
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

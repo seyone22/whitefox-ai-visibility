@@ -1,0 +1,186 @@
+{
+  "slug": "sydney",
+  "pk": "off_market",
+  "plat": "aimode",
+  "text": "Which luxury real estate agents and agencies in Sydney specialise in confidential off-market prestige property sales and high-net-worth buyer networks?",
+  "loc": 1000286,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\sydney__off_market__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:13:50.820Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which luxury real estate agents and agencies in Sydney specialise in confidential off-market prestige property sales and high-net-worth buyer networks?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000286,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20luxury%20real%20estate%20agents%20and%20agencies%20in%20Sydney%20specialise%20in%20confidential%20off-market%20prestige%20property%20sales%20and%20high-net-worth%20buyer%20networks%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCT-Yix5ArhJrEcDMMhZofQEF",
+      "datetime": "2026-10-21 05:13:50 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "**Sydney Sotheby’s International Realty**, **Cohen Handler**, **Rose & Jones** , and **Premium Property Finders** are among the premier agencies and buyer's networks in Sydney known for handling confidential, off-market, and high-net-worth prestige transactions across exclusive enclaves like the Eastern Suburbs, Lower North Shore, and Northern Beaches.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhKbWNuZHNNelZyGAo)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdSZmVqVjRZM05qGAo)[[3]](https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdnMVkzRnNNURgK)[[4]](https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEhOc2FuZHJNQRgK)\n\n### Top Luxury & Off-Market Specialists\n\n- **Sydney Sotheby’s International Realty** (Double Bay): Leverages an extensive international and regional luxury network, handling high-value waterfronts, penthouses, and private estates often without public price guides or open campaigns.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhKbWNuZHNNelZyGAo)\n- **Cohen Handler** (Eastern Suburbs & Sydney-wide): One of Australia's largest high-end buyer's agencies, deeply tapped into private vendor circles, silent listings, and off-market allocations for high-net-worth individuals and expats.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdSZmVqVjRZM05qGAo)\n- **Rose & Jones** (Paddington): Established in 1998, they specialize in discreet residential and commercial property searches, accessing unlisted inventory and negotiating private acquisitions.[[1]](https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdnMVkzRnNNURgK)\n- **Premium Property Finders** : Headed by experienced operators focusing on private, direct-to-owner confidential luxury property searches, expat acquisition, and tailor-made discrete negotiations.[[1]](https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEhOc2FuZHJNQRgK)\n\n### Key Traits of Sydney Off-Market Prestige Sales\n\n- **Silent Campaigns:** Properties are shared exclusively through trusted agent databases and private client registers rather than public portals like Domain or realestate.com.au.\n- **Targeted Networking:** Transactions rely on direct relationships with private wealth advisors, family offices, and specialized buyer's agents.\n\nAre you looking to **buy or sell** a luxury property, and which specific **region of Sydney** (such as the Eastern Suburbs or Lower North Shore) are you focusing on?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Sydney Sotheby’s International Realty, Cohen Handler, Rose & Jones, and Premium Property Finders are among the premier agencies and buyer's networks in Sydney known for handling confidential, off-market, and high-net-worth prestige transactions across exclusive enclaves like the Eastern Suburbs, Lower North Shore, and Northern Beaches.",
+              "markdown": "**Sydney Sotheby’s International Realty**, **Cohen Handler**, **Rose & Jones** , and **Premium Property Finders** are among the premier agencies and buyer's networks in Sydney known for handling confidential, off-market, and high-net-worth prestige transactions across exclusive enclaves like the Eastern Suburbs, Lower North Shore, and Northern Beaches.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhKbWNuZHNNelZyGAo)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdSZmVqVjRZM05qGAo)[[3]](https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdnMVkzRnNNURgK)[[4]](https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEhOc2FuZHJNQRgK)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhKbWNuZHNNelZyGAo",
+                  "title": "Reuben Kee and Sarah Khazma Sydney Sotheby’s International Realty",
+                  "text": "Ste 303, Level 3/45-51 Cross St, Double Bay NSW 2028 · Professional real estate agency providing expert property marketing and mul..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdSZmVqVjRZM05qGAo",
+                  "title": "HighSpec Properties",
+                  "text": "Suite18/20/28 Maddox St, Alexandria NSW 2015 · Professional buyer's agency providing strategic property advice and expert negotiat..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdnMVkzRnNNURgK",
+                  "title": "Rose & Jones Property Pty Ltd",
+                  "text": "76 Paddington St, Paddington NSW 2021 · Experienced real estate consultancy providing professional buyer’s agency and property man..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEhOc2FuZHJNQRgK",
+                  "title": "Premium Property Finders",
+                  "text": "171 Clarence St, Sydney NSW 2000 · Sydney Property Buyers Agent, Tracey Chandler is an experienced Buyers Agent, specialising in o..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Top Luxury & Off-Market Specialists",
+              "text": "Sydney Sotheby’s International Realty (Double Bay): Leverages an extensive international and regional luxury network, handling high-value waterfronts, penthouses, and private estates often without public price guides or open campaigns. Cohen Handler (Eastern Suburbs & Sydney-wide): One of Australia's largest high-end buyer's agencies, deeply tapped into private vendor circles, silent listings, and off-market allocations for high-net-worth individuals and expats. Rose & Jones (Paddington): Established in 1998, they specialize in discreet residential and commercial property searches, accessing unlisted inventory and negotiating private acquisitions. Premium Property Finders : Headed by experienced operators focusing on private, direct-to-owner confidential luxury property searches, expat acquisition, and tailor-made discrete negotiations.",
+              "markdown": "- **Sydney Sotheby’s International Realty** (Double Bay): Leverages an extensive international and regional luxury network, handling high-value waterfronts, penthouses, and private estates often without public price guides or open campaigns.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhKbWNuZHNNelZyGAo)\n- **Cohen Handler** (Eastern Suburbs & Sydney-wide): One of Australia's largest high-end buyer's agencies, deeply tapped into private vendor circles, silent listings, and off-market allocations for high-net-worth individuals and expats.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdSZmVqVjRZM05qGAo)\n- **Rose & Jones** (Paddington): Established in 1998, they specialize in discreet residential and commercial property searches, accessing unlisted inventory and negotiating private acquisitions.[[1]](https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdnMVkzRnNNURgK)\n- **Premium Property Finders** : Headed by experienced operators focusing on private, direct-to-owner confidential luxury property searches, expat acquisition, and tailor-made discrete negotiations.[[1]](https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEhOc2FuZHJNQRgK)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhKbWNuZHNNelZyGAo",
+                  "title": "Reuben Kee and Sarah Khazma Sydney Sotheby’s International Realty",
+                  "text": "Ste 303, Level 3/45-51 Cross St, Double Bay NSW 2028 · Professional real estate agency providing expert property marketing and multilingual client support."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdSZmVqVjRZM05qGAo",
+                  "title": "HighSpec Properties",
+                  "text": "Suite18/20/28 Maddox St, Alexandria NSW 2015 · Professional buyer's agency providing strategic property advice and expert negotiation for home and investment purchases."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdnMVkzRnNNURgK",
+                  "title": "Rose & Jones Property Pty Ltd",
+                  "text": "76 Paddington St, Paddington NSW 2021 · Experienced real estate consultancy providing professional buyer’s agency and property management services."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEhOc2FuZHJNQRgK",
+                  "title": "Premium Property Finders",
+                  "text": "171 Clarence St, Sydney NSW 2000 · Sydney Property Buyers Agent, Tracey Chandler is an experienced Buyers Agent, specialising in o..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Key Traits of Sydney Off-Market Prestige Sales",
+              "text": "Silent Campaigns: Properties are shared exclusively through trusted agent databases and private client registers rather than public portals like Domain or realestate.com.au. Targeted Networking: Transactions rely on direct relationships with private wealth advisors, family offices, and specialized buyer's agents.",
+              "markdown": "- **Silent Campaigns:** Properties are shared exclusively through trusted agent databases and private client registers rather than public portals like Domain or realestate.com.au.\n- **Targeted Networking:** Transactions rely on direct relationships with private wealth advisors, family offices, and specialized buyer's agents.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Are you looking to buy or sell a luxury property, and which specific region of Sydney (such as the Eastern Suburbs or Lower North Shore) are you focusing on?",
+              "markdown": "Are you looking to **buy or sell** a luxury property, and which specific **region of Sydney** (such as the Eastern Suburbs or Lower North Shore) are you focusing on?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Google",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhKbWNuZHNNelZyGAo",
+              "title": "Reuben Kee and Sarah Khazma Sydney Sotheby’s International Realty",
+              "text": "Ste 303, Level 3/45-51 Cross St, Double Bay NSW 2028 · Professional real estate agency providing expert property marketing and multilingual client support."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Google",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdSZmVqVjRZM05qGAo",
+              "title": "HighSpec Properties",
+              "text": "Suite18/20/28 Maddox St, Alexandria NSW 2015 · Professional buyer's agency providing strategic property advice and expert negotiation for home and investment purchases."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Google",
+              "domain": "www.google.com",
+              "url": "https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdnMVkzRnNNURgK",
+              "title": "Rose & Jones Property Pty Ltd",
+              "text": "76 Paddington St, Paddington NSW 2021 · Experienced real estate consultancy providing professional buyer’s agency and property management services."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

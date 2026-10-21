@@ -1,0 +1,139 @@
+{
+  "slug": "national",
+  "pk": "boutique_luxury",
+  "plat": "aimode",
+  "text": "Which boutique luxury real estate agencies in Australia are best known for modern social media marketing, high-impact video campaigns, and architectural homes?",
+  "loc": 2036,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\national__boutique_luxury__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:21:11.365Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which boutique luxury real estate agencies in Australia are best known for modern social media marketing, high-impact video campaigns, and architectural homes?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 2036,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20boutique%20luxury%20real%20estate%20agencies%20in%20Australia%20are%20best%20known%20for%20modern%20social%20media%20marketing%2C%20high-impact%20video%20campaigns%2C%20and%20architectural%20homes%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCd_Fh2cH_SsrEVITW5WhZ4JT",
+      "datetime": "2026-10-21 05:21:10 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "Australia has a dynamic segment of independent and boutique agencies that leverage cinematic walkthroughs, targeted social channels, and high-end digital branding specifically for architectural and design-forward properties.\n\n### Standout Boutique & Prestige Agencies\n\n- **Modern House Estate Agents** : Widely recognized as Australia's premier niche agency exclusively handling Modernist, mid-century, and contemporary architect-designed homes. Their digital presence and curation focus entirely on clean architectural lines, spatial design, and targeted storytelling rather than standard volume listing.[[1]](https://www.modernhouse.co/)\n- **Abercrombys Real Estate** : Operating prominently out of Melbourne (with recent interstate growth), they blend a conservative, high-end heritage with a refined digital and video strategy that highlights premium Victorian, modernist, and cutting-end contemporary architectural properties.[[1]](https://luxurylist.com.au/agencies)\n- **Ray White Collective Luxury** : Launched by leading prestige specialist Matt Lancashire in Brisbane, this specialized high-end offshoot is built explicitly for ultra-luxury ($4M+) and architecturally striking homes, utilizing modern digital campaigns and high-production video assets to reach national and international buyers.[[1]](https://luxurylist.com.au/agencies)\n- **The Boutique Property Co. / Local Independent Prestige Boutiques** : Across Sydney’s eastern suburbs, Byron Bay, and Melbourne’s inner-pockets, specialized independent local operators lean heavily on high-impact cinematic video tours (often partnering with production groups like *Urban Angles* or *REZ Studio* ) to market bespoke residential architecture directly via Instagram and targeted programmatic social feeds.[[1]](https://www.urbanangles.com/)[[2]](https://revenuebase.ai/companies/luxury-real-estate-marketing-agencies/australia/melbourne)\n\nWould you like to focus on a **specific Australian city** (such as Sydney, Melbourne, or Brisbane) so I can detail the exact local independent agents dominating architectural sales there?",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Australia has a dynamic segment of independent and boutique agencies that leverage cinematic walkthroughs, targeted social channels, and high-end digital branding specifically for architectural and design-forward properties.",
+              "markdown": "Australia has a dynamic segment of independent and boutique agencies that leverage cinematic walkthroughs, targeted social channels, and high-end digital branding specifically for architectural and design-forward properties.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Standout Boutique & Prestige Agencies",
+              "text": "Modern House Estate Agents : Widely recognized as Australia's premier niche agency exclusively handling Modernist, mid-century, and contemporary architect-designed homes. Their digital presence and curation focus entirely on clean architectural lines, spatial design, and targeted storytelling rather than standard volume listing. Abercrombys Real Estate : Operating prominently out of Melbourne (with recent interstate growth), they blend a conservative, high-end heritage with a refined digital and video strategy that highlights premium Victorian, modernist, and cutting-end contemporary architectural properties. Ray White Collective Luxury : Launched by leading prestige specialist Matt Lancashire in Brisbane, this specialized high-end offshoot is built explicitly for ultra-luxury ($4M+) and architecturally striking homes, utilizing modern digital campaigns and high-production video assets to reach national and international buyers. Ray White Collective Luxury The Boutique Property Co. / Local Independent Prestige Boutiques : Across Sydney’s eastern suburbs, Byron Bay, and Melbourne’s inner-pockets, specialized independent local operators lean heavily on high-impact cinematic video tours (often partnering with production groups like Urban Angles or REZ Studio) to market bespoke residential architecture directly via Instagram and targeted programmatic social feeds.",
+              "markdown": "- **Modern House Estate Agents** : Widely recognized as Australia's premier niche agency exclusively handling Modernist, mid-century, and contemporary architect-designed homes. Their digital presence and curation focus entirely on clean architectural lines, spatial design, and targeted storytelling rather than standard volume listing.[[1]](https://www.modernhouse.co/)\n- **Abercrombys Real Estate** : Operating prominently out of Melbourne (with recent interstate growth), they blend a conservative, high-end heritage with a refined digital and video strategy that highlights premium Victorian, modernist, and cutting-end contemporary architectural properties.[[1]](https://luxurylist.com.au/agencies)\n- **Ray White Collective Luxury** : Launched by leading prestige specialist Matt Lancashire in Brisbane, this specialized high-end offshoot is built explicitly for ultra-luxury ($4M+) and architecturally striking homes, utilizing modern digital campaigns and high-production video assets to reach national and international buyers.[[1]](https://luxurylist.com.au/agencies)\n- **The Boutique Property Co. / Local Independent Prestige Boutiques** : Across Sydney’s eastern suburbs, Byron Bay, and Melbourne’s inner-pockets, specialized independent local operators lean heavily on high-impact cinematic video tours (often partnering with production groups like *Urban Angles* or *REZ Studio* ) to market bespoke residential architecture directly via Instagram and targeted programmatic social feeds.[[1]](https://www.urbanangles.com/)[[2]](https://revenuebase.ai/companies/luxury-real-estate-marketing-agencies/australia/melbourne)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "www.modernhouse.co",
+                  "domain": "www.modernhouse.co",
+                  "url": "https://www.modernhouse.co/",
+                  "title": "Modern House - Estate Agents for Architect-Designed Property",
+                  "text": "Australia's only estate agency specializing in Modernist, Mid-Century, and contemporary architect-designed residences."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Luxury List |",
+                  "domain": "luxurylist.com.au",
+                  "url": "https://luxurylist.com.au/agencies",
+                  "title": "Agencies - Luxury List |",
+                  "text": "Leading Melbourne luxury real estate firm Abercrombys has announced its first interstate expansion with the opening of a Hobart of..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Urban Angles",
+                  "domain": "www.urbanangles.com",
+                  "url": "https://www.urbanangles.com/",
+                  "title": "Real Estate & Property Photography Services in Sydney, Melbourne & Brisbane",
+                  "text": "Locations: Sydney, Melbourne, Brisbane Services: * Photography: Residential, Architectural, Commercial, Builder, Lifestyle, Portra..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "RevenueBase",
+                  "domain": "revenuebase.ai",
+                  "url": "https://revenuebase.ai/companies/luxury-real-estate-marketing-agencies/australia/melbourne",
+                  "title": "Top 25 Luxury real estate marketing agencies based in ...",
+                  "text": "“Rez Studio is Melbourne's leading prestige residential photography and marketing specialists.”"
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Would you like to focus on a specific Australian city (such as Sydney, Melbourne, or Brisbane) so I can detail the exact local independent agents dominating architectural sales there?",
+              "markdown": "Would you like to focus on a **specific Australian city** (such as Sydney, Melbourne, or Brisbane) so I can detail the exact local independent agents dominating architectural sales there?",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "www.modernhouse.co",
+              "domain": "www.modernhouse.co",
+              "url": "https://www.modernhouse.co/",
+              "title": "Modern House - Estate Agents for Architect-Designed Property",
+              "text": "Australia's only estate agency specializing in Modernist, Mid-Century, and contemporary architect-designed residences."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Urban Angles",
+              "domain": "www.urbanangles.com",
+              "url": "https://www.urbanangles.com/",
+              "title": "Real Estate & Property Photography Services in Sydney, Melbourne & Brisbane",
+              "text": "Locations: Sydney, Melbourne, Brisbane Services: * Photography: Residential, Architectural, Commercial, Builder, Lifestyle, Portrait, Corporate"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "RevenueBase",
+              "domain": "revenuebase.ai",
+              "url": "https://revenuebase.ai/companies/luxury-real-estate-marketing-agencies/australia/melbourne",
+              "title": "Top 25 Luxury real estate marketing agencies based in ...",
+              "text": "“Rez Studio is Melbourne's leading prestige residential photography and marketing specialists.”"
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

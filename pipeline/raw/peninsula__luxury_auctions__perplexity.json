@@ -1,0 +1,106 @@
+{
+  "slug": "peninsula",
+  "pk": "luxury_auctions",
+  "plat": "perplexity",
+  "text": "Who are the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in Mornington Peninsula?",
+  "loc": 9056918,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\peninsula__luxury_auctions__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:20:02.053Z",
+  "cost": 0.006154,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 31,
+      "output_tokens": 523,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005554,
+      "datetime": "2026-10-21 05:20:01 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Leading options for **prestige residential property on the Mornington Peninsula** include:\n\n- **Peninsula Sotheby’s International Realty — Rob Curtain:** A strong luxury specialist, with Curtain reporting more than any other agent in sales above $3 million over the previous six years. The agency also offers international exposure through the Sotheby’s network.[1]\n- **Marshall White Flinders:** A major prestige brand with a dedicated Flinders office and coverage from Mount Eliza through Sorrento and Flinders. **Stephen Baster**, listed as Director and Auctioneer, is a key auction contact.[2][5]\n- **Kay & Burton:** A long-established luxury brand with Peninsula offices and access to high-net-worth buyer networks in Australia and internationally.[10]\n- **McEwing & Partners:** A highly regarded boutique agency focused on Mornington, Mount Martha and Mount Eliza. Its leading auction and sales figures include **Dean Phillips**, **Marcus Gollings** and company auctioneer **Brett McEwing**.[7][9]\n- **The Agency Mornington Peninsula:** **Adam Alexander**, Principal Property Partner and Auctioneer, has more than 25 years’ experience, a 4.9 rating from 528 verified reviews and award recognition.[8]\n- **Danckert Real Estate:** A Mount Martha-based specialist in luxury and lifestyle properties, with international marketing through LuxuryRealEstate.com.[6]\n- **Di Petta Group:** A Bayside and Peninsula premium-property specialist offering licensed auctioneers and discreet off-market, private-treaty and auction campaigns.[4]\n\n## Best auctioneer shortlist\n\nFor a high-value auction, the strongest initial shortlist is:\n\n1. **Stephen Baster — Marshall White**\n2. **Brett McEwing — McEwing & Partners**\n3. **Adam Alexander — The Agency Mornington Peninsula**\n4. **Dean Phillips or Marcus Gollings — McEwing & Partners**\n5. **Rob Curtain — Peninsula Sotheby’s International Realty**, particularly where international luxury-buyer reach is important\n\nThe best choice depends on the suburb and property type: use **Sotheby’s or Kay & Burton** for global luxury exposure, **Marshall White** for a polished prestige auction campaign, and **McEwing, The Agency or Danckert** for deep local Peninsula knowledge. Publicly available rankings are not fully standardised, so auction results should be verified against comparable recent sales in the specific suburb before appointing an agent.",
+              "annotations": [
+                {
+                  "title": "Rob Curtain",
+                  "url": "https://www.domain.com.au/real-estate-agent/rob-curtain-1158442/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Flinders Office | Real Estate Agency Mornington Peninsula | Marshall White",
+                  "url": "https://www.marshallwhite.com.au/office/flinders/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Belle Property: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/belle-property",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Residential",
+                  "url": "https://www.dipettagroup.com.au/p-residential-real-estate-services-45.aspx",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Our Story | Marshall White",
+                  "url": "https://www.marshallwhite.com.au/our-story",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "MARKETING YOUR PRESTIGE PROPERTY",
+                  "url": "https://danckert.com.au/article/marketing-your-prestige-property",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "McEwing & Partners - Verified Reviews & Real Estate For Sale",
+                  "url": "https://www.ratemyagent.com.au/real-estate-agency/mcewing-partners-ai968/sales/overview",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Adam Alexander - Verified Reviews & Properties For Sale",
+                  "url": "https://www.ratemyagent.com.au/real-estate-agent/adam-alexander-aa210/sales/overview",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "McEwing & Partners | Real Estate Agency in null, VIC",
+                  "url": "https://next.sohoapp.com/real-estate-agency/mcewing-partners",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Kay & Burton | LinkedIn",
+                  "url": "https://www.linkedin.com/company/kay-&-burton",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

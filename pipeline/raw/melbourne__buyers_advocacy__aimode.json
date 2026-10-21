@@ -1,0 +1,236 @@
+{
+  "slug": "melbourne",
+  "pk": "buyers_advocacy",
+  "plat": "aimode",
+  "text": "Which luxury real estate agencies or buyers advocates in Melbourne offer the best buyers advocacy and acquisition advisory for prestige homes?",
+  "loc": 1000567,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\melbourne__buyers_advocacy__aimode.json",
+  "at": "2026-10-21T05:10:53.559Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which luxury real estate agencies or buyers advocates in Melbourne offer the best buyers advocacy and acquisition advisory for prestige homes?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000567,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20luxury%20real%20estate%20agencies%20or%20buyers%20advocates%20in%20Melbourne%20offer%20the%20best%20buyers%20advocacy%20and%20acquisition%20advisory%20for%20prestige%20homes%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCYH9EQ-vQtZqEeDnjCF1VgQF",
+      "datetime": "2026-10-21 05:10:53 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "For high-end and prestige real estate acquisition in Melbourne, top-tier buyers advocacy requires `deep local networks in blue-chip suburbs (like Toorak, Brighton, and South Yarra), access to silent or off-market properties, and elite negotiation` . Leading specialists in this luxury tier include:[[1]](https://prestigepropertybuyer.com.au/)[[2]](https://prestigepropertybuyer.com.au/melbourne)[[3]](https://www.parkerbuyeradvocates.com.au/)\n\n- [Prestige Property Buyer Australia](https://prestigepropertybuyer.com.au/melbourne) : Tailored specifically to ultra-high-net-worth buyers, executives, and high-profile individuals. They specialize in anonymous acquisitions, high-value silent market access (with a significant volume of off-market transactions), and bespoke lifestyle mapping.[[1]](https://prestigepropertybuyer.com.au/)\n- [Davidson Property Advocates](https://davidsonpropertyadvocates.com.au/) : Multi-award-winning agency recognized repeatedly by the REIV and REIA, highly regarded in Bayside and premium inner-Melbourne markets for strategic off-market sourcing and major price savings on elite family homes.[[1]](https://davidsonpropertyadvocates.com.au/)[[2]](https://davidsonpropertyadvocates.com.au/buyers-advocate-south-melbourne)\n- [Advantage Property Consulting](https://advantageproperty.com.au/who-we-help/prestige-buyers/) : Led by Frank Valentic, this group offers dedicated prestige buyers advocacy geared towards high-end auctions, private viewings, and leveraging deep networks with premium selling agents.[[1]](https://advantageproperty.com.au/who-we-help/prestige-buyers/)\n- [Parker Buyer Advocates](https://www.parkerbuyeradvocates.com.au/) : A boutique agency known for meticulous due diligence, filtering trick photography and lemons, and high-level negotiation in Melbourne's upper-tier residential sectors.[[1]](https://www.parkerbuyeradvocates.com.au/)\n- [Cate Bakos Property](https://www.catebakos.com.au/) : Highly praised on platforms like [Reddit](https://www.reddit.com/r/AusPropertyChat/comments/1lx6bqg/buyers_agents_in_melbourne/) for rigorous data-driven evaluation, thorough due diligence, and skillful auction and private treaty representation.[[1]](https://www.reddit.com/r/AusPropertyChat/comments/1lx6bqg/buyers_agents_in_melbourne/)[[2]](https://www.catebakos.com.au/)\n\nIf you share your **target suburbs**, **budget range** , and whether you are looking for an **off-market silent listing** or an **auction-ready family estate** , I can help narrow down which advocate fits your precise criteria.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "For high-end and prestige real estate acquisition in Melbourne, top-tier buyers advocacy requires deep local networks in blue-chip suburbs (like Toorak, Brighton, and South Yarra), access to silent or off-market properties, and elite negotiation. Leading specialists in this luxury tier include:",
+              "markdown": "For high-end and prestige real estate acquisition in Melbourne, top-tier buyers advocacy requires `deep local networks in blue-chip suburbs (like Toorak, Brighton, and South Yarra), access to silent or off-market properties, and elite negotiation` . Leading specialists in this luxury tier include:[[1]](https://prestigepropertybuyer.com.au/)[[2]](https://prestigepropertybuyer.com.au/melbourne)[[3]](https://www.parkerbuyeradvocates.com.au/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "prestigepropertybuyer.com.au",
+                  "domain": "prestigepropertybuyer.com.au",
+                  "url": "https://prestigepropertybuyer.com.au/",
+                  "title": "Prestige Buyer's Agent Australia | Luxury Property",
+                  "text": "Services: Anonymous acquisition, silent market access, bespoke lifestyle mapping, concierge post-settlement services. Process: Pri..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "prestigepropertybuyer.com.au",
+                  "domain": "prestigepropertybuyer.com.au",
+                  "url": "https://prestigepropertybuyer.com.au/melbourne",
+                  "title": "Melbourne",
+                  "text": "Melbourne operations with a focus on family homes and investment properties. finest off-market opportunities. 18 years $650M+ 60%+"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Parker Buyer Advocates",
+                  "domain": "www.parkerbuyeradvocates.com.au",
+                  "url": "https://www.parkerbuyeradvocates.com.au/",
+                  "title": "Multi-Award Winning Melbourne Buyers Agent | Parker Buyers Advocate",
+                  "text": "Negotiation & Auctions: Professional negotiation leveling, auction bidding management, protection of personal information and prev..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Prestige Property Buyer Australia : Tailored specifically to ultra-high-net-worth buyers, executives, and high-profile individuals. They specialize in anonymous acquisitions, high-value silent market access (with a significant volume of off-market transactions), and bespoke lifestyle mapping. Davidson Property Advocates : Multi-award-winning agency recognized repeatedly by the REIV and REIA, highly regarded in Bayside and premium inner-Melbourne markets for strategic off-market sourcing and major price savings on elite family homes. Advantage Property Consulting : Led by Frank Valentic, this group offers dedicated prestige buyers advocacy geared towards high-end auctions, private viewings, and leveraging deep networks with premium selling agents. Parker Buyer Advocates : A boutique agency known for meticulous due diligence, filtering trick photography and lemons, and high-level negotiation in Melbourne's upper-tier residential sectors. Cate Bakos Property : Highly praised on platforms like Reddit for rigorous data-driven evaluation, thorough due diligence, and skillful auction and private treaty representation.",
+              "markdown": "- [Prestige Property Buyer Australia](https://prestigepropertybuyer.com.au/melbourne) : Tailored specifically to ultra-high-net-worth buyers, executives, and high-profile individuals. They specialize in anonymous acquisitions, high-value silent market access (with a significant volume of off-market transactions), and bespoke lifestyle mapping.[[1]](https://prestigepropertybuyer.com.au/)\n- [Davidson Property Advocates](https://davidsonpropertyadvocates.com.au/) : Multi-award-winning agency recognized repeatedly by the REIV and REIA, highly regarded in Bayside and premium inner-Melbourne markets for strategic off-market sourcing and major price savings on elite family homes.[[1]](https://davidsonpropertyadvocates.com.au/)[[2]](https://davidsonpropertyadvocates.com.au/buyers-advocate-south-melbourne)\n- [Advantage Property Consulting](https://advantageproperty.com.au/who-we-help/prestige-buyers/) : Led by Frank Valentic, this group offers dedicated prestige buyers advocacy geared towards high-end auctions, private viewings, and leveraging deep networks with premium selling agents.[[1]](https://advantageproperty.com.au/who-we-help/prestige-buyers/)\n- [Parker Buyer Advocates](https://www.parkerbuyeradvocates.com.au/) : A boutique agency known for meticulous due diligence, filtering trick photography and lemons, and high-level negotiation in Melbourne's upper-tier residential sectors.[[1]](https://www.parkerbuyeradvocates.com.au/)\n- [Cate Bakos Property](https://www.catebakos.com.au/) : Highly praised on platforms like [Reddit](https://www.reddit.com/r/AusPropertyChat/comments/1lx6bqg/buyers_agents_in_melbourne/) for rigorous data-driven evaluation, thorough due diligence, and skillful auction and private treaty representation.[[1]](https://www.reddit.com/r/AusPropertyChat/comments/1lx6bqg/buyers_agents_in_melbourne/)[[2]](https://www.catebakos.com.au/)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Prestige Property Buyer Australia",
+                  "description": null,
+                  "url": "https://prestigepropertybuyer.com.au/melbourne",
+                  "domain": "prestigepropertybuyer.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Davidson Property Advocates",
+                  "description": null,
+                  "url": "https://davidsonpropertyadvocates.com.au/",
+                  "domain": "davidsonpropertyadvocates.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Advantage Property Consulting",
+                  "description": null,
+                  "url": "https://advantageproperty.com.au/who-we-help/prestige-buyers/",
+                  "domain": "advantageproperty.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Parker Buyer Advocates",
+                  "description": null,
+                  "url": "https://www.parkerbuyeradvocates.com.au/",
+                  "domain": "www.parkerbuyeradvocates.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Cate Bakos Property",
+                  "description": null,
+                  "url": "https://www.catebakos.com.au/",
+                  "domain": "www.catebakos.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Reddit",
+                  "description": null,
+                  "url": "https://www.reddit.com/r/AusPropertyChat/comments/1lx6bqg/buyers_agents_in_melbourne/",
+                  "domain": "www.reddit.com"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "prestigepropertybuyer.com.au",
+                  "domain": "prestigepropertybuyer.com.au",
+                  "url": "https://prestigepropertybuyer.com.au/",
+                  "title": "Prestige Buyer's Agent Australia | Luxury Property",
+                  "text": "Services: Anonymous acquisition, silent market access, bespoke lifestyle mapping, concierge post-settlement services. Process: Pri..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Davidson Property Advocates",
+                  "domain": "davidsonpropertyadvocates.com.au",
+                  "url": "https://davidsonpropertyadvocates.com.au/",
+                  "title": "Melbourne's #1 Buyers Advocate | Award-Winning Buyers Agents",
+                  "text": "Davidson Property Advocates … $13M+ client savings, 9.2% average price savings, 91 suburbs covered, 48% off-market purchases, 60+ ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Davidson Property Advocates",
+                  "domain": "davidsonpropertyadvocates.com.au",
+                  "url": "https://davidsonpropertyadvocates.com.au/buyers-advocate-south-melbourne",
+                  "title": "Buyers Advocate South Melbourne",
+                  "text": "Call Davidson Property Advocates–the top buyers advocate in South Melbourne & 4-time REIV Buyers Agent of the Year (2022-2025)–on ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Advantage Property Consulting",
+                  "domain": "advantageproperty.com.au",
+                  "url": "https://advantageproperty.com.au/who-we-help/prestige-buyers/",
+                  "title": "Prestige buyers - Advantage Property",
+                  "text": "Advantage Property luxury buyers advocacy (Director Frank Valentic); confidential and off-market property search … optimizing pric..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Parker Buyer Advocates",
+                  "domain": "www.parkerbuyeradvocates.com.au",
+                  "url": "https://www.parkerbuyeradvocates.com.au/",
+                  "title": "Multi-Award Winning Melbourne Buyers Agent | Parker Buyers Advocate",
+                  "text": "Negotiation & Auctions: Professional negotiation leveling, auction bidding management, protection of personal information and prev..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Reddit",
+                  "domain": "www.reddit.com",
+                  "url": "https://www.reddit.com/r/AusPropertyChat/comments/1lx6bqg/buyers_agents_in_melbourne/",
+                  "title": "Buyers Agents in Melbourne : r/AusPropertyChat - Reddit",
+                  "text": "is knowledgeable and helpful with negotiations. Empower Wealth is highly recommended. fixed fee of $8k. praised for focusing on da..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Cate Bakos",
+                  "domain": "www.catebakos.com.au",
+                  "url": "https://www.catebakos.com.au/",
+                  "title": "Buyer's Advocate Melbourne | Property Investment Experts",
+                  "text": "Cate Bakos Property (Melbourne and regional Victoria) Services: Property investment advisory (end-to-end strategy, search, due dil..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you share your target suburbs, budget range, and whether you are looking for an off-market silent listing or an auction-ready family estate, I can help narrow down which advocate fits your precise criteria.",
+              "markdown": "If you share your **target suburbs**, **budget range** , and whether you are looking for an **off-market silent listing** or an **auction-ready family estate** , I can help narrow down which advocate fits your precise criteria.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Reddit",
+              "domain": "www.reddit.com",
+              "url": "https://www.reddit.com/r/AusPropertyChat/comments/1lx6bqg/buyers_agents_in_melbourne/",
+              "title": "Buyers Agents in Melbourne : r/AusPropertyChat - Reddit",
+              "text": "is knowledgeable and helpful with negotiations. Empower Wealth is highly recommended. fixed fee of $8k. praised for focusing on data, strong rental yields, and cap..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Advantage Property Consulting",
+              "domain": "advantageproperty.com.au",
+              "url": "https://advantageproperty.com.au/who-we-help/prestige-buyers/",
+              "title": "Prestige buyers - Advantage Property",
+              "text": "Advantage Property luxury buyers advocacy (Director Frank Valentic); confidential and off-market property search … optimizing price, terms, and time frames; auctio..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Davidson Property Advocates",
+              "domain": "davidsonpropertyadvocates.com.au",
+              "url": "https://davidsonpropertyadvocates.com.au/",
+              "title": "Melbourne's #1 Buyers Advocate | Award-Winning Buyers Agents",
+              "text": "Davidson Property Advocates …"
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

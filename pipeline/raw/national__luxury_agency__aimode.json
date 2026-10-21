@@ -1,0 +1,192 @@
+{
+  "slug": "national",
+  "pk": "luxury_agency",
+  "plat": "aimode",
+  "text": "Who are the best luxury real estate agencies in Australia? Give me a shortlist of specific prestige property agencies with reasons.",
+  "loc": 2036,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\national__luxury_agency__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:20:48.715Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the best luxury real estate agencies in Australia? Give me a shortlist of specific prestige property agencies with reasons.",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 2036,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Who%20are%20the%20best%20luxury%20real%20estate%20agencies%20in%20Australia%3F%20Give%20me%20a%20shortlist%20of%20specific%20prestige%20property%20agencies%20with%20reasons.&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCd_Fh2cH_SsrEVITW5WhZ4JT",
+      "datetime": "2026-10-21 05:20:48 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "Australia’s top luxury real estate agencies combine high-profile networks, discreet white-glove client servicing , and deep access to high-net-worth domestic and international buyers.[[1]](https://www.amirprestige.com.au/)[[2]](https://agent.domain.com.au/advice/inside-the-playbook-of-australias-top-prestige-agents-1408401/)\n\nThe premier prestige property agencies across the country include:\n\n- Sydney Sotheby’s International Realty[Sydney Sotheby’s International Realty](https://sydneysothebysrealty.com/) (Sydney, Byron Bay, and national reach) – Renowned for handling ultra-prime coastal and harbor-front estates (such as in Point Piper and Vaucluse). They leverage an unmatched global referral network and go to extreme lengths—such as international VIP client travel—to secure and market elite properties.[[1]](https://www.sothebysrealty.com/eng/sales/aus)[[2]](https://agent.domain.com.au/advice/inside-the-playbook-of-australias-top-prestige-agents-1408401/)\n- The Rubinstein Group (TRG)[The Rubinstein Group (TRG)](https://www.rohatyngroup.com/) (Sydney's Eastern Suburbs) – Founded by Gavin Rubinstein, TRG dominates high-end residential sales through heavy digital media presence, non-traditional private viewings, and curated soft-launch events rather than conventional open homes.[[1]](https://www.therubinsteingroup.com/)[[2]](https://agent.domain.com.au/advice/inside-the-playbook-of-australias-top-prestige-agents-1408401/)\n- **Marshall White** (Melbourne) – The leading prestige agency for luxury period homes, contemporary architectural builds, and high-end apartments across Melbourne’s elite inner-suburbs like Toorak, Brighton, and Armadale.[[1]](https://www.marshallwhite.com.au/)\n- **Amir Prestige** (Gold Coast & Northern NSW) – A dominant force in Queensland’s luxury coastal market, famous for record-shattering beachfront sales along Hedges Avenue and deep connections with prominent high-net-worth buyers and celebrities.[[1]](https://www.amirprestige.com.au/)\n\nIf you have a **specific city or region** in mind, or if you are looking to **buy or sell** , I can narrow down the exact agent and recent comparable sales for you.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Australia’s top luxury real estate agencies combine high-profile networks, discreet white-glove client servicing, and deep access to high-net-worth domestic and international buyers.",
+              "markdown": "Australia’s top luxury real estate agencies combine high-profile networks, discreet white-glove client servicing , and deep access to high-net-worth domestic and international buyers.[[1]](https://www.amirprestige.com.au/)[[2]](https://agent.domain.com.au/advice/inside-the-playbook-of-australias-top-prestige-agents-1408401/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Amir Prestige",
+                  "domain": "www.amirprestige.com.au",
+                  "url": "https://www.amirprestige.com.au/",
+                  "title": "Amir Prestige: Gold Coast Luxury Real Estate Agency",
+                  "text": "Only Queensland agency with 10 transactions over $20,000,000. Network: Over 250,000 qualified buyers including high-net-worth indi..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Domain Marketing Hub",
+                  "domain": "agent.domain.com.au",
+                  "url": "https://agent.domain.com.au/advice/inside-the-playbook-of-australias-top-prestige-agents-1408401/",
+                  "title": "Inside the playbook of Australia's top prestige agents",
+                  "text": "“When it comes to the high-end market, the experience I create for the buyer is a white-glove client experience,” she says."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "The premier prestige property agencies across the country include:",
+              "markdown": "The premier prestige property agencies across the country include:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "(Sydney, Byron Bay, and national reach) – Renowned for handling ultra-prime coastal and harbor-front estates (such as in Point Piper and Vaucluse). They leverage an unmatched global referral network and go to extreme lengths—such as international VIP client travel—to secure and market elite properties. (Sydney's Eastern Suburbs) – Founded by Gavin Rubinstein, TRG dominates high-end residential sales through heavy digital media presence, non-traditional private viewings, and curated soft-launch events rather than conventional open homes. Marshall White (Melbourne) – The leading prestige agency for luxury period homes, contemporary architectural builds, and high-end apartments across Melbourne’s elite inner-suburbs like Toorak, Brighton, and Armadale. Amir Prestige (Gold Coast & Northern NSW) – A dominant force in Queensland’s luxury coastal market, famous for record-shattering beachfront sales along Hedges Avenue and deep connections with prominent high-net-worth buyers and celebrities.",
+              "markdown": "- Sydney Sotheby’s International Realty[Sydney Sotheby’s International Realty](https://sydneysothebysrealty.com/) (Sydney, Byron Bay, and national reach) – Renowned for handling ultra-prime coastal and harbor-front estates (such as in Point Piper and Vaucluse). They leverage an unmatched global referral network and go to extreme lengths—such as international VIP client travel—to secure and market elite properties.[[1]](https://www.sothebysrealty.com/eng/sales/aus)[[2]](https://agent.domain.com.au/advice/inside-the-playbook-of-australias-top-prestige-agents-1408401/)\n- The Rubinstein Group (TRG)[The Rubinstein Group (TRG)](https://www.rohatyngroup.com/) (Sydney's Eastern Suburbs) – Founded by Gavin Rubinstein, TRG dominates high-end residential sales through heavy digital media presence, non-traditional private viewings, and curated soft-launch events rather than conventional open homes.[[1]](https://www.therubinsteingroup.com/)[[2]](https://agent.domain.com.au/advice/inside-the-playbook-of-australias-top-prestige-agents-1408401/)\n- **Marshall White** (Melbourne) – The leading prestige agency for luxury period homes, contemporary architectural builds, and high-end apartments across Melbourne’s elite inner-suburbs like Toorak, Brighton, and Armadale.[[1]](https://www.marshallwhite.com.au/)\n- **Amir Prestige** (Gold Coast & Northern NSW) – A dominant force in Queensland’s luxury coastal market, famous for record-shattering beachfront sales along Hedges Avenue and deep connections with prominent high-net-worth buyers and celebrities.[[1]](https://www.amirprestige.com.au/)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Sydney Sotheby’s International Realty",
+                  "description": null,
+                  "url": "https://sydneysothebysrealty.com/",
+                  "domain": "sydneysothebysrealty.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "The Rubinstein Group (TRG)",
+                  "description": null,
+                  "url": "https://www.rohatyngroup.com/",
+                  "domain": "www.rohatyngroup.com"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Sotheby's International Realty",
+                  "domain": "www.sothebysrealty.com",
+                  "url": "https://www.sothebysrealty.com/eng/sales/aus",
+                  "title": "Australia Luxury Real Estate - Homes for Sale",
+                  "text": "24 luxury residential properties marketed. Bedrooms range from 3 to 10; full bathrooms range from 2 to 9. Features include houses,"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Domain Marketing Hub",
+                  "domain": "agent.domain.com.au",
+                  "url": "https://agent.domain.com.au/advice/inside-the-playbook-of-australias-top-prestige-agents-1408401/",
+                  "title": "Inside the playbook of Australia's top prestige agents",
+                  "text": "“When it comes to the high-end market, the experience I create for the buyer is a white-glove client experience,” she says."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "The Rubinstein Group",
+                  "domain": "www.therubinsteingroup.com",
+                  "url": "https://www.therubinsteingroup.com/",
+                  "title": "Luxury Real Estate Sydney | Real Estate Agents Woollahra, Rose Bay & Hunters Hill | The Rubinstein Group | The Rubinstein Group",
+                  "text": "The Rubinstein Group (TRG) operates in luxury real estate across Sydney including Woollahra, Rose Bay, and Hunters Hill. 1,000 man..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Marshall White",
+                  "domain": "www.marshallwhite.com.au",
+                  "url": "https://www.marshallwhite.com.au/",
+                  "title": "Marshall White: Best Luxury Real Estate Agents in Melbourne",
+                  "text": "Marshall White are the Leading Prestige Real Estate Agents for Luxury Properties in Melbourne."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Amir Prestige",
+                  "domain": "www.amirprestige.com.au",
+                  "url": "https://www.amirprestige.com.au/",
+                  "title": "Amir Prestige: Gold Coast Luxury Real Estate Agency",
+                  "text": "Amir Prestige (Gold Coast and Northern NSW luxury real estate). Only Queensland agency with 10 transactions over $20,000,000. Network: Over 250,000 qualified buyer..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you have a specific city or region in mind, or if you are looking to buy or sell, I can narrow down the exact agent and recent comparable sales for you.",
+              "markdown": "If you have a **specific city or region** in mind, or if you are looking to **buy or sell** , I can narrow down the exact agent and recent comparable sales for you.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "The Rubinstein Group",
+              "domain": "www.therubinsteingroup.com",
+              "url": "https://www.therubinsteingroup.com/",
+              "title": "Luxury Real Estate Sydney | Real Estate Agents Woollahra, Rose Bay & Hunters Hill | The Rubinstein Group | The Rubinstein Group",
+              "text": "The Rubinstein Group (TRG) operates in luxury real estate across Sydney including Woollahra, Rose Bay, and Hunters Hill. 1,000 managements in Sydney's Eastern Subu..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Marshall White",
+              "domain": "www.marshallwhite.com.au",
+              "url": "https://www.marshallwhite.com.au/",
+              "title": "Marshall White: Best Luxury Real Estate Agents in Melbourne",
+              "text": "Marshall White are the Leading Prestige Real Estate Agents for Luxury Properties in Melbourne."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Amir Prestige",
+              "domain": "www.amirprestige.com.au",
+              "url": "https://www.amirprestige.com.au/",
+              "title": "Amir Prestige: Gold Coast Luxury Real Estate Agency",
+              "text": "Amir Prestige (Gold Coast and Northern NSW luxury real estate). Only Queensland agency with 10 transactions over $20,000,000. Network: Over 250,000 qualified buyer..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

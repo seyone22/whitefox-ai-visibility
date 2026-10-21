@@ -1,0 +1,106 @@
+{
+  "slug": "national",
+  "pk": "prestige_selling",
+  "plat": "perplexity",
+  "text": "I am selling a $10M luxury residential property in Australia. Which prestige real estate agencies have the strongest track record for high-end home sales?",
+  "loc": 2036,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\national__prestige_selling__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:20:46.670Z",
+  "cost": 0.006495,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 36,
+      "output_tokens": 859,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005895,
+      "datetime": "2026-10-21 05:20:46 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For a **$10 million Australian residence**, the strongest shortlist should be built around the property’s city and buyer profile rather than national office count. The most credible prestige names to interview are:\n\n| Agency | Strongest fit | Evidence of high-end capability |\n|---|---|---|\n| **Marshall White** | Melbourne, particularly Toorak, Brighton, Hawthorn and surrounding suburbs | Reported sales include a $15 million Toorak mansion; about 90% of its transactions are stated to fall within the top 10% of the market.[8] |\n| **RT Edgar** | Melbourne prestige and waterfront homes | Reported to have handled a $20 million Toorak sale, demonstrating access to Melbourne’s ultra-luxury market.[8] |\n| **McGrath** | Sydney, Brisbane, NSW and Queensland prestige markets | A major East Coast brand with a strong concentration in premium metropolitan suburbs.[1][2] |\n| **Belle Property** | Lifestyle, design-led and prestige homes across Sydney, Melbourne, Brisbane and coastal markets | Its network spans more than 200 offices in selected lifestyle locations, supporting broad buyer reach while retaining a premium positioning.[1] |\n| **The Agency** | National or cross-state campaigns requiring a premium brand | Frequently listed among Australia’s leading luxury-focused agencies, particularly for presentation-heavy campaigns.[1][5] |\n| **Jellis Craig** | Melbourne’s affluent inner suburbs | Reported high-end sales include a $7.2 million Kew residence, with targeted digital and international-buyer marketing.[8] |\n| **Kay & Burton** | Melbourne’s established ultra-prestige market | A specialist brand commonly shortlisted alongside Marshall White and Jellis Craig for luxury Melbourne property.[1][2] |\n| **Knight Frank** | International, discreet or globally marketed sales | Its Australian operation combines prestige residential capability with an international network; this can suit properties likely to attract offshore buyers.[8] |\n| **CBRE Residential** | Sydney luxury apartments, penthouses and globally marketed assets | Reported involvement in a $10 million Darling Point penthouse sale.[8] |\n| **Specialist local boutiques** | Gold Coast, Brisbane, Byron Bay, regional and tightly defined prestige markets | Boutique operators can bring deeper local relationships; for example, JW Prestige Agents reports more than $800 million in Gold Coast residential sales by its principal.[7] |\n\n## Recommended shortlist by location\n\n- **Sydney:** McGrath, Belle Property, The Agency, Knight Frank and CBRE Residential.\n- **Melbourne:** Marshall White, RT Edgar, Kay & Burton and Jellis Craig.\n- **Brisbane:** McGrath, Belle Property, The Agency, Ray White’s strongest local prestige team and a proven boutique specialist.\n- **Gold Coast:** A leading local prestige specialist such as JW Prestige Agents, alongside a national brand with international reach.\n- **Byron Bay or coastal lifestyle markets:** Belle Property, The Agency and the strongest locally established prestige team.\n\n## How to choose between them\n\nAsk each agency for:\n\n- Their **last 10 settled sales above $5 million**, including suburb, sale method and result.\n- Comparable sales specifically between **$8 million and $15 million**.\n- The individual agent’s personal track record—not merely the franchise’s national statistics.\n- Evidence of qualified buyers currently seeking a property like yours.\n- A proposed off-market strategy, since prestige agents often use private buyer databases rather than relying solely on public portals.[10]\n- The exact marketing plan, including editorial coverage, international syndication, database activation, photography, video and campaign duration.\n- A transparent fee proposal, including commission, marketing costs and any auction or styling charges.\n\nFor a typical **Melbourne $10 million home**, start with **Marshall White, RT Edgar and Kay & Burton**. For **Sydney**, compare **McGrath, CBRE Residential, Knight Frank and Belle Property**. The final appointment should go to the agent who can show the strongest recent comparable sales and a credible list of qualified buyers—not automatically the agency with the biggest brand.",
+              "annotations": [
+                {
+                  "title": "Savills in real estate companies: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/savills/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Real estate agencies in Australia: AI ranking",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Raine & Horne: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/raine-horne/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Barry Plant: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/barry-plant",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Agency: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/the-agency/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Thomas Dennis | Altora Global",
+                  "url": "https://www.domain.com.au/real-estate-agent/thomas-dennis-1997242/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "JW Prestige Agents | Prestige Real Estate Agents | Gold Coast",
+                  "url": "https://prestigeagents.com.au/about-jw-prestige-agents-gold-coast-real-estate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 20 Real Estate Agencies in Australia",
+                  "url": "https://www.starinvestment.com.au/top-20-real-estate-agencies-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Markets - Luxury List |",
+                  "url": "https://luxurylist.com.au/markets",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top End Plays By Different Rules - Inside Prestige Property Valuations",
+                  "url": "https://opteonsolutions.com/au/insights/inside-prestige-property-valuations",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

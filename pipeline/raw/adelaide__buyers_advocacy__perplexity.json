@@ -1,0 +1,106 @@
+{
+  "slug": "adelaide",
+  "pk": "buyers_advocacy",
+  "plat": "perplexity",
+  "text": "Which luxury real estate agencies or buyers advocates in Adelaide offer the best buyers advocacy and acquisition advisory for prestige homes?",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\adelaide__buyers_advocacy__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:19:06.081Z",
+  "cost": 0.006228,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 29,
+      "output_tokens": 599,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005628,
+      "datetime": "2026-10-21 05:19:05 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For **prestige-home acquisition in Adelaide**, the strongest shortlist is:\n\n- **Joanna Boyd Buyers Advocate** — Best fit for a highly personalised, discreet luxury search. It explicitly serves prestige buyers and sources on-market, off-market and pre-market properties, managing the process through negotiation and settlement.[1]\n- **Cohen Handler Adelaide** — Strong option for high-profile or interstate buyers needing a full-service acquisition adviser. It advertises access to exclusive off-market and pre-market homes, local professional networks, private inspections and confidentiality measures such as non-disclosure agreements.[2]\n- **National Property Buyers Adelaide** — A credible independent choice with a documented track record ranging from ordinary purchases to luxury homes in Adelaide’s blue-chip suburbs up to $4.75 million. Its Adelaide operation is led by Katherine Skinner, described as an award-winning buyer’s agent.[3]\n- **Lillywhite Property** — Well suited to buyers seeking a nationwide, discreet luxury search, particularly if the brief may extend beyond Adelaide. Its service includes off-market sourcing, due diligence, valuation guidance and acquisition strategy.[4]\n- **Aus Property Professionals Adelaide** — Worth considering for a structured premium-home search combining local research, negotiation, due diligence and stated access to off-market opportunities. The firm specifically offers a luxury buyers service.[5]\n- **BuyerX** — Particularly relevant for prestige homes in Adelaide’s north-west, including Prospect. It highlights off-market access, local selling-agent relationships and support from search through settlement.[6]\n\n## Best fit by buyer profile\n\n| Need | Best starting points |\n|---|---|\n| Bespoke luxury and lifestyle residence | Joanna Boyd; Lillywhite |\n| Confidential or high-profile acquisition | Cohen Handler; Joanna Boyd |\n| Independent local representation | National Property Buyers |\n| Interstate or national search | Cohen Handler; Lillywhite |\n| Prospect and north-west Adelaide prestige property | BuyerX |\n| Research-led acquisition with negotiation and due diligence | Aus Property Professionals |\n\nNo agency can be objectively labelled “best” without comparing the individual adviser, fee structure and access to the specific suburb or property type. Before appointing one, ask for:\n\n- Evidence of recent **Adelaide prestige acquisitions**, ideally in your target suburbs and price range.\n- Whether the firm is acting **only for the buyer** and does not accept vendor-side commissions.\n- A clear breakdown of **retainer, success fee, auction-bidding fee and any inspection or due-diligence charges**.\n- Examples of genuine **off-market or pre-market transactions**, rather than general database access.\n- Their approach to valuation, building and pest reports, title review, heritage restrictions and insurance.\n- How they protect confidentiality and manage private inspections.\n- Two or three recent client references for comparable purchases.\n\nA practical initial comparison would be **Joanna Boyd, Cohen Handler and National Property Buyers**, with **Lillywhite** added if the search is national or especially discreet.",
+              "annotations": [
+                {
+                  "title": "Buyer's Agent Adelaide | Buyers Advocate South Australia",
+                  "url": "https://adelaide.nationalpropertybuyers.com.au/buyers-agents/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Lillywhite Property National Buyers Agents | Buyer Advocacy ...",
+                  "url": "https://lillywhiteproperty.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Adelaide Buyers Agent | Aus Property Professionals",
+                  "url": "https://www.auspropertyprofessionals.com.au/locations/adelaide/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "National Property Buyers Adelaide (South Australia) 2026",
+                  "url": "https://adelaide.nationalpropertybuyers.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Buyer's Agent Adelaide | Expert Buyer's Advocacy Services",
+                  "url": "https://youandmepps.com.au/buyers-agent-adelaide/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Buyers Agent Prospect, Buyers Advocate",
+                  "url": "https://buyerx.com.au/buyers-advocate/prospect/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Home - Joanna Boyd Buyers Advocate",
+                  "url": "https://joannaboyd.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Vendor Advocacy",
+                  "url": "https://www.smdproperty.com.au/vendor-advocacy/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Buyers Agent Adelaide",
+                  "url": "https://cohenhandler.com.au/adelaide/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "8 Buyer's agents in Adelaide (2026) - PropertyGo",
+                  "url": "https://propertygo.com.au/buyer-agents/in/adelaide",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

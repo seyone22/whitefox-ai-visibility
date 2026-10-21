@@ -1,0 +1,746 @@
+{
+  "whitefoxrealestate.com.au": {
+    "hist": [
+      {
+        "year": 2026,
+        "month": 10,
+        "metrics": {
+          "mentions": 21,
+          "ai_search_volume": 1430
+        }
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "metrics": {
+          "mentions": 26,
+          "ai_search_volume": 10140
+        }
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "metrics": {
+          "mentions": 14,
+          "ai_search_volume": 920
+        }
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "metrics": {
+          "mentions": 12,
+          "ai_search_volume": 3000
+        }
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "metrics": {
+          "mentions": 8,
+          "ai_search_volume": 750
+        }
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "metrics": {
+          "mentions": 15,
+          "ai_search_volume": 2590
+        }
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "metrics": {
+          "mentions": 16,
+          "ai_search_volume": 8610
+        }
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "metrics": {
+          "mentions": 15,
+          "ai_search_volume": 2560
+        }
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "metrics": {
+          "mentions": 11,
+          "ai_search_volume": 4100
+        }
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "metrics": {
+          "mentions": 7,
+          "ai_search_volume": 590
+        }
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "metrics": {
+          "mentions": 12,
+          "ai_search_volume": 1840
+        }
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "metrics": {
+          "mentions": 8,
+          "ai_search_volume": 720
+        }
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "metrics": {
+          "mentions": 3,
+          "ai_search_volume": 3210
+        }
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "metrics": {
+          "mentions": 3,
+          "ai_search_volume": 800
+        }
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "metrics": {
+          "mentions": 5,
+          "ai_search_volume": 1800
+        }
+      }
+    ]
+  },
+  "marshallwhite.com.au": {
+    "hist": [
+      {
+        "year": 2026,
+        "month": 10,
+        "metrics": {
+          "mentions": 56,
+          "ai_search_volume": 4040
+        }
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "metrics": {
+          "mentions": 119,
+          "ai_search_volume": 75160
+        }
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "metrics": {
+          "mentions": 35,
+          "ai_search_volume": 14940
+        }
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "metrics": {
+          "mentions": 39,
+          "ai_search_volume": 86610
+        }
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "metrics": {
+          "mentions": 24,
+          "ai_search_volume": 1980
+        }
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "metrics": {
+          "mentions": 36,
+          "ai_search_volume": 62850
+        }
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "metrics": {
+          "mentions": 35,
+          "ai_search_volume": 23570
+        }
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "metrics": {
+          "mentions": 30,
+          "ai_search_volume": 50320
+        }
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "metrics": {
+          "mentions": 19,
+          "ai_search_volume": 11540
+        }
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "metrics": {
+          "mentions": 21,
+          "ai_search_volume": 5290
+        }
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "metrics": {
+          "mentions": 22,
+          "ai_search_volume": 14280
+        }
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "metrics": {
+          "mentions": 19,
+          "ai_search_volume": 5880
+        }
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "metrics": {
+          "mentions": 1,
+          "ai_search_volume": 90
+        }
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "metrics": {
+          "mentions": 14,
+          "ai_search_volume": 10060
+        }
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "metrics": {
+          "mentions": 42,
+          "ai_search_volume": 48130
+        }
+      }
+    ]
+  },
+  "kayburton.com.au": {
+    "hist": [
+      {
+        "year": 2026,
+        "month": 10,
+        "metrics": {
+          "mentions": 16,
+          "ai_search_volume": 1120
+        }
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "metrics": {
+          "mentions": 46,
+          "ai_search_volume": 86960
+        }
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "metrics": {
+          "mentions": 9,
+          "ai_search_volume": 7160
+        }
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "metrics": {
+          "mentions": 14,
+          "ai_search_volume": 21690
+        }
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "metrics": {
+          "mentions": 14,
+          "ai_search_volume": 5630
+        }
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "metrics": {
+          "mentions": 17,
+          "ai_search_volume": 9410
+        }
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "metrics": {
+          "mentions": 25,
+          "ai_search_volume": 15290
+        }
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "metrics": {
+          "mentions": 32,
+          "ai_search_volume": 23890
+        }
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "metrics": {
+          "mentions": 12,
+          "ai_search_volume": 10180
+        }
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "metrics": {
+          "mentions": 13,
+          "ai_search_volume": 7800
+        }
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "metrics": {
+          "mentions": 15,
+          "ai_search_volume": 8170
+        }
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "metrics": {
+          "mentions": 11,
+          "ai_search_volume": 2160
+        }
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "metrics": {
+          "mentions": 5,
+          "ai_search_volume": 1580
+        }
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "metrics": {
+          "mentions": 10,
+          "ai_search_volume": 17030
+        }
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "metrics": {
+          "mentions": 13,
+          "ai_search_volume": 11440
+        }
+      }
+    ]
+  },
+  "theagency.com.au": {
+    "hist": [
+      {
+        "year": 2026,
+        "month": 10,
+        "metrics": {
+          "mentions": 94,
+          "ai_search_volume": 6660
+        }
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "metrics": {
+          "mentions": 102,
+          "ai_search_volume": 50870
+        }
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "metrics": {
+          "mentions": 39,
+          "ai_search_volume": 114490
+        }
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "metrics": {
+          "mentions": 45,
+          "ai_search_volume": 38050
+        }
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "metrics": {
+          "mentions": 34,
+          "ai_search_volume": 187760
+        }
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "metrics": {
+          "mentions": 86,
+          "ai_search_volume": 332940
+        }
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "metrics": {
+          "mentions": 163,
+          "ai_search_volume": 111820
+        }
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "metrics": {
+          "mentions": 130,
+          "ai_search_volume": 169250
+        }
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "metrics": {
+          "mentions": 38,
+          "ai_search_volume": 58790
+        }
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "metrics": {
+          "mentions": 68,
+          "ai_search_volume": 42840
+        }
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "metrics": {
+          "mentions": 58,
+          "ai_search_volume": 22800
+        }
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "metrics": {
+          "mentions": 59,
+          "ai_search_volume": 7650
+        }
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "metrics": {
+          "mentions": 18,
+          "ai_search_volume": 2870
+        }
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "metrics": {
+          "mentions": 9,
+          "ai_search_volume": 980
+        }
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "metrics": {
+          "mentions": 31,
+          "ai_search_volume": 53820
+        }
+      }
+    ]
+  },
+  "belleproperty.com": {
+    "hist": [
+      {
+        "year": 2026,
+        "month": 10,
+        "metrics": {
+          "mentions": 164,
+          "ai_search_volume": 11340
+        }
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "metrics": {
+          "mentions": 455,
+          "ai_search_volume": 1959990
+        }
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "metrics": {
+          "mentions": 170,
+          "ai_search_volume": 1087080
+        }
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "metrics": {
+          "mentions": 207,
+          "ai_search_volume": 826680
+        }
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "metrics": {
+          "mentions": 98,
+          "ai_search_volume": 23650
+        }
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "metrics": {
+          "mentions": 239,
+          "ai_search_volume": 436040
+        }
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "metrics": {
+          "mentions": 337,
+          "ai_search_volume": 989870
+        }
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "metrics": {
+          "mentions": 348,
+          "ai_search_volume": 685970
+        }
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "metrics": {
+          "mentions": 129,
+          "ai_search_volume": 235670
+        }
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "metrics": {
+          "mentions": 183,
+          "ai_search_volume": 431480
+        }
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "metrics": {
+          "mentions": 203,
+          "ai_search_volume": 786630
+        }
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "metrics": {
+          "mentions": 177,
+          "ai_search_volume": 324370
+        }
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "metrics": {
+          "mentions": 60,
+          "ai_search_volume": 37800
+        }
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "metrics": {
+          "mentions": 74,
+          "ai_search_volume": 227230
+        }
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "metrics": {
+          "mentions": 135,
+          "ai_search_volume": 142300
+        }
+      }
+    ]
+  },
+  "jelliscraig.com.au": {
+    "hist": [
+      {
+        "year": 2026,
+        "month": 10,
+        "metrics": {
+          "mentions": 96,
+          "ai_search_volume": 6840
+        }
+      },
+      {
+        "year": 2026,
+        "month": 9,
+        "metrics": {
+          "mentions": 178,
+          "ai_search_volume": 71290
+        }
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "metrics": {
+          "mentions": 43,
+          "ai_search_volume": 4370
+        }
+      },
+      {
+        "year": 2026,
+        "month": 7,
+        "metrics": {
+          "mentions": 52,
+          "ai_search_volume": 23570
+        }
+      },
+      {
+        "year": 2026,
+        "month": 6,
+        "metrics": {
+          "mentions": 29,
+          "ai_search_volume": 2620
+        }
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "metrics": {
+          "mentions": 43,
+          "ai_search_volume": 16140
+        }
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "metrics": {
+          "mentions": 47,
+          "ai_search_volume": 25960
+        }
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "metrics": {
+          "mentions": 39,
+          "ai_search_volume": 33290
+        }
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "metrics": {
+          "mentions": 28,
+          "ai_search_volume": 37520
+        }
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "metrics": {
+          "mentions": 16,
+          "ai_search_volume": 4710
+        }
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "metrics": {
+          "mentions": 18,
+          "ai_search_volume": 30920
+        }
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "metrics": {
+          "mentions": 23,
+          "ai_search_volume": 3810
+        }
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "metrics": {
+          "mentions": 5,
+          "ai_search_volume": 1610
+        }
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "metrics": {
+          "mentions": 18,
+          "ai_search_volume": 5510
+        }
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "metrics": {
+          "mentions": 22,
+          "ai_search_volume": 19790
+        }
+      }
+    ]
+  }
+}

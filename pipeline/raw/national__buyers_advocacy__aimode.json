@@ -1,0 +1,198 @@
+{
+  "slug": "national",
+  "pk": "buyers_advocacy",
+  "plat": "aimode",
+  "text": "Which luxury real estate agencies or buyers advocates in Australia offer the best buyers advocacy and acquisition advisory for prestige homes?",
+  "loc": 2036,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\national__buyers_advocacy__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:21:27.094Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which luxury real estate agencies or buyers advocates in Australia offer the best buyers advocacy and acquisition advisory for prestige homes?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 2036,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20luxury%20real%20estate%20agencies%20or%20buyers%20advocates%20in%20Australia%20offer%20the%20best%20buyers%20advocacy%20and%20acquisition%20advisory%20for%20prestige%20homes%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCd_Fh2cH_SsrEVITW5WhZ4JT",
+      "datetime": "2026-10-21 05:21:26 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "Top prestige buyer's agencies in Australia include Cohen Handler, [Propertybuyer](https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/) , and [LP Advisory](https://lpadvisory.com.au/luxury-homes/) . These firms specialize in high-end acquisitions, private off-market listings, and discrete negotiations for luxury residential property across major metro areas like Sydney, Melbourne, and Brisbane.[[1]](https://lpadvisory.com.au/luxury-homes/)[[2]](https://australianpropertyexperts.com.au/blog/best-buyers-agents-australia/)[[3]](https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/)\n\n### Top Luxury Buyer's Agencies\n\n- **Cohen Handler** : Operates nationally across major capital cities and high-end regional areas like the Southern Highlands, managing billions in high-value transactions.[[1]](https://australianpropertyexperts.com.au/blog/best-buyers-agents-australia/)\n- **[Propertybuyer](https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/)** : Led by industry experts, this multi-award-winning agency provides strict confidentiality and tailored advisory for ultra-prime residential purchases.[[1]](https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/)\n- **[LP Advisory](https://lpadvisory.com.au/luxury-homes/)** : Focuses on luxury Melbourne properties, offering elite vendor representation and targeted off-market sourcing.[[1]](https://lpadvisory.com.au/luxury-homes/)\n\n### Core Prestige Services\n\n- **Off-Market Sourcing** : Accessing private listings and unadvertised luxury homes.\n- **Expert Negotiation** : Protecting your identity and securing optimal contract terms without emotion.\n- **Due Diligence** : Verifying property provenance, local zoning laws, and true market value.\n\nIf you share your **target city or region** (such as Sydney's Eastern Suburbs or Melbourne) and your **approximate budget** , I can recommend the most focused specialist for your acquisition.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Top prestige buyer's agencies in Australia include Cohen Handler, Propertybuyer, and LP Advisory. These firms specialize in high-end acquisitions, private off-market listings, and discrete negotiations for luxury residential property across major metro areas like Sydney, Melbourne, and Brisbane.",
+              "markdown": "Top prestige buyer's agencies in Australia include Cohen Handler, [Propertybuyer](https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/) , and [LP Advisory](https://lpadvisory.com.au/luxury-homes/) . These firms specialize in high-end acquisitions, private off-market listings, and discrete negotiations for luxury residential property across major metro areas like Sydney, Melbourne, and Brisbane.[[1]](https://lpadvisory.com.au/luxury-homes/)[[2]](https://australianpropertyexperts.com.au/blog/best-buyers-agents-australia/)[[3]](https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Propertybuyer",
+                  "description": null,
+                  "url": "https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/",
+                  "domain": "www.propertybuyer.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "LP Advisory",
+                  "description": null,
+                  "url": "https://lpadvisory.com.au/luxury-homes/",
+                  "domain": "lpadvisory.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "LP Advisory",
+                  "domain": "lpadvisory.com.au",
+                  "url": "https://lpadvisory.com.au/luxury-homes/",
+                  "title": "Luxury Buyers Agent Melbourne - LP Advisory",
+                  "text": "An advocate who represents you, the buyer, exclusively in sourcing, assessing and negotiating a prestige home, rather than acting ..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Australian Property Experts",
+                  "domain": "australianpropertyexperts.com.au",
+                  "url": "https://australianpropertyexperts.com.au/blog/best-buyers-agents-australia/",
+                  "title": "Best Buyers Agents in Australia 2026: Who Each One Suits",
+                  "text": "Cohen Handler has made more than 5,000 purchases for clients, worth $13 billion. It covers Sydney, Melbourne, Brisbane, the Gold C..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Propertybuyer",
+                  "domain": "www.propertybuyer.com.au",
+                  "url": "https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/",
+                  "title": "Prestige Real Estate | Luxury Property Buyers Agents Sydney",
+                  "text": "Australia's Most Awarded Property Buyers' Advocates. For all clients purchasing prestige properties, Propertybuyer understands tha..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Top Luxury Buyer's Agencies",
+              "text": "Cohen Handler : Operates nationally across major capital cities and high-end regional areas like the Southern Highlands, managing billions in high-value transactions. Cohen Handler Propertybuyer : Led by industry experts, this multi-award-winning agency provides strict confidentiality and tailored advisory for ultra-prime residential purchases. LP Advisory : Focuses on luxury Melbourne properties, offering elite vendor representation and targeted off-market sourcing.",
+              "markdown": "- **Cohen Handler** : Operates nationally across major capital cities and high-end regional areas like the Southern Highlands, managing billions in high-value transactions.[[1]](https://australianpropertyexperts.com.au/blog/best-buyers-agents-australia/)\n- **[Propertybuyer](https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/)** : Led by industry experts, this multi-award-winning agency provides strict confidentiality and tailored advisory for ultra-prime residential purchases.[[1]](https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/)\n- **[LP Advisory](https://lpadvisory.com.au/luxury-homes/)** : Focuses on luxury Melbourne properties, offering elite vendor representation and targeted off-market sourcing.[[1]](https://lpadvisory.com.au/luxury-homes/)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Propertybuyer",
+                  "description": null,
+                  "url": "https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/",
+                  "domain": "www.propertybuyer.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "LP Advisory",
+                  "description": null,
+                  "url": "https://lpadvisory.com.au/luxury-homes/",
+                  "domain": "lpadvisory.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Australian Property Experts",
+                  "domain": "australianpropertyexperts.com.au",
+                  "url": "https://australianpropertyexperts.com.au/blog/best-buyers-agents-australia/",
+                  "title": "Best Buyers Agents in Australia 2026: Who Each One Suits",
+                  "text": "Cohen Handler has made more than 5,000 purchases for clients, worth $13 billion. It covers Sydney, Melbourne, Southern Highlands. It acts for home buyers and inves..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Propertybuyer",
+                  "domain": "www.propertybuyer.com.au",
+                  "url": "https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/",
+                  "title": "Prestige Real Estate | Luxury Property Buyers Agents Sydney",
+                  "text": "For all clients purchasing prestige properties, Propertybuyer understands that your business and personal dealings are highly confidential."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "LP Advisory",
+                  "domain": "lpadvisory.com.au",
+                  "url": "https://lpadvisory.com.au/luxury-homes/",
+                  "title": "Luxury Buyers Agent Melbourne - LP Advisory",
+                  "text": "An advocate who represents you, the buyer, exclusively in sourcing, assessing and negotiating a prestige home, rather than acting for the seller."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Core Prestige Services",
+              "text": "Off-Market Sourcing : Accessing private listings and unadvertised luxury homes. Expert Negotiation : Protecting your identity and securing optimal contract terms without emotion. Due Diligence : Verifying property provenance, local zoning laws, and true market value.",
+              "markdown": "- **Off-Market Sourcing** : Accessing private listings and unadvertised luxury homes.\n- **Expert Negotiation** : Protecting your identity and securing optimal contract terms without emotion.\n- **Due Diligence** : Verifying property provenance, local zoning laws, and true market value.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you share your target city or region (such as Sydney's Eastern Suburbs or Melbourne) and your approximate budget, I can recommend the most focused specialist for your acquisition.",
+              "markdown": "If you share your **target city or region** (such as Sydney's Eastern Suburbs or Melbourne) and your **approximate budget** , I can recommend the most focused specialist for your acquisition.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "LP Advisory",
+              "domain": "lpadvisory.com.au",
+              "url": "https://lpadvisory.com.au/luxury-homes/",
+              "title": "Luxury Buyers Agent Melbourne - LP Advisory",
+              "text": "An advocate who represents you, the buyer, exclusively in sourcing, assessing and negotiating a prestige home, rather than acting for the seller."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Propertybuyer",
+              "domain": "www.propertybuyer.com.au",
+              "url": "https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/",
+              "title": "Prestige Real Estate | Luxury Property Buyers Agents Sydney",
+              "text": "For all clients purchasing prestige properties, Propertybuyer understands that your business and personal dealings are highly confidential."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Australian Property Experts",
+              "domain": "australianpropertyexperts.com.au",
+              "url": "https://australianpropertyexperts.com.au/blog/best-buyers-agents-australia/",
+              "title": "Best Buyers Agents in Australia 2026: Who Each One Suits",
+              "text": "Cohen Handler has made more than 5,000 purchases for clients, worth $13 billion. It covers Sydney, Melbourne, Southern Highlands. It acts for home buyers and inves..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

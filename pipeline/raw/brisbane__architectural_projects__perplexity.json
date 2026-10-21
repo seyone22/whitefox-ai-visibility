@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane",
+  "pk": "architectural_projects",
+  "plat": "perplexity",
+  "text": "Which prestige real estate agencies in Brisbane are the market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\brisbane__architectural_projects__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:15:43.118Z",
+  "cost": 0.006213,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 33,
+      "output_tokens": 580,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005613,
+      "datetime": "2026-10-21 05:15:43 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For Brisbane luxury **off-the-plan developments, penthouses and architecturally significant projects**, the strongest market-leader shortlist is:\n\n- **Position Property** — the clearest specialist leader for large-scale and boutique project marketing. It reports more than **$5.6 billion in sales**, has won ARERA Agency of the Year, and focuses on off-the-plan, master-planned, boutique and prestige residential projects.[1]\n- **Place Estate Agents — particularly the Kangaroo Point and New Farm teams** — a major force in luxury apartment project sales and prestige residential marketing. Simon Caulfield’s team reports more than **$500 million in sales over 10 years** and several sold-out Brisbane developments, including Walan and Haven Newstead.[6]\n- **Adcock Prestige** — one of Brisbane’s best-known prestige agencies for luxury homes, penthouses, riverfront properties and architectural residences. It has operated in the city’s luxury market since 2002 and combines high-end residential sales with selected development marketing.[2]\n- **Queensland Sotheby’s International Realty** — particularly suitable for globally marketed prestige homes, luxury new developments, heritage properties and architectural residences. Its Brisbane team also offers developer feasibility and project-marketing expertise.[9]\n- **North South Real Estate** — a boutique option for high-value apartments, trophy homes and development opportunities where principal-led service, discretion and tailored campaigns are priorities.[3]\n- **White & Partners / Whitefox Projects** — worth considering for highly curated, design-led apartment projects and exceptional penthouses. Whitefox was involved in marketing Brisbane’s $17.5 million Heirloom penthouse at Kangaroo Point.[10]\n\n### Best fit by project type\n\n| Requirement | Strongest shortlist |\n|---|---|\n| Major off-the-plan or multi-stage development | **Position Property**, Place Estate Agents |\n| Boutique luxury apartment project | **Place**, Position Property, Whitefox Projects |\n| Trophy penthouse or ultra-luxury residence | **Adcock Prestige**, Place, Whitefox Projects |\n| Architectural home or design-led residence | **Adcock Prestige**, Queensland Sotheby’s, Place |\n| International buyer exposure | **Queensland Sotheby’s**, Adcock Prestige, Position Property |\n| Discreet, principal-led campaign | **North South Real Estate**, Adcock Prestige |\n\n**Overall recommendation:** For a developer seeking the deepest Brisbane project-marketing infrastructure, start with **Position Property and Place**. For a landmark penthouse or architecturally distinctive residence, invite proposals from **Adcock Prestige, Place, Queensland Sotheby’s and Whitefox Projects**. Ask each agency for comparable settled sales—not merely listings—along with their buyer database by price bracket, international enquiry data, and evidence of completed sell-outs.",
+              "annotations": [
+                {
+                  "title": "Position Property | LinkedIn",
+                  "url": "https://www.linkedin.com/company/position-property",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "About - Adcock Prestige | Selling Brisbane's Luxury ...",
+                  "url": "https://adcockprestige.com/about/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Luxury Real Estate Agent | Brisbane, Gold Coast & Byron Bay",
+                  "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Ray White Brookwater and Greater Springfield",
+                  "url": "https://www.raywhite.com/office/brookwaterandgre.qld",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Jason Adcock",
+                  "url": "https://adcockprestige.com/about/jason-adcock/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Place Estate Agents Kangaroo Point - Verified Reviews & ...",
+                  "url": "https://www.ratemyagent.com.au/real-estate-agency/place-estate-agents-kangaroo-point-at170/sales/overview",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 25 Luxury real estate marketing agencies based in ...",
+                  "url": "https://revenuebase.ai/companies/luxury-real-estate-marketing-agencies/australia",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Leading Brisbane agent Elisa McMahon has joined ...",
+                  "url": "https://www.therealestateconversation.com.au/profiles/2022/03/18/leading-brisbane-agent-elisa-mcmahon-has-joined-the-expanding-adcock-prestige",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Queensland Sotheby's International Realty - Brisbane",
+                  "url": "https://www.ratemyagent.com.au/real-estate-agency/queensland-sothebys-international-realty-brisbane-au873/sales/overview",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Molti lists luxury $17.5 million Heirloom penthouse in Brisbane's Kangaroo Point",
+                  "url": "https://www.realestate.com.au/news/molti-lists-luxury-175-million-heirloom-penthouse-in-brisbanes-kangaroo-point/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

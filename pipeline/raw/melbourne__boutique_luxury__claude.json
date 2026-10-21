@@ -1,0 +1,254 @@
+{
+  "slug": "melbourne",
+  "pk": "boutique_luxury",
+  "plat": "claude",
+  "text": "Which boutique luxury real estate agencies in Melbourne are best known for modern social media marketing, high-impact video campaigns, and architectural homes?",
+  "loc": 1000567,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\melbourne__boutique_luxury__claude.json",
+  "at": "2026-10-21T05:10:52.504Z",
+  "cost": 0.086884,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 18113,
+      "output_tokens": 1463,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.086284,
+      "datetime": "2026-10-21 05:10:52 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here's a curated overview of the boutique luxury real estate agencies and related players in Melbourne that are best known for modern social media marketing, high-impact video campaigns, and architectural homes:\n\n---\n\n## 🏡 Boutique Luxury Real Estate Agencies in Melbourne — Social Media & Video Leaders\n\n---\n\n### 1. **Storyhouse (Inner East Melbourne)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Storyhouse, based in Melbourne's inner east, operates using a **\"social always, video mandatory\"** approach to listings campaigns, building connection through story-led content.",
+              "annotations": [
+                {
+                  "title": "The next-gen marketing strategy that launched a Melbourne agency - Real Estate Business",
+                  "url": "https://www.realestatebusiness.com.au/industry/32192-the-next-gen-marketing-strategy-that-launched-a-melbourne-agency",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " It's one of the most talked-about boutique agencies for its next-gen marketing philosophy.\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "By operating as a boutique agency, Storyhouse is less restricted in the types of content it can produce — larger agencies needing greater control over how their brands are represented online simply can't allow just anyone to produce content.",
+              "annotations": [
+                {
+                  "title": "The next-gen marketing strategy that launched a Melbourne agency - Real Estate Business",
+                  "url": "https://www.realestatebusiness.com.au/industry/32192-the-next-gen-marketing-strategy-that-launched-a-melbourne-agency",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Interestingly, the agency has found that agents who favour overly stylised and cinematic videos typically see less traction, with viewers preferring authentic content — \"people actually just want to see the property; they don't want to feel like they are watching an ad.\"",
+              "annotations": [
+                {
+                  "title": "The next-gen marketing strategy that launched a Melbourne agency - Real Estate Business",
+                  "url": "https://www.realestatebusiness.com.au/industry/32192-the-next-gen-marketing-strategy-that-launched-a-melbourne-agency",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. **Belle Property Melbourne**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Located in the heart of Australia's most liveable city, Belle Property Melbourne delivers a **boutique, premium real estate service** to one of the country's most dynamic and exciting inner-city locations.",
+              "annotations": [
+                {
+                  "title": "Belle Property Melbourne. - Real Estate Agents",
+                  "url": "https://www.belleproperty.com/melbourne",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Belle Property Melbourne is a hub of exceptional sales, marketing and property management outcomes, proudly servicing clients across the Melbourne CBD and surrounding suburbs.",
+              "annotations": [
+                {
+                  "title": "Belle Property Melbourne. - Real Estate Agents",
+                  "url": "https://www.belleproperty.com/melbourne",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are well known for polished, brand-consistent marketing across social platforms.\n\n---\n\n### 3. **Lambert Fisher Private Office**\nThis is one of Melbourne's most recognised boutique agencies for architectural and prestige homes. They are frequently highlighted in high-production video campaigns — ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Lambert Fisher Private Office is featured as a key example of full-package cinematic real estate campaigns",
+              "annotations": [
+                {
+                  "title": "Real Estate Video Production Melbourne",
+                  "url": "https://www.flipfilms.com.au/realestate",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " by top Melbourne production houses, combining strategy-led storytelling with luxury property marketing.\n\n---\n\n### 4. **Nic & North Real Estate**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Nic & North Real Estate is highlighted as a strong example of how a boutique agency can shift a property \"beyond standard marketing into a full campaign ecosystem,\" with strategy that positions properties as rare opportunities in Melbourne's inner west — offering lifestyle appeal, connectivity, and long-term upside.",
+              "annotations": [
+                {
+                  "title": "Real Estate Video Production Melbourne",
+                  "url": "https://www.flipfilms.com.au/realestate",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 🎬 High-Impact Video & Social Media Production Partners (Working with Melbourne's Top Boutique Agencies)\n\nMany of Melbourne's best boutique luxury agencies partner with specialist production studios to deliver their campaigns:\n\n### **Flip Films**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Flip Films has collaborated with some of Australia's leading property agencies and top-performing agents, creating cinematic content and visual identities built to stand out. Each campaign combines **cinematic property films, social media reels, aerial cinematography, and lifestyle storytelling** to market properties with strategy, creativity, and impact.",
+              "annotations": [
+                {
+                  "title": "Real Estate Video Production Melbourne",
+                  "url": "https://www.flipfilms.com.au/realestate",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n### **MK Visuals**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "MK Visuals offers premium cinematic real estate video production in Melbourne, crafting visuals from small homes to ultra-luxury estates that \"leave a lasting impact\" — described as \"high-impact media that transforms properties into stories.\"",
+              "annotations": [
+                {
+                  "title": "MK Visuals",
+                  "url": "https://www.mkvisuals.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Born in Melbourne and servicing locally, they position themselves as **architectural filmmakers on a mission to document the city's most unique spaces.**",
+              "annotations": [
+                {
+                  "title": "MK Visuals",
+                  "url": "https://www.mkvisuals.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 💡 Key Trends Driving These Agencies\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Social media provides Melbourne agencies with an opportunity to showcase properties while developing a recognisable brand. Platforms such as Instagram, Facebook, and LinkedIn serve different purposes — Instagram highlights property imagery and video tours, Facebook supports local community engagement, while LinkedIn helps build professional authority.",
+              "annotations": [
+                {
+                  "title": "Digital Marketing Strategies for Melbourne Real Estate Agencies",
+                  "url": "https://www.pallavisocial.com/post/digital-marketing-strategies-for-melbourne-real-estate-agencies",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Video marketing is particularly effective for property, which is highly visual. Short-form videos provide quick property tours, suburb introductions, and market updates, while longer videos are used for detailed walkthroughs, interviews, and educational content.",
+              "annotations": [
+                {
+                  "title": "Digital Marketing Strategies for Melbourne Real Estate Agencies",
+                  "url": "https://www.pallavisocial.com/post/digital-marketing-strategies-for-melbourne-real-estate-agencies",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### Summary Table\n\n| Agency/Studio | Specialty | Known For |\n|---|---|---|\n| **Storyhouse** | Boutique sales agency | \"Social always, video mandatory\" |\n| **Belle Property Melbourne** | Boutique luxury sales | Polished brand marketing, inner-city prestige |\n| **Lambert Fisher Private Office** | Ultra-prestige sales | Cinematic full-campaign marketing |\n| **Nic & North Real Estate** | Boutique sales | Campaign ecosystem storytelling |\n| **Flip Films** | Video production partner | Reels, aerials, lifestyle campaigns |\n| **MK Visuals** | Video production partner | Architectural cinematic content |\n\nWould you like more detail on any of these agencies, or are you looking for recommendations based on a specific Melbourne suburb or property type?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "boutique luxury real estate agencies Melbourne modern social media marketing video campaigns architectural homes",
+        "best luxury real estate agents Melbourne architectural homes high-impact video marketing 2024 2025",
+        "boutique luxury real estate agencies Melbourne architectural homes Instagram video 2025"
+      ]
+    }
+  ]
+}

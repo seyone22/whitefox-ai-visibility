@@ -1,0 +1,106 @@
+{
+  "slug": "perth",
+  "pk": "off_market",
+  "plat": "perplexity",
+  "text": "Which luxury real estate agents and agencies in Perth specialise in confidential off-market prestige property sales and high-net-worth buyer networks?",
+  "loc": 1000676,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\perth__off_market__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:17:40.128Z",
+  "cost": 0.006161,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 33,
+      "output_tokens": 528,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005561,
+      "datetime": "2026-10-21 05:17:40 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For confidential off-market prestige sales in Perth, the strongest candidates to shortlist are:\n\n- **Brian McAllister Properties / The Agency** — Focuses on Perth’s riverside suburbs, including South Perth, Como and Applecross. Offers private, no-portal campaigns to qualified buyers, with access to The Agency’s national database and targeted high-net-worth marketing.[1]\n- **Meryl Carter / Luxury Real Estate Sales** — Positions itself around confidential luxury transactions, referral-based clients and international luxury-agent networks. Particularly relevant where discretion and interstate or overseas buyer reach matter.[3]\n- **Contessi Properties Perth** — Lists off-market sales, buyer advocacy and luxury/prestige property sales among its core specialties, operating from Claremont.[4]\n- **Monarch Real Estate** — A boutique Perth agency offering curated off-market listings and private access for buyers seeking privacy and early opportunities, particularly for design-led homes and properties in desirable suburbs.[6]\n- **William Porteous Properties International** — A long-established prestige name associated with high-end Perth homes and international luxury positioning. It is worth approaching directly about private buyer databases and unadvertised campaigns.[9]\n- **Kincade International Realty** — Promotes both vendor-side luxury marketing and buyer-side search, with access to off-market and pre-market opportunities and a broader interstate, Asia-Pacific and international network.[10]\n\nFor a **buyer seeking access rather than representation**, also consider:\n\n- **Resolve Property Solutions** — A prestige buyer’s agency claiming early or exclusive access through relationships with top listing agents, covering suburbs such as Dalkeith, Mosman Park, City Beach and Claremont.[2]\n- **You&Me Personalised Property Services** — Acts exclusively for buyers and actively contacts Perth selling agents to uncover off-market opportunities, including properties not yet advertised.[8]\n\nFor a seller, ask each agency to substantiate four points before appointing them:\n\n- The size and recency of their qualified buyer database.\n- Whether they can conduct inspections under NDA or controlled-access conditions.\n- Their track record of completed off-market prestige sales, not merely advertised listings.\n- Their ability to reach buyers through private banking, relocation, family-office, interstate and international channels.\n\nA practical shortlist would be **Brian McAllister/The Agency** for riverside discretion, **Meryl Carter** for confidential and international positioning, **William Porteous** for established prestige-market reach, and **Kincade** for a broader global-network strategy.[1][3][9][10]",
+              "annotations": [
+                {
+                  "title": "Luxury & Prestige Property Sales Perth — Discreet Campaigns",
+                  "url": "https://brianmcallisterproperties.com/luxury-property-sales/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Prestige Property Buyers Agent Perth-",
+                  "url": "https://resolvepropertysolutions.com.au/prestige-properties/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Local expertise with a global reach",
+                  "url": "https://www.luxuryrealestatesales.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Contessi Properties Perth - Contessi Properties",
+                  "url": "https://contessi.com.au/agency/contessi-perth/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Contessi Properties Perth",
+                  "url": "https://contessi.com.au/agency/contessi-perth/page/6/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Monarch Real Estate - Luxury Property Website",
+                  "url": "https://monarchrealestate.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Perth's Top Luxury Real Estate Agencies",
+                  "url": "https://smartrealty.com.au/perths-top-luxury-real-estate-agencies-3/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Buyer's Agent Perth WA | Investment & Home Buying",
+                  "url": "https://youandmepps.com.au/buyers-agents-perth/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Perth's Top Real Estate Agents for Luxury Property",
+                  "url": "https://customhomesonline.com.au/perths-top-real-estate-agents/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Perth Luxury Real Estate: Market Intelligence for Buyers and ...",
+                  "url": "https://www.kincadeintrealty.com.au/blog/real-estate-perth/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

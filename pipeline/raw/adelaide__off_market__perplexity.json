@@ -1,0 +1,106 @@
+{
+  "slug": "adelaide",
+  "pk": "off_market",
+  "plat": "perplexity",
+  "text": "Which luxury real estate agents and agencies in Adelaide specialise in confidential off-market prestige property sales and high-net-worth buyer networks?",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\adelaide__off_market__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:18:47.476Z",
+  "cost": 0.006153,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 33,
+      "output_tokens": 520,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005553,
+      "datetime": "2026-10-21 05:18:47 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For **confidential off-market prestige sales in Adelaide**, the strongest apparent matches are:\n\n- **Encore Real Estate** — Explicitly markets off-market Adelaide luxury sales, using a qualified buyer database and confidential negotiations. It is particularly relevant for vendors seeking privacy or buyers with a specific prestige-property brief.[4]\n- **Kincade International Realty** — Offers Adelaide access to off-market and pre-market properties, buyer acquisition, and international and high-net-worth buyer networks. Its international positioning may suit vendors seeking interstate or overseas exposure.[1][2]\n- **Turner Prestige Sales** — A dedicated high-end division of Turner Real Estate focused on luxury Adelaide property, supported by the agency’s long local operating history and existing prestige-property management base.[8]\n- **Refined Real Estate** — Identified as an Adelaide luxury agency offering prestige sales, appraisals and property-management services, with negotiation and investor expertise.[6]\n- **SY Luxury Real Estate** — A South Australian specialist residential agency positioned around premium service and long market experience; suitable for a boutique luxury-sales discussion, although its off-market network should be verified directly.[6]\n\nFor **buyers seeking confidential access rather than a selling agent**, consider:\n\n- **Your Property Strategy** — Independent Adelaide buyers’ agency offering off-market and pre-release sourcing, independent pricing analysis, negotiation and settlement support, with relationships across hundreds of local agents.[7]\n- **SMD Property Buyers Agency** — Specialises in Adelaide off-market buying, drawing on agent, developer and property-owner networks and managing the process discreetly through settlement.[9]\n- **BuyersHUB, Property Buyers Agents and Ellam Property** — Listed among Adelaide buyers’ agencies offering local sourcing and, in some cases, access to off-market opportunities.[7]\n\n### Best shortlist by objective\n\n| Objective | Best starting points |\n|---|---|\n| Sell a prestige property discreetly | Encore Real Estate; Turner Prestige Sales |\n| Reach interstate or international HNW buyers | Kincade International Realty |\n| Find an Adelaide off-market luxury home | Your Property Strategy; SMD Property |\n| Use a boutique local luxury agency | Refined Real Estate; SY Luxury Real Estate |\n\nBefore appointing an agent, ask for evidence of the **active qualified buyer database**, recent comparable off-market transactions, confidentiality/NDA procedures, buyer verification, and whether the agency is acting exclusively for you or also representing the buyer. Verify each agent’s current South Australian licence and principal details through Consumer and Business Services SA.",
+              "annotations": [
+                {
+                  "title": "Adelaide Real Estate in 2026: A Luxury Market Analysis",
+                  "url": "https://www.kincadeintrealty.com.au/blog/real-estate-adelaide/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Adelaide Luxury Real Estate: A Market Analysis for 2026 - Real Estate Sydney NSW | Kincade International Realty",
+                  "url": "https://www.kincadeintrealty.com.au/blog/adelaide-real-estate-guide/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Anton Williams | LinkedIn",
+                  "url": "https://www.linkedin.com/in/anton-williams-5266385",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Off Market | Encore Real Estate",
+                  "url": "https://www.encorerealestate.com.au/off-market/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Luxury Real Estate Marketing | SEO, Ads & Brand - Odin Digital",
+                  "url": "https://odindigital.com.au/industries/luxury-real-estate",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 100 Luxury Real Estate Companies in Australia (2026)",
+                  "url": "https://ensun.io/search/luxury-real-estate/australia",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Adelaide - Top Ten Buyers Agents in Australia",
+                  "url": "https://toptenbuyersagents.au/adelaide/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Prestige Sales",
+                  "url": "https://www.turnerrealestate.com.au/prestige-sales/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Off-market Property",
+                  "url": "https://www.smdproperty.com.au/off-market-properties/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Buyers Agents in Inner South Adelaide",
+                  "url": "https://www.buyersagents.com.au/buyers-agents/adelaide/inner-south",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

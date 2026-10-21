@@ -1,0 +1,106 @@
+{
+  "slug": "national",
+  "pk": "buyers_advocacy",
+  "plat": "perplexity",
+  "text": "Which luxury real estate agencies or buyers advocates in Australia offer the best buyers advocacy and acquisition advisory for prestige homes?",
+  "loc": 2036,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\national__buyers_advocacy__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:21:21.744Z",
+  "cost": 0.006362,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 29,
+      "output_tokens": 733,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005762,
+      "datetime": "2026-10-21 05:21:21 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For prestige homes, the strongest shortlist is **Propertybuyer Prestige, Cohen Handler, Rose & Jones, Buyer’s Advocate, LP Advisory, Lillywhite Property, and North South Real Estate**. The best choice depends heavily on the city, suburb, price bracket, and whether you need discreet off-market sourcing, auction expertise, or broader acquisition advice.\n\n## Recommended shortlist\n\n| Provider | Best suited to | Notable strengths |\n|---|---|---|\n| **Propertybuyer Prestige** | National buyers seeking luxury, architectural or trophy homes | Dedicated prestige specialists, off-market access, acquisition strategy, valuation and negotiation expertise, and coverage across Sydney, Melbourne, Brisbane and other markets.[8] |\n| **Cohen Handler** | Sydney and major Australian markets | Long-established buyer advocacy firm with extensive high-end experience, large agent networks and off-market sourcing capabilities.[6][9] |\n| **Rose & Jones** | Sydney prestige and luxury homes | Strong focus on high-end residential acquisitions, discreet sourcing and strategic negotiation.[6] |\n| **Buyer’s Advocate — Melbourne** | Melbourne prestige homes | More than 30 years of Melbourne experience, detailed property assessment, comparable-based pricing, auction strategy and private negotiation.[1] |\n| **LP Advisory** | Melbourne luxury and off-market acquisitions | Exclusive buyer representation, former selling-agent and auctioneer experience, and particular strength in quiet or off-market prestige opportunities.[4] |\n| **Lillywhite Property** | Buyers needing Australia-wide coverage | Nationwide search, property evaluation, due diligence, negotiation and broader acquisition planning for luxury homes and portfolios.[2] |\n| **North South Real Estate** | Brisbane, Gold Coast, Byron Bay and Northern Rivers | Prestige-property focus, off-market access, local sourcing, due diligence, negotiation and settlement support.[3] |\n| **Joanna Boyd Buyers Advocate** | Bespoke, highly personalised luxury buying | Discreet sourcing of on-market, pre-market and off-market homes, with end-to-end support from research through settlement.[7] |\n\n## Best by requirement\n\n- **Best national platform:** Propertybuyer Prestige, particularly if you want a specialist team and coverage across multiple states.[8]\n- **Best for Sydney blue-chip property:** Cohen Handler or Rose & Jones.[6][9]\n- **Best for Melbourne prestige homes:** Buyer’s Advocate or LP Advisory.[1][4]\n- **Best for Brisbane, Gold Coast or Byron Bay:** North South Real Estate.[3]\n- **Best for nationwide bespoke service:** Lillywhite Property.[2]\n- **Best for a highly personalised boutique experience:** Joanna Boyd Buyers Advocate.[7]\n\n## What to verify before appointing one\n\nAsk each firm for:\n\n- Recent comparable acquisitions in the exact suburb and price range.\n- Evidence of genuine off-market access, not merely access to unlisted databases.\n- Their process for valuation, building and pest inspections, title review, planning checks and contract risk.\n- Whether they act exclusively for the buyer and receive no seller-side commission.\n- Their auction and private-negotiation track record.\n- Fee structure: fixed fee, percentage of purchase price, retainer, or success fee.\n- The specific principal or advocate who will handle the acquisition.\n- References from clients who bought homes of comparable value and complexity.\n\nFor a very high-value purchase, interview **two or three advocates in the relevant city** and ask each to critique the same hypothetical acquisition brief. The quality of their questions, valuation framework and risk analysis is often more revealing than marketing claims.",
+              "annotations": [
+                {
+                  "title": "Luxury Buyers Agent in Melbourne | Book a Consultation",
+                  "url": "https://www.buyersadvocate.com.au/our-clients/luxury-buyers-agent-melbourne/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Lillywhite Property National Buyers Agents | Buyer Advocacy ...",
+                  "url": "https://lillywhiteproperty.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Buyers Agent Gold Coast | Buyers Advocate Brisbane & ...",
+                  "url": "https://www.nsre.com.au/buyers-agent-brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Luxury Buyers Agent Melbourne",
+                  "url": "https://lpadvisory.com.au/luxury-homes/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Propertybuyer — Buyers agents Brisbane | Find Real Estate Agent AU",
+                  "url": "https://findrealestateagentau.com/company/propertybuyer",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Buyer Agents in Sydney: List of Best Property Buyers Agent ...",
+                  "url": "https://buyeragentssydney.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Home - Joanna Boyd Buyers Advocate",
+                  "url": "https://joannaboyd.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Prestige Property Buyers Agent | Propertybuyer",
+                  "url": "https://prestigepropertybuyer.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Buyers Agents in Sydney (2026) – Ranked & Reviewed",
+                  "url": "https://whichrealestateagent.com.au/buyers-agent/best-buyers-agents-in-sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Propertybuyer Buyer's Agents - Topbuyers",
+                  "url": "https://topbuyers.com.au/propertybuyer-buyers-agents/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

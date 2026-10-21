@@ -1,0 +1,106 @@
+{
+  "slug": "sydney",
+  "pk": "architectural_projects",
+  "plat": "perplexity",
+  "text": "Which prestige real estate agencies in Sydney are the market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing?",
+  "loc": 1000286,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\sydney__architectural_projects__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:14:26.620Z",
+  "cost": 0.006274,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 33,
+      "output_tokens": 641,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005674,
+      "datetime": "2026-10-21 05:14:26 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For Sydney’s **luxury off-the-plan, penthouse and architectural project-marketing** segment, the strongest shortlist is:\n\n- **SRM Residential** — A leading specialist in Sydney off-the-plan apartments, with end-to-end services spanning site acquisition, design input, sales strategy and campaign execution. Its portfolio includes major luxury projects such as One Circular Quay, Hyde Metropolitan and AURA. [2]\n- **Ray White Projects** — A major project-marketing platform backed by Ray White’s national network. It offers developer advisory, off-the-plan sales and campaign execution across Sydney, supported by substantial buyer reach. [2]\n- **Savills Australia** — Particularly strong for luxury apartments and prestige residential projects, combining a global platform with Sydney expertise. Savills has marketed major penthouse and high-value apartment sales and expanded its local prestige presence through the Cordeau Marshall acquisition. [10]\n- **Symond Property** — One of the most specialised choices for bespoke penthouses, skyhomes, grand apartments and architecturally led developments. Its distinctive advantage is the combination of development, architectural design, building and premium-apartment sales expertise. [1]\n- **Ayre Real Estate** — A strong inner-city and luxury-apartment operator, with experience marketing major developments and selling high-end penthouses across Barangaroo, The Rocks, Hyde Park and other central locations. [7]\n- **The Agency** — Worth considering for high-value residential and development campaigns where senior-agent networks, lifestyle positioning and premium presentation are central. Individual principals within the business report experience across both luxury homes and large residential developments. [4]\n- **Levy Property Group** — A prestige-focused agency with a strong reputation in Sydney’s eastern suburbs, particularly for high-value, off-market and luxury transactions. [8]\n- **Ray White TRG — The Rubinstein Group** — Best suited to prestige homes and boutique luxury campaigns in Sydney’s eastern suburbs, especially where high-production presentation and access to Ray White’s broader buyer network are valuable. [3]\n\n## Best fit by assignment\n\n| Requirement | Strongest candidates |\n|---|---|\n| Large-scale luxury off-the-plan development | **SRM Residential, Ray White Projects, Savills** |\n| Penthouses and skyhomes | **Symond Property, Ayre Real Estate, Savills** |\n| Architecturally distinctive boutique projects | **Symond Property, The Agency, Ayre Real Estate** |\n| Eastern Suburbs prestige and off-market sales | **Ray White TRG, Levy Property Group, Savills** |\n| National reach and institutional developer capability | **SRM Residential, Ray White Projects, Savills** |\n\nFor a developer appointing an agency, the most credible initial pitch list would be **SRM Residential, Ray White Projects, Savills and Symond Property**. The first three offer scale and established project infrastructure; Symond is especially differentiated when the product is highly bespoke, design-led or penthouse-focused. Agency selection should ultimately be tested against comparable project results, buyer database quality, senior-team involvement, international-sales capability and the proposed marketing budget.",
+              "annotations": [
+                {
+                  "title": "Symond Property",
+                  "url": "https://symondproperty.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "2025's Standout Projects and the Agencies Behind Them ...",
+                  "url": "https://propertyshell.com/blog-posts/2025s-standout-projects-and-the-agencies-that-made-them-happen",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "7 Best Real Estate Agent Sydney Picks for 2026 - gregory.agency",
+                  "url": "https://www.gregory.agency/best-real-estate-agent-sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Chervonne Papworth | LinkedIn",
+                  "url": "https://www.linkedin.com/in/chervonnepapworth",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Video",
+                  "url": "https://quincyproductions.com.au/video",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Sydney Prestige Properties - Local Real Estate Agency",
+                  "url": "https://www.allhomes.com.au/agency/sydney-prestige-properties-506793/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Ayre Real Estate Sydney - Verified Reviews & ...",
+                  "url": "https://www.ratemyagent.com.au/real-estate-agency/ayre-real-estate-sydney-ax103/sales/overview",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "What Real Estate Awards...",
+                  "url": "https://www.levypropertygroup.com.au/top-agent-in-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Home - Prestige Properties International :: Prestige Properties ...",
+                  "url": "https://prestigepg.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Sydney's prestige Cordeau Marshall agency sold to Savills",
+                  "url": "https://www.apartments.com.au/news/sydneys-prestige-cordeau-marshall-agency-sold-to-savills",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

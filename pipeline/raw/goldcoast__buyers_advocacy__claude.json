@@ -1,0 +1,326 @@
+{
+  "slug": "goldcoast",
+  "pk": "buyers_advocacy",
+  "plat": "claude",
+  "text": "Which luxury real estate agencies or buyers advocates in Gold Coast offer the best buyers advocacy and acquisition advisory for prestige homes?",
+  "loc": 1000665,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\goldcoast__buyers_advocacy__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:17:17.687Z",
+  "cost": 0.063907,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 9829,
+      "output_tokens": 1588,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.063307,
+      "datetime": "2026-10-21 05:17:17 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a curated overview of some of the **best luxury real estate agencies and buyers advocates on the Gold Coast** offering prestige home acquisition advisory and buyers advocacy services:\n\n---\n\n## 🏡 Top Luxury Buyers Advocates & Agencies on the Gold Coast\n\n---\n\n### 1. **Propertybuyer Gold Coast**\n🌐 [propertybuyer.com.au](https://www.propertybuyer.com.au)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Propertybuyer offers tailored prestige property buying services, whether you're seeking a waterfront mansion in Palm Beach or a sprawling estate.",
+              "annotations": [
+                {
+                  "title": "Prestige Real Estate",
+                  "url": "https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are an award-winning buyers advocacy firm with a dedicated Gold Coast office. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They handle negotiations, due diligence, and paperwork with meticulous care, ensuring a smooth and successful transaction from start to finish.",
+              "annotations": [
+                {
+                  "title": "Prestige Real Estate",
+                  "url": "https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Their team includes experienced advocates such as CEO Rich Harvey, Glen Sainsbury, Lisa Whayman, and Robyn Toohey, operating from Surfers Paradise.\n\n---\n\n### 2. **Luxure – The Property People**\n🌐 [luxure.net.au](https://www.luxure.net.au)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Luxure is a luxury property advisory specialising in high-end homes and prestige real estate on the Gold Coast, offering a considered, confidential approach for buyers and sellers seeking exceptional waterfront and lifestyle properties.",
+              "annotations": [
+                {
+                  "title": "Luxure The Property People",
+                  "url": "https://www.luxure.net.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are particularly well-regarded for their discreet, boutique service model.\n\n---\n\n### 3. **Prestige Buyers Advocates**\n🌐 [prestigebuyersadvocates.com.au](https://prestigebuyersadvocates.com.au)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Prestige Buyers Advocates are leading experts in real estate procurement with 20 years of hands-on experience.",
+              "annotations": [
+                {
+                  "title": "Gold Coast buyers advocate - Prestige Buyers Advocates",
+                  "url": "https://prestigebuyersadvocates.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "With thousands of properties bought, they have retained a 100% success rate.",
+              "annotations": [
+                {
+                  "title": "Gold Coast buyers advocate - Prestige Buyers Advocates",
+                  "url": "https://prestigebuyersadvocates.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Their services include: ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "auction bidding on your behalf, thorough walkthrough assessments and videos, comprehensive online property search management, building and pest inspections, and access to off-market property opportunities.",
+              "annotations": [
+                {
+                  "title": "Gold Coast buyers advocate - Prestige Buyers Advocates",
+                  "url": "https://prestigebuyersadvocates.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 4. **Hunter Gather Buyers Agents**\n🌐 [huntergather.com.au](https://www.huntergather.com.au)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Hunter Gather's role as buyers agents is to understand where the best opportunities and value lie for clients buying luxury property in the Gold Coast market, having hand-selected the top prestige suburbs they believe offer the best lifestyle, value, and long-term growth.",
+              "annotations": [
+                {
+                  "title": "Top 8 Gold Coast Suburbs for Luxury Living",
+                  "url": "https://www.huntergather.com.au/top-8-gold-coast-suburbs-for-luxury-living",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are known for their deep market intelligence across suburbs like Mermaid Beach, Palm Beach, and Miami.\n\n---\n\n### 5. **North South Real Estate (NSRE)**\n🌐 [nsre.com.au](https://www.nsre.com.au)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "North South Real Estate is a boutique prestige property agency proudly serving high-net-worth clients across South East QLD and Northern NSW with prestige and premium real estate across Brisbane, the Gold Coast, and Byron Bay.",
+              "annotations": [
+                {
+                  "title": "Prestige Property",
+                  "url": "https://www.nsre.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They are a trusted authority in prestige real estate sales and buyer advocacy, guiding high-net-worth individuals through complex property decisions with precision, privacy, and insight.",
+              "annotations": [
+                {
+                  "title": "Prestige Property",
+                  "url": "https://www.nsre.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They also offer ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "off-market listings, buyer's advocacy, and investment advisory.",
+              "annotations": [
+                {
+                  "title": "Prestige Property",
+                  "url": "https://www.nsre.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 6. **White Sand Buyers Agency**\n🌐 (Gold Coast Boutique Agency)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "White Sand Buyers Agency is a boutique buyers agency based on the Gold Coast, founded by renowned real estate professional Florence Labadens. With a stellar career transacting over $400 million in residential properties, Florence brings elite-level expertise, negotiation mastery, and unmatched market insight to every client journey.",
+              "annotations": [
+                {
+                  "title": "The Best Buyers Agents in Gold Coast",
+                  "url": "https://www.top10realestateagent.com.au/the-best-buyers-agents-in-gold-coast.html",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 7. **Ideal Buyers Agency Gold Coast**\n🌐 (Gold Coast Boutique Agency)\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Ideal Buyers Agency, led by Jade Fitzgerald, specialises in curating premium property purchases across the Gold Coast for clients who value discretion, insight, and excellence.",
+              "annotations": [
+                {
+                  "title": "The Best Buyers Agents in Gold Coast",
+                  "url": "https://www.top10realestateagent.com.au/the-best-buyers-agents-in-gold-coast.html",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are particularly focused on precision and strategy for discerning buyers.\n\n---\n\n## 🏆 Key Prestige Suburbs to Focus On\n\nWhen working with any of the above advocates, these are the Gold Coast's most sought-after prestige areas:\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "**Sanctuary Cove & Sovereign Islands** offer the rare combination of deep-water moorings, gated security, and championship golf — ideal for those who value both privacy and lifestyle.",
+              "annotations": [
+                {
+                  "title": "The Gold Coast Property Market: Why Luxury Buyers Are Moving Up the Coast",
+                  "url": "https://www.propertybuyer.com.au/blog/the-gold-coast-property-market-why-luxury-buyers-are-moving-up-the-coast",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "**Main Beach & Paradise Waters** have long held prestige status, with elegant riverfront homes and easy access to boutique dining and shopping.",
+              "annotations": [
+                {
+                  "title": "The Gold Coast Property Market: Why Luxury Buyers Are Moving Up the Coast",
+                  "url": "https://www.propertybuyer.com.au/blog/the-gold-coast-property-market-why-luxury-buyers-are-moving-up-the-coast",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "**Mermaid Beach** remains one of Queensland's most expensive addresses, with absolute beachfront homes that rarely change hands.",
+              "annotations": [
+                {
+                  "title": "The Gold Coast Property Market: Why Luxury Buyers Are Moving Up the Coast",
+                  "url": "https://www.propertybuyer.com.au/blog/the-gold-coast-property-market-why-luxury-buyers-are-moving-up-the-coast",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "**Palm Beach** has undergone significant redevelopment, with new luxury residences and high-end apartments, attracting buyers from Sydney and Melbourne as a prestige alternative to Byron Bay.",
+              "annotations": [
+                {
+                  "title": "Top 8 Gold Coast Suburbs for Luxury Living",
+                  "url": "https://www.huntergather.com.au/top-8-gold-coast-suburbs-for-luxury-living",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 💡 Tips for Choosing the Right Buyers Advocate\n\n- **Off-market access** is critical in the prestige segment — prioritise agents with strong agent networks.\n- Look for advocates who offer **full acquisition advisory**, not just search services.\n- Ensure they have **specific Gold Coast luxury experience**, not just general buyers agency credentials.\n- **Confidentiality and discretion** are hallmarks of the best prestige advocates.\n\nWould you like more detail on any of these agencies, or help comparing their fee structures and service offerings?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best luxury real estate buyers advocates Gold Coast prestige homes 2024",
+        "top buyers advocacy acquisition advisory prestige homes Gold Coast Australia"
+      ]
+    }
+  ]
+}

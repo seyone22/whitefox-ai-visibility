@@ -1,0 +1,362 @@
+{
+  "slug": "brisbane",
+  "pk": "buyers_advocacy",
+  "plat": "claude",
+  "text": "Which luxury real estate agencies or buyers advocates in Brisbane offer the best buyers advocacy and acquisition advisory for prestige homes?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\brisbane__buyers_advocacy__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:16:05.258Z",
+  "cost": 0.065677,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10354,
+      "output_tokens": 1601,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.065077,
+      "datetime": "2026-10-21 05:16:05 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a comprehensive guide to the **best luxury buyers advocates and acquisition advisory firms in Brisbane** for prestige homes:\n\n---\n\n## 🏡 Top Luxury Buyers Advocates & Acquisition Advisory Services in Brisbane\n\n---\n\n### 1. **Propertybuyer** *(National, with Brisbane Presence)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Propertybuyer is led by CEO and Founder Rich Harvey, a licensed real estate buyers agent, seasoned property investor, and professional economist with over two decades of experience in the property industry.",
+              "annotations": [
+                {
+                  "title": "Propertybuyer Buyers Agent Sydney, Brisbane, Melbourne",
+                  "url": "https://www.propertybuyer.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They are a multi-award winner, including the 2025 Award for Excellence – Buyers' Agent and the 2025 Buyers Agency of the Year.",
+              "annotations": [
+                {
+                  "title": "Propertybuyer Buyers Agent Sydney, Brisbane, Melbourne",
+                  "url": "https://www.propertybuyer.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They specialise in luxury homes that offer the highest level of comfort and style, matched to how you live.",
+              "annotations": [
+                {
+                  "title": "Propertybuyer Buyers Agent Sydney, Brisbane, Melbourne",
+                  "url": "https://www.propertybuyer.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- **Best for:** High-net-worth buyers seeking a nationally recognised agency with a proven prestige track record in Brisbane and beyond.\n\n---\n\n### 2. **North South Real Estate (NSRE)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "North South Real Estate (NSRE) is the preferred choice for discerning buyers, investors and developers seeking exceptional properties and strategic guidance across Queensland's most prestigious regions.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agent",
+                  "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They specialise in prestige apartments, trophy homes and unique development opportunities in the high-end property market.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agent",
+                  "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their dedicated buyer specialists secure the finest properties through skilled negotiation and deep local insights, guiding clients through market trends, purchasing costs and achieving outstanding results across Queensland's prestige property markets.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agent",
+                  "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- **Best for:** Buyers seeking off-market trophy homes, prestige apartments, and development opportunities across Brisbane, Gold Coast, and Byron Bay.\n\n---\n\n### 3. **Prestige Buyers Advocates**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Prestige Buyers Advocates are leading experts in real estate procurement with 20 years of hands-on experience.",
+              "annotations": [
+                {
+                  "title": "Brisbane buyers advocate - Prestige Buyers Advocates",
+                  "url": "https://prestigebuyersadvocates.com.au/brisbane-buyers-advocate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "With thousands of properties bought, they have retained a 100% success rate.",
+              "annotations": [
+                {
+                  "title": "Brisbane buyers advocate - Prestige Buyers Advocates",
+                  "url": "https://prestigebuyersadvocates.com.au/brisbane-buyers-advocate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their services include access to properties not yet listed, off-market property opportunities, auction bidding on your behalf, thorough walkthrough assessments and videos, and comprehensive online property search management.",
+              "annotations": [
+                {
+                  "title": "Brisbane buyers advocate - Prestige Buyers Advocates",
+                  "url": "https://prestigebuyersadvocates.com.au/brisbane-buyers-advocate/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- **Best for:** Buyers who want a dedicated, boutique advocacy firm with a strong track record and access to off-market listings.\n\n---\n\n### 4. **Wendy Russell – Independent Luxury Buyers Advocate**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Wendy Russell notes that prestige buyers are highly selective and \"prepared to spend big money for a type of specific property.\"",
+              "annotations": [
+                {
+                  "title": "Prestige boom in Brisbane: Why it continues to produce a parade of jaw-dropping trophy-home listings",
+                  "url": "https://www.domain.com.au/news/prestige-boom-in-brisbane-1513876/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " With deep expertise in Brisbane's inner-city prestige suburbs, ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Brisbane has really stepped into the spotlight in the prestige property market, with more and more record-breaking sales and modern bespoke, cutting-edge homes constructed in the inner-city suburbs where the luxury crowd likes to congregate.",
+              "annotations": [
+                {
+                  "title": "What’s In Store For Brisbane’s Luxury Homes Market In 2024",
+                  "url": "https://www.wendyrussell.com.au/blog/brisbane-luxury-homes-market-2024",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- **Best for:** Buyers seeking a highly personalised, independent luxury advocacy service with intimate knowledge of Brisbane's top-tier suburbs.\n\n---\n\n### 5. **Jade Fitzgerald – Premium Luxury Buyer Services**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Jade Fitzgerald offers Premium Luxury Buyer Services including private, full-service property acquisition — comprehensive management of the entire journey, from search and shortlisting to due diligence, negotiation, and handover — ensuring a completely seamless and stress-free experience.",
+              "annotations": [
+                {
+                  "title": "Brisbane Buyers Agents Directory",
+                  "url": "https://buyersagentsbrisbane.net.au/agents",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "She also provides auction representation, bidding with clear purpose and deep insight, as well as negotiation-only services for clients who have already found a property.",
+              "annotations": [
+                {
+                  "title": "Brisbane Buyers Agents Directory",
+                  "url": "https://buyersagentsbrisbane.net.au/agents",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- **Best for:** Buyers who want complete, end-to-end acquisition management including auction representation.\n\n---\n\n### 6. **Werleman Buyers Agents**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Sam Werleman is an experienced negotiator with more than 15 years of experience, running Werleman Buyers Agents, a Brisbane-based boutique buyer's agent that works only on behalf of buyers.",
+              "annotations": [
+                {
+                  "title": "Brisbane Buyers Agents Directory",
+                  "url": "https://buyersagentsbrisbane.net.au/agents",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Sam negotiates to get clients the right property at the right price and on the right terms, even in the highly competitive, multiple-offer environment.",
+              "annotations": [
+                {
+                  "title": "Brisbane Buyers Agents Directory",
+                  "url": "https://buyersagentsbrisbane.net.au/agents",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n- **Best for:** Buyers who want a fiercely independent, buyer-only boutique agency with strong negotiation skills.\n\n---\n\n## 📍 Key Brisbane Prestige Suburbs to Focus On\n\nWhen working with any of the above advocates, focus on these high-demand areas:\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Prestige real estate is concentrated in **Hamilton, Ascot, and New Farm**, while **Kangaroo Point, Hawthorne, and Teneriffe** are gaining traction.",
+              "annotations": [
+                {
+                  "title": "Prestige boom in Brisbane: Why it continues to produce a parade of jaw-dropping trophy-home listings",
+                  "url": "https://www.domain.com.au/news/prestige-boom-in-brisbane-1513876/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The entry point to Brisbane's prestige sector is now **$3 million and above**, with buyers paying **eight-figure price tags** for some prestige properties, like those on Brisbane's waterfront or with standout architectural details.",
+              "annotations": [
+                {
+                  "title": "Prestige Property Brisbane",
+                  "url": "https://www.propertybuyer.com.au/blog/prestige-property-brisbane-2026-luxury-market-insights-top-suburbs",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 💡 Tips for Choosing the Right Buyers Advocate\n\n| Factor | What to Look For |\n|---|---|\n| **Independence** | Ensure they work exclusively for buyers, not sellers |\n| **Off-Market Access** | Strong agent networks for pre-market and off-market deals |\n| **Local Expertise** | Deep knowledge of Brisbane's prestige suburbs |\n| **Discretion** | Ability to handle high-profile, confidential acquisitions |\n| **Full-Service** | Due diligence, negotiation, auction bidding, and settlement support |\n\nBrisbane's luxury market is booming — ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Ray White believes Brisbane is now the **fastest-growing luxury market in the country**",
+              "annotations": [
+                {
+                  "title": "Prestige Property Brisbane",
+                  "url": "https://www.propertybuyer.com.au/blog/prestige-property-brisbane-2026-luxury-market-insights-top-suburbs",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — so engaging a top buyers advocate early is essential to securing the best prestige properties before they hit the open market.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best luxury buyers advocates Brisbane prestige homes 2024 2025",
+        "top buyers advocacy acquisition advisory Brisbane prestige real estate agencies"
+      ]
+    }
+  ]
+}

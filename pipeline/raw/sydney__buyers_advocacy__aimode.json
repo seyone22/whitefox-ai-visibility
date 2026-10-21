@@ -1,0 +1,187 @@
+{
+  "slug": "sydney",
+  "pk": "buyers_advocacy",
+  "plat": "aimode",
+  "text": "Which luxury real estate agencies or buyers advocates in Sydney offer the best buyers advocacy and acquisition advisory for prestige homes?",
+  "loc": 1000286,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\sydney__buyers_advocacy__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:14:23.852Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which luxury real estate agencies or buyers advocates in Sydney offer the best buyers advocacy and acquisition advisory for prestige homes?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000286,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20luxury%20real%20estate%20agencies%20or%20buyers%20advocates%20in%20Sydney%20offer%20the%20best%20buyers%20advocacy%20and%20acquisition%20advisory%20for%20prestige%20homes%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCT-Yix5ArhJrEcDMMhZofQEF",
+      "datetime": "2026-10-21 05:14:23 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "`Several premier buyers' agencies and independent advocates` in Sydney specialise in high-end, luxury, and prestige real estate acquisitions across exclusive enclaves like the Eastern Suburbs, Lower North Shore, and Northern Beaches.[[1]](https://www.propertybuyer.com.au/about/our-team/rich-harvey-speaker-profile)[[2]](https://buyeragentssydney.au/)\n\n### Top Prestige Buyers' Agencies in Sydney\n\n- [Propertybuyer](https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/) — Led by Rich Harvey, this multi-award-winning agency has over two decades of experience specializing in high-value prestige home acquisitions, discreet off-market transactions, and strict confidentiality for high-profile buyers.[[1]](https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/)[[2]](https://www.propertybuyer.com.au/about/our-team/rich-harvey-speaker-profile)\n- [Rose & Jones](https://www.roseandjones.com.au/) — A cornerstone of the Sydney property sector with over two centuries of combined team experience, renowned for high-end residential acquisitions, deep industry networks, and accessing unadvertised luxury stock.[[1]](https://buyeragentssydney.au/)\n- [One Buyers Agency](https://www.onebuyersagency.com.au/) — Recognised as prominent Eastern Suburbs luxury property specialists, focusing on high-net-worth client representation and competitive tactical negotiation in prime coastal markets.[[1]](https://buyeragentssydney.au/)\n- [Goldman Bros.](https://goldmanbros.com.au/) — An exclusive buyer's agency known for high-profile partnerships and expert navigation of premium residential pockets, particularly across Sydney's affluent North Shore and eastern corridors.[[1]](https://goldmanbros.com.au/high-profile-real-estate-agent-to-partner-with-prestige-buyers-agency/)\n\nIf you can share the **target suburb** (e.g., Eastern Suburbs vs. Lower North Shore) and your **approximate budget range** , I can help tailor which of these agencies aligns best with your specific acquisition needs.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Several premier buyers' agencies and independent advocates in Sydney specialise in high-end, luxury, and prestige real estate acquisitions across exclusive enclaves like the Eastern Suburbs, Lower North Shore, and Northern Beaches.",
+              "markdown": "`Several premier buyers' agencies and independent advocates` in Sydney specialise in high-end, luxury, and prestige real estate acquisitions across exclusive enclaves like the Eastern Suburbs, Lower North Shore, and Northern Beaches.[[1]](https://www.propertybuyer.com.au/about/our-team/rich-harvey-speaker-profile)[[2]](https://buyeragentssydney.au/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Propertybuyer",
+                  "domain": "www.propertybuyer.com.au",
+                  "url": "https://www.propertybuyer.com.au/about/our-team/rich-harvey-speaker-profile",
+                  "title": "Rich Harvey | CEO | Prestige Property Buyers Agent",
+                  "text": "His expertise extends to the prestige real estate & luxury property in Sydney's Eastern Suburbs, North Shore, and Northern Beaches..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "buyeragentssydney.au",
+                  "domain": "buyeragentssydney.au",
+                  "url": "https://buyeragentssydney.au/",
+                  "title": "Buyer Agents in Sydney",
+                  "text": "Rose & Jones is a cornerstone of the Sydney property market. They specialize in high-end residential acquisitions,"
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Top Prestige Buyers' Agencies in Sydney",
+              "text": "Propertybuyer — Led by Rich Harvey, this multi-award-winning agency has over two decades of experience specializing in high-value prestige home acquisitions, discreet off-market transactions, and strict confidentiality for high-profile buyers. Rose & Jones — A cornerstone of the Sydney property sector with over two centuries of combined team experience, renowned for high-end residential acquisitions, deep industry networks, and accessing unadvertised luxury stock. One Buyers Agency — Recognised as prominent Eastern Suburbs luxury property specialists, focusing on high-net-worth client representation and competitive tactical negotiation in prime coastal markets. Goldman Bros. — An exclusive buyer's agency known for high-profile partnerships and expert navigation of premium residential pockets, particularly across Sydney's affluent North Shore and eastern corridors.",
+              "markdown": "- [Propertybuyer](https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/) — Led by Rich Harvey, this multi-award-winning agency has over two decades of experience specializing in high-value prestige home acquisitions, discreet off-market transactions, and strict confidentiality for high-profile buyers.[[1]](https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/)[[2]](https://www.propertybuyer.com.au/about/our-team/rich-harvey-speaker-profile)\n- [Rose & Jones](https://www.roseandjones.com.au/) — A cornerstone of the Sydney property sector with over two centuries of combined team experience, renowned for high-end residential acquisitions, deep industry networks, and accessing unadvertised luxury stock.[[1]](https://buyeragentssydney.au/)\n- [One Buyers Agency](https://www.onebuyersagency.com.au/) — Recognised as prominent Eastern Suburbs luxury property specialists, focusing on high-net-worth client representation and competitive tactical negotiation in prime coastal markets.[[1]](https://buyeragentssydney.au/)\n- [Goldman Bros.](https://goldmanbros.com.au/) — An exclusive buyer's agency known for high-profile partnerships and expert navigation of premium residential pockets, particularly across Sydney's affluent North Shore and eastern corridors.[[1]](https://goldmanbros.com.au/high-profile-real-estate-agent-to-partner-with-prestige-buyers-agency/)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Propertybuyer",
+                  "description": null,
+                  "url": "https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/",
+                  "domain": "www.propertybuyer.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Rose & Jones",
+                  "description": null,
+                  "url": "https://www.roseandjones.com.au/",
+                  "domain": "www.roseandjones.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "One Buyers Agency",
+                  "description": null,
+                  "url": "https://www.onebuyersagency.com.au/",
+                  "domain": "www.onebuyersagency.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Goldman Bros.",
+                  "description": null,
+                  "url": "https://goldmanbros.com.au/",
+                  "domain": "goldmanbros.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Propertybuyer",
+                  "domain": "www.propertybuyer.com.au",
+                  "url": "https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/",
+                  "title": "Prestige Real Estate | Luxury Property Buyers Agents Sydney",
+                  "text": "operating over 23 years, specializing in prestige on- and off-market luxury acquisitions with guaranteed confidentiality and non-d..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Propertybuyer",
+                  "domain": "www.propertybuyer.com.au",
+                  "url": "https://www.propertybuyer.com.au/about/our-team/rich-harvey-speaker-profile",
+                  "title": "Rich Harvey | CEO | Prestige Property Buyers Agent",
+                  "text": "Rich, the esteemed CEO & Founder & Buyers Advocate of Propertybuyer, is more than a licensed real estate buyers' agent; he's a seasoned property investor and profe..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "buyeragentssydney.au",
+                  "domain": "buyeragentssydney.au",
+                  "url": "https://buyeragentssydney.au/",
+                  "title": "Buyer Agents in Sydney",
+                  "text": "Rose & Jones is a cornerstone of the Sydney property market. They specialize in high-end residential acquisitions,"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Goldman Bros",
+                  "domain": "goldmanbros.com.au",
+                  "url": "https://goldmanbros.com.au/high-profile-real-estate-agent-to-partner-with-prestige-buyers-agency/",
+                  "title": "High Profile Real Estate Agent Partners With Prestige Buyers ...",
+                  "text": "Ben Cohen, one of Sydney's most real estate agents has announced that he will be partnering with the exclusive Sydney Buyer's Agen..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you can share the target suburb (e.g., Eastern Suburbs vs. Lower North Shore) and your approximate budget range, I can help tailor which of these agencies aligns best with your specific acquisition needs.",
+              "markdown": "If you can share the **target suburb** (e.g., Eastern Suburbs vs. Lower North Shore) and your **approximate budget range** , I can help tailor which of these agencies aligns best with your specific acquisition needs.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Goldman Bros",
+              "domain": "goldmanbros.com.au",
+              "url": "https://goldmanbros.com.au/high-profile-real-estate-agent-to-partner-with-prestige-buyers-agency/",
+              "title": "High Profile Real Estate Agent Partners With Prestige Buyers ...",
+              "text": "Ben Cohen, one of Sydney's most real estate agents has announced that he will be partnering with the exclusive Sydney Buyer's Agency, Goldman Bros. totalling over..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Propertybuyer",
+              "domain": "www.propertybuyer.com.au",
+              "url": "https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/",
+              "title": "Prestige Real Estate | Luxury Property Buyers Agents Sydney",
+              "text": "operating over 23 years, specializing in prestige on- and off-market luxury acquisitions with guaranteed confidentiality and non-disclosure agreements."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Propertybuyer",
+              "domain": "www.propertybuyer.com.au",
+              "url": "https://www.propertybuyer.com.au/about/our-team/rich-harvey-speaker-profile",
+              "title": "Rich Harvey | CEO | Prestige Property Buyers Agent",
+              "text": "Rich, the esteemed CEO & Founder & Buyers Advocate of Propertybuyer, is more than a licensed real estate buyers' agent; he's a seasoned property investor and profe..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

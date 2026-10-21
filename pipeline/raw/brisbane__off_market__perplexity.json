@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane",
+  "pk": "off_market",
+  "plat": "perplexity",
+  "text": "Which luxury real estate agents and agencies in Brisbane specialise in confidential off-market prestige property sales and high-net-worth buyer networks?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\brisbane__off_market__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:15:16.980Z",
+  "cost": 0.006734,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 33,
+      "output_tokens": 1101,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.006134,
+      "datetime": "2026-10-21 05:15:16 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Several Brisbane agencies and specialists publicly position themselves around confidential prestige sales, off-market access, and high-net-worth networks:\n\n- **Ray White Collective Luxury — Matt Lancashire**: A New Farm-based, white-glove division focused exclusively on Queensland’s premium market. It highlights confidential, concierge-led campaigns and a global “black book” of high-net-worth repeat clients, covering riverfront estates, heritage homes, architectural residences and other ultra-luxury property.[6] A profile of the agency says it targets homes valued at **$4 million and above** and uses qualified buyer databases and global networks.[3]\n\n- **North South Real Estate — Nik and Aika Seirlis**: A boutique agency with a Brisbane CBD office specialising in prestige apartments, trophy homes and development opportunities. It explicitly offers private off-market opportunities, discreet buyer alerts and a “Private Prestige Program,” with the principal involved from appraisal through settlement.[1][2] Its buyer-advocacy division says it sources pre-market and never-advertised properties through agent networks across Brisbane and southeast Queensland.[7]\n\n- **Queensland Sotheby’s International Realty — Brisbane team, including Tyson Clarke**: Suitable for owners seeking a luxury brand with international reach. The Brisbane office handles prestige homes, acreage estates, heritage properties and luxury developments, while the Sotheby’s network provides global exposure; the agency also emphasises confidentiality and personal service.[4]\n\n- **Propertybuyer Prestige — Glen Sainsbury**: Primarily a **buyer-side** specialist rather than a conventional selling agency. It represents a limited number of prestige clients, offers access to silent and off-market listings, and states that it protects client identities during searches and negotiations. Its Brisbane principal, Glen Sainsbury, has more than 20 years’ Queensland experience.[9]\n\n- **Moore Buyers Agency — Lauren Moore**: A Brisbane prestige buyer’s agent specialising in off-market and expatriate purchases. Her profile states that sellers sometimes approach her directly and that she maintains a database of luxury properties and early-market opportunities.[8]\n\n### Best fit by requirement\n\n| Requirement | Strongest matches |\n|---|---|\n| Confidential sale of a Brisbane trophy home | Ray White Collective Luxury; North South Real Estate |\n| International luxury-brand exposure | Queensland Sotheby’s International Realty |\n| Quiet, buyer-only acquisition | Propertybuyer Prestige; Moore Buyers Agency |\n| Boutique principal-led service | North South Real Estate |\n| $4m-plus specialist positioning | Ray White Collective Luxury |\n\nFor a seller, interview at least two agencies and ask specifically whether they can demonstrate: recent genuinely off-market transactions, the size and quality of their qualified buyer network, confidentiality procedures, evidence of buyer funds or pre-approval, and how they prevent an “off-market” campaign from becoming broad public marketing.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agent | Brisbane, Gold Coast & Byron Bay",
+                  "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Brisbane & Gold Coast Real Estate Experts | Contact NSRE",
+                  "url": "https://www.nsre.com.au/contact",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Matt Lancashire launches new era: Ray White Collective ...",
+                  "url": "https://www.luxurylist.com.au/profiles/2026/05/15/matt-lancashire-launches-new-era-ray-white-collective-luxury/1778797252",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Queensland Sotheby's International Realty - Brisbane",
+                  "url": "https://www.ratemyagent.com.au/real-estate-agency/queensland-sothebys-international-realty-brisbane-au873/sales/overview",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Luxury Buyer’s Agent Brisbane: The Strategic Insider’s Guide to High-End Property in 2026",
+                  "url": "https://annaoneill.com.au/luxury-buyers-agent-brisbane-the-strategic-insiders-guide-to-high-end-property-in-2026/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Ray White Collective Luxury",
+                  "url": "https://www.raywhite.com/office/collectiveluxury.qld",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Buyers Agent Gold Coast | Buyers Advocate Brisbane & ...",
+                  "url": "https://www.nsre.com.au/buyers-agent-brisbane",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Lauren Moore | LinkedIn",
+                  "url": "https://www.linkedin.com/in/laurenmooreproperty",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Prestige Property Buyers Agent | Propertybuyer",
+                  "url": "https://prestigepropertybuyer.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "North South Prestige | North South Real Estate",
+                  "url": "https://www.domain.com.au/real-estate-agencies/northsouthprestigenorthsouthrealestate-34530/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

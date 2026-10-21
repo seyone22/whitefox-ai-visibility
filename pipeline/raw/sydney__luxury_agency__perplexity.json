@@ -1,0 +1,105 @@
+{
+  "slug": "sydney",
+  "pk": "luxury_agency",
+  "plat": "perplexity",
+  "text": "Who are the best luxury real estate agencies in Sydney? Give me a shortlist of specific prestige property agencies with reasons.",
+  "loc": 1000286,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\sydney__luxury_agency__perplexity.json",
+  "at": "2026-10-21T05:11:07.591Z",
+  "cost": 0.00623,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 31,
+      "output_tokens": 599,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.00563,
+      "datetime": "2026-10-21 05:11:07 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For Sydney prestige property, the strongest shortlist is:\n\n- **Ray White TRG (The Rubinstein Group)** — Best for luxury homes in the Eastern Suburbs. It combines highly polished campaigns and auction expertise with Ray White’s national buyer network, making it suited to high-value properties requiring broad exposure.[1]\n- **McGrath** — A strong all-round choice for premium Sydney homes, apartments and terraces, particularly across Sydney’s eastern and inner suburbs. Its advantages are a long-established Sydney presence, high-profile marketing and a concentration in premium east-coast markets.[2][3]\n- **Belle Property** — Best for design-led, lifestyle and coastal prestige properties. Its boutique positioning, presentation-focused campaigns and broad network of offices in select lifestyle markets suit waterfront homes, architect-designed residences and high-end apartments.[2][3]\n- **Di Jones** — Worth shortlisting for the Lower North Shore, Upper North Shore and northern Sydney. It is an established independent-style operator with strong local-market coverage and a personalised approach to premium property.[5][8]\n- **Sydney Sotheby’s International Realty** — Best for internationally marketed luxury homes and trophy properties. The brand is specifically positioned around high-end real estate and can be attractive when overseas or expatriate buyers are important.[5]\n- **Savills Sydney** — Consider it for luxury property where residential expertise may need to connect with commercial, investment or development advice. Savills is particularly relevant for sophisticated owners with broader property requirements.[5]\n- **BresicWhitney** — A good fit for inner-city, harbourside and lifestyle stock where a large-scale, data-led campaign and strong auction execution are priorities.[1]\n- **The One Prestige** — A boutique option for Barangaroo, One Sydney Harbour and other premium waterfront addresses. It focuses on high-value residential, commercial and investment assets, with a more specialised concierge-style service.[7]\n\n## Best match by property type\n\n| Property situation | Agencies to interview |\n|---|---|\n| Trophy home or Eastern Suburbs prestige sale | Ray White TRG, McGrath |\n| Lower or Upper North Shore | Di Jones, McGrath, Ray White |\n| Waterfront, coastal or design-led home | Belle Property, BresicWhitney |\n| Barangaroo or luxury apartment | The One Prestige, Belle Property, McGrath |\n| Internationally marketable trophy property | Sydney Sotheby’s International Realty, Savills |\n| Inner-city or harbourside auction campaign | BresicWhitney, McGrath, Belle Property |\n\nThe best choice ultimately depends more on the **specific agent and suburb team** than the parent brand. Interview two or three agencies and compare recent comparable sales, buyer databases, proposed marketing, fee structure and the agent’s evidence of selling properties at your price level.",
+              "annotations": [
+                {
+                  "title": "7 Best Real Estate Agent Sydney Picks for 2026 - gregory.agency",
+                  "url": "https://www.gregory.agency/best-real-estate-agent-sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Agency: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/the-agency/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Savills in real estate companies: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/savills/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Elders in real estate companies: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/elders/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 20 Real Estate Agents in Sydney, NSW – Find the Best Agencies",
+                  "url": "https://www.salebyhomeowner.com.au/realestate/top-real-estate-agents-sydney-nsw/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 10 Real Estate Agencies in Australia (2026) | Best ...",
+                  "url": "https://recifest.org/real-state/top-10-real-estate-agencies-in-australia-2026/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The One Prestige",
+                  "url": "https://www.theoneprestige.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 25 Luxury home sellers based in Sydney, Australia",
+                  "url": "https://revenuebase.ai/companies/luxury-home-sellers/australia/sydney",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Realtors in Sydney",
+                  "url": "https://www.digitalreference.co/insights/real-estate-professionals/best-real-estate-agents-in-sydney",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Buyers Agents in Sydney (2026) – Ranked & Reviewed",
+                  "url": "https://whichrealestateagent.com.au/buyers-agent/best-buyers-agents-in-sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

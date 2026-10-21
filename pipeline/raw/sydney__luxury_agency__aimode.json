@@ -1,0 +1,264 @@
+{
+  "slug": "sydney",
+  "pk": "luxury_agency",
+  "plat": "aimode",
+  "text": "Who are the best luxury real estate agencies in Sydney? Give me a shortlist of specific prestige property agencies with reasons.",
+  "loc": 1000286,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\sydney__luxury_agency__aimode.json",
+  "at": "2026-10-21T05:11:20.399Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the best luxury real estate agencies in Sydney? Give me a shortlist of specific prestige property agencies with reasons.",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000286,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Who%20are%20the%20best%20luxury%20real%20estate%20agencies%20in%20Sydney%3F%20Give%20me%20a%20shortlist%20of%20specific%20prestige%20property%20agencies%20with%20reasons.&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCT-Yix5ArhJrEcDMMhZofQEF",
+      "datetime": "2026-10-21 05:11:19 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[3]",
+          "markdown": "Sydney’s premier luxury real estate agencies include [Sydney Sotheby's International Realty](https://sydneysothebysrealty.com/), [Ray White Double Bay](https://raywhitedoublebay.com/), [Bradfield BadgerFox](https://www.bradfieldbadgerfox.com.au/) , and [Pillinger](https://www.pillinger.com/) . These elite agencies dominate Sydney's high-end prestige market, specifically across the Eastern Suburbs and Lower North Shore.[[1]](https://www.pillinger.com/buy/)[[2]](https://www.realestate.com.au/agency/sydney-sothebys-international-realty-double-bay-TCMLHR)[[3]](https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4TW1oc2VUQXdjV3cYCg)[[4]](https://www.realestate.com.au/agency/bradfield-badgerfox-double-bay-XBBDOU)\n\n### Sydney Sotheby’s International Realty\n\n- **Focus** : Global luxury network alignment, elite harbourside estates, and high-end penthouses.\n- **Why them** : Backed by a world-renowned international brand, they excel at connecting local trophy assets in suburbs like Vaucluse, Point Piper, and Rose Bay with ultra-high-net-worth domestic and international buyers.[[1]](https://www.sothebysrealty.com/eng/sales/sydney-sw-aus)[[2]](https://www.realestate.com.au/agency/sydney-sothebys-international-realty-double-bay-TCMLHR)\n\n### Ray White Double Bay\n\n- **Focus** : High-volume luxury transactions and dominant Eastern Suburbs market share.\n- **Why them** : Consistently ranked as a top international office within the broader Ray White network, they boast unmatched local data, deep-pocketed buyer databases, and high-profile agents who regularly handle record-breaking mega-sales.[[1]](https://raywhitedoublebay.com/)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4TW1oc2VUQXdjV3cYCg)\n\n### Bradfield BadgerFox\n\n- **Focus** : Boutique luxury sales, heritage properties, and premier residential apartments.\n- **Why them** : Operating out of Double Bay, directors like Bob Guth and Alexander George bring decades of specialized prestige negotiation and discreet, relationship-driven client service across Bellevue Hill and Darling Point.[[1]](https://www.bradfieldbadgerfox.com.au/properties-for-sale)[[2]](https://www.realestate.com.au/agency/bradfield-badgerfox-double-bay-XBBDOU)\n\n### Pillinger\n\n- **Focus** : Ultra-prestige waterfront architectural homes and private, confidential transactions.\n- **Why them** : Led by Brad Pillinger , the agency frequently secures listings for Sydney’s most expensive trophy streets (such as Wolseley Road in Point Piper and Victoria Road in Bellevue Hill), known for hyper-targeted and private marketing strategies.[[1]](https://www.pillinger.com/buy/)\n\nIf you are looking to buy or sell, tell me **which suburb** and **price bracket** you are targeting so I can recommend the **most relevant lead agent** from these firms.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Sydney’s premier luxury real estate agencies include Sydney Sotheby's International Realty, Ray White Double Bay, Bradfield BadgerFox, and Pillinger. These elite agencies dominate Sydney's high-end prestige market, specifically across the Eastern Suburbs and Lower North Shore.",
+              "markdown": "Sydney’s premier luxury real estate agencies include [Sydney Sotheby's International Realty](https://sydneysothebysrealty.com/), [Ray White Double Bay](https://raywhitedoublebay.com/), [Bradfield BadgerFox](https://www.bradfieldbadgerfox.com.au/) , and [Pillinger](https://www.pillinger.com/) . These elite agencies dominate Sydney's high-end prestige market, specifically across the Eastern Suburbs and Lower North Shore.[[1]](https://www.pillinger.com/buy/)[[2]](https://www.realestate.com.au/agency/sydney-sothebys-international-realty-double-bay-TCMLHR)[[3]](https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4TW1oc2VUQXdjV3cYCg)[[4]](https://www.realestate.com.au/agency/bradfield-badgerfox-double-bay-XBBDOU)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Sydney Sotheby's International Realty",
+                  "description": null,
+                  "url": "https://sydneysothebysrealty.com/",
+                  "domain": "sydneysothebysrealty.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Ray White Double Bay",
+                  "description": null,
+                  "url": "https://raywhitedoublebay.com/",
+                  "domain": "raywhitedoublebay.com"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Bradfield BadgerFox",
+                  "description": null,
+                  "url": "https://www.bradfieldbadgerfox.com.au/",
+                  "domain": "www.bradfieldbadgerfox.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Pillinger",
+                  "description": null,
+                  "url": "https://www.pillinger.com/",
+                  "domain": "www.pillinger.com"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "www.pillinger.com",
+                  "domain": "www.pillinger.com",
+                  "url": "https://www.pillinger.com/buy/",
+                  "title": "Property Listings - Pillinger",
+                  "text": "Property Listings. Featured; Price. Highest to Lowest Lowest to Highest. Suburb. Bellevue Hill Bondi Beach Elizabeth Bay Point Pip..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Real Estate",
+                  "domain": "www.realestate.com.au",
+                  "url": "https://www.realestate.com.au/agency/sydney-sothebys-international-realty-double-bay-TCMLHR",
+                  "title": "Sydney Sotheby's International Realty Double Bay",
+                  "text": "About the agency Located in Double Bay and Mosman, these offices are a valuable addition to the respected network of Sotheby's Int..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4TW1oc2VUQXdjV3cYCg",
+                  "title": "Ray White Double Bay",
+                  "text": "357 New South Head Rd, Double Bay NSW 2028 · Professional real estate agency specializing in property sales and responsive propert..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Real Estate",
+                  "domain": "www.realestate.com.au",
+                  "url": "https://www.realestate.com.au/agency/bradfield-badgerfox-double-bay-XBBDOU",
+                  "title": "Bradfield BadgerFox DOUBLE BAY - Reviews & Properties",
+                  "text": "Location: 302 New South Head Road, Double Bay, NSW 2028; 23 staff members including directors Alexander George, Bob Guth, Peter Le..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Sydney Sotheby’s International Realty",
+              "text": "Focus : Global luxury network alignment, elite harbourside estates, and high-end penthouses. Why them : Backed by a world-renowned international brand, they excel at connecting local trophy assets in suburbs like Vaucluse, Point Piper, and Rose Bay with ultra-high-net-worth domestic and international buyers.",
+              "markdown": "- **Focus** : Global luxury network alignment, elite harbourside estates, and high-end penthouses.\n- **Why them** : Backed by a world-renowned international brand, they excel at connecting local trophy assets in suburbs like Vaucluse, Point Piper, and Rose Bay with ultra-high-net-worth domestic and international buyers.[[1]](https://www.sothebysrealty.com/eng/sales/sydney-sw-aus)[[2]](https://www.realestate.com.au/agency/sydney-sothebys-international-realty-double-bay-TCMLHR)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Sotheby's International Realty",
+                  "domain": "www.sothebysrealty.com",
+                  "url": "https://www.sothebysrealty.com/eng/sales/sydney-sw-aus",
+                  "title": "Sydney, SW Luxury Real Estate - Homes for Sale",
+                  "text": "Listings: 24 luxury residential properties in Sydney, New South Wales, Australia, marketed exclusively by Sydney Sotheby's Interna..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Real Estate",
+                  "domain": "www.realestate.com.au",
+                  "url": "https://www.realestate.com.au/agency/sydney-sothebys-international-realty-double-bay-TCMLHR",
+                  "title": "Sydney Sotheby's International Realty Double Bay",
+                  "text": "About the agency Located in Double Bay and Mosman, these offices are a valuable addition to the respected network of Sotheby's Int..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Ray White Double Bay",
+              "text": "Focus : High-volume luxury transactions and dominant Eastern Suburbs market share. Why them : Consistently ranked as a top international office within the broader Ray White network, they boast unmatched local data, deep-pocketed buyer databases, and high-profile agents who regularly handle record-breaking mega-sales.",
+              "markdown": "- **Focus** : High-volume luxury transactions and dominant Eastern Suburbs market share.\n- **Why them** : Consistently ranked as a top international office within the broader Ray White network, they boast unmatched local data, deep-pocketed buyer databases, and high-profile agents who regularly handle record-breaking mega-sales.[[1]](https://raywhitedoublebay.com/)[[2]](https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4TW1oc2VUQXdjV3cYCg)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Ray White Double Bay",
+                  "domain": "raywhitedoublebay.com",
+                  "url": "https://raywhitedoublebay.com/",
+                  "title": "Ray White Double Bay",
+                  "text": "Since opening our doors in 1987, we have proudly established our place as leaders in one of Australia's most competitive and diver..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4TW1oc2VUQXdjV3cYCg",
+                  "title": "Ray White Double Bay",
+                  "text": "357 New South Head Rd, Double Bay NSW 2028 · Professional real estate agency specializing in property sales and responsive propert..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Bradfield BadgerFox",
+              "text": "Focus : Boutique luxury sales, heritage properties, and premier residential apartments. Why them : Operating out of Double Bay, directors like Bob Guth and Alexander George bring decades of specialized prestige negotiation and discreet, relationship-driven client service across Bellevue Hill and Darling Point.",
+              "markdown": "- **Focus** : Boutique luxury sales, heritage properties, and premier residential apartments.\n- **Why them** : Operating out of Double Bay, directors like Bob Guth and Alexander George bring decades of specialized prestige negotiation and discreet, relationship-driven client service across Bellevue Hill and Darling Point.[[1]](https://www.bradfieldbadgerfox.com.au/properties-for-sale)[[2]](https://www.realestate.com.au/agency/bradfield-badgerfox-double-bay-XBBDOU)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Bradfield BadgerFox Double Bay",
+                  "domain": "www.bradfieldbadgerfox.com.au",
+                  "url": "https://www.bradfieldbadgerfox.com.au/properties-for-sale",
+                  "title": "Properties for Sale | Bradfield BadgerFox Double Bay Real Estate",
+                  "text": "Properties listed for sale or auction by Bradfield BadgerFox across New South Wales locations including Woollahra, Paddington, Por..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Real Estate",
+                  "domain": "www.realestate.com.au",
+                  "url": "https://www.realestate.com.au/agency/bradfield-badgerfox-double-bay-XBBDOU",
+                  "title": "Bradfield BadgerFox DOUBLE BAY - Reviews & Properties",
+                  "text": "Location: 302 New South Head Road, Double Bay, NSW 2028; 23 staff members including directors Alexander George, Bob Guth, Peter Le..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Pillinger",
+              "text": "Focus : Ultra-prestige waterfront architectural homes and private, confidential transactions. Why them : Led by Brad Pillinger, the agency frequently secures listings for Sydney’s most expensive trophy streets (such as Wolseley Road in Point Piper and Victoria Road in Bellevue Hill), known for hyper-targeted and private marketing strategies. : Led by Brad Pillinger, the agency frequently secures listings for Sydney’s most expensive trophy streets (such as Wolseley Road in Point Piper and Victoria Road in Bellevue Hill), known for hyper-targeted and private marketing strategies",
+              "markdown": "- **Focus** : Ultra-prestige waterfront architectural homes and private, confidential transactions.\n- **Why them** : Led by Brad Pillinger , the agency frequently secures listings for Sydney’s most expensive trophy streets (such as Wolseley Road in Point Piper and Victoria Road in Bellevue Hill), known for hyper-targeted and private marketing strategies.[[1]](https://www.pillinger.com/buy/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "www.pillinger.com",
+                  "domain": "www.pillinger.com",
+                  "url": "https://www.pillinger.com/buy/",
+                  "title": "Property Listings - Pillinger",
+                  "text": "Property Listings. Featured; Price. Highest to Lowest Lowest to Highest. Suburb. Bellevue Hill Bondi Beach Elizabeth Bay Point Piper Rose Bay Sans Souci Tamarama. ..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you are looking to buy or sell, tell me which suburb and price bracket you are targeting so I can recommend the most relevant lead agent from these firms.",
+              "markdown": "If you are looking to buy or sell, tell me **which suburb** and **price bracket** you are targeting so I can recommend the **most relevant lead agent** from these firms.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Sotheby's International Realty",
+              "domain": "www.sothebysrealty.com",
+              "url": "https://www.sothebysrealty.com/eng/sales/sydney-sw-aus",
+              "title": "Sydney, SW Luxury Real Estate - Homes for Sale",
+              "text": "Listings: 24 luxury residential properties in Sydney, New South Wales, Australia, marketed exclusively by Sydney Sotheby's International Realty. Locations: Rose Ba..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Ray White Double Bay",
+              "domain": "raywhitedoublebay.com",
+              "url": "https://raywhitedoublebay.com/",
+              "title": "Ray White Double Bay",
+              "text": "Since opening our doors in 1987, we have proudly established our place as leaders in one of Australia's most competitive and diverse real estate markets, redefinin..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "www.pillinger.com",
+              "domain": "www.pillinger.com",
+              "url": "https://www.pillinger.com/buy/",
+              "title": "Property Listings - Pillinger",
+              "text": "Property Listings. Featured; Price. Highest to Lowest Lowest to Highest. Suburb. Bellevue Hill Bondi Beach Elizabeth Bay Point Piper Rose Bay Sans Souci Tamarama. ..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

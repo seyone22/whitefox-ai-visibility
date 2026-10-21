@@ -1,0 +1,105 @@
+{
+  "slug": "melbourne",
+  "pk": "architectural_projects",
+  "plat": "perplexity",
+  "text": "Which prestige real estate agencies in Melbourne are the market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing?",
+  "loc": 1000567,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\melbourne__architectural_projects__perplexity.json",
+  "at": "2026-10-21T05:10:56.841Z",
+  "cost": 0.00623,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 33,
+      "output_tokens": 597,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.00563,
+      "datetime": "2026-10-21 05:10:56 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For Melbourne’s **luxury off-the-plan, penthouse and architecturally led developments**, the strongest shortlist is:\n\n- **Colliers Residential Victoria** — arguably the leading large-scale project-marketing specialist. It reports more than $20 billion in apartment sales, experience across Melbourne’s major projects, and a 30% share of the development-sites market. Its premium credentials include selling the penthouses at Collins Arch and the $15 million penthouse at 17 Spring Street.[8]\n- **Marshall White Projects** — the leading prestige residential brand for premium homes, new developments and affluent eastern-suburbs buyers. Its Projects division markets premium off-the-plan opportunities, supported by more than six decades in prestige property.[1]\n- **Jellis Craig Projects / Prestige** — a strong choice for architecturally designed projects and premium residences across inner Melbourne, the eastern suburbs, Brighton and bayside markets. The agency is recognised for design-focused campaigns, sophisticated branding and established high-end buyer networks.[3]\n- **Farey & Co.** — a specialist boutique agency focused specifically on off-the-plan sales and marketing for premium, low- and medium-density developments. It is particularly relevant for design-led boutique apartments, townhouses and smaller luxury projects where senior-level attention is important.[4]\n- **HALO Prestige** — a newer, highly curated prestige agency positioning itself around privacy, architectural excellence and high-value residential sales. It may suit exclusive penthouses and statement homes requiring a discreet, brand-led campaign.[2]\n- **RPM Group** — a major Victorian project-marketing and property-advisory platform with broad capacity across apartments, townhouses and medium-density developments. It is better suited to developers seeking scale and an integrated sales platform than to highly bespoke luxury representation.[6]\n\n### Best fit by project type\n\n| Requirement | Strongest candidates |\n|---|---|\n| Major luxury apartment tower or multi-stage development | **Colliers Residential Victoria**, **RPM Group** |\n| Penthouse or ultra-premium residence | **Colliers Residential Victoria**, **Marshall White**, **HALO Prestige** |\n| Boutique architectural apartments or townhouses | **Farey & Co.**, **Jellis Craig**, **Marshall White Projects** |\n| Affluent eastern-suburbs or bayside buyer network | **Marshall White**, **Jellis Craig** |\n| Discreet, highly curated campaign | **HALO Prestige**, **Farey & Co.** |\n\n**Overall recommendation:** use **Colliers Residential Victoria** for institutional-scale project marketing and penthouse sales; **Marshall White Projects** or **Jellis Craig** for prestige-brand reach; and **Farey & Co.** for boutique, architecture-led developments requiring a more specialised campaign. Agency performance should still be validated against comparable recent settlements, not just brand profile.",
+              "annotations": [
+                {
+                  "title": "Best Luxury Real Estate Agents in Melbourne",
+                  "url": "https://www.marshallwhite.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "HALO Prestige - Real Estate Australia",
+                  "url": "https://haloprestige.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 10 Real Estate Companies in Melbourne 2026 Guide",
+                  "url": "https://www.starinvestment.com.au/top-real-estate-companies-melbourne/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Farey & Co. | Boutique Real Estate Sales & Marketing in Melbourne",
+                  "url": "https://www.fareyandco.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Amir Prestige Group — Gold Coast Property for Melbourne ...",
+                  "url": "https://prestigepropertiesgoldcoast.luxury/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "2025's Standout Projects and the Agencies Behind Them ...",
+                  "url": "https://propertyshell.com/blog-posts/2025s-standout-projects-and-the-agencies-that-made-them-happen",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Raeon International - Leading Melbourne Real Estate Agency",
+                  "url": "https://rae-on.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Colliers | AU | Residential Real Estate Melbourne",
+                  "url": "https://www.colliers.com.au/en-au/australia/cities/melbourne-residential",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Footer",
+                  "url": "https://revenuebase.ai/companies/luxury-real-estate-marketing-companies/australia/melbourne",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 25 Luxury real estate marketing agencies based in ...",
+                  "url": "https://revenuebase.ai/companies/luxury-real-estate-marketing-agencies/australia/melbourne",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

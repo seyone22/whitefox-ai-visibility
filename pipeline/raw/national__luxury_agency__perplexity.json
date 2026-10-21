@@ -1,0 +1,106 @@
+{
+  "slug": "national",
+  "pk": "luxury_agency",
+  "plat": "perplexity",
+  "text": "Who are the best luxury real estate agencies in Australia? Give me a shortlist of specific prestige property agencies with reasons.",
+  "loc": 2036,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\national__luxury_agency__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:20:33.862Z",
+  "cost": 0.006349,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 31,
+      "output_tokens": 718,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005749,
+      "datetime": "2026-10-21 05:20:33 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "The best luxury agencies in Australia depend heavily on the suburb and property type, but this is a strong national shortlist:\n\n- **Marshall White — Melbourne prestige homes:** One of Melbourne’s most established luxury specialists, particularly strong in Toorak, Armadale, Brighton, Bayside and the city’s inner south. It is well suited to multi-million-dollar homes, established buyer networks and auction campaigns.[1][4][7]\n- **Kay & Burton — Melbourne’s ultra-prestige market:** A strong choice for trophy residences, heritage homes and premium apartments in suburbs such as Toorak, South Yarra and Brighton. It is particularly appropriate when discreet, high-touch service matters.[2]\n- **RT Edgar — established Melbourne luxury:** Known for high-end properties including historic mansions, waterfront homes and premium inner-city residences. Its longstanding local reputation makes it a natural shortlist candidate for exclusive Melbourne listings.[7]\n- **Jellis Craig — premium Melbourne-wide coverage:** Combines strong local suburb expertise with a notable presence in affluent areas such as Hawthorn, Toorak and Armadale. It suits sellers wanting both prestige positioning and a broad Melbourne buyer reach.[2][7]\n- **McGrath — premium East Coast campaigns:** Particularly relevant in Sydney, Brisbane, parts of Melbourne, the Central Coast and Northern Rivers. Its strengths include polished marketing, auction expertise and reach across affluent east-coast markets.[2][6]\n- **Belle Property — design-led and lifestyle luxury:** A good fit for premium apartments, architect-designed homes, coastal properties and presentation-sensitive campaigns. Its network spans major cities and lifestyle markets, including Sydney, Melbourne, Brisbane and Byron Bay.[1][6]\n- **The Agency — high-profile, marketing-focused sales:** Worth considering for prestige homes where national exposure, strong personal branding and sophisticated digital marketing are priorities. It is especially relevant in major metropolitan and coastal markets.[4]\n- **Kollosche — Gold Coast prestige:** A specialist choice for luxury property on the Gold Coast, including Broadbeach, Mermaid Beach and Surfers Paradise. It is particularly suited to waterfront homes, luxury apartments and high-value lifestyle property.[4]\n- **Knight Frank — luxury plus international reach:** A suitable option for high-end residential property and clients who value a global brand, cross-border buyer access and broader property advisory capability.[7]\n- **Whitefox — boutique, design-conscious luxury:** Particularly relevant in Melbourne for architecturally distinctive, highly curated or design-led residences where presentation and a boutique sales process are central.[5]\n\n## Best fit by market\n\n| Market or property type | Agencies to shortlist |\n|---|---|\n| Melbourne trophy home | Marshall White, Kay & Burton, RT Edgar |\n| Melbourne premium family home | Jellis Craig, Marshall White, RT Edgar |\n| Sydney prestige property | McGrath, Belle Property, The Agency |\n| Gold Coast waterfront or luxury apartment | Kollosche, Amir Prestige, The Agency |\n| Coastal or lifestyle property | Belle Property, McGrath, The Agency |\n| International or cross-border buyer campaign | Knight Frank, The Agency, McGrath |\n\nBefore appointing one, compare the **specific local office and lead agent**, not just the brand. Ask for comparable recent sales, the proposed buyer database, campaign examples, total marketing costs, auction results and the agent’s strategy for confidentiality if the property is not intended for broad public advertising.",
+              "annotations": [
+                {
+                  "title": "Real estate agencies in Australia: AI ranking",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Savills in real estate companies: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/savills/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Realmark in real estate companies: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/realmark",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Agency: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/the-agency/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 100 Luxury Real Estate Companies in Australia (2026)",
+                  "url": "https://ensun.io/search/luxury-real-estate/australia",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Elders in real estate companies: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/elders/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 20 Real Estate Agencies in Australia",
+                  "url": "https://www.starinvestment.com.au/top-20-real-estate-agencies-australia/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top Real Estate Agencies Australia - UltraPrime",
+                  "url": "https://ultraprime.com.au/agencies",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 10 Real Estate Agencies in Australia (2026) | Best ...",
+                  "url": "https://recifest.org/real-state/top-10-real-estate-agencies-in-australia-2026/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "First National: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/first-national",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "slug": "adelaide",
+  "pk": "luxury_agency",
+  "plat": "claude",
+  "text": "Who are the best luxury real estate agencies in Adelaide? Give me a shortlist of specific prestige property agencies with reasons.",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\adelaide__luxury_agency__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:18:46.789Z",
+  "cost": 0.056392,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 9974,
+      "output_tokens": 1058,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.055792,
+      "datetime": "2026-10-21 05:18:46 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a shortlist of some of the best luxury and prestige real estate agencies in Adelaide, South Australia:\n\n---\n\n### 🏡 Top Luxury Real Estate Agencies in Adelaide\n\n---\n\n#### 1. **Giordano & Partners**\n📍 429 Pulteney Street, Adelaide\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Founded in 2018 with a vision of marketing the world's most cherished properties in South Australia and globally, Giordano & Partners represents an international real estate franchise and has forged important partnerships with elite legal firms, wealth managers, luxury providers, and prestigious clientele worldwide.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate",
+                  "url": "https://giordanopartners.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their expertise spans heritage estates, Adelaide Hills retreats, inner-city sandstone villas, architectural masterpieces, and beachside escapes.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate",
+                  "url": "https://giordanopartners.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They pride themselves on a low-volume, high-service model, having achieved over 41 suburb record sales and counting.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate",
+                  "url": "https://giordanopartners.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:** Boutique, globally connected, and record-breaking results in the prestige segment.\n\n---\n\n#### 2. **Williams Luxury Real Estate**\n📍 60 Kensington Road, Adelaide\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Positioning themselves as South Australia's leading luxury real estate agents, Williams Luxury Real Estate operates with a philosophy of \"selling with strategy, style and sophistication.\"",
+              "annotations": [
+                {
+                  "title": "Williams Luxury Real Estate",
+                  "url": "https://www.facebook.com/WILLIAMSLuxuryProperty/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Williams Luxury Real Estate",
+                  "url": "https://www.facebook.com/WILLIAMSLuxuryProperty/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:** A dedicated luxury-only agency with a strong local reputation and a focused prestige approach.\n\n---\n\n#### 3. **SY Luxury Real Estate**\n📍 Adelaide, SA\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "SY Luxury Real Estate is an Adelaide-based agency focused on selling luxury property, with a brand philosophy of \"Luxury Redefined & Service Reimagined.\"",
+              "annotations": [
+                {
+                  "title": "SY Luxury Real Estate",
+                  "url": "https://www.facebook.com/p/SY-Luxury-Real-Estate-61550603514907/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:** A newer boutique agency with a fresh, modern approach to prestige property marketing and campaigns.\n\n---\n\n#### 4. **Knight Frank Adelaide**\n📍 Level 29, 91 King William Street, Adelaide\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Knight Frank Adelaide operates as a leading real estate agency in the heart of Adelaide's CBD.",
+              "annotations": [
+                {
+                  "title": "The Best Real Estate Agent Professionals in Adelaide, South Australia Rated By Past Clients",
+                  "url": "https://www.directso.com.au/south-australia/adelaide/real-estate-agent",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Knight Frank is one of the world's most recognised names in premium and commercial real estate, bringing global reach and deep expertise to the Adelaide luxury market.\n\n**Why choose them:** Unmatched global brand recognition and network, ideal for high-end residential and commercial prestige property.\n\n---\n\n#### 5. **Turner Real Estate – Turner Prestige**\n📍 Adelaide, SA\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Turner Prestige is a unique and specialised property management service in the South Australian market, recognising the unique skills and discerning management that luxury and high-end property requires.",
+              "annotations": [
+                {
+                  "title": "Prestige Property Management - Turner Real Estate",
+                  "url": "https://www.turnerrealestate.com.au/property-management/prestige-property-management/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "A prestige property manager at Turner will only ever manage a maximum of 75 properties — at least half the industry average — ensuring an elevated level of service.",
+              "annotations": [
+                {
+                  "title": "Prestige Property Management - Turner Real Estate",
+                  "url": "https://www.turnerrealestate.com.au/property-management/prestige-property-management/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n**Why choose them:** Best for prestige **property management** (leasing/rentals) rather than sales, with a highly personalised, capped-portfolio model.\n\n---\n\n#### 6. **Harris Real Estate**\n📍 Adelaide, SA\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Harris Real Estate has been inducted into the Hall of Fame as Australia's #1 Real Estate Agency by the Real Estate Institute of Australia.",
+              "annotations": [
+                {
+                  "title": "#1 Real Estate Agents and Property Managers Adelaide",
+                  "url": "https://www.harrisre.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " While they cover the broader market, their top-performing agents regularly handle premium and prestige listings across Adelaide's most sought-after suburbs.\n\n**Why choose them:** Award-winning agency with strong market coverage, great for prestige sales with wide reach and a large agent network.\n\n---\n\n### 💡 Tips for Choosing a Prestige Agency in Adelaide:\n- **For boutique, record-breaking luxury sales** → Giordano & Partners or Williams Luxury\n- **For global reach and international buyers** → Knight Frank\n- **For prestige property management/leasing** → Turner Prestige\n- **For broad market coverage with prestige credentials** → Harris Real Estate\n\nWould you like more detail on any of these agencies?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best luxury prestige real estate agencies Adelaide"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "slug": "melbourne",
+  "pk": "architectural_projects",
+  "plat": "aimode",
+  "text": "Which prestige real estate agencies in Melbourne are the market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing?",
+  "loc": 1000567,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\melbourne__architectural_projects__aimode.json",
+  "at": "2026-10-21T05:11:02.901Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which prestige real estate agencies in Melbourne are the market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000567,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20prestige%20real%20estate%20agencies%20in%20Melbourne%20are%20the%20market%20leaders%20for%20luxury%20off-the-plan%20developments%2C%20penthouses%2C%20and%20architectural%20project%20marketing%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCYH9EQ-vQtZqEeDnjCF1VgQF",
+      "datetime": "2026-10-21 05:11:02 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "The market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing in Melbourne are **Marshall White Projects** and **Kay & Burton Projects** , supported by international commercial powerhouses like **CBRE Residential Projects** and boutique luxury specialists like **MelCorp Luxe**.[[1]](https://www.fortis.com.au/cbre-residential-projects/)[[2]](https://melcorpluxe.com.au/)\n\n### Marshall White Projects\n\nAs an offshoot of one of Melbourne's most dominant prestige residential firms, this division leads in volume and high-end suburban medium-density and apartment marketing.\n\n- [Marshall White Projects](https://www.marshallwhite.com.au/projects) has successfully marketed over 265 architectural developments (such as Toorak Park in Armadale and 71 Mathoura in Toorak).\n- Operates dedicated state-of-the-art project display suites and sales rooms.\n- Deep reach into affluent local buyer networks across Stonnington, Boroondara, and Port Phillip.[[1]](https://www.marshallwhite.com.au/projects)[[2]](https://www.marshallwhite.com.au/our-projects)[[3]](https://www.marshallwhite.com.au/off-the-plan-projects)\n\n### Kay & Burton Projects\n\nA titan in Melbourne’s high-end property landscape, Kay & Burton leverages decades of elite brand equity for top-tier vertical living and premium townhouses.\n\n- [Kay & Burton Projects](https://www.kayburton.com.au/office-locations/kay-burton-projects/25104) manages end-to-end strategy from site feasibility and architectural advisory to global database activation.\n- Associated with landmark luxury developments like Mayfair, The Domain, and The Botanical.\n- Renowned for discretion, elite private client services, and targeting high-net-worth local and international migration buyers.[[1]](https://www.kayburton.com.au/projects/about-kay-burton-projects/)[[2]](https://www.kayburton.com.au/office-locations/kay-burton-projects/25104)\n\n### CBRE Residential Projects\n\nFor large-scale ultra-luxury towers, super-penthouses, and mixed-use architectural high-rises in the CBD and inner fringe, CBRE handles major institutional and private developer pipelines.\n\n- CBRE Australia provides high-end multi-residence marketing, data-driven research, and international buyer funneling.\n- Specialises in aligning tier-one architectural designs with institutional-grade development execution.[[1]](https://www.fortis.com.au/cbre-residential-projects/)\n\n### MelCorp Luxe & Boutique Specialists\n\n- MelCorp Luxe focuses heavily on high-end CBD, Southbank, and fringe-suburb luxury apartment sales, elite leasing, and penthouse portfolio management.[[1]](https://melcorpluxe.com.au/)\n\nIf you are looking at a **specific budget, location, or stage of development** (e.g., buying vs. launching a campaign), let me know and I can provide **more targeted insights**.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "The market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing in Melbourne are Marshall White Projects and Kay & Burton Projects, supported by international commercial powerhouses like CBRE Residential Projects and boutique luxury specialists like MelCorp Luxe.",
+              "markdown": "The market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing in Melbourne are **Marshall White Projects** and **Kay & Burton Projects** , supported by international commercial powerhouses like **CBRE Residential Projects** and boutique luxury specialists like **MelCorp Luxe**.[[1]](https://www.fortis.com.au/cbre-residential-projects/)[[2]](https://melcorpluxe.com.au/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "www.fortis.com.au",
+                  "domain": "www.fortis.com.au",
+                  "url": "https://www.fortis.com.au/cbre-residential-projects/",
+                  "title": "CBRE Residential Projects - Fortis",
+                  "text": "Founded 2007 by Justin Brown, David Milton, Tim Rees; Ben Stewart joined 2009; market leader in off-the-plan apartment sales acros..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Melcorp Luxe",
+                  "domain": "melcorpluxe.com.au",
+                  "url": "https://melcorpluxe.com.au/",
+                  "title": "Luxury Real Estate, Residences & Apartments in Melbourne",
+                  "text": "Handpicked luxury apartments, exclusive homes, penthouses, and managed executive residences featuring architectural design and pan..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Marshall White Projects",
+              "text": "As an offshoot of one of Melbourne's most dominant prestige residential firms, this division leads in volume and high-end suburban medium-density and apartment marketing.",
+              "markdown": "As an offshoot of one of Melbourne's most dominant prestige residential firms, this division leads in volume and high-end suburban medium-density and apartment marketing.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Marshall White Projects has successfully marketed over 265 architectural developments (such as Toorak Park in Armadale and 71 Mathoura in Toorak). Operates dedicated state-of-the-art project display suites and sales rooms. Deep reach into affluent local buyer networks across Stonnington, Boroondara, and Port Phillip.",
+              "markdown": "- [Marshall White Projects](https://www.marshallwhite.com.au/projects) has successfully marketed over 265 architectural developments (such as Toorak Park in Armadale and 71 Mathoura in Toorak).\n- Operates dedicated state-of-the-art project display suites and sales rooms.\n- Deep reach into affluent local buyer networks across Stonnington, Boroondara, and Port Phillip.[[1]](https://www.marshallwhite.com.au/projects)[[2]](https://www.marshallwhite.com.au/our-projects)[[3]](https://www.marshallwhite.com.au/off-the-plan-projects)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Marshall White Projects",
+                  "description": null,
+                  "url": "https://www.marshallwhite.com.au/projects",
+                  "domain": "www.marshallwhite.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Marshall White",
+                  "domain": "www.marshallwhite.com.au",
+                  "url": "https://www.marshallwhite.com.au/projects",
+                  "title": "Current Projects | Real Estate Agency | Marshall White",
+                  "text": "25 active residential developments across Melbourne suburbs including Blackburn, Toorak, Specific project offerings feature 33 and..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Marshall White",
+                  "domain": "www.marshallwhite.com.au",
+                  "url": "https://www.marshallwhite.com.au/our-projects",
+                  "title": "Our Projects - Marshall White",
+                  "text": "268 Projects successfully marketed 4,317 Purchasers assisted to own Toorak Park, Armadale Largest project - 466 apartments & townh..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Marshall White",
+                  "domain": "www.marshallwhite.com.au",
+                  "url": "https://www.marshallwhite.com.au/off-the-plan-projects",
+                  "title": "Off-The-Plan Projects | Marshall White",
+                  "text": "Marshall White Projects have invested in six new state of the art sales rooms dedicated to project displays, allowing you to see f..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Kay & Burton Projects",
+              "text": "A titan in Melbourne’s high-end property landscape, Kay & Burton leverages decades of elite brand equity for top-tier vertical living and premium townhouses.",
+              "markdown": "A titan in Melbourne’s high-end property landscape, Kay & Burton leverages decades of elite brand equity for top-tier vertical living and premium townhouses.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Kay & Burton Projects manages end-to-end strategy from site feasibility and architectural advisory to global database activation. Associated with landmark luxury developments like Mayfair, The Domain, and The Botanical. Renowned for discretion, elite private client services, and targeting high-net-worth local and international migration buyers.",
+              "markdown": "- [Kay & Burton Projects](https://www.kayburton.com.au/office-locations/kay-burton-projects/25104) manages end-to-end strategy from site feasibility and architectural advisory to global database activation.\n- Associated with landmark luxury developments like Mayfair, The Domain, and The Botanical.\n- Renowned for discretion, elite private client services, and targeting high-net-worth local and international migration buyers.[[1]](https://www.kayburton.com.au/projects/about-kay-burton-projects/)[[2]](https://www.kayburton.com.au/office-locations/kay-burton-projects/25104)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Kay & Burton Projects",
+                  "description": null,
+                  "url": "https://www.kayburton.com.au/office-locations/kay-burton-projects/25104",
+                  "domain": "www.kayburton.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Kay & Burton",
+                  "domain": "www.kayburton.com.au",
+                  "url": "https://www.kayburton.com.au/projects/about-kay-burton-projects/",
+                  "title": "About Kay & Burton Projects | Kay & Burton",
+                  "text": "Kay & Burton Projects, supports property developers. Landmark Projects: The Domain, The Botanical, St James, Mayfair, Treasury Gar..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Kay & Burton",
+                  "domain": "www.kayburton.com.au",
+                  "url": "https://www.kayburton.com.au/office-locations/kay-burton-projects/25104",
+                  "title": "Projects | Kay & Burton",
+                  "text": "Kay & Burton's Projects division offers a holistic sales, marketing and advisory solution to the development industry."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "CBRE Residential Projects",
+              "text": "For large-scale ultra-luxury towers, super-penthouses, and mixed-use architectural high-rises in the CBD and inner fringe, CBRE handles major institutional and private developer pipelines.",
+              "markdown": "For large-scale ultra-luxury towers, super-penthouses, and mixed-use architectural high-rises in the CBD and inner fringe, CBRE handles major institutional and private developer pipelines.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "CBRE Australia provides high-end multi-residence marketing, data-driven research, and international buyer funneling. CBRE Australia Specialises in aligning tier-one architectural designs with institutional-grade development execution.",
+              "markdown": "- CBRE Australia provides high-end multi-residence marketing, data-driven research, and international buyer funneling.\n- Specialises in aligning tier-one architectural designs with institutional-grade development execution.[[1]](https://www.fortis.com.au/cbre-residential-projects/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "www.fortis.com.au",
+                  "domain": "www.fortis.com.au",
+                  "url": "https://www.fortis.com.au/cbre-residential-projects/",
+                  "title": "CBRE Residential Projects - Fortis",
+                  "text": "Founded 2007 by Justin Brown, David Milton, Tim Rees; Ben Stewart joined 2009; market leader in off-the-plan apartment sales acros..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "MelCorp Luxe & Boutique Specialists",
+              "text": "MelCorp Luxe focuses heavily on high-end CBD, Southbank, and fringe-suburb luxury apartment sales, elite leasing, and penthouse portfolio management. MelCorp Luxe",
+              "markdown": "- MelCorp Luxe focuses heavily on high-end CBD, Southbank, and fringe-suburb luxury apartment sales, elite leasing, and penthouse portfolio management.[[1]](https://melcorpluxe.com.au/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Melcorp Luxe",
+                  "domain": "melcorpluxe.com.au",
+                  "url": "https://melcorpluxe.com.au/",
+                  "title": "Luxury Real Estate, Residences & Apartments in Melbourne",
+                  "text": "Handpicked luxury apartments, exclusive homes, penthouses, and managed executive residences featuring architectural design and pan..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you are looking at a specific budget, location, or stage of development (e.g., buying vs. launching a campaign), let me know and I can provide more targeted insights.",
+              "markdown": "If you are looking at a **specific budget, location, or stage of development** (e.g., buying vs. launching a campaign), let me know and I can provide **more targeted insights**.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Marshall White",
+              "domain": "www.marshallwhite.com.au",
+              "url": "https://www.marshallwhite.com.au/projects",
+              "title": "Current Projects | Real Estate Agency | Marshall White",
+              "text": "25 active residential developments across Melbourne suburbs including Blackburn, Toorak, Specific project offerings feature 33 and Ascend in Blackburn, 71 Mathoura..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Marshall White",
+              "domain": "www.marshallwhite.com.au",
+              "url": "https://www.marshallwhite.com.au/off-the-plan-projects",
+              "title": "Off-The-Plan Projects | Marshall White",
+              "text": "Marshall White Projects have invested in six new state of the art sales rooms dedicated to project displays, allowing you to see first-hand the look and feel of yo..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Kay & Burton",
+              "domain": "www.kayburton.com.au",
+              "url": "https://www.kayburton.com.au/projects/about-kay-burton-projects/",
+              "title": "About Kay & Burton Projects | Kay & Burton",
+              "text": "Kay & Burton Projects, supports property developers. Landmark Projects: The Domain, The Botanical, St James, Mayfair, Treasury Garden, Park Lane, Clarendon Towers."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

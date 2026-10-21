@@ -1,0 +1,106 @@
+{
+  "slug": "brisbane",
+  "pk": "luxury_auctions",
+  "plat": "perplexity",
+  "text": "Who are the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in Brisbane?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\brisbane__luxury_auctions__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:15:23.451Z",
+  "cost": 0.00647,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 29,
+      "output_tokens": 841,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.00587,
+      "datetime": "2026-10-21 05:15:23 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For **Brisbane prestige residential property**, the strongest shortlist is:\n\n- **Adcock Prestige — Jason Adcock:** One of Brisbane’s longest-established specialist prestige agencies, founded in 2002 and focused on luxury homes, riverfront estates, heritage residences, penthouses and acreage properties. Jason Adcock is a prominent auctioneer and is identified as the auctioneer behind Brisbane’s reported $12 million sale of 78 Jilba Street, Indooroopilly.[2][3]\n- **Judy Goodger Prestige:** A well-established Paddington-based luxury agency with a long focus on Brisbane’s premium suburbs. Its published profile reports more than $500 million in premium residential sales and past rankings including No. 1 auction seller for Ray White and No. 1 salesperson in Brisbane.[10]\n- **Place Estate Agents:** A major Brisbane-based agency with particularly strong recognition in inner-city and high-end Brisbane markets. It is a sensible choice where local suburb depth, buyer database and a large campaign platform matter.[1]\n- **Ray White Collective Luxury — Matt Lancashire:** A specialist luxury arm positioned around Brisbane homes valued at $4 million and above, making it especially relevant for trophy homes and ultra-premium campaigns.[6]\n- **SpinksCo Residential — Rachael Spinks:** A Brisbane prestige specialist associated with record results and strong activity in the inner-west, particularly relevant for premium homes in suburbs such as Fig Tree Pocket, Indooroopilly, Chapel Hill and surrounding areas.[6]\n- **Knight Frank Queensland Prestige Residential:** A suitable option for luxury property requiring a corporate, interstate or international buyer network; its Brisbane prestige-residential team is led by Jason March.[8]\n- **Belle Property, McGrath and Harcourts:** National or multi-office brands with Brisbane coverage, premium marketing capabilities and auction infrastructure. Harcourts Property Centre also promotes a dedicated HPC Prestige offering.[1][4]\n\n## Auctioneers worth interviewing\n\n- **Jason Adcock — Adcock Prestige:** Strongest fit for a genuinely prestige-focused auction campaign, especially riverfront, architect-designed and high-value inner-west property.[2][3]\n- **Judy Goodger:** Experienced in Brisbane prestige sales and auction-led campaigns, with a published history of high rankings and substantial premium-property turnover.[10]\n- **Matt Lancashire:** A high-profile Brisbane luxury specialist whose focus on $4 million-plus homes makes him relevant for trophy-property campaigns.[6]\n- **Saeed Moghaddam — Brisbane Real Estate:** A highly reviewed auction strategist and prestige specialist; his profile cites 23 years’ experience and a campaign that attracted 77 registered bidders and 62 live bids.[9]\n- **Jett Jones — Ray White AKG:** A licensed agent and auctioneer with extensive auction experience and strong verified reviews, particularly relevant in Brisbane’s southern, Logan and western corridors.[5]\n- **Scott Kelleher — Harcourts Property Centre:** Promoted by the agency as part of its auction-specialist team and potentially useful for Brisbane and broader south-east Queensland campaigns.[4]\n\n## Practical shortlist by property type\n\n| Property | Agencies or auctioneers to compare |\n|---|---|\n| $4m-plus trophy home | Ray White Collective Luxury, Adcock Prestige, Knight Frank |\n| Inner-west or riverfront residence | Adcock Prestige, SpinksCo, Place, Judy Goodger |\n| Classic character home in Paddington or inner Brisbane | Judy Goodger, Place, Adcock Prestige |\n| Luxury acreage or western-suburbs estate | Place, Ray White AKG, Brisbane Real Estate |\n| Property needing national or international exposure | Knight Frank, Ray White, McGrath, Belle Property |\n\nNo single public league table reliably ranks Brisbane auctioneers across every prestige suburb. The best appointment should therefore be based on **recent comparable sales, auction clearance and bidder data in the exact suburb, the individual auctioneer—not just the agency brand—and the quality of the proposed marketing and buyer strategy**.",
+              "annotations": [
+                {
+                  "title": "Real estate agencies in Australia: AI ranking",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "About - Adcock Prestige | Selling Brisbane's Luxury ...",
+                  "url": "https://adcockprestige.com/about/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Jason Adcock | LinkedIn",
+                  "url": "https://www.linkedin.com/in/jason-adcock-904b7840",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Real Estate & Properties for Auction | Harcourts Property Centre",
+                  "url": "https://www.propertycentre.au/buy/auctions/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Ray White AKG - Verified Reviews & Real Estate For Sale",
+                  "url": "https://www.ratemyagent.com.au/real-estate-agency/ray-white-akg-am307/sales/overview",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Agencies",
+                  "url": "https://www.luxurylist.com.au/agencies",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Brisbane prestige agency expands as market booms",
+                  "url": "https://eliteagent.com/brisbane-prestige-agency-expands-as-market-booms/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Knight Frank Brisbane - Local Real Estate Agency",
+                  "url": "https://www.allhomes.com.au/agency/knight-frank-brisbane-476754/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Brisbane Real Estate - Verified Reviews & ...",
+                  "url": "https://www.ratemyagent.com.au/real-estate-agency/brisbane-real-estate-ab690/sales/overview",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "_Judy Goodger Prestige",
+                  "url": "https://www.domain.com.au/real-estate-agencies/judygoodgerprestige-6809/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

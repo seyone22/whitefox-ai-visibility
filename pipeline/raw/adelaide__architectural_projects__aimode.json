@@ -1,0 +1,186 @@
+{
+  "slug": "adelaide",
+  "pk": "architectural_projects",
+  "plat": "aimode",
+  "text": "Which prestige real estate agencies in Adelaide are the market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing?",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\adelaide__architectural_projects__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:19:21.190Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which prestige real estate agencies in Adelaide are the market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000422,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20prestige%20real%20estate%20agencies%20in%20Adelaide%20are%20the%20market%20leaders%20for%20luxury%20off-the-plan%20developments%2C%20penthouses%2C%20and%20architectural%20project%20marketing%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCeekA6PXzrBqEVM-HE5YcI2z",
+      "datetime": "2026-10-21 05:19:20 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "Adelaide's market leaders for luxury off-the-plan developments, high-end penthouses, and architectural project marketing comprise `specialized boutique firms and dominant independent heavyweights with dedicated project divisions`.[[1]](https://www.belleproperty.com/international-adelaide)[[2]](https://giordanopartners.com/)[[3]](https://www.toop.com.au/)\n\nThe premier agencies dominating the upper-tier Adelaide market include:\n\n- **Belle Property International Adelaide** : Recognized as a primary specialist for major high-density luxury apartment towers and large-scale pre-sales campaigns (such as *The Cullinan*, *Kodo* , and *Central Adelaide* ). They leverage an extensive national and international network to target both local high-net-worth buyers and offshore capital.[[1]](https://www.belleproperty.com/international-adelaide)\n- **TOOP+TOOP Real Estate** : A dominant independent luxury force and multi-award-winning agency (including REIA Large Residential Agency of the Year honours). They manage significant high-end residential transactions, premium penthouses, and elite architectural mandates through specialized high-performance sales teams.[[1]](https://www.toop.com.au/)\n- **Harris Real Estate** : As a powerhouse independent agency with a large market footprint and state-of-the-art headquarters in Kent Town, they handle substantial project marketing, luxury developments, and high-end suburban property portfolios with data-driven precision.[[1]](https://www.harrisre.com.au/)\n- **Giordano & Partners** : A boutique luxury specialist focusing on low-volume, high-service curation of architectural masterpieces, heritage estates, and high-end developments, known for achieving multiple localized suburb records.[[1]](https://giordanopartners.com/)\n- **Julianne Price Real Estate (JPRE)** : A boutique agency with targeted expertise focusing specifically on curated off-plan residential projects and luxury seaside and inner-city penthouses.[[1]](https://www.jpre.net.au/projects)\n\nIf you are looking to buy or market a specific project, tell me whether you are a **developer seeking a project marketing partner** or a **buyer searching for an upcoming penthouse** , and I can provide more tailored agency recommendations.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Adelaide's market leaders for luxury off-the-plan developments, high-end penthouses, and architectural project marketing comprise specialized boutique firms and dominant independent heavyweights with dedicated project divisions.",
+              "markdown": "Adelaide's market leaders for luxury off-the-plan developments, high-end penthouses, and architectural project marketing comprise `specialized boutique firms and dominant independent heavyweights with dedicated project divisions`.[[1]](https://www.belleproperty.com/international-adelaide)[[2]](https://giordanopartners.com/)[[3]](https://www.toop.com.au/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Belle Property",
+                  "domain": "www.belleproperty.com",
+                  "url": "https://www.belleproperty.com/international-adelaide",
+                  "title": "Belle Property International Adelaide.",
+                  "text": "Belle Property International Adelaide are your international project sales and marketing specialists. Adelaide's most notable larg..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Giordano & Partners",
+                  "domain": "giordanopartners.com",
+                  "url": "https://giordanopartners.com/",
+                  "title": "Giordano & Partners: Luxury Real Estate",
+                  "text": "Adelaide Hills' retreats, inner-city sandstone return verandah villas, architectural masterpieces and beachside escapes."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "TOOP+TOOP Real Estate",
+                  "domain": "www.toop.com.au",
+                  "url": "https://www.toop.com.au/",
+                  "title": "TOOP+TOOP Real Estate",
+                  "text": "Australia's #1 Large Residential Agency, Buying, selling, renting, and property management across South Australia, including ToopV..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "The premier agencies dominating the upper-tier Adelaide market include:",
+              "markdown": "The premier agencies dominating the upper-tier Adelaide market include:",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Belle Property International Adelaide : Recognized as a primary specialist for major high-density luxury apartment towers and large-scale pre-sales campaigns (such as The Cullinan, Kodo, and Central Adelaide ). They leverage an extensive national and international network to target both local high-net-worth buyers and offshore capital. Belle Property International Adelaide Belle Property International Adelaide Kodo Kodo Central Adelaide Central Adelaide TOOP+TOOP Real Estate : A dominant independent luxury force and multi-award-winning agency (including REIA Large Residential Agency of the Year honours). They manage significant high-end residential transactions, premium penthouses, and elite architectural mandates through specialized high-performance sales teams. Harris Real Estate : As a powerhouse independent agency with a large market footprint and state-of-the-art headquarters in Kent Town, they handle substantial project marketing, luxury developments, and high-end suburban property portfolios with data-driven precision. Giordano & Partners : A boutique luxury specialist focusing on low-volume, high-service curation of architectural masterpieces, heritage estates, and high-end developments, known for achieving multiple localized suburb records. Julianne Price Real Estate (JPRE) : A boutique agency with targeted expertise focusing specifically on curated off-plan residential projects and luxury seaside and inner-city penthouses.",
+              "markdown": "- **Belle Property International Adelaide** : Recognized as a primary specialist for major high-density luxury apartment towers and large-scale pre-sales campaigns (such as *The Cullinan*, *Kodo* , and *Central Adelaide* ). They leverage an extensive national and international network to target both local high-net-worth buyers and offshore capital.[[1]](https://www.belleproperty.com/international-adelaide)\n- **TOOP+TOOP Real Estate** : A dominant independent luxury force and multi-award-winning agency (including REIA Large Residential Agency of the Year honours). They manage significant high-end residential transactions, premium penthouses, and elite architectural mandates through specialized high-performance sales teams.[[1]](https://www.toop.com.au/)\n- **Harris Real Estate** : As a powerhouse independent agency with a large market footprint and state-of-the-art headquarters in Kent Town, they handle substantial project marketing, luxury developments, and high-end suburban property portfolios with data-driven precision.[[1]](https://www.harrisre.com.au/)\n- **Giordano & Partners** : A boutique luxury specialist focusing on low-volume, high-service curation of architectural masterpieces, heritage estates, and high-end developments, known for achieving multiple localized suburb records.[[1]](https://giordanopartners.com/)\n- **Julianne Price Real Estate (JPRE)** : A boutique agency with targeted expertise focusing specifically on curated off-plan residential projects and luxury seaside and inner-city penthouses.[[1]](https://www.jpre.net.au/projects)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Belle Property",
+                  "domain": "www.belleproperty.com",
+                  "url": "https://www.belleproperty.com/international-adelaide",
+                  "title": "Belle Property International Adelaide.",
+                  "text": "Belle Property International Adelaide are your international project sales and marketing specialists. Kodo, and One Apartments—our"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "TOOP+TOOP Real Estate",
+                  "domain": "www.toop.com.au",
+                  "url": "https://www.toop.com.au/",
+                  "title": "TOOP+TOOP Real Estate",
+                  "text": "Australia's #1 Large Residential Agency, proudly South Australian and operating since 1985 (40+ years in business). Services: Buying, selling, renting, and propert..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Harris Real Estate",
+                  "domain": "www.harrisre.com.au",
+                  "url": "https://www.harrisre.com.au/",
+                  "title": "#1 Real Estate Agents and Property Managers Adelaide | Harris Real Estate",
+                  "text": "Services: Sell, buy, rent, manage properties, property estimates, agent appraisals, and off-market property alerts. to $1,945,000–..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Giordano & Partners",
+                  "domain": "giordanopartners.com",
+                  "url": "https://giordanopartners.com/",
+                  "title": "Giordano & Partners: Luxury Real Estate",
+                  "text": "providing a low volume, high service customer experience that has consistently achieved record breaking results"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Julianne Price",
+                  "domain": "www.jpre.net.au",
+                  "url": "https://www.jpre.net.au/projects",
+                  "title": "PROJECTS | Julianne Price Real Estate | Adelaide",
+                  "text": "JPRE specialise in Off-Plan Real Estate to suit all needs. From one bedroom student apartments through to luxury seaside penthouse..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you are looking to buy or market a specific project, tell me whether you are a developer seeking a project marketing partner or a buyer searching for an upcoming penthouse, and I can provide more tailored agency recommendations.",
+              "markdown": "If you are looking to buy or market a specific project, tell me whether you are a **developer seeking a project marketing partner** or a **buyer searching for an upcoming penthouse** , and I can provide more tailored agency recommendations.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Belle Property",
+              "domain": "www.belleproperty.com",
+              "url": "https://www.belleproperty.com/international-adelaide",
+              "title": "Belle Property International Adelaide.",
+              "text": "Belle Property International Adelaide are your international project sales and marketing specialists. Kodo, and One Apartments—our"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "TOOP+TOOP Real Estate",
+              "domain": "www.toop.com.au",
+              "url": "https://www.toop.com.au/",
+              "title": "TOOP+TOOP Real Estate",
+              "text": "Australia's #1 Large Residential Agency, proudly South Australian and operating since 1985 (40+ years in business). Services: Buying, selling, renting, and propert..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Giordano & Partners",
+              "domain": "giordanopartners.com",
+              "url": "https://giordanopartners.com/",
+              "title": "Giordano & Partners: Luxury Real Estate",
+              "text": "providing a low volume, high service customer experience that has consistently achieved record breaking results"
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

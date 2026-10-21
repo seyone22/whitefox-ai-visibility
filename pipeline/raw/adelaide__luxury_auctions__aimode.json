@@ -1,0 +1,283 @@
+{
+  "slug": "adelaide",
+  "pk": "luxury_auctions",
+  "plat": "aimode",
+  "text": "Who are the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in Adelaide?",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\adelaide__luxury_auctions__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:19:03.829Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Who are the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in Adelaide?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000422,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Who%20are%20the%20leading%20luxury%20real%20estate%20agencies%20and%20top-performing%20auctioneers%20for%20prestige%20residential%20properties%20in%20Adelaide%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCeekA6PXzrBqEVM-HE5YcI2z",
+      "datetime": "2026-10-21 05:19:03 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "Adelaide’s prestige residential market is led by `top-tier independent and high-end boutique agencies` specializing in luxury character estates, architectural builds, and blue-chip coastal or inner-ring suburbs like Unley Park, Toorak Gardens , and Medindie.\n\n### Leading Luxury Real Estate Agencies\n\n\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLdKuYCfqK0GKWkHCfEFtGkXY-BZBKe4H-rxxRmTH3HBi34z0Q704S6ZbV6SX1fRTlUwoW7gYJt5wzfxikP3N62qc6ZQc7ay9JcLf-IMjzQ7CqitMEW5U5CfKRPv7cNI9-HNw0chCQ=s192-w192-h144-n-k-no)\nTOOP+TOOP Real Estate 4.3 (87)  \nReal estate agency  \nOpen 23 The Parade  \nCall Directions Website A premier independent South Australian family agency renowned for handling record-breaking luxury transactions and holding a massive footprint in high-end suburban property records.\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLcR_UIp57KZLGaDQiGh-n1EfaB8ZwcwIdHT2XiVmclpC6xIU3NrDu_qz5q0czl8UqcEBpu77GBryskXGDEhXxC5I47j-2sXLG3LQi4-Wo480ky1TjipxGhC4lHWgLN1Nh8IV-M7=s192-w192-h144-n-k-no)\nWilliams Real Estate 4.3 (88)  \nReal estate agency  \nOpen 60 Kensington Rd  \nCall Directions Website Home to top-ranked luxury specialist Stephanie Williams, highly regarded for high-end strategic marketing, discretion, and substantial prestige sales volume across Adelaide's most exclusive pockets.\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLfNeOd_grV4YjJ0fhxfZ7IrZRAijuQapof3_biSOEutjv9T5rjaXltki8vC_kwpbgA-leLR_ZWiQv6kdYysRjS4y7ynHhwrwgWEVPIktMkph4OkB_6lPQqWva9w-FbZsxkrUFe4YdEky4XB=s192-w192-h144-n-k-no)\nKlemich Real Estate 4.5 (51)  \nReal estate agency  \nOpen Unit 1/245 Fullarton Rd  \nCall Directions Website Based in Kent Town, a boutique agency with an elite reputation for high-value residential transactions and deep local expertise across Adelaide’s eastern suburbs.\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLef07k1VMkSx8hPvNbrxQNM_bQwI9AoxoMqb-hGJXeniq5YDEjIqruu7hCpsWEs4XvTqO7dlAu-KKJIdc5rA-GSqj8uPIagC-JE2J_Lin8N_0COcDxeICb-wxP-WzNUb_1hirbM=s192-w192-h144-n-k-no)\nTurner Real Estate (Prestige Sales)4.8 (1.5K)  \nReal estate agency  \nOpen 49 Greenhill Rd  \nCall Directions Website Operates a dedicated high-end division focusing on premium character villas, executive modern builds, and coastal luxury.\n\n---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLejKFfX6ydT3xaiDPCy8XpHcuB8gVupvU4IrbYYkOrazgtjr6niREDjmKimtJI5Ya0YHROOsERsnQkLjATyoiYkGxjzcF6wzzJiQtBGmCPg9p2xEXrN_zsxYNKO-xQBDBNiORwo1w=s192-w192-h144-n-k-no)\nGiordano & Partners 4.8 (72)  \nReal estate agency  \nOpen 429 Pulteney St  \nCall Directions Website A low-volume, high-service boutique luxury agency specializing explicitly in heritage estates, architect-designed masterpieces, and high-end Adelaide Hills retreats.[[1]](https://giordanopartners.com/)[[2]](https://www.toop.com.au/)[[3]](https://www.williamsproperty.com.au/592041/stephanie-williams)[[4]](https://best10realestateagents.com.au/adelaide/best-real-estate-adelaide/)[[5]](https://www.turnerrealestate.com.au/prestige-sales/)\n\n### Top-Performing Auctioneers & Specialists\n\n- **Peter Veitch ([Toop+Toop](https://www.toop.com.au/))** : A REISA Hall of Fame inductee and master auctioneer known for commanding high-stakes, premium residential auction floors across Adelaide.[[1]](https://best10realestateagents.com.au/adelaide/best-real-estate-adelaide/)\n- **Matt Smith (Klemich Real Estate)** : A multi-award-winning salesperson and elite auctioneer with hundreds of millions in career sales, famous for sharp strategy on major prestige auction days.[[1]](https://best10realestateagents.com.au/adelaide/best-real-estate-adelaide/)\n- **Jamie King ([Auction Time](http://www.auctiontime.net.au/))** : Brings over two decades of high-level industry experience as an elite auctioneer and trainer, delivering premier auction management across the Adelaide market.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVc0NE5XaHRNSEZuGAo)\n- **John Morris ([Morris Auctions](https://morrisauctions.com.au/))** : Specialist high-profile auctioneer known for driving transparent, competitive bidding campaigns for prominent residential and architectural properties.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdaeGFqTmpiV1JrGAo)\n\nIf you are planning to buy or sell, let me know if you are focused on a **specific suburb** (e.g., Unley, North Adelaide, or the coast) or need details on **recent record sale prices**.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Adelaide’s prestige residential market is led by top-tier independent and high-end boutique agencies specializing in luxury character estates, architectural builds, and blue-chip coastal or inner-ring suburbs like Unley Park, Toorak Gardens, and Medindie.",
+              "markdown": "Adelaide’s prestige residential market is led by `top-tier independent and high-end boutique agencies` specializing in luxury character estates, architectural builds, and blue-chip coastal or inner-ring suburbs like Unley Park, Toorak Gardens , and Medindie.",
+              "links": null,
+              "images": null,
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Leading Luxury Real Estate Agencies",
+              "text": "TOOP+TOOP Real Estate 4.3 (87) Real estate agency Open 23 The Parade Call Directions Website A premier independent South Australian family agency renowned for handling record-breaking luxury transactions and holding a massive footprint in high-end suburban property records.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLdKuYCfqK0GKWkHCfEFtGkXY-BZBKe4H-rxxRmTH3HBi34z0Q704S6ZbV6SX1fRTlUwoW7gYJt5wzfxikP3N62qc6ZQc7ay9JcLf-IMjzQ7CqitMEW5U5CfKRPv7cNI9-HNw0chCQ=s192-w192-h144-n-k-no)\nTOOP+TOOP Real Estate 4.3 (87)  \nReal estate agency  \nOpen 23 The Parade  \nCall Directions Website A premier independent South Australian family agency renowned for handling record-breaking luxury transactions and holding a massive footprint in high-end suburban property records.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdKuYCfqK0GKWkHCfEFtGkXY-BZBKe4H-rxxRmTH3HBi34z0Q704S6ZbV6SX1fRTlUwoW7gYJt5wzfxikP3N62qc6ZQc7ay9JcLf-IMjzQ7CqitMEW5U5CfKRPv7cNI9-HNw0chCQ=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Williams Real Estate 4.3 (88) Real estate agency Open 60 Kensington Rd Call Directions Website Home to top-ranked luxury specialist Stephanie Williams, highly regarded for high-end strategic marketing, discretion, and substantial prestige sales volume across Adelaide's most exclusive pockets.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLcR_UIp57KZLGaDQiGh-n1EfaB8ZwcwIdHT2XiVmclpC6xIU3NrDu_qz5q0czl8UqcEBpu77GBryskXGDEhXxC5I47j-2sXLG3LQi4-Wo480ky1TjipxGhC4lHWgLN1Nh8IV-M7=s192-w192-h144-n-k-no)\nWilliams Real Estate 4.3 (88)  \nReal estate agency  \nOpen 60 Kensington Rd  \nCall Directions Website Home to top-ranked luxury specialist Stephanie Williams, highly regarded for high-end strategic marketing, discretion, and substantial prestige sales volume across Adelaide's most exclusive pockets.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcR_UIp57KZLGaDQiGh-n1EfaB8ZwcwIdHT2XiVmclpC6xIU3NrDu_qz5q0czl8UqcEBpu77GBryskXGDEhXxC5I47j-2sXLG3LQi4-Wo480ky1TjipxGhC4lHWgLN1Nh8IV-M7=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Klemich Real Estate 4.5 (51) Real estate agency Open Unit 1/245 Fullarton Rd Call Directions Website Based in Kent Town, a boutique agency with an elite reputation for high-value residential transactions and deep local expertise across Adelaide’s eastern suburbs.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLfNeOd_grV4YjJ0fhxfZ7IrZRAijuQapof3_biSOEutjv9T5rjaXltki8vC_kwpbgA-leLR_ZWiQv6kdYysRjS4y7ynHhwrwgWEVPIktMkph4OkB_6lPQqWva9w-FbZsxkrUFe4YdEky4XB=s192-w192-h144-n-k-no)\nKlemich Real Estate 4.5 (51)  \nReal estate agency  \nOpen Unit 1/245 Fullarton Rd  \nCall Directions Website Based in Kent Town, a boutique agency with an elite reputation for high-value residential transactions and deep local expertise across Adelaide’s eastern suburbs.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfNeOd_grV4YjJ0fhxfZ7IrZRAijuQapof3_biSOEutjv9T5rjaXltki8vC_kwpbgA-leLR_ZWiQv6kdYysRjS4y7ynHhwrwgWEVPIktMkph4OkB_6lPQqWva9w-FbZsxkrUFe4YdEky4XB=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Turner Real Estate (Prestige Sales) 4.8 (1.5K) Real estate agency Open 49 Greenhill Rd Call Directions Website Operates a dedicated high-end division focusing on premium character villas, executive modern builds, and coastal luxury.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLef07k1VMkSx8hPvNbrxQNM_bQwI9AoxoMqb-hGJXeniq5YDEjIqruu7hCpsWEs4XvTqO7dlAu-KKJIdc5rA-GSqj8uPIagC-JE2J_Lin8N_0COcDxeICb-wxP-WzNUb_1hirbM=s192-w192-h144-n-k-no)\nTurner Real Estate (Prestige Sales)4.8 (1.5K)  \nReal estate agency  \nOpen 49 Greenhill Rd  \nCall Directions Website Operates a dedicated high-end division focusing on premium character villas, executive modern builds, and coastal luxury.",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLef07k1VMkSx8hPvNbrxQNM_bQwI9AoxoMqb-hGJXeniq5YDEjIqruu7hCpsWEs4XvTqO7dlAu-KKJIdc5rA-GSqj8uPIagC-JE2J_Lin8N_0COcDxeICb-wxP-WzNUb_1hirbM=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": null
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "Giordano & Partners 4.8 (72) Real estate agency Open 429 Pulteney St Call Directions Website A low-volume, high-service boutique luxury agency specializing explicitly in heritage estates, architect-designed masterpieces, and high-end Adelaide Hills retreats.",
+              "markdown": "---\n\n![](https://lh3.googleusercontent.com/grass-cs/AABkmLejKFfX6ydT3xaiDPCy8XpHcuB8gVupvU4IrbYYkOrazgtjr6niREDjmKimtJI5Ya0YHROOsERsnQkLjATyoiYkGxjzcF6wzzJiQtBGmCPg9p2xEXrN_zsxYNKO-xQBDBNiORwo1w=s192-w192-h144-n-k-no)\nGiordano & Partners 4.8 (72)  \nReal estate agency  \nOpen 429 Pulteney St  \nCall Directions Website A low-volume, high-service boutique luxury agency specializing explicitly in heritage estates, architect-designed masterpieces, and high-end Adelaide Hills retreats.[[1]](https://giordanopartners.com/)[[2]](https://www.toop.com.au/)[[3]](https://www.williamsproperty.com.au/592041/stephanie-williams)[[4]](https://best10realestateagents.com.au/adelaide/best-real-estate-adelaide/)[[5]](https://www.turnerrealestate.com.au/prestige-sales/)",
+              "links": null,
+              "images": [
+                {
+                  "type": "images_element",
+                  "alt": null,
+                  "url": null,
+                  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLejKFfX6ydT3xaiDPCy8XpHcuB8gVupvU4IrbYYkOrazgtjr6niREDjmKimtJI5Ya0YHROOsERsnQkLjATyoiYkGxjzcF6wzzJiQtBGmCPg9p2xEXrN_zsxYNKO-xQBDBNiORwo1w=s192-w192-h144-n-k-no"
+                }
+              ],
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Giordano & Partners",
+                  "domain": "giordanopartners.com",
+                  "url": "https://giordanopartners.com/",
+                  "title": "Luxury Real Estate | Giordano & Partners",
+                  "text": "represents intl. real estate franchise in South Australia. * Low volume, high service model; achieved 41 suburb record sales. * Ex..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "TOOP+TOOP Real Estate",
+                  "domain": "www.toop.com.au",
+                  "url": "https://www.toop.com.au/",
+                  "title": "TOOP+TOOP Real Estate",
+                  "text": "Australia's #1 Large Residential Agency, Buying, selling, renting, and property management across South Australia,"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Williams Real Estate",
+                  "domain": "www.williamsproperty.com.au",
+                  "url": "https://www.williamsproperty.com.au/592041/stephanie-williams",
+                  "title": "Stephanie Williams | Williams Real Estate",
+                  "text": "Partner and Director at Williams Real Estate. Number One Real Estate Agent in Luxury Property Sales in South Australia. Contact: P..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "best10realestateagents.com.au",
+                  "domain": "best10realestateagents.com.au",
+                  "url": "https://best10realestateagents.com.au/adelaide/best-real-estate-adelaide/",
+                  "title": "The Best Residential Real Estate Agents in Adelaide, South Australia",
+                  "text": "Agents: Matt Smith (Klemich Real Estate, Kent Town; $450M+ sales, multiple Salesperson/Auctioneer awards)."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Turner Real Estate",
+                  "domain": "www.turnerrealestate.com.au",
+                  "url": "https://www.turnerrealestate.com.au/prestige-sales/",
+                  "title": "Prestige Sales - Turner Real Estate",
+                  "text": "Turner Prestige Sales is a dedicated luxury property service in Adelaide, backed by 33 years of Turner's experience and currently ..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Top-Performing Auctioneers & Specialists",
+              "text": "Peter Veitch ( Toop+Toop ) : A REISA Hall of Fame inductee and master auctioneer known for commanding high-stakes, premium residential auction floors across Adelaide. Peter Veitch ( Matt Smith ( Klemich Real Estate ) : A multi-award-winning salesperson and elite auctioneer with hundreds of millions in career sales, famous for sharp strategy on major prestige auction days. Matt Smith ( Klemich Real Estate Jamie King ( Auction Time ) : Brings over two decades of high-level industry experience as an elite auctioneer and trainer, delivering premier auction management across the Adelaide market. Jamie King ( John Morris ( Morris Auctions ) : Specialist high-profile auctioneer known for driving transparent, competitive bidding campaigns for prominent residential and architectural properties. John Morris (",
+              "markdown": "- **Peter Veitch ([Toop+Toop](https://www.toop.com.au/))** : A REISA Hall of Fame inductee and master auctioneer known for commanding high-stakes, premium residential auction floors across Adelaide.[[1]](https://best10realestateagents.com.au/adelaide/best-real-estate-adelaide/)\n- **Matt Smith (Klemich Real Estate)** : A multi-award-winning salesperson and elite auctioneer with hundreds of millions in career sales, famous for sharp strategy on major prestige auction days.[[1]](https://best10realestateagents.com.au/adelaide/best-real-estate-adelaide/)\n- **Jamie King ([Auction Time](http://www.auctiontime.net.au/))** : Brings over two decades of high-level industry experience as an elite auctioneer and trainer, delivering premier auction management across the Adelaide market.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVc0NE5XaHRNSEZuGAo)\n- **John Morris ([Morris Auctions](https://morrisauctions.com.au/))** : Specialist high-profile auctioneer known for driving transparent, competitive bidding campaigns for prominent residential and architectural properties.[[1]](https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdaeGFqTmpiV1JrGAo)",
+              "links": [
+                {
+                  "type": "link_element",
+                  "title": "Toop+Toop",
+                  "description": null,
+                  "url": "https://www.toop.com.au/",
+                  "domain": "www.toop.com.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Auction Time",
+                  "description": null,
+                  "url": "http://www.auctiontime.net.au/",
+                  "domain": "www.auctiontime.net.au"
+                },
+                {
+                  "type": "link_element",
+                  "title": "Morris Auctions",
+                  "description": null,
+                  "url": "https://morrisauctions.com.au/",
+                  "domain": "morrisauctions.com.au"
+                }
+              ],
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "best10realestateagents.com.au",
+                  "domain": "best10realestateagents.com.au",
+                  "url": "https://best10realestateagents.com.au/adelaide/best-real-estate-adelaide/",
+                  "title": "The Best Residential Real Estate Agents in Adelaide, South Australia",
+                  "text": "Matt Smith (Klemich Real Estate, Kent Town; $450M+ sales, multiple Salesperson/Auctioneer awards). 28 yrs combined exp, founded 2011, 4 offices by 2015). Top 100 A..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVc0NE5XaHRNSEZuGAo",
+                  "title": "Auction Time",
+                  "text": "Auction Time is a leading Auctioneering business that specializes in offering Residential Auctions, Commercial Auctions, Charity A..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Google",
+                  "domain": "www.google.com",
+                  "url": "https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVdaeGFqTmpiV1JrGAo",
+                  "title": "Morris Auctions",
+                  "text": "249 Greenhill Rd, Dulwich SA 5065 · Auctioneers, specialising in residential & commercial real estate in Adelaide and South Austra..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you are planning to buy or sell, let me know if you are focused on a specific suburb (e.g., Unley, North Adelaide, or the coast) or need details on recent record sale prices.",
+              "markdown": "If you are planning to buy or sell, let me know if you are focused on a **specific suburb** (e.g., Unley, North Adelaide, or the coast) or need details on **recent record sale prices**.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Giordano & Partners",
+              "domain": "giordanopartners.com",
+              "url": "https://giordanopartners.com/",
+              "title": "Luxury Real Estate | Giordano & Partners",
+              "text": "represents intl. real estate franchise in South Australia. * Low volume, high service model; achieved 41 suburb record sales. * Expertise: heritage estates, Adelai..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "best10realestateagents.com.au",
+              "domain": "best10realestateagents.com.au",
+              "url": "https://best10realestateagents.com.au/adelaide/best-real-estate-adelaide/",
+              "title": "The Best Residential Real Estate Agents in Adelaide, South Australia",
+              "text": "Matt Smith (Klemich Real Estate, Kent Town; $450M+ sales, multiple Salesperson/Auctioneer awards). 28 yrs combined exp, founded 2011, 4 offices by 2015). Top 100 A..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Williams Real Estate",
+              "domain": "www.williamsproperty.com.au",
+              "url": "https://www.williamsproperty.com.au/592041/stephanie-williams",
+              "title": "Stephanie Williams | Williams Real Estate",
+              "text": "Partner and Director at Williams Real Estate. Number One Real Estate Agent in Luxury Property Sales in South Australia. Contact: Phone 0413 874 888, email stephani..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

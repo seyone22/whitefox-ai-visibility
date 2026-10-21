@@ -1,0 +1,106 @@
+{
+  "slug": "goldcoast",
+  "pk": "luxury_auctions",
+  "plat": "perplexity",
+  "text": "Who are the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in Gold Coast?",
+  "loc": 1000665,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\goldcoast__luxury_auctions__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:16:35.149Z",
+  "cost": 0.006416,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 30,
+      "output_tokens": 786,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005816,
+      "datetime": "2026-10-21 05:16:35 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For prestige residential property on the Gold Coast, the strongest shortlist is:\n\n- **Kollosche** — A specialist luxury agency covering Sovereign Islands, the coastal strip, hinterland and Coolangatta. It reports more than **$9 billion in settled top-end sales** under Michael Kollosche, with agents regularly appearing in REB national rankings.[1][2]\n- **Amir Prestige** — Particularly prominent for beachfront and trophy-home transactions. Its reported highlights include the **$28 million sale of 41–45 Hedges Avenue, Mermaid Beach**, described as the Gold Coast’s highest residential transaction, and the **$11.15 million sale of 159 Jefferson Lane, Palm Beach**.[4]\n- **Lucy Cole Prestige Properties** — A long-established independent agency focused on upper-end homes from Surfers Paradise, Sorrento, Isle of Capri and Broadbeach through to Sanctuary Cove and Coolangatta. Most of its marketed properties are reportedly above $1 million.[10]\n- **Harcourts Coastal** — A major option for luxury coastal, waterfront and southern Gold Coast property. Its prestige specialists include **Katrina Walsh** and the **Dan and Essie Moloney** team, who focus on high-end homes, penthouses, canal properties and hinterland estates.[3][7]\n- **Ray White Sanctuary Cove** — A strong choice for Sanctuary Cove and northern Gold Coast prestige homes, combining local specialist knowledge with Ray White’s broader national and international marketing network. **Matt Gates** is identified as a leading Sanctuary Cove prestige agent and a former Ray White Queensland No. 1 performer.[6]\n- **Coastal° Property Agents** — A boutique southern Gold Coast agency with a focus on Palm Beach and surrounding coastal markets; Dan and Essie Moloney are licensed auctioneers specialising in prestige property.[7]\n\n## Auctioneers to shortlist\n\n- **Dane Atherton — Harcourts Coastal:** Reported as having been recognised as Queensland’s best auctioneer and as a regular industry commentator.[3]\n- **Dan and Essie Moloney — Harcourts Coastal / Coastal°:** Licensed auctioneers with experience marketing and selling luxury beachfront, canal, penthouse and hinterland properties.[7]\n- **Matt Gates — Ray White Sanctuary Cove:** Licensed Queensland auctioneer with a strong Sanctuary Cove track record and prior top-performer recognition within Ray White Queensland.[6]\n- **Katrina Walsh — Harcourts Coastal:** Her reported auction record includes selling all 14 remaining residences at The Grand Golf Course on auction day.[3]\n- **Troy Dowker — Kollosche:** A southern Gold Coast prestige specialist with 21 years’ experience and reported career sales of $1.5 billion; his team was recognised by Kollosche for the highest number of sales in 2024.[9]\n\n## Best fit by property type\n\n| Property or location | Agencies/auctioneers to consider |\n|---|---|\n| Trophy beachfront or Mermaid Beach | Amir Prestige, Kollosche, Harcourts Coastal |\n| Palm Beach, Burleigh and southern coastal homes | Kollosche, Harcourts Coastal, Coastal° |\n| Sanctuary Cove and northern Gold Coast | Ray White Sanctuary Cove, Kollosche, Lucy Cole |\n| Broadbeach, Surfers Paradise and central prestige apartments | Lucy Cole, Kollosche, Amir Prestige |\n| Auction-led campaign | Dane Atherton, Dan and Essie Moloney, Matt Gates, Katrina Walsh |\n\nFor a high-value sale, compare **recent comparable results in the specific suburb**, the proposed buyer database, auction clearance history, campaign strategy and the individual agent’s settled sales—not just the agency’s brand.",
+              "annotations": [
+                {
+                  "title": "Gold Coast Residential Real Estate Sales - Kollosche",
+                  "url": "https://www.kollosche.com.au/residential/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Gold Coast Luxury Real Estate Leaders | About Kollosche",
+                  "url": "https://www.kollosche.com.au/about-us/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Luxury Gold Coast Real Estate Agent - Katrina Walsh",
+                  "url": "https://katrinawalshrealestate.com/about-us/our-team/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "2024: A Year In Review",
+                  "url": "https://www.amirprestige.com.au/2024-a-year-in-review/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Kollosche Celebrates 5 Years in Business",
+                  "url": "https://www.kollosche.com.au/media-centre/kollosche-celebrates-5-years-in-business/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Matt Gates | LinkedIn",
+                  "url": "https://www.linkedin.com/in/matt-gates-139b9780",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Dan & Essie Moloney | COASTAL °",
+                  "url": "https://www.domain.com.au/real-estate-agent/dan-and-essie-moloney-1883483/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Amir Prestige Mermaid Beach - Verified Reviews & Real Estate For Sale",
+                  "url": "https://www.ratemyagent.com.au/real-estate-agency/amir-prestige-property-agents-mermaid-beach-az624/sales/overview",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Troy Dowker - Kollosche - realcommercial.com.au",
+                  "url": "https://www.realcommercial.com.au/agent/troy-dowker-2496198",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Lucy Cole Prestige Properties | About Us",
+                  "url": "https://www.lucycole.com.au/about/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

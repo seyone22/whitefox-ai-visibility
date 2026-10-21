@@ -1,0 +1,106 @@
+{
+  "slug": "goldcoast",
+  "pk": "architectural_projects",
+  "plat": "perplexity",
+  "text": "Which prestige real estate agencies in Gold Coast are the market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing?",
+  "loc": 1000665,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\goldcoast__architectural_projects__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:17:02.284Z",
+  "cost": 0.006396,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 34,
+      "output_tokens": 762,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005796,
+      "datetime": "2026-10-21 05:17:02 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For **luxury off-the-plan developments, penthouses and architectural project marketing on the Gold Coast**, the strongest shortlist is:\n\n1. **Kollosche New Projects** — arguably the clearest all-round market leader for prestige apartments and developer campaigns. Its New Projects division specialises in off-the-plan luxury apartment sales and end-to-end developer solutions, backed by Kollosche’s established high-net-worth client network and reported $9 billion-plus in settled sales.[4]\n\n2. **Lloyd Estate Agents** — particularly strong in **Main Beach, Surfers Paradise and landmark apartment towers**. Lloyd has marketed major Sunland projects, including Circle on Cavill and ARIA, and was engaged to sell ARIA’s remaining sub-penthouse and penthouse stock.[7]\n\n3. **YPM Avanti** — a leading choice for **large-scale, professionally structured off-the-plan campaigns**. The agency reports more than $3.2 billion in new-development sales and over 3,600 properties sold, with a growing Gold Coast presence and integrated branding, digital and sales capabilities.[3]\n\n4. **Tomain Residences** — a strong boutique option for **high-design residences, beachfront property and limited-release penthouses**. It positions itself as a specialist Gold Coast prestige agency and combines premium marketing with development and investment experience.[2]\n\n5. **Amir Prestige Group** — well suited to **high-end coastal and architectural homes**, especially where broad domestic and international exposure is valuable. The group reports a large high-net-worth database, in-house media production and record luxury sales, including an $11.15 million Palm Beach transaction.[5][8]\n\n6. **Ray White Projects / Ray White TMG Luxury** — useful where a developer wants **national network reach combined with Gold Coast execution**. Ray White Projects provides dedicated project-marketing capability, while Ray White TMG launched a Gold Coast luxury division in October 2026 with bespoke campaigns and access to Ray White’s global buyer network.[3][6]\n\n7. **TOTAL Property Group** — relevant for **major luxury apartment towers and resort-style developments**, particularly in Surfers Paradise and Burleigh. It has marketed projects such as Royale Gold Coast and Burly Residences, including a reported $19.5 million off-the-plan penthouse sale.[10]\n\n## Best fit by project type\n\n| Requirement | Best-aligned agencies |\n|---|---|\n| Major luxury apartment development | Kollosche New Projects, YPM Avanti, Ray White Projects |\n| Ultra-premium penthouses and final-release stock | Kollosche, Lloyd Estate Agents, Tomain Residences |\n| Boutique architectural or beachfront project | Tomain Residences, Amir Prestige, Kollosche |\n| Large-scale project marketing and sell-out strategy | YPM Avanti, Ray White Projects, TOTAL Property Group |\n| Main Beach / Surfers Paradise prestige apartments | Lloyd Estate Agents, Kollosche, TOTAL Property Group |\n| High-net-worth private buyer reach | Kollosche, Amir Prestige, Tomain Residences |\n\n**Practical recommendation:** shortlist **Kollosche New Projects, YPM Avanti and Lloyd Estate Agents** for a competitive pitch on a substantial luxury development; add **Tomain Residences** for a boutique, design-led project and **Amir Prestige** where international and high-net-worth exposure is central. OMB may be relevant as a specialist sales-experience and off-market partner, but it explicitly states that it is **not a licensed real estate agency**, so the transaction would need to remain with a licensed agent.[1]",
+              "annotations": [
+                {
+                  "title": "OMB · Off Market Brokerage · Gold Coast prestige property",
+                  "url": "https://offmarketbrokerage.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Tomain Residences",
+                  "url": "https://www.tomain.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "2025's Standout Projects and the Agencies Behind Them ...",
+                  "url": "https://propertyshell.com/blog-posts/2025s-standout-projects-and-the-agencies-that-made-them-happen",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Gold Coast Luxury Real Estate Leaders | About Kollosche",
+                  "url": "https://www.kollosche.com.au/about-us/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "2024: A Year In Review",
+                  "url": "https://www.amirprestige.com.au/2024-a-year-in-review/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Ray White TMG launches luxury division under Matt Micallef",
+                  "url": "https://eliteagent.com/ray-white-tmg-launches-luxury-division-on-gold-coast/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "25 Years of Excellence: Looking Back On Our Achievements - Lloyd Estate Agents",
+                  "url": "https://lloydestateagents.com/blog/looking-back-on-our-achievements",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Amir Prestige Group | Real Estate",
+                  "url": "https://www.linkedin.com/company/amir-prestige-group",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Inspired by the coast, defined by prestige.",
+                  "url": "https://www.gcprestige.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "News",
+                  "url": "https://www.royalegc.com.au/news/64/location",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "adelaide",
+  "pk": "luxury_agency",
+  "plat": "perplexity",
+  "text": "Who are the best luxury real estate agencies in Adelaide? Give me a shortlist of specific prestige property agencies with reasons.",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\adelaide__luxury_agency__perplexity.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:18:17.250Z",
+  "cost": 0.006237,
+  "result": [
+    {
+      "model_name": "sonar",
+      "input_tokens": 31,
+      "output_tokens": 606,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.005637,
+      "datetime": "2026-10-21 05:18:17 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "For Adelaide prestige property, the strongest shortlist is **Toop+Toop, Turner Prestige, Booth Real Estate, SY Luxury Real Estate, and Refined Real Estate**. Toop+Toop is the clearest all-round choice for high-end residential sales, while Turner is particularly compelling if you also need specialist luxury property management.\n\n- **Toop+Toop** — Best established local prestige choice. It has a strong Adelaide focus, prominent high-end agents such as Sally Cameron, and is repeatedly identified as South Australia’s leading boutique agency for premium service and digital marketing.[1][5][7]  \n  **Best for:** Trophy homes, eastern suburbs, coastal properties and premium lifestyle campaigns.\n\n- **Turner Prestige** — Best specialist prestige division. Turner has created a dedicated high-end sales brand, backed by 33 years of local business history, and says it already manages more than 75 prestige properties.[8] Its separate prestige-management service includes a dedicated portfolio manager and off-market leasing channels.[10]  \n  **Best for:** Sellers wanting a purpose-built prestige service, or owners seeking luxury property management.\n\n- **Booth Real Estate** — Best boutique option for highly personal service. Booth is listed among Adelaide’s recognised premium agencies, with Bernard and Charles Booth identified as its principal contacts.[7] Its smaller boutique model may suit owners who prefer direct senior-agent involvement rather than a large franchise structure.  \n  **Best for:** Architect-designed homes, tightly held suburbs and clients prioritising principal-level attention.\n\n- **SY Luxury Real Estate** — Best dedicated luxury-brand alternative. It is Adelaide-based, focuses specifically on residential sales in South Australia, and is described as bringing more than 40 years of experience to the premium segment.[6]  \n  **Best for:** Clients wanting a specialist luxury identity rather than a broad-market agency.\n\n- **Refined Real Estate** — Best technology- and negotiation-oriented challenger. The Adelaide agency offers luxury sales, appraisals and property management, with its positioning built around innovative techniques, technology and investor expertise.[6]  \n  **Best for:** High-value homes where digital exposure, data and strategic negotiation are central.\n\n### Practical recommendation\n\nFor a high-value sale, invite **Toop+Toop, Turner Prestige and either Booth or SY Luxury** to provide appraisals and campaign proposals. Compare their recent results in the exact suburb and property category—not just headline sales—along with:\n\n- The named agent who will personally handle the campaign\n- Recent comparable sales above your expected price range\n- Proposed buyer database and off-market strategy\n- Photography, video, styling and advertising plan\n- Auction and negotiation record\n- Total commission and marketing costs\n\nThe best agency can vary substantially by suburb: a local boutique with recent success in Toorak Gardens, Medindie, Unley, Henley Beach or the Adelaide Hills may outperform a larger brand without relevant nearby results.[2]",
+              "annotations": [
+                {
+                  "title": "Real estate agencies in Australia: AI ranking",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Savills in real estate companies: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/savills/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "The Agency: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/the-agency/au",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Woodards in real estate companies: AI visibility",
+                  "url": "https://www.citehawk.com/leaderboards/real-estate-companies/woodards",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Australia's Best Luxury Real Estate Agents | UltraPrime",
+                  "url": "https://ultraprime.com.au/agents",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top 100 Luxury Real Estate Companies in Australia (2026)",
+                  "url": "https://ensun.io/search/luxury-real-estate/australia",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Top Real Estate Agencies Australia - UltraPrime",
+                  "url": "https://ultraprime.com.au/agencies",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Prestige Sales",
+                  "url": "https://www.turnerrealestate.com.au/prestige-sales/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Find Real Estate Agents & Agencies in Adelaide",
+                  "url": "https://www.ratemyagent.com.au/real-estate-profile/sales/south-australia/adelaide-sa",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Prestige Property Management",
+                  "url": "https://www.turnerrealestate.com.au/property-management/prestige-property-management/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": null
+    }
+  ]
+}

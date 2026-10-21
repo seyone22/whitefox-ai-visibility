@@ -1,0 +1,314 @@
+{
+  "slug": "melbourne",
+  "pk": "off_market",
+  "plat": "claude",
+  "text": "Which luxury real estate agents and agencies in Melbourne specialise in confidential off-market prestige property sales and high-net-worth buyer networks?",
+  "loc": 1000567,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\melbourne__off_market__claude.json",
+  "at": "2026-10-21T05:11:02.888Z",
+  "cost": 0.066094,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10763,
+      "output_tokens": 1547,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.065494,
+      "datetime": "2026-10-21 05:11:02 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a comprehensive overview of the leading luxury real estate agents and agencies in Melbourne that specialise in confidential off-market prestige property sales and high-net-worth (HNW) buyer networks:\n\n---\n\n## 🏡 Melbourne's Top Luxury & Off-Market Prestige Property Specialists\n\n### 1. **Kay & Burton**\nOne of Melbourne's most iconic and enduring prestige agencies. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "With strategically placed offices throughout Melbourne and Victoria's Mornington Peninsula, their sphere of influence allows them to speak with authority, confidence and intelligence to a vast and enviable network of highly engaged buyers around the world.",
+              "annotations": [
+                {
+                  "title": "Luxury real estate Melbourne",
+                  "url": "https://www.kayburton.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their teams are connected to ultra-high-net-worth clients across Australia and in Singapore, Hong Kong, China, New York, London and Dubai.",
+              "annotations": [
+                {
+                  "title": "Luxury real estate Melbourne",
+                  "url": "https://www.kayburton.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are widely regarded as the gold standard for discreet, off-market transactions in suburbs like Toorak and South Yarra.\n\n---\n\n### 2. **Marshall White**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Marshall White are considered leading prestige real estate agents for luxury properties in Melbourne.",
+              "annotations": [
+                {
+                  "title": "Best Luxury Real Estate Agents in Melbourne",
+                  "url": "https://www.marshallwhite.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Best Luxury Real Estate Agents in Melbourne",
+                  "url": "https://www.marshallwhite.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Marshall White Stonnington director **Marcus Chiminello** is known for selling prestige properties, including setting two then-state residential property records in a single week in August 2022.",
+              "annotations": [
+                {
+                  "title": "Inside the playbook of Australia’s top prestige agents",
+                  "url": "https://agent.domain.com.au/advice/inside-the-playbook-of-australias-top-prestige-agents-1408401/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "He says the key to winning and selling high-end homes is being prepared to stay in touch with potential vendors and prospective buyers in the long-term, with an emphasis on understanding who is in your market.",
+              "annotations": [
+                {
+                  "title": "Inside the playbook of Australia’s top prestige agents",
+                  "url": "https://agent.domain.com.au/advice/inside-the-playbook-of-australias-top-prestige-agents-1408401/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. **Infolio Property Advisors**\nA boutique Melbourne-based buyers' agency with deep expertise in the luxury segment. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Most luxury transactions are conducted off-market, often going unnoticed by the general public, and high-end real estate agents operate discreetly, relying heavily on their personal connections with buyers' agents and high-net-worth individuals.",
+              "annotations": [
+                {
+                  "title": "Generating wealth through luxury homes in Melbourne.",
+                  "url": "https://www.infolio.com.au/luxury-property-melbourne/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Infolio positions itself squarely within this discreet network.\n\n---\n\n### 4. **Propertybuyer / Prestige Property Buyer**\nA nationally recognised prestige buyer's agency with a strong Melbourne presence. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They act as a \"shield\" for clients, ensuring their name never appears on public registers or is known by selling agents until the property is secured — perfect for celebrities, CEOs and high-net-worth individuals who demand absolute privacy and discretion.",
+              "annotations": [
+                {
+                  "title": "Prestige Property Buyers Agent",
+                  "url": "https://prestigepropertybuyer.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They provide access to off-market and silent listings invisible to the public — across Australia's prestige markets, a large majority of extraordinary homes over $10M–$20M are sold via silent sales with no signs and no online listings.",
+              "annotations": [
+                {
+                  "title": "Prestige Property Buyers Agent",
+                  "url": "https://prestigepropertybuyer.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. **Private Property Global** *(Forbes Global Properties Member)*\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The only Australian-based residential real estate agency that specialises in the sale of property above $5,000,000 without geographical boundaries.",
+              "annotations": [
+                {
+                  "title": "Private Property Global, Luxury real estate agency in Sydney, Melbourne and Gold Coast, Australia",
+                  "url": "https://www.forbesglobalproperties.com/members/private-property-global",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The company is very active in engaging the world's premier real estate brokerages through the Forbes Global Properties network and relationships established over decades.",
+              "annotations": [
+                {
+                  "title": "Private Property Global, Luxury real estate agency in Sydney, Melbourne and Gold Coast, Australia",
+                  "url": "https://www.forbesglobalproperties.com/members/private-property-global",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " This gives their Melbourne clients access to an elite international buyer pool.\n\n---\n\n### 6. **PMC Property Buyers**\nA prestige buyer's agency operating across Melbourne with a strong focus on confidentiality. ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Many prestige properties are sold off-market or confidentially, and PMC has strong relationships with leading agents and property owners, giving their clients access to exclusive opportunities that are not advertised publicly.",
+              "annotations": [
+                {
+                  "title": "Prestige Property Buyers - PMC Property Buyers",
+                  "url": "https://www.pmcproperty.com.au/prestige-property-buyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 🔑 Key Insights About Melbourne's Off-Market Prestige Market\n\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Melbourne's prestige residential market is proving highly resilient, with record-breaking sales being achieved at the top end of the market — and many properties selling quickly off-market, or through a discreet sales process, through prestige agents.",
+              "annotations": [
+                {
+                  "title": "Why The Top End Plays By Different Rules",
+                  "url": "https://opteonsolutions.com/au/insights/inside-prestige-property-valuations",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Performance at the top end is underpinned by the scarcity of trophy homes, which are typically tightly held and only brought to market following major lifestyle shifts or deliberate portfolio rebalancing.",
+              "annotations": [
+                {
+                  "title": "Why The Top End Plays By Different Rules",
+                  "url": "https://opteonsolutions.com/au/insights/inside-prestige-property-valuations",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Toorak continues to perform exceptionally well, maintaining its status as Melbourne's key luxury suburb. Brighton also saw a significant number of properties selling for over $5 million, while other popular luxury suburbs including East Melbourne, South Yarra, Armadale, Kew, Hawthorn East, and Portsea on the Mornington Peninsula have also recorded strong activity.",
+              "annotations": [
+                {
+                  "title": "Generating wealth through luxury homes in Melbourne.",
+                  "url": "https://www.infolio.com.au/luxury-property-melbourne/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Melbourne's prestige property market has proved a two-speed market, with a handful of record-breaking sales punctuating some quieter periods — including the Victorian house price record being reset with Melbourne's first deal north of $100 million.",
+              "annotations": [
+                {
+                  "title": "Founded Year",
+                  "url": "https://www.cbinsights.com/company/kay-burton",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 💡 Tips for Accessing Off-Market Prestige Properties in Melbourne\n\n1. **Engage a buyer's agent** with established relationships in the prestige space — they often have access to silent listings before they ever reach the public.\n2. **Work with agency principals directly** (e.g., Marcus Chiminello at Marshall White, or senior directors at Kay & Burton) who maintain long-term vendor and buyer relationships.\n3. **Leverage international networks** — agencies like Kay & Burton and Private Property Global connect Melbourne sellers with global UHNW buyers.\n4. **Prioritise discretion** — the best off-market agents will screen and qualify you before sharing confidential listing details.\n\nWould you like more detail on any specific agency, suburb, or price bracket?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "luxury real estate agents Melbourne off-market prestige property sales high-net-worth",
+        "Melbourne luxury real estate agencies confidential off-market property HNW buyer network"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,443 @@
+{
+  "slug": "brisbane",
+  "pk": "prestige_selling",
+  "plat": "claude",
+  "text": "I am selling a $10M luxury residential property in Brisbane. Which prestige real estate agencies have the strongest track record for high-end home sales?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\brisbane__prestige_selling__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:15:27.339Z",
+  "cost": 0,
+  "result": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011CgEp54CDVtZm6GGp7YJ2p",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "server_tool_use",
+        "id": "srvtoolu_01UHra2vHoAsLQkmndcFYkPi",
+        "name": "web_search",
+        "input": {
+          "query": "top prestige luxury real estate agencies Brisbane 2025"
+        }
+      },
+      {
+        "type": "server_tool_use",
+        "id": "srvtoolu_01NEW1j64v4qtqxqWkqRvpWj",
+        "name": "web_search",
+        "input": {
+          "query": "Brisbane $10 million luxury property sales record agencies"
+        }
+      },
+      {
+        "type": "web_search_tool_result",
+        "tool_use_id": "srvtoolu_01UHra2vHoAsLQkmndcFYkPi",
+        "content": [
+          {
+            "type": "web_search_result",
+            "title": "Prestige Real Estate",
+            "url": "https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/",
+            "encrypted_content": "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",
+            "page_age": "2701 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Luxury Real Estate Agencies in Queensland, Australia (23)",
+            "url": "https://www.jamesedition.com/offices/real_estate/queensland-australia",
+            "encrypted_content": "EooFCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDJyAUHDTqQfcI560yhoMisB8GneOEc6ZJkG8IjDmtswPTdfpZEETd//xDEc6dgp/RxzTZkCj3Zp3BgHKiQAGTOLBwpU1b1sCSaAQQGMqjQThgTEflqiPWkEeHo43wYdaqZfvYRI3TYjTUx0vNlXR6PINbQOoSmMYP2OEDMNg7iKH2JRcwywzZAh7A4xUFw2BBBfcRacIs9W+USraMDvxMHnPMawQkbL9YDEKt+hNxUCpUFKgeHfd04HsTQ8nwf+8tBnGZCEeTxlDjakhvgVh6Z43sNfK+FhIGSSU5qFno74FHE4dGANIunZomBT5oA/H4peokooaI1YM4UxNEz+G5mbZ6ktH3xCFEpEf1kWxS2/GkOzvuQTLuU3mjjpmJeFZsFYIUqyyAg25577KhanNhk8VMm29PfHxQdWdcfH9AFRVH/2YvrEhlLQFJVZp0IiLin+WV9LjSQWTITqFxw31cH5QudRxRR3qaZAPlQgunQPV99JB5oiSyLx/0Hclb2BI/OJu+urf8oi0wtOk5muXE+3vAUOi+pAvErktvOqVteyYRLbegk7M7YskQF9aokwaXWKh42KJNe8OCQJKy0S2zpOqTpnrExqNa6G9JU/zxxvllifmIGA2g+4cYjY0DkmZQMsxoSQWh8y8woGxLHzTQspyhyjQZFiz4ffvhsvsIEJrP8Rg0X9nPv2tYuI/D8vPvgKit8Rltffd3cOSZYYuvcjqrjjIkh05pCGusiWL1XybyteQNII3xoQ6wPQWqo/vXqb74Y6hyYgxpjro8kn8GTYfOJsR2esaYViIhcIYAw==",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Top Real Estate Companies in Brisbane",
+            "url": "https://www.glassdoor.com/Explore/top-real-estate-companies-brisbane_IS.4,15_ISEC10020_IL.26,34_IM968.htm",
+            "encrypted_content": "EucHCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDH0xN1CtVSsNZtxZ/RoMwKdTgjDrg2MJrNbFIjAsEswTK9vZejeDYtplpaiqYVsDPu95MwyWn57z5tCNdrOpzDrhvS3xp5VpVDDg/20q6gYppf5pGhrc9OZ688EXls+MD0dk1NIjRQQAtFzFU4zorcp8oQlTsotTJwWYWOb+y0wPDh2VB0D2yv+1uVI2ZVGoIaPDFHYRpVKKtpEr7HbU/yVjTitzX/Ib1J1DQyy/nFrzZ3FWjC+sy9bobIs4t0pMGGy77UvBui5fSczmdV6p5W+Pbq1qpYatLqiSNRTV71BReWPOB6036zeBAyfcuJwj0zUsKGhwiRMFqLCFAxsivychlo0keq9DmKZxQeN4R8zGOqHRxmd+qzqhLh/fYBAezAHcrHdN6UNkyDpvNBDWeCx8hroRapZK9q9400xiKNvadQNCwdK6L3ikypEumdUMVcCI8HtUKRFuOgFEJ3pbQTGaiZkBmi/5IsQt9JOSFSWvR59BEtbpmbPuuKZRZbAuz7bK4twhk+DcZD1LCusbWW/fhj+VwNHvHqq7nhBsu6OTK7LjGkAnDLscwOz4eieCUvQSthVmyD7Pc4j5rEwBWP3QtXY2HPnzkbrerVflm+MBuZqjhSFiDngy9VH0qaCZ+GRsL7JB+6+l65Nlu10fppLL23u9bmJwYBbItC8HTPnrQX1pBDhduTqCVTVC8pieDE7NQhhV/YwtLjnkNvjT1MnbeoEEwo5YUtrk+Oj9ILIsrF+DqPImQv1aGqDgY2sFuwdK+V1bsZzFHWaVJwQHI3Kelo/ihYBbOAvkTUSe6XVAWTbuyvWUApgG4GwxHNcIKMS3Ly08ln1Ah0nRJm1187OtQSwF57IvxEfRHeQznOjG8/5HcgVJUGC7Atd1aaALMiv3E7F/ib6Nm3AK99y93UJ3Uc5lFFkykN4ZC6XMcXf+HfyaEa+XQesVaV6p19MHEXkgiKKhfSEjAcLDipZn1ns5Br2y08hiJxf14Urx8azAcedMfhvhh5NlYBL2QnV/8FPa/vwtI+AX5TuZQgnqqMq7mlKcKT0YCDkd/WAxOcPGHUvm13SJAcS3VsC8wgAsn/7dB7FjF1m566t+wJDujtFwbsp2ip2ejb7nB2rNjB1hT+vrd4rFJcN1u9B1GDFxBAjfoW8s1nAZRxfgoFmlEZ2xVQmw0m4wmTiVpMYpNTZnrP3sNZbDzh+qGeZJzZg1jM38COv3/ub2GyKZMATywqoGZ1I16foo6AIEVsaZ96Z3Hk5IIuZ1V1YkGAM=",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Prestige Real Estate Agents Australia",
+            "url": "http://www.prestige-real-estate.com/prestigeagents.php?cityis=0&show=states",
+            "encrypted_content": "Er8ICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDCKk/bbeJaJQ4n/r2xoMB2WG3SDjaMVPpGCLIjDCSF+7NpAo++NLpIeixaQXpaAhMMVD9bEu0mGd/goA60WkpxyqbjWETNOxm/ZBP/oqwgd96LhEV23i2crdbmpXFujmgZ6xQa87V5oAWPV0bAASgALfnFljHNt8crbu3g6VrwC5RdIqb78d3QOIgYARCtbKgTFN1jBWHW6L1rqW1QH8tPQIa9hphus+rLtLgaqcga4DiNuqGIx9KwIHTFDaMDlL22NoFGYv+J8juYNqATA11w4C6j3bWxVFHijxsDEYHz4Cvhz7eTS4TEO5j2W734LmZ2yFMj7P6i4VrEiNsFbhwzTsQHnM36qB/Ri4WPS9MvML4NJglP3/NJA9ETTkaE8egc62nXJmAxESDyJDzXtg2juizvuppTv9xxJzuE4UldMyTDlzvOEqEx6/2Mv4K2ww+OPYKA6ZlzSzcKgw4gOdgv4zo52IHzO8yojdBdvaPxW05DU/+Cr1/2zfj7oZWZNorRNfWRz853qskDG2nja2tg3ED2Yy/Kw1qdpgLM/47cuqE8b5PbbRkiBZx79EqM4J9KbwAvgC5mHRcC+ovX+2o4CtC6FfeNlZ1X6jtevB//aVRf1yY5/2KsK6WllFFPSXQUONNN4bGEUnU1vpXU+ka05B0qF9ntLIlF6jiZ/H82CCA66jEL6Qxagb0y8bd4kTyCwenVBngFmhvydxLqNUj9kEPy1JE9dFcDYDYttuqY0iLI3Kb+LOhup9onhqT+lywoMiv8MwvBJiehPrFR6d2JACMYSN08yFpW65svGrA3TNshvF1nNrnTyEsj0hmG5yaIzkaviPl6Hgn861j64EqGMSYHzws/rDhxQFYpjTXGyl9JnVsruEJH6Dwormp4oi1GtVN0yGpAZ5ACcAt/oDIzdoieBCfTxNNyv199x8/FSaEDXaBMX6hoXjycFkfYALw7QP+xui9QwbFuaIYkhMNWfX4kSL+aiH8T7tlgiZtQC30fo5LAPjVDdNJsx5X31dzVycahuUChBcmmoI+SeP2alGbqnbgTHrcsHlN0CffDa2ulkZUhAW8skwjC5Yzai5EgKr2L2LIicdREJFEsOGf94VOQeihxowxTQFYrVV9pX6kEZ+O3Tfo4Nbwgz9mBixRssLqm8vVeW0rd8kKpeZmcJleV+nH1V3YxigVJsGQaYvI6vSUzzFdjvpr46+4QJj3imAJERhEqpLVEtAuYgtRH99ADCbPQJHBk5Rl8EX2paX8p+zQGi494t17AEAjuqfjtl0mJTVIW0rdOcewYNUoTFiovWVA6ShzgXECxdsfaGVKW+dLLDZYXngWf9RpqIXoHp6wOeLxfWJJ0YIRVvWgy6R6frHBjFsZSzZoT5tN6tz7hgD",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Luxury Real Estate Agent",
+            "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+            "encrypted_content": "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",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Top 20 Real Estate Agencies in Australia: Expert Reviews & Insights",
+            "url": "https://www.starinvestment.com.au/top-20-real-estate-agencies-australia/",
+            "encrypted_content": "EvIICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDCB2ezopOpbiM85DHRoMMQsQv1vg8S7rnVTGIjDkqx6TN9TuJDcxsV0nW7kh5ZkfsWoS3fEBVvVogRWmR78eIDIBygcv8AzccS37QR0q9QcpO4oQNc6pATdavlS3ilIs180CmVBX7acDrM9VRwTFY0gNiNyV3Izswc/3S0FIKdleqkDZ7d2zT6/X2t5xlLziWFj3MaAlc60B2yWyEIPaZJgQJ5NVCTc0W8asqz4UcYA2l4glmrzKYAhMnpMxv6WNEnvoaiCghY0YnZmc1+7ss+BfyfKIf2nGJlNXLKL/MN19NmFVmMTvR7Lzb4rolUFInLBebvAQGH1n38fLaNXYD1o5C2FZYlhvuew9JFnGuoeffLmFodMSvRsJf+4atROmkxCpDoAdm0/kTpM6dOxtp1MD2y4zUvY/yAJka9+Uj6gcVzF/Yb0xRyvuxbAiP+LDTUtIPxXIVF/J0SNzy+PUq5Ki1lbq8ggSF5V11+1eOh9oE96d+yttVgImcEN75+AESVyL1gk5IYa2o6a3uHcjaQ0yZNP4lf8VN4yZNaPnZawFA2uzmNb2dIeUj0rxfTkmXeNfwHQq6qnYiUQl5EjcMO0fEU0aRiau30LZ3e+EZOkUpdD1GK5UPpXwbpoOxYQT/EU3OGH3QCgoZ6/ofXlK4BjMIqiUSvyQv1UMzRvp1T5JIVU5WeLAQxltq13OPbY4FU+OD8CgMb3r/ODCdsibKo5Qr3XCGK0+9yrxG/dU+i5SlNIN8InE8/GotH0WTV/L8hZx9WMuLxD4nnLm5RtXqeD9EaQI6H2U+GBbmrm1GcYAdoFPoGXeVh8Y6ftHjjgzl36c/3j8hk0MQc9wQset1zgF50CPwuroCHts0I8J03m6s9MAXQoutaRMFsWKXvUyaAHy2BdAXLxaDPL/wW5ZlVlEIkjXCwT0PLfQe6a29MhJMkm4dJwNocYAD1r+O6KJbMwP06w/5R9gvH6YZNc8vdlQw4xBjqm1jeCPWBK7HXJD4zK6HTNgcKLY+Hj9AZsk7ScwtdAFQ7LocwgXDTs+2DBQtyeJEApc6dRqNY12iG0y1/sDEVw+3zb3K6NGw2+q/MW1Ux+esuQWQeFhYB2NiF/RoEOqnkFwPX6NhmIOY1e3kz5vNg9TlOu1Eg9C/cTruBJtGqRm+lUusu3vvUQmw4ug94309u5Np5xPuEwT8QrGVEIs1eCti9g1XjIpyzkIF2CbPP/SxIBe4iMIj5/zlhJCY27IWkrW04Y2TgRN5vZKRKXCBr1fb1jT9zD2I2MGYk10XWGWoRe89Zp1ZvAdE1BR1rWicplYxOh4MU0hH1trJHcP34xDVIKgLNWD0f8C5A4vs30VW4J1Pxa//nTiZDM/GZtPwVHTRzcGuDY5w8TInahZ6n3QI6XpBnEN78AeZnyertF+nWwAUfXlJ58ygJp4revG5K8ztHDrXs28i8dJVd4OnRgD",
+            "page_age": "372 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "The Best Real Estate Agents in Brisbane: We Found the Top 5 (Marketing Edition)",
+            "url": "https://theresearcher.com.au/best-real-estate-agents-brisbane/",
+            "encrypted_content": "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",
+            "page_age": "86 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Prestige Property",
+            "url": "https://www.nsre.com.au/",
+            "encrypted_content": "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",
+            "page_age": "817 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Prestige Group",
+            "url": "https://en.wikipedia.org/wiki/Prestige_Group",
+            "encrypted_content": "EuAHCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDE2ZivYWH56OykfzqRoM7gb8Nm+03rK+d+PFIjA2ibYPEWVpW+AE/0k0XmvQEtHSUaIN2hJMjn4kPKOdVFW+1/MXmAVOfQWaeYK0TBEq4wZZdPhYwf4ziyR71Ks8ln4MB7cIknjLsy7tuP5jF20wzESmRltzBzv/BrMvbyvs6KMV+zJjtLGEZlCvCl2g+ahzl8IIt3KeeQZsAJU5eu2A3W3811KBOB/hasgXxXsWVBzmS3Z9u4EwdXmaiwIaTwT+y+/5xepR+nNRfwS0UFALFEv0MP/RjSojEan9C3HLkYXyYtj9P9ss/fo5MqgyRfFWJK+TRnk1trBrucQLhZETEs2qRGcYd9XZmpjpsxlHqU9oyt7mHLklAD1AZ2zufoSfrSGQAG+PagsLa/pcIoM5+Z4yggr9mwaHMZTCcPeoA79L8GPmm1nDioXMQ7TIyxuuf84kbiHa13BAUOHsL8Ua4JXlFj8a0FceJG4y+vrGqMEkU7d6iwWquKGd3U/toWcsF99+9WOOjX2tJ0kFGYyINHO24bai1xCsPs9cSvc8xe8JdRRAZN56ki48IexSlsiSgpzhRNE/jAhVEuOV08LDZZNwcsKpHQ38ukPbfrc11iDXWofcZuZGHCx/+mnoXA2bA7L4A8e5yaPTLH1NCX21MEjvGkTSd+tR+u2L5yQOZTSl3PHCnYhj+dx1ftlWYe9daZkW0stbfYfe3Tv3yXvF47+nOkfkD94MwFbJDrrmFGR8tsuGKSobVVRbkbxdefcYf0J876o4jCVNQvwi1ywFz+OPSDm0eAj0Epxsk47Lh+Aa0u9Y/7lTKEa3fC0rIXBGfX0vGGBo1aVjYaQxcVult6IIqodLjVnfUmax+4W+9KunHk5nt4NQNh88N+UdkUNC5sCjYY6PV4MECpEst+RKwagqEHIr/o5S6KC60qCV8db9+uJL8B/m/c0aIdjzN5Mg6Mo2ITQ7rDF+95B14Olyfd0FwU655rzyXLIvP7722gbq7Tn3e2R3SB1rtdYQUjKYc46nUMhrzlmcVT9kz5MsTh58mZYi94p82FEAobCpDzthgVuTTf+HdhvOciARFH8+I6U9bKid2EH33omnWVNDjujpQ4yFpj15ljGxUNvkJXW5v8PzzlzMK9K4blkFuXWuaRQA23mprshSQzJPGs+h0UTF3Zxi+xAgzjvc5ObNqHOD4MIU4LIHgqHj9ZP67ZlNMXuHXCULXeQveJi3zX8SR9mhOkPs8Lq1gylNXaM5/Rbzx4UYAw==",
+            "page_age": null
+          }
+        ],
+        "caller": {
+          "type": "direct"
+        }
+      },
+      {
+        "type": "web_search_tool_result",
+        "tool_use_id": "srvtoolu_01NEW1j64v4qtqxqWkqRvpWj",
+        "content": [
+          {
+            "type": "web_search_result",
+            "title": "Brisbane leads global luxury property shift",
+            "url": "https://eliteagent.com/brisbane-leads-global-luxury-property-shift/",
+            "encrypted_content": "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",
+            "page_age": "180 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Luxury property lessons for homebuyers",
+            "url": "https://www.commbank.com.au/articles/newsroom/2025/11/luxury-property-lessons-for-homebuyers.html",
+            "encrypted_content": "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",
+            "page_age": "336 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "What Is The Most Expensive House In Brisbane? This Robertson mansion sold for more than $15M",
+            "url": "https://thepropertytribune.com.au/market-insights/what-is-the-most-expensive-house-in-brisbane/",
+            "encrypted_content": "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",
+            "page_age": "1355 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Brisbane's Matt Lancashire named Queensland's highest selling agent",
+            "url": "https://eliteagent.com/brisbanes-matt-lancashire-named-queenslands-highest-selling-agent/",
+            "encrypted_content": "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",
+            "page_age": "1778 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Deals",
+            "url": "https://www.luxurylist.com.au/deals",
+            "encrypted_content": "EsALCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDGZIrsddZg7TgJ7W1hoMR3El3RR5Jqik7s4RIjAstDDMMho6fcONXOtAghQt3QhPf9pY3Yx8UxLN0GWaWmAyevYFn/gSiELLJFTRvfYqwwpHRxY+d9QXL29CpbUSGDRLKw2Ebb/JQQkcQjKtE0hA30+WsFtNzTauvOuIThVinT+dJeuxu6ImOAufKX4h/AS1Uidv67vyxjeZcLxP5DUGaNYWaJi8WAXyljUq+HlcAJabQvhaO5QrWyfgXsXlX8CoMpbhfYlRjbp59U9xDCpudAoebX3BdDviKTVrAizi56NKTSmmWIIFD/y2Izotk8hf++xMRznnVjsQKB7aaL8lqZDRSHjFzt/fiM+ws4lUFMrSwbIESqSWlPJh0N6V9PjWmfjQe1eAZ1djtKOrX2d6uH4jUc4iHAf0cdaqxJJGxADl+qlxCf9alILvWoyruU2eZc7dKmdeFM/7QWj8zrtgIzf0PizZjjhPCHYT7exyZC0/e041Qw/Pl0zUwIVK1VRYn7HGwmf05uGYlzpQ3zALW6qPS/LjcQEsFKImj0oDgPbQqBCIgQ5eML5aAnXrevhvflIkqtFS0Jzaw+v3bWjSYrke5UlYXKTOkORfO+ErH/YoOuQS1MxYe8mKPe2ySJXeiqLGxYaRT7Qr9EY0RJ7oN/i7HfaB3r9/sppjqyu90TNmYZ/DNcXe8CGWsWnYgojHPM7MFnDvTpKvfQxVUXLCaBGWSH2JQor1HBOvw3JqrSYEIPH1ipIwf8BZxPMDUk6g8E1GWQxuQnnwcfk0L3pKjhFVcsURioiBd0J/H+MrYnRwhElcHDFquK+Z6PCeS2wBPjmAtKC4H8eqiRZaXAzCeHSosEraa3MNJ/kL6KFC88bM4tRu+v6I5cQmEvlI3oIUTXUWXibWZk/Mb8EdYeJEtBfqcCFlxa8j6o6KN3qVGyR/3Xj0z5Ea4bVn6xgG9CvKE2nwsoT6AfoeNrSqS/gzfWgw43BldMBWx7+liU5ahoLENBCBg+a4PdB3bYvsezJKeJ+rg+mte2waLleMaPGxgdZ8lvzYVaj1/Zy4IDHyz721VUFQL1fC87F0rQtlN8LTwuSvRcv3i1T87XbgEna8wUIZ+gtyo8wacHPH3lpo1XiBHe/rcVLFCmeHqcN7OWzZJIH13oIQYvTcAKn141Tm+hIhY2bzD7VMSfRe6/hYm/KjUUtbPt8PbpI/8bCcpCEdiLiojCV+nf1wy7AfjMlArNcHv76D86OLiwp+XjohkqwaBcdSZzEgxD8l5XOMsFj0vW4AVddYiylRxX0d+5o60FJenlqCba9S/7X3Kqpb6j/N1rObaWaJC6jOj54IpFJpLArUzoXYS8NgeZc+JJgpJKYNCRirt09Q1o4QciftVwyIfF/ed5p8B25sNgM6KXBEj00YU1f4/e0hm0eYKwqJmHUgnR4SRf7V8Sg7R3DQiz9CcrYXAMCE8BUQZaU/lCWnFmK+9aukRQ4oHMDUJGBkA5GFItmBOgzXaaAc9bZtS0cnug3CJIDKwQcaaT9Wd/GGAhvVlGirj0Ff+tC3/HD3SewZtSHeJPqljCvLc5IXrpcbeL6DXFCKhjluaE+ocmLrrTGlLSQPZrkZ6elblycrp8hSKyntBxfkrYosi0ZnAXaumc6rLxQr66+JwyEyuE6WHpgAF9WtzZ16dY1XGfYJydYrED+go9hOzy/ZpfEmQ2szZK6ZeXFP1zj4NTl20lz2tlwzXbm4ybzkfcrj5ONbaI7ACFd1YPWVX6xNezs+BjS1edsaLoKycgsyCltdyipUBpX5PKNrcAQkhu+3f9LPe1gbVCq1qIX+gJaKRthr61c0+E4s3N6dATXQmQdhsnIjZZXdbOm6uNs72kBcCIvOwGv/UMPFl3b0EiCorOAZi5UlbAEYAw==",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Australia's Most Expensive Home Sales History (1978-2022)",
+            "url": "https://propertyupdate.com.au/australias-top-11-record-breaking-property-sales/",
+            "encrypted_content": "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",
+            "page_age": "1114 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "The Most Expensive Houses in Brisbane - Soho Real Estate",
+            "url": "https://soho.ai/articles/most-expensive-houses-in-brisbane",
+            "encrypted_content": "EpAQCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDFomQQWtyfWBLD2DyhoMWok3bt0HiGQXqE2EIjA1yy2dRtmf5JIA6Jpv8OR/GSxlU+8jPObKW76iUL/0C8Q0wpIwkWeJfRL2OvteDwEqkw/07RhdQcZHQznbZ1q2IqYHD9KNI7PZBNqQk/P+iCnSvlL8nlcm/HU7H20aX6R2bLXFVKiGbHxysaV8UsyHRUzfwlaPmSekuM3/0/o9QbCgx+lPQfTfhtj+KmAl1l6uQbe820qz3Yzk/AFP7BeTGTLSdL2kBAGtG07rCIXujEr8F7vF7Nrg/RLrNGbBsUim5hY61n0sqR9CgU54Syv/+At0k94sVUw4cPgLAcuu1xXT12Tmy56jvUHQNKfw4ts/PgmHZAjYq+mYQf1TmXlFO9fy6O+q7yZSWkQzRj9NG2PwNyw1ZeHfiIThfK3SFAsLsXdrdDii/Ozc/4TkUpOtUHBpbEyanCbinK0fFcYJAJOIVeNZXPwrU/AiixIE6DNuv5g6qcrkYIjHKmThNDHWx/7FL/+o/ao2MhtYsySkKogyhUofJvkWcROt0PNnHjcXMWNL5FaNdkbIw7d9WDT2R7zDJUrVR2rXRwEDrh1mTYGUmXPcO4MR+B/x+LdsWIHEYCVOv8PzokYhosDrOtiDbVa1rJ9WkBGCDJqoKezpnCi13MbgIkAIuAb1k5Vgqn0fwPhNgD+vhOMTOhLDhdImVqXFkC+Ap4OXM1hvpKDbam3PDhdTi3h1EIU7mEQqEGHdcgDSJVdNUwMw8dP8r/nLdb2PmAp78LvuZAaP2Lk4DIUdEJ5J1fYLUcoiXzSiQuLjsL36Dco7fT3Pxl/xL09zuRhoZDizsc20SuUhL5vw+RKW0Cs4UUkQNUGFyYVaJq96UIsTJIY4yXSPEVrhtrC/IUxf3q8LxJzt4MEQyoyQU3DtBJuAbDNwVm8qA/8u+35AeE83A9A+3WFOOWtAyuv1JtR3QIq1EMoqNCXeE8KsxAGM9iRdfd5KygHYf8A6kRRY2fI/dIxC9bl0emzuD8vulAyNU04YkAEmrm6w1p/UXnGYG3Qyctw4Wl44eyRcsjuG669YmdEpeeA3SG0GIQlKclzzxbCfgi2i1LS176Mq8LJlRStjspxA2zRLOrR8tr6KAFC8kcPJ4JZT2WfuuG71UQ2oqsukoYFs4JTFh5GAwBwf4gEqoFxP6cgV/7v/hoDQ9VV6Yt4oEWJORPAJ5Bxl+buKQ331V0PIfojpy13se32xFBU9M/hr7couGrG68MmmYKZtOw9V28nWNo7DwbN1wuXgPJbxjxdlZOpfmlHUpaLB3QK3QeFg/miE4YBftgXmnNgqNAA17XvBP0LRsdmucdYAe0Q7Nc5ro7JnX+iLeWL2oi3nFjz48TtUPQuG3QFJQapibXeTaHw0qWmUSvllXZUtq1NFtsmc9r6BEotr9eRXacsuCjGbYHuaLXJV690UfujVwKYU7tvBBXaaJish2BKVxLhjx6bZVXyN4JBvXXeGln+rD75pwAVIf5GuznpXwfLzRXDz/UlX5zNS6oGUly3VIurdFbKbk9b66VMD15gV1aIzrNUhCCSDRnrWWvbSsRa6eIXLY0XFJ5Cr6onm4zy/1lge6/5epXrFWHKIWmY7zYbEsElsMTxCEGNh4Oem/EHcx5LJxGqfBAeKBrj0ojZQ27bEn/fMTx1syzdBHtPy2+1rj3MOtLQ2ppOlXz8KEgDR7Bo3+c9vALXWtiacY+gA5HhBHAxvCSJuPdwyVSFoNK4BVW24H19DtO2M9mVQywHzpBt+GTKrWuYuUypSq8ijRDmY/7CqM/MDn6lRJPr9bmmRV+yW0PPweovvZU7C/VeadnfdynfTGW7M7W6RXQhae4S1/5FcHlGyigOyS+MAMiSKKPOToepeHMtpbHtthXXn08BMQrORM+Kq/uixSlNntSF3fMdWolePKbBQvPQXVcUz/3MLPRBFo+wusGWoVBAjo68PRSrs7Yss6BjkozlZ916R2DREDct+JI6c+5VoEwO4DfcwazhdhW+M+GC6fVB/H5/H3nwJaXgG5xheaOF82Q5SDK7XJQ/WfFq6KGGEeNTeOEpC9Ikzgyi1XtCLjUwl0CZT72u/vLNORUX/7yvdEInB531n2mmRD4UAppRpRNmOEF8Nv1SymCEM6CC+Q0ix4R/+TSsmwYdtEZDiDZ3O5Az+GJAGWZK6vvhXOH+DFP9o3rrZi9S09ems2r4mDMLMEXgQM+BSbTnrN2KX/UUcHrLnW2zBbuEDL7JnF1wSv+POgGGp2GkOfVD383mqi8Ckh+2tV+es+wtWlkANb8nY2nLdTsCYI2CekTqpsnix1KaYMneae/dOliQ5RX2c0exkqMjLx0ckg+gO2zrQjTdu4H2J1D7ab5gebN8zDL17cBJeqOS2a/S2wBlSDx06O0xDwoq0rH6uHxaG0sgQ5s+tq6yfTbviJI0QYE3ugi2y5ckTEtmIo/S8VA7Jtx4Z02R6bBouhMftE+9YUdCjx8sxfqtiVVL9jlvSsCfKamWUrqt6cOlNNBrBOQS/p/oLGTeJ6uC6SxDTON3dpWidhGjiQS5pdfwnoa39LcRU3M1djmJ/oPtuNswEYIpxCW7S9OzlfNha7hJAolFAGPthn32zNxWSkLzpLdxyrqg9CC0EsnxCZMN9YSZQiFqF1cbaZ6KTCzAZ+n0JA7zZzxhQFC1n070aGAM=",
+            "page_age": "218 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Luxury Real Estate Agent",
+            "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+            "encrypted_content": "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",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "180 Brisbane",
+            "url": "https://en.wikipedia.org/wiki/180_Brisbane",
+            "encrypted_content": "EtQECioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDFkddJUzuLgCmTjB6xoMbxKZFTbgIv6GFbQrIjAs0KlazxuRqCcxQsQS6g3LwoPuHwHCrQav0PAlw84LuVGRnEsu917VcMeThd9xC/sq1wOBowNW6oGXp5V9yLl548b4kVOetUJ+l0AYtzvXvyfYKAbNwAxZWIk4YdKqVlppo/SrdkKzlIic5XfMI0IMvHVbk6D4jTBWKVembd2BqYgtcGShHMucWiE63VrheV5rdMeep7QzOKyQTxqRMdmTwhzXq6XQ844o0KI0ix35AOGcDwLTSGnz+fTrOkHRb9KhdzCUcRcko0SGNBWI+q7sa/CwoLOXdb+3dCfR1j7P8yk6YPNcoohBXpLgowz16m89MIBhyzAGHkwjfen8BG631isVd23VkrjpGFQF2batWlmcQM5PpVZcUeB+SAVibuqMQ17ymz7alC16RAiFUAEbYvScCrh9rsHEII5dnWJ89b0IB+yl/zdKa6R5teY84+sYg3HJoRsmsNmXtIMmdDvwy1mAdrXAuMOvG1MpGJ1colu9RvI9XIz46aT21GaXavavfM43X1fVwGEI2mChxwLSETo75Res2U/+pB61tbKtQddR7ncZjGcnp7QqeluJhGcDU2Czl8hBP/2+nBRtVFHx3DKqWX+U4f0Htq1fTjfYdX/8urhQxtabwPk9zqXL9LGbCajpfb0YrZXZVXHR7Took+VKo1L93aMuR4dq5uIO6oTVJm+HEJD+plEYAw==",
+            "page_age": null
+          }
+        ],
+        "caller": {
+          "type": "direct"
+        }
+      },
+      {
+        "type": "text",
+        "text": "Great news — Brisbane's prestige property market is booming, making it an excellent time to sell. Here is a breakdown of the top agencies and agents with the strongest track records for high-end Brisbane property sales at the $10M+ level:\n\n---\n\n## 🏡 Top Prestige Real Estate Agencies in Brisbane for $10M+ Sales\n\n### 1. **Ray White Collective Luxury (Matt Lancashire)**\nThis is arguably the most prominent name in Brisbane's ultra-prestige market. "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Matt Lancashire, who has just launched a new group for properties over $4 million called Ray White Collective Luxury, revealed that buyer inquiry for ...",
+            "url": "https://eliteagent.com/brisbane-leads-global-luxury-property-shift/",
+            "title": "Brisbane leads global luxury property shift",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDBjnvazwiziMkITblxoMrXGWgCIg1z7K9oPYIjBmdhZuogKPCbQd3HjDezIMIZZuSiZSL1QYKVJ/+j/fi82BL42rprcpEVxKo3ZH+YsqFGOUPEaqdOBH9y0sz0gzMI2VqDOHGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "Matt Lancashire recently launched a new group for properties over $4 million called **Ray White Collective Luxury**, and revealed that buyer inquiry for homes over $5 million was up 60%, while stock is down 40%."
+      },
+      {
+        "type": "text",
+        "text": " His track record speaks for itself: "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Consistently selling more than $100 million each year, Brisbane-based Mr Lancashire wrote more than $300 million in sales this year, each with an aver...",
+            "url": "https://eliteagent.com/brisbanes-matt-lancashire-named-queenslands-highest-selling-agent/",
+            "title": "Brisbane's Matt Lancashire named Queensland's highest selling agent",
+            "encrypted_index": "EpIBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDFM0FLHNs/iyvpSN8xoM4r/nCsEFYpMeK8imIjBwp1PT/IIobOEeWffgb9ziWZQLPK+CXooPb3YVv0UyBCWGY1tz/NGwv276agVuhYwqFiV7BnYc5v6wPiRPWh0ZtDmwDQjnW+MYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "consistently selling more than $100 million each year, Lancashire has made multiple $10 million-plus sales, including a record-breaking **$13.1 million sale in Ascot** and a **$12 million sale in Hamilton**, and his team holds the highest sale price in nine suburbs across Brisbane."
+      },
+      {
+        "type": "text",
+        "text": " Most notably, "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "## Most expensive houses sold in Brisbane\n### Brisbane’s Second Most Expensive Home: Amity House, 101 Welsby Street\nThe Most Expensive Houses in Brisb...",
+            "url": "https://soho.ai/articles/most-expensive-houses-in-brisbane",
+            "title": "The Most Expensive Houses in Brisbane - Soho Real Estate",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDKvla8wWZ1SYF0gjjxoMfD0l0+g6IWW70hu0IjDu31WBs5swDP9yXKm3jRWIkDQxQouhGfoimEBanngssY9oyyo0wrZ1b+3qNNIEnHoqFCOsCTuZrs1Kx7rbJQ8+0W1VrbPaGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "the recent off-market deal at Brisbane's second most expensive home sale was handled by Ray White Collective's Matt Lancashire."
+      },
+      {
+        "type": "text",
+        "text": "\n\n**Ray White Ascot** also deserves a mention in its own right — "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Damon Warat closes Brisbane's most talked-about luxury sales – Ray White. Ray White Ascot Principal Damon Warat has dominated Brisbane’s prestige mark...",
+            "url": "https://www.luxurylist.com.au/deals",
+            "title": "Deals",
+            "encrypted_index": "EpIBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDAax5ABX1A1t6Wf8qhoMUw7gegBCSYeRtV/mIjAIGap1TEYE3+vdX0AQ2DyyLVLkOIGqOhwpn7S/xlCYo4nHaMdk0a96JwnuLsS/boUqFkq8Pq3YeOWUZGYo8tCUJezcmFl7njUYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Damon Warat, Ray White Ascot Principal, has dominated Brisbane's prestige market, negotiating the $8.2 million sale of a long-held Hamilton Hill estate and the rapid eight-day sale of a high-profile Ascot mansion."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n### 2. **Place Estate Agents**\nPlace is one of Brisbane's most recognisable prestige agencies. "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Drew Davies — Place Estate Agents\nDrew Davies\n\nDrew Davies is, by follower count, Australia’s most-followed real estate agent on Instagram — and he ha...",
+            "url": "https://theresearcher.com.au/best-real-estate-agents-brisbane/",
+            "title": "The Best Real Estate Agents in Brisbane: We Found the Top 5 (Marketing Edition)",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDPhflWdqVWshMsZ2zBoMxqDq4KYJHXILux9iIjC1aEBQQY7RCxwsH2hu6CcBF+8nkLsi4iAkzOqZOgqT8gzKgJYvkrPPJoGhCkZLrKYqFeMTkrINb7VNZkjPqXTbEkDHk4apHBgE"
+          }
+        ],
+        "type": "text",
+        "text": "Drew Davies, a principal and director at Place Estate Agents in Ascot, is Australia's most-followed real estate agent on Instagram and specialises in Brisbane's prestige market, where standout presentation and reach can add real money to a result."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "For sellers of premium Brisbane homes who understand that marketing is what creates competition, Drew is one of the most recognisable names in the cou...",
+            "url": "https://theresearcher.com.au/best-real-estate-agents-brisbane/",
+            "title": "The Best Real Estate Agents in Brisbane: We Found the Top 5 (Marketing Edition)",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDJrwM3R+328/OGif9xoMGRzghW43eUDXlBcZIjDlEhbSczQ4HcrQZX7R1PXPQLpS+/o3+xnlZi/gldP+soHfaLOXsNRmqIjl/HO9OnQqEwH6v4WJqCVdDgApRXjg1nMhRyoYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "For sellers of premium Brisbane homes who understand that marketing is what creates competition, Drew is one of the most recognisable names in the country."
+      },
+      {
+        "type": "text",
+        "text": " Place also has a strong broader team — "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "### Brisbane’s most expensive home in 2022\nAccording to HTW, the Musgrave Road sale was shrouded in mystery, the November 2022 Month in Review report ...",
+            "url": "https://thepropertytribune.com.au/market-insights/what-is-the-most-expensive-house-in-brisbane/",
+            "title": "What Is The Most Expensive House In Brisbane? This Robertson mansion sold for more than $15M",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDOhvDuAeJfEvtyhlgBoM5t0+1ELMtiF51JSlIjBb2/vc/JMD7lUnlmlEGNGqwYMnxNzs8ij3yTTMWcMU5S/g3IFXT/NOd8wFYCaVA04qFLoEzvt09YLy0cl9luR29H5QRb1JGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "Place agents were involved in selling a sublime and majestic Robertson property along Musgrave Road"
+      },
+      {
+        "type": "text",
+        "text": ", which was one of Brisbane's most expensive home sales.\n\n---\n\n### 3. **Queensland Sotheby's International Realty**\nSotheby's brings global reach and international buyer networks that are critical at the $10M+ price point. "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Suburb record for 5-acre Chandler Stonebrook sold by Sotheby’s\n\n598 London Road Chandler sold by Tyson Clarke of Queensland Sotheby’s International Re...",
+            "url": "https://www.luxurylist.com.au/deals",
+            "title": "Deals",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDN+ZiwvA4BageuOdmhoMMkQaIwEHHz5++Dy6IjAlGLCKb6Pku7yuY7QXf8Dteebh/Aw4Rp7d3YIbRaGa89wbXRntH+P7OUSUzhttH0AqFO3mL/XMmg9d/fi78tOLBK0FboEpGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "Tyson Clarke of **Queensland Sotheby's International Realty** sold 598 London Road, Chandler, breaking the previous record of $11M for a prestige acreage property."
+      },
+      {
+        "type": "text",
+        "text": " Their international platform gives your property exposure to ultra-high-net-worth buyers worldwide.\n\n---\n\n### 4. **North South Real Estate (NSRE)**\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "North South Real Estate (NSRE) is the preferred choice for discerning buyers, investors and developers seeking exceptional properties and strategic gu...",
+            "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+            "title": "Luxury Real Estate Agent",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDIj9tYodcz0NqBeOkBoMRPWkndvlUT/Afru4IjCRaNZPB+QYPRjv0HjbHc4kgWfDRe4ojVAGQnUgqrr2IvM6SoHIDg3BG5x3ROcuxPkqFaGNlg+WqRKnCL3dv0Vhrd6BLO7ygBgE"
+          }
+        ],
+        "type": "text",
+        "text": "North South Real Estate (NSRE) is the preferred choice for discerning buyers, investors and developers seeking exceptional properties, specialising in prestige apartments, trophy homes and unique development opportunities in the high-end property market."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "## Why Clients Choose North South Real Estate\n- **$1.2B+ in Luxury Property Sales **Over $1.2 billion in property and development transactions across ...",
+            "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+            "title": "Luxury Real Estate Agent",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDI9xisWlb4Wee91xMRoM2NHFZI3h6ZW9lJ7ZIjAbujsbka4bPgn8urveMf7qKROb6sVS78zllwiTlbzPw8DXB5y5THanGwDIuHDd0HMqE0r4qRGOvrx5F5Mu7QQMQ+2MNXUYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "They report over **$1.2 billion in luxury property and development transactions** across Southeast Queensland and Northern NSW."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "## Nik Seirlis: Prestige Property & Development Expert in SE QLD\nAs Selling Principal and Director of North South Real Estate (NSRE), Nik Seirlis is a...",
+            "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+            "title": "Luxury Real Estate Agent",
+            "encrypted_index": "EpMBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDP2pSIgsUulEQQH5XBoMGMbz3pXpkft4TGpzIjCEXvU58ZmrB32zex/mq2hSlg17zvEs9IQH3Og+rW8nxCOy5GXOFsWtMioeefgluaQqF+qRgzmev9grmPqdOkKqlO7bMdFHoCM6GAQ="
+          }
+        ],
+        "type": "text",
+        "text": "Director Nik Seirlis is a leading authority on Brisbane real estate and has achieved many record-breaking sales, especially at Riparian Plaza, Brisbane's most prestigious apartment tower."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n### 5. **Christie's International Real Estate / Boutique Prestige Agencies**\nFor a $10M property, you may also want to consider boutique prestige agencies with ties to international luxury networks such as Christie's International Real Estate, which provides access to global HNW buyers — a key advantage at this price point.\n\n---\n\n## 📊 Market Context for Your Sale\n\nThe timing is favourable. "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "# Brisbane leads global luxury property shift\n### Brisbane is increasingly positioned as an upcoming luxury property market globally, supported by ris...",
+            "url": "https://eliteagent.com/brisbane-leads-global-luxury-property-shift/",
+            "title": "Brisbane leads global luxury property shift",
+            "encrypted_index": "EpIBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDNhtdbr60OCQRavBexoMIpNrO9eRotHRUYF0IjAl5w9YbPQJSevjzYnf0ir5NIDJQ1NX54FBOQ1bhwiRgdrQGyvE8QWfqcdFSH/sFS0qFrj927v2SY1jQ1qS41mwq4QZWY1q+PUYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Brisbane is increasingly positioned as a key luxury growth location globally, supported by Olympic-related infrastructure investment and ongoing urban redevelopment."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Several recent $10 million-plus transactions have been completed by buyers in their 30s, while demand for luxury apartments is increasing among downsi...",
+            "url": "https://eliteagent.com/brisbane-leads-global-luxury-property-shift/",
+            "title": "Brisbane leads global luxury property shift",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDLcx6E8JkTyFdV90bxoMhqRW1LWOqJDe7REgIjArJ3gzzBmvlemKIoUGk97Jq1TlxzI+x8edA/xJEii0sOj29orDBXbtdZuugka2n70qFN+BaXPMLuoqopWPxSveTv2WF9J4GAQ="
+          }
+        ],
+        "type": "text",
+        "text": "Several recent $10 million-plus transactions have been completed by buyers in their 30s, while demand for luxury apartments is increasing among downsizers and rightsizers seeking low-maintenance, high-end living."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "“When I opened my office in Brisbane six or seven years ago, you were buying an incredible home for $1.5 million. That same house today is more like $...",
+            "url": "https://www.commbank.com.au/articles/newsroom/2025/11/luxury-property-lessons-for-homebuyers.html",
+            "title": "Luxury property lessons for homebuyers",
+            "encrypted_index": "EpMBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDDYMyYqAV8bkF80j7xoMJjiZfEe1DoYE2beTIjAuoAHPARPXhxcKl0TD4dOB7eDaxKPOf/VlKydqKra9JBgkk/GPlLZYg3U8gx+NUXMqF2f+NSTSxEFhvuPWR1d+Y/m86k6azcZnGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "Homes that were bought for around $1.5M six or seven years ago are now fetching $6M to $10M, and Brisbane has recently seen its first two or three sales over $20 million."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n## ✅ Key Tips for Selling at $10M+\n\n- **Off-market vs. on-market**: Many $10M+ Brisbane sales are conducted off-market for discretion. Agencies like Ray White Collective, NSRE, and Place have strong private buyer networks.\n- **International exposure**: At $10M, you want an agency with global reach (Sotheby's, Christie's) to attract interstate and international buyers.\n- **Agent track record**: Ask specifically for evidence of $10M+ sales, suburb records, and days-on-market at this price point.\n- **Marketing investment**: Presentation and marketing quality are critical — drone footage, professional staging, and digital reach can significantly impact your final price.\n\nWould you like more detail on any specific agency or agent?"
+      }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 15536,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1476,
+      "service_tier": "standard",
+      "inference_geo": "global",
+      "speed": "standard",
+      "server_tool_use": {
+        "web_search_requests": 2,
+        "web_fetch_requests": 0
+      }
+    },
+    "diagnostics": null
+  }
+}

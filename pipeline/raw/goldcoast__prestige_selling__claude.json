@@ -1,0 +1,484 @@
+{
+  "slug": "goldcoast",
+  "pk": "prestige_selling",
+  "plat": "claude",
+  "text": "I am selling a $10M luxury residential property in Gold Coast. Which prestige real estate agencies have the strongest track record for high-end home sales?",
+  "loc": 1000665,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\goldcoast__prestige_selling__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:16:36.406Z",
+  "cost": 0,
+  "result": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011CgEpAAGUjFoTvty8AXbLu",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "server_tool_use",
+        "id": "srvtoolu_01SLigdcEYJkZdsFLm5zNN4Q",
+        "name": "web_search",
+        "input": {
+          "query": "prestige luxury real estate agencies Gold Coast $10M+ residential property sales"
+        }
+      },
+      {
+        "type": "server_tool_use",
+        "id": "srvtoolu_01Y3QfpLHMhkZPt9oUkvHwrG",
+        "name": "web_search",
+        "input": {
+          "query": "top high end real estate agents Gold Coast 2025 2026"
+        }
+      },
+      {
+        "type": "web_search_tool_result",
+        "tool_use_id": "srvtoolu_01SLigdcEYJkZdsFLm5zNN4Q",
+        "content": [
+          {
+            "type": "web_search_result",
+            "title": "Gold Coast Luxury Real Estate Leaders",
+            "url": "https://www.kollosche.com.au/about-us/",
+            "encrypted_content": "Es4QCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDHMJTIYtI9F3TE+czRoMkwKq5IoSKmOhi9TSIjDiAhSQAeF0gWGFDdomD8v7YEQitHveoK+pfT38MEjaZXVA8yS2tEwgkqicyz1LyPMq0Q/Cw6e4pkrIBgZYqRYmc8VI9AkrfqUOh7n6CckozTjVRVhja+C/G8BhpyuiLBDdFnFYWBjgQr0tA7ymzPbKcFarqgx/G7WsTls6w6SgT0ZLTi9OfAbi0v/zkeQvBzwe2mlLZYQV2Jc5O0kOrHvk+Wc/GmNOrNMfzRsEkoLYuu2bcfuPMnEwkNp7JPv1U15oLjbUDRD+/4x31pmni53hiCdleex8RkQR1Fw1zXrNJBoJ9r+Eq5eE/0V0DqyfT2t8iYsx55oN5WK6epePc19QEvzfAVnH6EkxiPBLcl0N/QHUQs1nK+HAd5v6M2wgyGyUpAbn+k8MsxiJOoygH8YgkZn23xoovFEAOXg8x3B45bpcUWweFWzKIw8njsBsMxLYK50OQd2gbey5asJyln09xCQ9FHrScq16i7knEoKg2dcomnw+MXqabSmSo3N1kvq7W99MGRpAMcc/Em1gHPypQ4yMXNkTFbbIcM7pkhjnmeclRc5FKXLCJkCiU/zjySwAVWAZ8MPcTZSFnijKoUz6jee4gGZFP8G/cPRzrlPZN+TQ4SPSrc55VZdfh4omwJqLGDM91e59mTbPdCUlo1RpTtD5DHXIlSudvUGKcpcoGsdLTkRhxZxZruuTmWaOe372hEww4YYKX3y81atRiucMV74Qsk5lFjo+AFQVOs8v83GKc1lnqstD05vqmi08kbORi+j1+lQv7OWnley3qFw9uRn3YA+M1gntY20E5W4bQpdyZjHceEVX+N0DWk+sxe9U8/7aMJOXsUdD/Gok0ecrCuy6uzA8zVUp3OHUOcWhH+EBgZAq9oDfMBwCfe/IHhymksVXvC8ulhgWj4F/JllmUDt1SmecMbOtmNTo9ltzeAqgUn0GVKEZbmeQEByHCs+3KQsPoyZXVSvhKZetB3CpvTQ+GWbXTnF/7Ew4OpBuYfgMttsZzal8ADCXl+S09nWlLImop2jOUzsn7QmRJAvc/dJEKtLICyMFJGRKt8Q9l6dWXFAwhBlimpha6nD6kCOgNHrxNM+AdT6npD6T99avVCCSb0lcsHHCzpblz97h4sqtELJyfMU5529GEcNbNvT2ljtEEqUX25gyjbKLPpCgeLAF4N6PVx5S9BaNgkkXkY13ra9lEvRgloJCpYzJrtxSOe7Yv1bGKVzcWvQTG6LGTCnnmFfrDwKuIyWJWKUKGfhmi2LuZv3mcSMe0mEI8LsELSd6qd8CL/xgr045n9GIXmFWQIRuzLGaHCUYKZpQb6g+4IXHxHUslPRzcCAp5cwN0zpW8vR0uCK9FhHDbVXetfrnM0YUuG8CRaEcA/sQ1euIRTZHxqZJeu4pdxdvi46F0dfwSPr/I0fFskiLLThERRkxooiLY0j1OGsoK0feD8MfECmVDuLp/EE3i+UC8MMYliT0/MU021Sv5Z/isB3hTcmCt8/N4x/EYS1TSiO8m/p6Mva5Ewle3hIeAMMVh0ZIZ1joSwpqCnpbQUaPND+arC1nMiIIbM76s7dLAyD4DCe1jdcmgQMEeMcAsNPuh66yBhm+UlkXJhKG5zZXuDOr5nYDRCVWs+6Y4mJkpVDxXd9m6I5+TyL5m1JcBnXpBNDKHd799aB2l4axqmahnAj67fj4KQaf2XThZVL7ys4QUOKjjHAZ9eWlVLYfPAVfO7KuqA34rXQc5XidXIximuCPyGnU6hMWOwRW8YYv+m4P5mTwGPcKHW3dZjw0k2SyKCtg1G6SekXGAaetN/57eTRNZ1gICGaft7JINVI4pTL0txxRZpPLN6GLYsMrqz+ABt+vcasTksbh2rbtN8n7hpz+6BF/7p0qdX1CbuLASwTObhZ4Z5frQ3KKshGVv4EeGBdgKPSKNiGfVPKvz91y4raasnJWu4bBK6Qe5B+yHgbgt5h788RIXrS8SGvSILc6rNRZDcJ/wd3MVWMfmf+fw66Mvt1AaWSdAYMMWn/sEQ5h2D/Guljf4LAnb0ZwGibcEVHfZmwp1NcatoOxi7WdUydVVUv/IGKHFPjeURD/eLwRkmBgcHBrIBRBX1bdZ6DXZ/2RhBxpP6edWZt7KTC7oOwZyy/K/IE9DgtGJpVMWZr48iSRAitdCXk7EGl/Hu1UGi2TzmckgXVySHaVycotHyFEpemMlw7DRF+6FnNXiROKBRz/iV8pftgFLfbe97mEjUOIdCx9PddXmf9P7NvrYxq9jWlH6DZaCIyuj3PnQiP8Hp6+WhPmSZhogobm95+HPE5HVn6RUlncwX2bipNaR50glkzzoCMZ+dFXMJ130XOdgma0T/gEwf9iXjRiwkfFejwCBca05VmVpf4JTs4XYEx9kqE9lKwmlbTkjsMx7ZsLjRD7O3NXCWlIByfSUCnSOaeq/09bThoLS5oR8+7Njbe7iL8p5BOI67gQ5hRv6LGQueH1UMdRyx+wsYcufjRo1dXUkIyKIUmuZS9ba2IGhWcITP96fLYyouJbrBkcDpA5Sl5fq5LFjF00QRrn7v7ZnXYZIKCOzLFkP5kkYmNd7oJvkXEWE3ovW/LpbP7WUz5qVgS8euZ0xlliyVK7BGq1He1lYCMeND7IS1SVIYMkaApPvOgY8Iry+/rAcC6ANvWShbUg/a8frbSZPzXIP6dnT3WdsGbF7BEKcJDinn9t6Jo9mo4G8TD/uh+M4qbctOL5hfex1L8YAw==",
+            "page_age": "448 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Private Property Global, Luxury real estate agency in Sydney, Melbourne and Gold Coast, Australia",
+            "url": "https://www.forbesglobalproperties.com/members/private-property-global",
+            "encrypted_content": "EuoHCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDK+IJ/hGHgh9jyQulBoM8VY6cjKlsxrow/8/IjClhM48y4h0/qBOUzquv4hD9kUVXXqBIrNNzX7vlOxQb3NgZZ2aKbKsRQhOIcf9Hp0q7QZ0TivKk/BHnx3hb8iqMVvsxKTy2RMAZadli8M7ZuKRW+gVlwli5bVXvriDCtmRSGYBjqh9Ytuu3B4Xa4VX3H05eQ95r/2plIl3jpbHvGWPSaTEJT/dwNrBY67DbBLhq8xsYwG8No6KmEBMB6FU1n5yRD39vVSl8Ii50G3MugT0+B64x5ZNXCJLhD33b4ZwhDnDeJ9W0FO52DZ2hXxQ7zUHe/sivjxHN/C3WhhFwi7dYudWYUv18hFuz11MXwaYrzrK4PMQT4ZPKh2KUrPSt10y/RDyf7eCob2M086pddo1xGoFMlnpDFNxaWPHPGLMptdAj/0riLx/FJ6xZIwWZ7AaKkNzdc9n/qr2A2YrQwW2X2HvjJCK6Va+CQoN6kcGDW33BBYn/utWjJl9y9JyshwtC6rNQAPa9hy4WCzbkVBpngXZSNLOlELn14Oaa8otj5pDaPwQIML5kbAVmc2mD9vNkPqNobO1yWuX2arXtyaB12WfrvrLk78G6+JUKwCW23nTWfWEzgAaCQRFjsovrB8C2UdVKdIiFiiHNqCaZicwoWZmSAl8K8bvjdeXvEyhe+3kRIjgkgXf8hzUAwy9aALElMK0qrWMFSERrZbo4YK08lLkU4mrHJ04Bw0VWVfbcZy/kfjK/iPmaxpzu7yiADgDJzO1iZqkrIMaa9kRdlU9yqjxExUXGhmBK0TmXyaGv/bxRtdOcQmHcF47Ex8wmaklT2X4zyzYR9YxK8pAyyYCDnTfvVBcokNn98uAIoXd+5FsTocZB4mNG3D8/2spcUDAc0/Zt3188NhY7wucOgGL9XXOLXYw7M3AcDPhb+gTiIOVWnvGOGacTSKsotHaj87HLiIsZUFTRdsA61u/lphyl1O8BavrkRqt5GzB4AIqKYAXp40W1gchwO6LvDzQsXn/uK3EsLavEKo4xv3/dyQ3faznJTxiWNmMm3hSHIXfEUiWC9lbsW+l7VQqsuq9DpAHSkRHJgEQWpv69kbekfFudh6cCb5p+vejBfGAizVTgzId+vIb9Psu3MyzG6GaKYrXz9gPZlPZyPFhxc1awkq5AeSmaPJOlHVrkCcmXABc4lYwNZzw0S7Lp/xOkG4zzESpMJhCFrEszbmbFis0YXBx8cKatujgVSss008BrROZnsidgTL+RzGGHx0J3TJIGAM=",
+            "page_age": "90 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Amir Prestige",
+            "url": "https://www.instagram.com/amirprestigegroup/",
+            "encrypted_content": "EqQFCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDDblM+5hdA8xvtoUxBoMZnzU88vNhj6eMp2tIjCLjYVGJKEPZTu3SvKYVlMwetPmLlyjp0KHADRcduCGx10HKpokmN1mk9yHRg9aYaYqpwT+JBO7+leyrY1OQoBG8TZ0jM86zWxZjOpWiR3JmpBZzsnCcrIXAap7pyMfYW7DiOsiwsh4bH53AwHTR53iTYRLwMU9CMvbqRQ5zCugOKHNkiW7YDo893mlaNr3+vtHTsBO2Bz9+F6D208LlyRI41bUlivoKMDoOVviDsRCfCHokctxBQULGkh3sXJL5ILWcHVBjwCZPmT82OENl6+FrEHFX2ml7bsI4oUscB3aN1f9KvQsn1orMluTarep8bQIZzs7HSGDLuKSY1jcYMFBYJQ5TbfKl516y+YOQiiI889FwS3+suEZ5wrlO4WGlWlXqVCzSTJdPSgc2SYPk6XNONIKf4Z/7ynvpzR0YgZOUOnqVReFnkbJZo51CR9iKFPIyVT69WymWuL10ZppeHvKczntzFg83H4s72r3FNnX6zG6ZGZit6kxU2u0c8g++ApswcoaL0wCZ5LsSI2Wc+aIT3AulDmyp/st/kxzRshq5JvaTVcJLZPwcxvkPO4nNo0Z+fbd8J3FoD1W5StaTo3LXbXVfq2iBh/WS5DagEhRRIa6ZGXHQa8ZLEur+xipEkglzaRF1Y1+yZKN/3s6hrJ4WG0s6SbecTUsU3CHM5dFdrzPD5K1oZc449E7qcpGjOhKX4HabJLhsQRc/xBPhpSdo2wnTjg6uoFeBuxa7t9sEZ27ulto1jtRloUpz+pw1qOYQYTsl1dtRtzCjV9WGoK8pACRLCvbT0D5FhgD",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Amir Prestige: Gold Coast Luxury Real Estate Agency",
+            "url": "https://www.amirprestige.com.au/",
+            "encrypted_content": "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",
+            "page_age": "320 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Gold Coast Prestige Market Surges with Landmark Sales",
+            "url": "https://www.oceanroadmagazine.com.au/gold-coast-prestige-market-surges-with-landmark-sales/",
+            "encrypted_content": "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",
+            "page_age": "343 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "JW Prestige Agents",
+            "url": "https://prestigeagents.com.au/about-jw-prestige-agents-gold-coast-real-estate/",
+            "encrypted_content": "ErUICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDJiUccR+I0ujCfv7jRoMLt4+5oXRhl1ystHZIjBRx7o1Ndkje86Wo0XltBFhmvSfB+/LqmDjDU8Gsvdx7MUBGkpUNgXCV+ypkfoy2OAquAfKje12W1e5hOo7uMxVF3xtGLVE1gu35GtVfHeGzzl/i9gyGiEbFQKEd4lt6Aq9i7/haR+2ipzHfxrGxBkcvBE0M8EbhoVW6rdAJt58Zr1DAqo1KKsJTrjd+F1K8dAfFehCBqiyovlsXtQq4GnhmMiNAe1ia4mvQYH3Fyi/7T/mc2XYarNYTmnCgowIgvhcMN0RcCdLE7tvuzKiATUzd0rLRgJ8Mt41DJ7ylPneqTh3QzSx7oOrUNycKIyceIsW1wUblAuCx9zWgo/KoaRWU/iAnvg0cP2STX7WCb1aN7rBc7wfLb6gKNAtIjANQANcSOeGLsQHsOqpNWZQpHaHhXYucdN6SLr4hQa9sIWh2Blfi9I8/6MwR2mluLME8HSQ4m1COdiu9NrBrFEpxjGjiFIAj5NTYFLptvNMxXtngIT/1EnGRPMWjpWte0B2Cny6sa+oWjicJJVwBd8rOen42n3EWim9arw+sFoV9N5Rm9TWKxxxNaAXLqv7FjEmzdnrD51NDrHECocgtRi4ZLItg4/4sK7nPttEgouUBG2+vPNDiJyvtog/m2pM4sC992adyoE598QtNbkp3ffzQLHMpUJbLYZ30YqzHwNYTA47ODJMTaVY/BPn/IVHcTEjc3l8l9D4Yxr69M6GH+z3aem6kOdjhZJY0IH0pv/jF3Ur+Cn8nRtyqNqpOEOw1dHl1+Q1R3ad+jkXRDVFI5KRZXA3C/AfGGK4pbKmMO3BPMRHl60XFaLNDbcV/L7GNKSBNh7C1TrGu6qXMF4QhmrDzifojcnaRiOw2GVlZJE57Xbh/2Cfk+S6ZRc4Mxjhe6evmHdQ7eCmzo35T5ioYclUwb3FmUjnrapQPKNQlxRbIl3c47A9U8yGCTWFrUDhlKi2nHNj4x8MaBj8D9/7IAYVGwaJHoZqAHviDGLaN8WcMevH3xEG0YCiAc/MicPqk2Gy0PDp1wFJqeTWPgSvBIkjL/JTJ2i4ljVGfQgeoIe+EAj8ESXXnW643Q6wCx3jTeDet4U5N1UOAtlp4VClqTx/DteakCnJLj8aAQsEnDQQw/0KDa3GgcytGyzK6BxKs5r5FZYxmgAznm+/sh4ia4O1EZSWcw/nJEJ7rG0Qvn1hgSAPGLCkiFSQNxTJ/l6z731HxtrXw5aS98JgxNE5Z7V1ZcpUgR6SZz+gKvasoXZ77PIQ6wqN53bThzdEkwsHiU1zSQOOLPMq4Fv606rUxakC6fD7Xzrym5IJI5D9cjDVN8mytvvBkVC53mYx4Wm/GAM=",
+            "page_age": "105 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Sold Prestige Properties",
+            "url": "https://prestigeagents.com.au/listing-category/sold-properties/",
+            "encrypted_content": "Eq4GCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDP00bAJgViMyWd0RExoMRQtbgmgFRFcv0upXIjAJSoYJrOsH4ZW9XQlDiLb6duP9gccbmol5OcFQegmHL6enKjHw40E8R4C8IdkWoGUqsQUMuhlHyRbEYhZM0nnEw2T048ME0b6iLN2Bq4/cZb/58YCZXODxVEyLNPVYxz3DktZ6tP9FFeOAVu98q+fL/9bTh6shLDRI7EM/T2nkSlmrg7JO/XwHtnksoh0lHDbHMzF+6F6Y5yrDdx9cojxy++pDaxVpLyzOBzaiTMe9BpVjBVW22WNqVQ06C5gfSSp4JTmYRG8DFeG09szexa9cPIEzd8juuQpDqemiuQCymVHuAkfBmOj10JVwBzIhTZSqM6Zal+FkgQv43C6TX+2WSamf2cwHE2gB26BvhudEbKRMhTr+fiqbk1pQTA4h2+oBQQClJeOWnrysODVyvzZDXkcFmlgIW+gJvllddLN0TecztnYiD0CH9xuPUp2LM0KRaAt1aF4fC2AD4CnRT8OvPHx63yWJiF8XkMCTARbOKIQ5e+yxj6LZikPzqPXaDtNwgjeFwzBxuAjQqp0BJ/u5nSrBTaDcDeXeMIfZq08k3ashyESucJCVIuahqJ8VJHrDZS7SeIQ65H+MiDK6VQTcZgyZIk3lOMxM65xRMBPYecZh70wtrJKThWvkA6fMJArVn1tOt96/szNUfL8g9wQsYf1lXDMXgrc0QbvtH2suV448CNa/6o8WYB+dRxlo1disJYKpDyKo8K754ZJjrSUOWxj80PWyBvIbeaCoYuVlXpQWwvY2fpjAavHpANz/t8d3K1lnGCiXLe1vaoHq/ocGzpFuFoChNokOA0r9ld8Tol9kdHBZLLeSUsgsoPfFYjMw+hAOLcZFvGaEhydxIiH8BydnCNbnY4Rx1nzNYoZb6Xn8ZY+FF5erpD7h24pq4G/xYB6bpktgRMMm0+Apv5qRqAuBtgLmWhyJMzW1Owa0RAwvLmaAgAJHfmzbAcWpwl9d3wFSKrvZu94UhBfo+eHLdOKU/xgD",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Lucy Cole Prestige",
+            "url": "https://www.lucycole.com.au/",
+            "encrypted_content": "EqMHCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDKJhUqOuwcrNDAf7rxoMvOfgMyWLwo1135aqIjB8o/P/eWWsEDDFwpW0v+ueyj+aiShlUMJvEI4MS6pVEMqxxKwA/Osmu7X8gFeDR9gqpgYs2J+7JWr7mPRewpL1il3t+FoqWN63a5Iu756Vk7xq6nRaof6NLyHCcFvzhnStPR6FtA1pOjNeJ90GIe1gYf2nBhilCfLHui7gqYNPiSY04MS6NqNiHFXfGQHST6pr/09P7a/uwdi2pHo9N5FNlgIivx0v8VDZ17VvePmWju15/SOAPojI0abLgxzvknu/C/mMhAygYg6pHTlBcatAHbOL8HobtCcSpBnca/bCkYqaHSJsmQ4UiGvrD/EfIh/FFQB/1tXHvNmgNSKHLrYEnmVEeuBL+7MdCYjedLpFlviPq9Dhie8l4rEGLo2G7KJvjKa/zXmap17OurKt0q1orrPyj4pmvvzJFCQ4dNK61iRDhmqLWIz3R2VkqmSKmG9gJknbfuDch52tEOIkrditH21Vh5ueiBIOutfwyaMKfPjRrEX0MMfGZ2uymeBf/bZDms9puZv0vn3SVTiETva3+slhMJYl3agXAqfVXjabcEsgfr2sgnz1BhR3KfVSjA+AQjan8+uJBIuTKu8GzRLVm7zEOk3Kpd4/q3fiFq0dS/AHVDV20R1lHoDs8LIOejjskLLXBCHxDmjna/wtoX2Q95f5nVoj6aSHwfx3V101wkC5m85mjrnud9Gy2z0pjK8iecIFI2xf2DhYqwo9RDAHRvvzO86HTzR66ZURB6EOLsosbPX7aOSF/36BK1LUUBeGznskYycROt+c9ET6/Ae3xJMl2AxsHDeMZqEi+EjBb8QGTodWR1++6QzQ6UIbdXMv79dDaHBVWjwjX3IycGN6wnbsirHuIK4Gvt40dROMl7mAldsfKoarqXNRVEfb1YxG7vLrT8gZw0NLcXktR7O6ZHxDKj+uKWkM3LYkPACjCYO3OfOjHxkhxR6rhyJ9/tfKrjzWa0GW4sVYm0QmC7sCrQMxVmeTZlXzF6VmZQ4hQmjuECvjKJ4cPMlweIEXzYwj/tQ78TV8qrkIWP10PK9/wMS7OZdjIfxRd8sIlBWkC8/ET38/OUYpXSdPyK5vfgYBcFrnaac/gjCmsjS20a/ltnxnVp8ht5QjPbl4YOtpsoNNhLgHfYBa0RgD",
+            "page_age": "40 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Prestige Property",
+            "url": "https://www.nsre.com.au/",
+            "encrypted_content": "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",
+            "page_age": "817 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Home - Coastline Prestige",
+            "url": "https://www.coastlineprestige.com.au/",
+            "encrypted_content": "Eu4ICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDMWrw+xclBjKvpdpLhoM4Rv0gdyP5mIT5BIBIjB4oaYIGNEWOLZ5OxvBsXUJsg7taMb2bap4WCT+7eds1iNqPuY06HOP9p6RQEgMtOIq8QdB5xcftgMjb7zpEB6Grv5M++IYN4lEXA8Eo164etBUWHxYHYO5yIMqe21yytLIkPDnX8Srwnwsf9w7ofrGxjLNmAZ5+FTQt0W3sU8fRqjORl9tM60XR/CHEnU7pT7CeYCzD5noEsHfgNT07PZLdtKh/CxohpycsRvxbigcAajv1UTmII7rAICtp+6xzyzxecY4ZbuztYnjAvstIb8TJnKsCeC8tE8R2EqBIRfgf6+K9Jy7UiiRzlj3nBoyEVzoz+zaJNNFJ0xv8On7nCyUYQ4nMkEUKWdP1Zv+N8IbjLzaSCPAV2TwVtJewmJbgubew7KDErqNrE5Fby5drzaEMHJQ5tGX2UYnhf+tEKAjcr1IEFUko3o26YSWmR3sh4luiGjr0lGVDyDcv2CuAYGG6o03UEBCma3aTzh6M74K6LUSa72Fq3a/uKEHZ6cE3Y+61y/aAtr3M79vw9E4xwZ03Z5+WJCSW2QEl/uvrmfNP4iFbwJJLm3uYCc7wBt82XLZuWWBw4GLxAQhLhWMd9iDeIg5ufYUyu9HaaRXLK7GqhvNTDadw2bckjf42XyG2NVNDGqb11SD4A/jkCRdHTcmobrplyHKeNRNNbsLOpzR5snWwb6bCj27gE/dlpjUykGwuNHlZbG8djpqbQbom0K1Oq7xyCgYzJUwyAjNJSaJR7gf+htZhMJGXzTSIsGjWS8XV0h0gyX9atBNsc71fjp/IDK6OSyHerfmYSYRNrjY9FFR0o6V5313WH83txuIqMY/XUszMiHAWTHPUTVr+kZzdgEmoEknurwnS17MvzF7JecQKsztRo7QAFosOQrGg4ZJz30nhB+pVEuUqmMKh9mKnQLNLAPSmOsDYM+8zpAUpDFIC1Gv28rAV/Dk4VPJV7Lc+RHVqu+u14VCybgdxKEwDH2uvPxvqyt//Nxlm7J0n6jR4IeHXLDAdgJthHsGaSX93fczbeqeo9g9wq7YOHNfUl6nEG9mUsFFcVihX5PhmxGZJJ04loBNq0S1cjurzaBr8820DxAj8IYzibjTvUJFEQpYVFZql7U6CqQ3LX4QZmLpmAPJdE1XRH5v6YILrFAzfhHi3YV89s/VMUlSRk8qe7+HZ9o5UFVoPRy9ZIEGTFJ8WSUOxk1DJGZ4ofVuLIKdhpgquvOPEm20huNaqQtlanL8kleJ+If8zLOAYeqG9ZxDKtk4JfQxJtVoaQmppGH6dspip4BiGJWwFTv0+KjBPqkrz0o5XKQXwfmF5Qz5xeyzu9OGztm1uSBX1zOfZyH0RQcgOM3AMa/6ptXpI6gkglIUevUrZ4gKCFRMl+mXWGeEvA5TcD2VHqvgbaxO16qco9e8GAM=",
+            "page_age": "91 days ago"
+          }
+        ],
+        "caller": {
+          "type": "direct"
+        }
+      },
+      {
+        "type": "web_search_tool_result",
+        "tool_use_id": "srvtoolu_01Y3QfpLHMhkZPt9oUkvHwrG",
+        "content": [
+          {
+            "type": "web_search_result",
+            "title": "THE BEST 10 REAL ESTATE AGENTS IN GOLD COAST QUEENSLAND, AUSTRALIA - UPDATED OCTOBER 2026 - VERIFIED LISTINGS ONLY - HOURS - YELP",
+            "url": "https://www.yelp.com/search?cflt=realestateagents&find_loc=Gold+Coast+Queensland",
+            "encrypted_content": "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",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Gold Coast’s 5 leading commercial real estate agencies [2026 ]",
+            "url": "https://www.thebestgoldcoast.com/best-commercial-real-estate-gold-coast/",
+            "encrypted_content": "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",
+            "page_age": "49 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "6 Must-Hire Real Estate Agents in Gold Coast [2026 ]",
+            "url": "https://www.thebestgoldcoast.com/best-real-estate-agents-gold-coast/",
+            "encrypted_content": "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",
+            "page_age": "407 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Luxury Real Estate Agencies in City of Gold Coast, Australia (5)",
+            "url": "https://www.jamesedition.com/offices/real_estate/city-of-gold-coast-australia",
+            "encrypted_content": "EoUECioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDKui3dxgpWSc5rpSWBoMe4rR1L+KNKUfjTEVIjBB7Rbgjs2sTf2PV4vVI2wDhJZxzR1BCWZQMyd72tjT2T9FSjd95FlXM7a+2qgOOcYqiAM9IY5H9dAKY4kpiRPgo2UInHruHonPWg3WDTfZXHA9Btpp+BXMUYR0+04W9t7EMTbcAbCdCL2HWDu8JPtaXbZaipt5DPy3mdm3dvey6/gOPNPm/Xk4ftcjFsk6kMaO1LyBXJB0IbckYoKHQD5t8zKARLsYXx1X4l9Qa0ZpPK55ZGPpbSflIY6Pq9PwRNuuYzEHttNV9+b4BHAB1LAU1gX1TinaB7QxLk3iHq15ZOPKA4S+Bb1H5qSgg8goyrtOpbJBkQHJSpbtX5xBF89yIcnATSQsfNy63F12ngIDrdUgNQZNk9XYnSER6T4E/VmeucziU2+NbgfPcdia9IFqoUWmvtCxZxqHdMmn48fBdrHRWmlKazjFQwcjaHtHKiOOLv3BUsduYOjVsdbSwD6oNyxPOEuslhZ+8zPGTSaQLFSGZSUdHRvsaBaIG58SGzDCCkL+EFowjdHvi4sNnjDOF4pEir2alnXSEmqagoLcxLwcEhyCyry5SirdlDxpaXVRnJH1BtG88xW3RRgD",
+            "page_age": null
+          },
+          {
+            "type": "web_search_result",
+            "title": "Find Real Estate Agents & Agencies in Gold Coast - Tweed Heads - Verified Reviews",
+            "url": "https://www.ratemyagent.com.au/real-estate-profile/sales/new-south-wales/gold-coast-tweed-heads-nsw",
+            "encrypted_content": "EpoHCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDM25vcrdnQUal3C0XBoMjksQ50+CMY6BMn08IjB8+KbJQRjQdgvhU207U7juP7C4BO4k/wTJhN7Y+cFFyjLAoGaK5+LAtp3F3rKzt2cqnQZZDRmkb1tRwlbL3YZaHAaQ9nHJSQHMBUy41s6lUuL3l2O5+bEI7rbdPyCrXx6X4EPSYwfuhWT3b0jVsZx39LarCIa/6UpXAu5zrN3rtWzUF7b2C3c0FD5gv1u+n2BQpi3EdCAOs2+V2lIunt+crdoKrhJ/fY/J4wJHpuUR3T6y3rOt3spUsN4F3dKdx0eBp+ph7BqNTiVhLnmsCHTLX1qGmW9Yyaqdi0ibm/O7MdI5vXAYxvrLgmcu9FIMPh6QxZONphp4ULF+T/J6HFz9O1AfofM/ImMHxDC2Xh5xcqg2OD95OSZgKwfVLRbAoYQ2h6Sd8pLeYHtui12L0Wp4POxMdePNFbL+KTUbM3UmweqIuc2zb9miIuj1BGemcBiwAUdlLeQj3mbtKf3Qv4dyhdxtXtamQCKVh87JT3SwkvZqhPcg/fXynGWHecjQskQK3Z8GO+yPJeNWWL4CmIDdw2MT7whEqqJloBaTwlCRWfdvcso+mqgJHNdSKdTrgHzrzCKyVLIwdqBZgmB+JJBJ1R+wt0mwzIDTO/woa2rMEZeF3vAnEzDD/Ki2cYZ4+GLfEBxyCUkOLp8vO9CfaGmezh6vIIFYyA5dsVqQwvzYslBhE28jxv38GkLpC4eQ7O8SBZuGFFzXHPVNqZJoaifdDoSPSLiugXv61GtkVnwkKmo4R04wk9gaA8L3c1FxzLvY2QLJzdZCDjdLxNPR00/VGF/UMgGEwlRc+sDtDkAOFg3zybcQmbXYqB+EQAnqCgPXDJ/hiBNvzWAyQ6/i4XN3Y0ED+gxKGGZeb7+PWD0qJSV9GJ0dTsZ/I4njEBIyvf2JKFOQZQ4Y5swLNEKyossGwjMQnHpEKiLwoY5eovegBhNdGFH0Kst+JF19tCflBOpl67vTVqSd9hDIYBN0V3YVJ3uX4adm/+SYiX57h5cN1pUOU6pW5N/O8+K8tgj1oeJn954X2t1U0HWM2BBjKpnOv3F224vuTGuUGydFrRrnc0wXcQgJvF69yhZEvgNBlqxP29bs10iVM2Ut/wjeYgiia2u2V9zwOnxzpm1BSjzqKxgD",
+            "page_age": "553 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Gold Coast Luxury Real Estate Agency",
+            "url": "https://www.kollosche.com.au/",
+            "encrypted_content": "EvwDCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDD4+UAGIKdQMyPDerRoMbd2jqMOAby+gUwf5IjBXZ3sraotYeFqhszT1ZFtGbfhxe78s4Kg9Ra7Jm1fMmZfsdzg0/ZNsTZeLUzFEiEMq/wJlaMq56ASC8wN0FDQiWVacSmPdnJ8Ais2Cu0n0IBD1jMNz6jC2LLJ68UusbB+E5Na5s2e79mpp4LiyyoGFG2GIIIsoOdKqlesmwfBkkRGkcZP6ratxQLc1HNlL9TKok7BLWZGyh7w3mPtWsRSliVCjtTlTYs7wO02wsV5wWVDUskDsMQTfBJYuYDTvsYvnJ+nACqA+f+z0cOlZZpkw/7EZ4QwyiDZjJFdvRXJT+lxUCE6HxC60AxmPqHUDNINVR6jG9D64Nyj1LHkOYqwHzvAJqbjlukoEzlrIoALEudv+bw0P51iv9+ABMEaTeOLKYVOLGEWeBclN8j3ksMrm4haTN1UKrmdtgKdTPwhlejtUn51CXrJLShgpU1f+0Ni7O2ijYQj1NxqkN+yVpf5tsUdQxwf8rJG12lnjN9n4OKwjfuCiWqVcRueYNVnMDC61ccAoqp+kpHLXJ8VnU79/9UyuyzhZqZEnqFdMK2N5Lc5srFGTBy0MdNPtybT71wH6JBgD",
+            "page_age": "448 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "The Best Real Estate Agent Professionals in Gold Coast, Queensland Rated By Past Clients",
+            "url": "https://www.directso.com.au/queensland/gold-coast/real-estate-agent",
+            "encrypted_content": "Eo0ICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDEU7OsUuHFy8L4v8tBoMQGO5R731MJ5SVM53IjA08IKWe10G2zPi7UQQqOpn5Hb7eiMpwp5rn0OeBQFTMNe9+yGLXfZAtq67FLxj/2QqkAflzmUkkWjjc/KLlLZBOzfji98JNxzKxMnU/0LUZ38wcCq4s3fmxXBYdVLXUnb2GdfaXgvQNT9HcSrDa2FEk8zdmNC6nCW5vGs+goyK98CTsLB4TJJHO1zQ5MCrObumewanDdNCp0NmnoGc/wTuDytwAlOUYdcEOsYb5g42P0uKX+rFyzeSetHdxub6ZPV8stC/QqCnRbFe7/9HY6tCtyZdRrc+sOisi/E93obWBeaC8I5AwQKBJvniIh3j5ZnuwizP84Xl0T2Cx3P8o38DvxZqv6TnOCkYASuUmSiD3VBdMFuCm8fe9/luZ8ksPQjH8QFSEUQ5U30mFoNKab8ze2aapofmk6w6bs2rsKmKClmbjmTLJF+TRNYeIgMrLP7jdtfGbxSdNjDoDw6V+Xka7+Oaghx4ELIV2fI6Tr+fKPejQhha2rxfIYi/3jO3xa1uj0CsCJWAQv9ulYicpvBQLssi/eJEUNd2bgFn5p2bertZrWD3YluS6sWOXRCoDyQOD61PNoWTNLqDI2wnK5YisEGUpRa47uj6aMQqjSbiXEYJjeRzQuUVAOg35Swe3veguxGxpQhsKku0EQuDqdLrt6fpU0CWiyfErdv7G0CCAA6u5tPN8yZ9tq88KpJxw61zR9hjYlQ/wnJjTCTVnji9wz1m9ZS17MjEiUQRO8sWN/Sy9Uvg8bwoo61vr2qqo87M+KvUwU2XH6xNxVANhLmmirRH47/fag/TbHQ6MauhUUick6uB0nFeQrygyRxlbtcNisSe6Q7EveMNJSIUlGu2aluqbz/MZTIkiBrNl20VpAL434AgFy41l8A1OIX7bLY7pSNui7A4KRSXLyMXyLIE2Vq7ABcz90aquFD0mD0VQrzQPXi8A+rkxQ8e3AbHvVF+oYGaWswbuQN1v+RlLps8i2Qd04qNPk3MPIjAUzrD4112RkvWhczS5kCSxdO2GVAYRWq2PfZ56UFy+yKqEvrWkD6mcjn9Pkq6rsuf8VvVxd2+LrUvfwsuJ547SPNyxEkr6KCMhJVO/VrPdDN/LcDQIKgAc92ANpgNm3+fyWCQrY8Z9qU1HPU1AHPnbxe7V13IOc1e1qaqVCav0ffBWjtKCpIVm8owqZrtEjQCn+V2Y4YvdO0D/MVgTFk1PEiZ83QtkuGol8ey88EC4sMWMRBWj316FaXav+F190111gge5crsoPx2Te3lcrZUeaxzHXwdiPUYAw==",
+            "page_age": "142 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "Gold Coast - Top Ten Buyers Agents in Australia",
+            "url": "https://toptenbuyersagents.au/gold-coast/",
+            "encrypted_content": "EqQICioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDOLENucZfvGnL6o/lxoMYu9Zfu6oz6tJJqqkIjCmqLL2DxSRipkbs7uy7NudppkGLeqEJs4ChUj1/5y2UjZ4/sV7TGXmyx1Ae9Z5WQ8qpwesZKWu2wlM982EezCYKHw/SAKdF+hzOCZuNNY3dycB1aBP7iBWeGKyb7V2HCNvMZVaRguQWepP76eh5SOZzB48u8RKm+hijFA2oNGZFOmXfYz8pfBVa3/EZnAy835wsCmVp6aGXAVeOh5H35v0AyLGq1rrsnP93vruWPjQ4hKZ7mH/xuyVL5/DoQtWcCWcvJevFrphRb2/oQy9eYjskYVn8BaCp0VfveA98PukKdzqrIjh0tvaF1XLzM+dta8xxYWHFy+zH9hsJUAyzRy/k74fqekkwMTAE/J6PyBRgzsdrsrSUpQbfEd82CWS93uoYAzyiPTMXVhlxHzGI+mUiwBOVYWJTRkezJwMf11BYhsEBTm17S/x2j9m3kFaR+CliiYFZAmwoNC2VXwZT4vs1CCrD+9yjD4K6Io89ewplVeUbMejVdeUqMNlHK9pcmTuB3/uVgQk5f6s7S3ooIv5A7PVLB8VpowwKhkBR7SAfXckdxKscR3dBrtiRdwfNRiFept1pXKss4v3erpCYU0q2CE5+/mpFSRNvD49lQEj/zZav36TAl0TfEGkTclke1FUR4WuqUyOUK/iFFxASEv0XoOnRPk74sVMSuvbwuz7CMak90GIah8GA6c57knFV2j3E9+roRqkTTfF6eUv1VJ4NLDftpqeGTk/7AYJWvc5A1wl0s0pRxUCbxyua76krqr3YNV7bq7AGKcjtCK1/rkFjOEbAJSOc9OmydUHB8DBBmBsiKCMT6dBlz5hxBuBRpFoGZFv/fKeoCuB17c8Irg50RbR4VSab7riGS5rmfT7Iiy1jTMA8f3X5i4qkaNFsw1pKARd5g4AMa+GZd4frVUpdP0o8X92j/e2EKwJe3ZbULbUpZ94EJZVOQ/GslfgAcuFmC0cf9gQfZaRRasoXE/0/Qzsd0+OTvssd1sZ9OCBKQyao8dHaJkzRA5E7i0yl6kMZm5dnYeVBIE59l1XQR3HDfweAdg0IkFhBq620OmzoGrxN9lhibUcx620S37vDXLJI84vmqRm+3d3qe1ijrOWKUQXQQkwbpJVW/HyCgg6L020vc9CT2HTwd/b0u4eUbA3Ea2GgwOVmZXMfQQ71aT5dIg2ArvM5kd+SF2/qI3RTtVZUn+IbEqnELAenSdcDHX8N9ShNAWoET+fRShFQdm9uW5FM4vDIrQfYAZB8VCMTfZF5ThwSxoX77P+X4clTAhGkmQ4n965sn5HEKzrQOw2k5pAl1zPpdgBxxgD",
+            "page_age": "63 days ago"
+          },
+          {
+            "type": "web_search_result",
+            "title": "The Best Buyers Agents in Gold Coast",
+            "url": "https://www.top10realestateagent.com.au/the-best-buyers-agents-in-gold-coast.html",
+            "encrypted_content": "EqwHCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDIOt4YdSz4l9PktKHxoMdfkzaG82Cu6hRLjbIjASF2YeIerxKEU12ZdtlTZsYGKpC5HgkBKtnxcbVxNyCGBmsPOqUEC+c/cPqTqxgT8qrwZxqQ7vx4G3zys6wzz6PKXJCaIEcT+/01UH7KvK407moZlyVUkc7iuT8NVC43J1vrAmAGVl1oQ2ijbEDS/wv+jpWQN0u2958QEo3vfXy/NtMNTDjtmHd6n9jfmnXHi22IJIxCDTKeN+xkH+OWt0/FsokdCAO0moaNxLzukkV2QL8ttrHwRvDEgvs6cRM3mIfvu/WRp6uMsP2CVpKprXk8TQQ7duzQhgzLiTo+v+ONNM7v8U5EYBQZK8Xzeav4Xb9P6i/9I1Jb7QIwRMAU2cfL/L9nEiAQVWMNVQK/LaYoE5FspjFNwqfqg6OFZHEdSbpWgnoLvcI7AjCNFGS4lMuAAjn2RjmPj5pxhXjVfTUXqJGGknIq8WdDHT/cVcVi811kF2k0JmFaztsOjN0qEqZ2PrN35L7hNqkc4a52sSXiit1dZPrvOck3oD89rpRw4ZPpxBpJm99dhCyV4JwWqeGhpjUtFXv4eh8OOyHCkRei/+fy9rb9fKJbY+t46hmLTuIac10/pzBIRgfN1CsKOFmnNjhsBmTlYoaIeMJsg+mJaLS08JAQMEsQSabPiCbKE8994ubZUDj4MvGZuJpZ1azFlUERnGSFlK0dBb3NXmxrmfVVGA1Byns5ZX4l/J+EvAE04bAvyP3icMsp4cC6G+rDT4Yq15kh+tB9EswDORKJz/egMT4YvLWHAnD6tTLlXiEPcF9c5Z6JWXPov/K7NwC/2zuhzhW2YN510fnsSyNE+o3ejtXyKvZ5fOPK++kJkODRL1B90k9RFW5HH7nynA7B3orLAvVE6r47p7AtyOmQkO7tKK9ggcgrSff24SYQzaZMivAfZbm5+KEizHl/V0r3RuvSG416KrfhPGzKFfl/sPvkK6TCgj/Zhox80i74200lGxzW5fqhEoaauSpbqZLf5A8GLfOBdOWk9WtpCWvTM/A3/TQLzfOblT/V99WT9nsLMjLbxOEhaqoj2I+89n8Ia7Kjn6D0ybvaDFEYSvcq06KJXAV4LeSSY//yzUp8eQT69vKtG1WxkoM6OTNikOo1gfjMsT5zx/1sHns4iRohRJgQhCAWOkl3IKKNkMM2OyjRgD",
+            "page_age": null
+          }
+        ],
+        "caller": {
+          "type": "direct"
+        }
+      },
+      {
+        "type": "text",
+        "text": "Great question! Selling a $10M+ luxury property on the Gold Coast requires an agency with the right prestige network, ultra-high-net-worth buyer access, and a proven track record at that price point. Here are the top agencies to consider:\n\n---\n\n## 🏆 Top Prestige Real Estate Agencies for $10M+ Sales on the Gold Coast\n\n---\n\n### 1. **Kollosche**\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Kollosche has long been regarded as the Gold Coast’s leading luxury property agency. ",
+            "url": "https://www.kollosche.com.au/about-us/",
+            "title": "Gold Coast Luxury Real Estate Leaders",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDEZSOP0SoSln0/Ft7xoMFvjKmf9m9sCCez9jIjCwvPn4OmY6KynUQGiUnC/FI8Nv9wGpKEPSgSIVNp2MTDY+uQ+kaDqTr7Np7gn915YqE4YYjp/bPc5BnOkKaHhOQ1UHUHEYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Kollosche has long been regarded as the Gold Coast's leading luxury property agency."
+      },
+      {
+        "type": "text",
+        "text": " This is arguably the most prominent name at the top end of the market. "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Michael Kollosche is the driving force behind the Gold Coast’s leading prestige property agency. With an exceptional sales record of over $9 billion i...",
+            "url": "https://www.kollosche.com.au/about-us/",
+            "title": "Gold Coast Luxury Real Estate Leaders",
+            "encrypted_index": "EpMBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDJ3W1jj524Kd1JTjrxoMVbSWHeGxLFRCKwKtIjB6OS2ov9ylsGoXNaarILUfw3sLaSkiDrXJcS87aTvbspp2/WHwkqIbf1Ld0Mi0peMqF45pROTQ/zEHgeRlD9MwXZjgITqNSIQgGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "Michael Kollosche is the driving force behind the Gold Coast's leading prestige property agency, with an exceptional sales record of over $9 billion in settled sales at the top end of the market spanning 28 years, and a vast network of high-net-worth clients."
+      },
+      {
+        "type": "text",
+        "text": "\n\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "… Kollosche agents work on an open database model which affords our clients unparalleled access to wealth and opportunity.\n\n",
+            "url": "https://www.kollosche.com.au/",
+            "title": "Gold Coast Luxury Real Estate Agency",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDLIeZsBRBa/JENeE2xoMHyQgYNNazxXhg0g0IjBKPAMSLfTdaAwUbD3X6gdBtBWl5gsTTPnhTQ1z9OkWkapXNfE6Qqku0cbNfY7wYugqFJXTt7SLCZ6Hc10l8yior8OOjNz8GAQ="
+          }
+        ],
+        "type": "text",
+        "text": "Kollosche agents work on an open database model, which affords clients unparalleled access to wealth and opportunity."
+      },
+      {
+        "type": "text",
+        "text": " Their coverage is also comprehensive — "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Our core service area extends from Sovereign Islands in the north and south to Coolangatta on the Queensland-New South Wales border, and the Gold Coas...",
+            "url": "https://www.kollosche.com.au/about-us/",
+            "title": "Gold Coast Luxury Real Estate Leaders",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDJNnvzEZEP0k1iDCyxoMwU0PTnucOcUQ3N6EIjAv4q6n6WkxDVIGSZSW/A9LP41CO3XkhYfmxSTBs5yl/LLUJ/+XATJzalDiK8lFvzgqE19Wkd5yalshY4YXoFTf9XA98pIYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "their core service area extends from Sovereign Islands in the north to Coolangatta on the Queensland–New South Wales border, and the Gold Coast Hinterland."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n### 2. **Amir Prestige**\nA powerhouse competitor to Kollosche, "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Amir Prestige are the luxury property leader serving clients with interests in residential, commercial, leasing and new project across all parts of th...",
+            "url": "https://www.amirprestige.com.au/",
+            "title": "Amir Prestige: Gold Coast Luxury Real Estate Agency",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDOq8V7k9OOBW5mjfPxoMV9et/QeyZtMivyzfIjDCFclyYT2C1laIjXf6MT4+yG5UPu0c//FgvHUj4eTt6/iGRgcTKEJW3F3ZsHtcjyUqE+ly6tmeFtOaP/c4NW8F1eh0TO4YBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Amir Prestige is a luxury property leader serving clients with interests in residential, commercial, leasing, and new projects across all parts of the Gold Coast and Northern NSW."
+      },
+      {
+        "type": "text",
+        "text": " Notably, "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "35K followers, 127 following, 6,450 posts – Amir Prestige | Luxury Real Estate (@amirprestigegroup) on Instagram: \"Presenting Australia’s Finest Homes...",
+            "url": "https://www.instagram.com/amirprestigegroup/",
+            "title": "Amir Prestige",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDKyxG8+P3uoWpIEySRoMP21RDlHv6TVW03noIjBSpIS0Mqzc+DjGvrpqwEOgESjvAlkEyay2MbDSWUcVy9A/1gCltdY1jECyyZbdNHUqE6ITF9YAVJAqZPIX0u6N7scvBw0YBA=="
+          }
+        ],
+        "type": "text",
+        "text": "they have settled $10 billion worth of property and hold the record as 5x record holder of the Gold Coast's biggest sale."
+      },
+      {
+        "type": "text",
+        "text": " This makes them particularly relevant for a $10M listing.\n\n---\n\n### 3. **Lucy Cole Prestige Properties**\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "A hand picked-team of dynamic sales achievers mentored by Lucy Cole, the boutique agency has earned the reputation as one of the Gold Coast’s leading ...",
+            "url": "https://www.lucycole.com.au/",
+            "title": "Lucy Cole Prestige",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDOxNmniSwUlKlzQ0vxoMu92Yd84/XXwdtRjUIjBogqDO6yyZmbuGDSmnM2EsMJqw6Pi9y1cDvCI/3gTj3ud7K5/XBbMxcapB7qiCyVcqE9ur6LqtZ5DbMpW9B1uj1FkjiFwYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "A hand-picked team of dynamic sales achievers mentored by Lucy Cole, the boutique agency has earned the reputation as one of the Gold Coast's leading prestige real estate agencies with over 25 years' track record of outstanding performance."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "### A reputation built on proven results\nA reputation is built on discretion, hard work, an exhaustive list of record-breaking prestige property sales...",
+            "url": "https://www.lucycole.com.au/",
+            "title": "Lucy Cole Prestige",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDG2FaRdOf1y0OGIz9BoMWUOKOycw7nuzxa89IjAKhEcX/m2nkRz5IPsc3ILS7aWsXtiZi8MdJZOEYD2ECU55Cwg+s8wPT3EfceNz1KIqE5JZI4kfVn1+iCsWyRsHhpoj8WwYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "Their reputation is built on discretion, hard work, an exhaustive list of record-breaking prestige property sales, elite industry awards, exemplary client testimonials, and years of dominance in the prestige property market on the Gold Coast."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n### 4. **JW Prestige Agents**\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "JW Prestige Agents is a boutique Real Estate agency dedicated to selling remarkable homes.\n\n",
+            "url": "https://prestigeagents.com.au/about-jw-prestige-agents-gold-coast-real-estate/",
+            "title": "JW Prestige Agents",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDIWWHZs9HFeAgF1faxoMbalWDpA59b1rHHCWIjDv70q1x5A2tfRJnf72n1BmOluM205eSzt6oQScIx4CNcYSrTYRCGjJuyTWXZNzSVEqE/hOY6ghpfQOLyimY4X+ua/e+tcYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "JW Prestige Agents is a boutique real estate agency dedicated to selling remarkable homes."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Established by leading Gold Coast real estate expert Jordan Williams, JW. Prestige Agents has a distinguished history of securing high-end sales and r...",
+            "url": "https://prestigeagents.com.au/about-jw-prestige-agents-gold-coast-real-estate/",
+            "title": "JW Prestige Agents",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDJsM7PUNWuUBQd0uaxoMaxlOCS8HUiSYe/V8IjB41wfPltGavOadRc/pbr+qapoTmkk7EXdR5TVOWfVoz0PVbLVZHLD7I9yO0xkn8q8qFZQwR4ZOAGD6FUc0qWn7ABhjIZVK/BgE"
+          }
+        ],
+        "type": "text",
+        "text": "Established by leading Gold Coast real estate expert Jordan Williams, JW Prestige Agents has a distinguished history of securing high-end sales and record price points, with Jordan having personally sold more than $800 million in residential property across the Gold Coast over 22 years."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n### 5. **Private Property Global (Forbes Global Properties)**\nFor ultra-premium listings that require an international buyer audience, this agency stands out. "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "We are the only Australian based residential real estate agency that specialise in the sale of property above $5,000,000 without geographical boundari...",
+            "url": "https://www.forbesglobalproperties.com/members/private-property-global",
+            "title": "Private Property Global, Luxury real estate agency in Sydney, Melbourne and Gold Coast, Australia",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDJ6bE3TqQPAtylLxLxoMnw6c6whqAD4/YHzUIjDc6/6w3x0v8lSzQGf+TxaaoEAwz5X9dLHc/eyKqBtUahG422JofE25GN6SutqJ644qE/B4prIYGBwNX1YEMsb2/B/x9mIYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "They are the only Australian-based residential real estate agency that specialises in the sale of property above $5,000,000 without geographical boundaries."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "The company is very active in engaging the world’s premier real estate brokerages through the Forbes Global Properties network and relationships estab...",
+            "url": "https://www.forbesglobalproperties.com/members/private-property-global",
+            "title": "Private Property Global, Luxury real estate agency in Sydney, Melbourne and Gold Coast, Australia",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDMs+0aWO0UBxxFbV7BoMEReyDHBbMEkGna47IjCRi/fGUrVTZLJunR5roF2U1eA9U7/t5H+f4mt/pX+B9sY5IQmJoS9uNOkgnh7fHFoqE1BuSR99B8lJMW3Ai/XSGEQmucgYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "The company is very active in engaging the world's premier real estate brokerages through the Forbes Global Properties network and relationships established over decades."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n### 6. **Queensland Sotheby's International Realty**\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "# Real Estate Agencies in City of Gold Coast, Australia\n## Connecting you with top-rated agencies worldwide\n### Place Real Estate\nBelle Property Austr...",
+            "url": "https://www.jamesedition.com/offices/real_estate/city-of-gold-coast-australia",
+            "title": "Luxury Real Estate Agencies in City of Gold Coast, Australia (5)",
+            "encrypted_index": "EpABCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDJs9J32buZy5sN/FyRoMTYTgttAbAXezada3IjDC/r+QzleCbBtqlQRioB5fUNLsAnDeIRWLcrLbcq2ZrzXOQkuO1CjrwuROfZnElL8qFHDsjYXY+5PVxwUniZN6Seul1L2pGAQ="
+          }
+        ],
+        "type": "text",
+        "text": "Queensland Sotheby's International Realty is among the recognised luxury real estate agencies operating in the City of Gold Coast."
+      },
+      {
+        "type": "text",
+        "text": " As part of the global Sotheby's network, they offer unrivalled international exposure, particularly valuable if your $10M property is likely to attract interstate or overseas buyers.\n\n---\n\n### 7. **TOTAL Property Group**\nParticularly strong for ultra-luxury apartment/penthouse sales, "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Among the highlights are the sales of two full-floor penthouses at Royale Gold Coast, the landmark six-star tower by DD Living on Northcliffe Terrace....",
+            "url": "https://www.oceanroadmagazine.com.au/gold-coast-prestige-market-surges-with-landmark-sales/",
+            "title": "Gold Coast Prestige Market Surges with Landmark Sales",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDK1cxkiZoOXGkBx9DxoMScMhwnKYxV6qhIFyIjCY3G+Mh5V2D+ywY8FMA8JfqHhQoBoHFk4YlZp325aQN+lLARLUecKHELCJfYxJnRYqFeSUr0kw78oTEz3wrWxxrbWd9Nl6gBgE"
+          }
+        ],
+        "type": "text",
+        "text": "they recently handled the sales of two full-floor penthouses at Royale Gold Coast, securing $19.18 million and $19.56 million respectively — representing almost $39 million in sales within a matter of weeks."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n### 8. **North South Real Estate (NSRE)**\n"
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "North South Real Estate is a boutique prestige property agency, proudly serving high-net-worth clients across South East QLD and Northern NSW with pre...",
+            "url": "https://www.nsre.com.au/",
+            "title": "Prestige Property",
+            "encrypted_index": "Eo8BCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDAv2Hy2S0hRYm2WorBoM+Gi9RMULbjqW93toIjCVJ+7lm0PC2epYr/9k6WBeqC/NsxNbyqM96IbNqY7B1ot6Fj+n8AD1HzZ7JwUg7XQqEwwSGotwJMz3qu5v9qflks97RzAYBA=="
+          }
+        ],
+        "type": "text",
+        "text": "North South Real Estate is a boutique prestige property agency, proudly serving high-net-worth clients across South East QLD and Northern NSW with prestige and premium real estate across Brisbane, the Gold Coast, and Byron Bay."
+      },
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "citations": [
+          {
+            "type": "web_search_result_location",
+            "cited_text": "Proudly serving Brisbane, Gold Coast, and Northern NSW, North South Real Estate is a trusted authority in prestige real estate sales and buyer advocac...",
+            "url": "https://www.nsre.com.au/",
+            "title": "Prestige Property",
+            "encrypted_index": "EpEBCioIFRgCIiQ2OGUzNGQzYi04ODI1LTRjMDctODhhYS00NWRhNWJkOTRiOTMSDFRGCybU4GeqtBdlKBoMXZ8T45uEuDWwTJUSIjB8HWBnpWVHyJENLONzv6j3Da/vr9zcsrzcfdjd8FNhnGX+garha8MWqXYTSEA88RkqFffy9Z0HQfGCMHgBu+aP2HNtHc9hZhgE"
+          }
+        ],
+        "type": "text",
+        "text": "They are a trusted authority in prestige real estate sales and buyer advocacy, guiding high-net-worth individuals through complex property decisions with precision, privacy, and insight."
+      },
+      {
+        "type": "text",
+        "text": "\n\n---\n\n## 💡 Key Tips for Choosing Your Agent\n\n| Factor | What to Look For |\n|---|---|\n| **Track record** | Ask for specific $8M–$15M sales on the Gold Coast |\n| **Buyer database** | How many verified HNW/UHNW buyers do they have on file? |\n| **Marketing reach** | Do they have international exposure (e.g., Forbes, Sotheby's networks)? |\n| **Discretion** | Can they handle off-market or discreet campaigns if needed? |\n| **Commission** | Typically negotiable at this price point — expect 1.5%–2.5% |\n\nFor a $10M residential property, **Kollosche** and **Amir Prestige** are the two dominant local specialists you should speak to first, followed by **Private Property Global** or **Queensland Sotheby's** if international buyer reach is a priority. Getting competing appraisals from at least two or three agencies is strongly recommended."
+      }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 14614,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1554,
+      "service_tier": "standard",
+      "inference_geo": "global",
+      "speed": "standard",
+      "server_tool_use": {
+        "web_search_requests": 2,
+        "web_fetch_requests": 0
+      }
+    },
+    "diagnostics": null
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "slug": "goldcoast",
+  "pk": "architectural_projects",
+  "plat": "aimode",
+  "text": "Which prestige real estate agencies in Gold Coast are the market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing?",
+  "loc": 1000665,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\goldcoast__architectural_projects__aimode.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:17:14.538Z",
+  "cost": 0.004,
+  "result": [
+    {
+      "keyword": "Which prestige real estate agencies in Gold Coast are the market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing?",
+      "type": "ai_mode",
+      "se_domain": "google.com",
+      "location_code": 1000665,
+      "language_code": "en",
+      "check_url": "https://www.google.com/search?q=Which%20prestige%20real%20estate%20agencies%20in%20Gold%20Coast%20are%20the%20market%20leaders%20for%20luxury%20off-the-plan%20developments%2C%20penthouses%2C%20and%20architectural%20project%20marketing%3F&hl=en&gl=AU&udm=50&uule=w+CAIQIFISCbdgXStHGpFrEXCv3vNaowID",
+      "datetime": "2026-10-21 05:17:14 +00:00",
+      "spell": null,
+      "refinement_chips": null,
+      "item_types": [
+        "ai_overview"
+      ],
+      "se_results_count": 0,
+      "items_count": 1,
+      "items": [
+        {
+          "type": "ai_overview",
+          "rank_group": 1,
+          "rank_absolute": 1,
+          "page": 1,
+          "position": "left",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[9]/div[1]/section[1]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "markdown": "The market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing on the Gold Coast are **Kollosche**, **Amir Prestige** , and **TOTAL Property Group** , backed by high-end specialists like **Lucy Cole Prestige** and **DP Project Marketing**.[[1]](https://www.totalpropertygroup.com.au/)[[2]](https://www.lucycole.com.au/)[[3]](https://www.amirprestige.com.au/)[[4]](https://kollosche.com.au/new-projects/)\n\n### Leading Prestige Agencies & Their Specialities\n\n- **Kollosche (New Projects):** Dominates high-end coastal strip developments (such as *COAST* on Garfield Terrace and *AMALI* in Main Beach), providing end-to-end developer solutions from site acquisition to trophy penthouse sales.[[1]](https://kollosche.com.au/new-projects/)[[2]](https://www.kollosche.com.au/projects/)\n- **Amir Prestige:** Known for record-breaking luxury transactions and ultra-high-net-worth client networking, managing top-tier beachfront mansions and landmark prestige apartment sales (such as records on Hedges Avenue and Burleigh Heads).[[1]](https://www.amirprestige.com.au/)\n- **TOTAL Property Group:** Led by Adrian Parsons, this specialist project marketing firm has over 25 years of experience handling major architectural residential lifestyle developments and premium vertical communities along the beachfront.[[1]](https://www.totalpropertygroup.com.au/)\n- **Lucy Cole Prestige:** A boutique independent powerhouse operating for over 25 years, highly regarded for high-net-worth private client advisory in luxury residential waterfront homes and penthouses.[[1]](https://www.lucycole.com.au/)\n- **DP Project Marketing:** Headed by Deborah Provost, highly experienced in elite vertical project marketing and consultancy for landmark coastal and high-rise developments.[[1]](https://dpprojectmarketing.com/)\n\nIf you are looking to **buy** or **market a specific development** , tell me whether you are a **developer seeking strategy** or a **buyer searching for a penthouse** , and I can provide more **targeted project recommendations**.",
+          "items": [
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "The market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing on the Gold Coast are Kollosche, Amir Prestige, and TOTAL Property Group, backed by high-end specialists like Lucy Cole Prestige and DP Project Marketing.",
+              "markdown": "The market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing on the Gold Coast are **Kollosche**, **Amir Prestige** , and **TOTAL Property Group** , backed by high-end specialists like **Lucy Cole Prestige** and **DP Project Marketing**.[[1]](https://www.totalpropertygroup.com.au/)[[2]](https://www.lucycole.com.au/)[[3]](https://www.amirprestige.com.au/)[[4]](https://kollosche.com.au/new-projects/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "TOTAL Property Group",
+                  "domain": "www.totalpropertygroup.com.au",
+                  "url": "https://www.totalpropertygroup.com.au/",
+                  "title": "Home - TOTAL Property Group",
+                  "text": "TOTAL Property Group: 25+ yr QLD project marketing firm. Contact: 1300 393 855. Key developments: No.21 Broadbeach Blvd, Royale, $"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Lucy Cole Prestige Properties",
+                  "domain": "www.lucycole.com.au",
+                  "url": "https://www.lucycole.com.au/",
+                  "title": "Lucy Cole Prestige | Prestige Real Estate Agents Gold Coast",
+                  "text": "Lucy Cole Prestige is an independent Gold Coast real estate agency specializing in luxury residential properties, beachfront/water..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Amir Prestige",
+                  "domain": "www.amirprestige.com.au",
+                  "url": "https://www.amirprestige.com.au/",
+                  "title": "Amir Prestige: Gold Coast Luxury Real Estate Agency",
+                  "text": "Amir Prestige (Gold Coast and Northern NSW luxury real estate). Only Queensland agency with 10 transactions over $20,000,000. Netw..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Kollosche",
+                  "domain": "kollosche.com.au",
+                  "url": "https://kollosche.com.au/new-projects/",
+                  "title": "Gold Coast Off The Plan Apartment Specialists | Kollosche",
+                  "text": "Kollosche New Projects provides end-to-end developer solutions (site acquisition, design, marketing, sales) and off-the-plan luxur..."
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": "Leading Prestige Agencies & Their Specialities",
+              "text": "Kollosche (New Projects): Dominates high-end coastal strip developments (such as COAST on Garfield Terrace and AMALI in Main Beach), providing end-to-end developer solutions from site acquisition to trophy penthouse sales. Amir Prestige: Known for record-breaking luxury transactions and ultra-high-net-worth client networking, managing top-tier beachfront mansions and landmark prestige apartment sales (such as records on Hedges Avenue and Burleigh Heads). TOTAL Property Group: Led by Adrian Parsons, this specialist project marketing firm has over 25 years of experience handling major architectural residential lifestyle developments and premium vertical communities along the beachfront. Lucy Cole Prestige: A boutique independent powerhouse operating for over 25 years, highly regarded for high-net-worth private client advisory in luxury residential waterfront homes and penthouses. DP Project Marketing: Headed by Deborah Provost, highly experienced in elite vertical project marketing and consultancy for landmark coastal and high-rise developments.",
+              "markdown": "- **Kollosche (New Projects):** Dominates high-end coastal strip developments (such as *COAST* on Garfield Terrace and *AMALI* in Main Beach), providing end-to-end developer solutions from site acquisition to trophy penthouse sales.[[1]](https://kollosche.com.au/new-projects/)[[2]](https://www.kollosche.com.au/projects/)\n- **Amir Prestige:** Known for record-breaking luxury transactions and ultra-high-net-worth client networking, managing top-tier beachfront mansions and landmark prestige apartment sales (such as records on Hedges Avenue and Burleigh Heads).[[1]](https://www.amirprestige.com.au/)\n- **TOTAL Property Group:** Led by Adrian Parsons, this specialist project marketing firm has over 25 years of experience handling major architectural residential lifestyle developments and premium vertical communities along the beachfront.[[1]](https://www.totalpropertygroup.com.au/)\n- **Lucy Cole Prestige:** A boutique independent powerhouse operating for over 25 years, highly regarded for high-net-worth private client advisory in luxury residential waterfront homes and penthouses.[[1]](https://www.lucycole.com.au/)\n- **DP Project Marketing:** Headed by Deborah Provost, highly experienced in elite vertical project marketing and consultancy for landmark coastal and high-rise developments.[[1]](https://dpprojectmarketing.com/)",
+              "links": null,
+              "images": null,
+              "references": [
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Kollosche",
+                  "domain": "kollosche.com.au",
+                  "url": "https://kollosche.com.au/new-projects/",
+                  "title": "Gold Coast Off The Plan Apartment Specialists | Kollosche",
+                  "text": "Kollosche New Projects provides end-to-end developer solutions (site acquisition, design, marketing, sales) and off-the-plan luxury apartment sales on the Gold Coa..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Kollosche",
+                  "domain": "www.kollosche.com.au",
+                  "url": "https://www.kollosche.com.au/projects/",
+                  "title": "Gold Coast Luxury Apartments Off The Plan | Kollosche",
+                  "text": "Gold Coast Luxury Apartments exclusive to Kollosche. Under Construction: COAST at 43 Garfield Terrace, AMALI at 3535 Main Beach Pa..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Amir Prestige",
+                  "domain": "www.amirprestige.com.au",
+                  "url": "https://www.amirprestige.com.au/",
+                  "title": "Amir Prestige: Gold Coast Luxury Real Estate Agency",
+                  "text": "Amir Prestige (Gold Coast and Northern NSW luxury real estate). Only Queensland agency with 10 transactions over $20,000,000. Netw..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "TOTAL Property Group",
+                  "domain": "www.totalpropertygroup.com.au",
+                  "url": "https://www.totalpropertygroup.com.au/",
+                  "title": "Home - TOTAL Property Group",
+                  "text": "TOTAL Property Group: 25+ yr. MD: Adrian Parsons. Contact: 1300 393 855. Key developments: No.21 Broadbeach Blvd, Royale, Jewel, Burly, 164 apartments, 29 levels"
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "Lucy Cole Prestige Properties",
+                  "domain": "www.lucycole.com.au",
+                  "url": "https://www.lucycole.com.au/",
+                  "title": "Lucy Cole Prestige | Prestige Real Estate Agents Gold Coast",
+                  "text": "Lucy Cole Prestige is an independent Gold Coast real estate agency specializing in luxury residential properties, beachfront/water..."
+                },
+                {
+                  "type": "ai_overview_reference",
+                  "position": "left",
+                  "source": "DP Project Marketing",
+                  "domain": "dpprojectmarketing.com",
+                  "url": "https://dpprojectmarketing.com/",
+                  "title": "DP Project Marketing – Project Marketing Specialists",
+                  "text": "DP Project Marketing (Director Deborah Provost, 25+ years Gold Coast experience). Services: Project Marketing, Project Management,"
+                }
+              ]
+            },
+            {
+              "type": "ai_overview_element",
+              "position": "left",
+              "title": null,
+              "text": "If you are looking to buy or market a specific development, tell me whether you are a developer seeking strategy or a buyer searching for a penthouse, and I can provide more targeted project recommendations.",
+              "markdown": "If you are looking to **buy** or **market a specific development** , tell me whether you are a **developer seeking strategy** or a **buyer searching for a penthouse** , and I can provide more **targeted project recommendations**.",
+              "links": null,
+              "images": null,
+              "references": null
+            }
+          ],
+          "references": [
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "TOTAL Property Group",
+              "domain": "www.totalpropertygroup.com.au",
+              "url": "https://www.totalpropertygroup.com.au/",
+              "title": "Home - TOTAL Property Group",
+              "text": "TOTAL Property Group: 25+ yr. MD: Adrian Parsons. Contact: 1300 393 855. Key developments: No.21 Broadbeach Blvd, Royale, Jewel, Burly, 164 apartments, 29 levels"
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Kollosche",
+              "domain": "kollosche.com.au",
+              "url": "https://kollosche.com.au/new-projects/",
+              "title": "Gold Coast Off The Plan Apartment Specialists | Kollosche",
+              "text": "Kollosche New Projects provides end-to-end developer solutions (site acquisition, design, marketing, sales) and off-the-plan luxury apartment sales on the Gold Coa..."
+            },
+            {
+              "type": "ai_overview_reference",
+              "position": "right",
+              "source": "Kollosche",
+              "domain": "www.kollosche.com.au",
+              "url": "https://www.kollosche.com.au/projects/",
+              "title": "Gold Coast Luxury Apartments Off The Plan | Kollosche",
+              "text": "Gold Coast Luxury Apartments exclusive to Kollosche. Under Construction: COAST at 43 Garfield Terrace, AMALI at 3535 Main Beach Parade, Main Beach. Drift at 16-18..."
+            }
+          ],
+          "rectangle": null
+        }
+      ]
+    }
+  ]
+}

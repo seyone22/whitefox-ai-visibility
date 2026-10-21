@@ -1,0 +1,231 @@
+{
+  "slug": "brisbane",
+  "pk": "luxury_agency",
+  "plat": "claude",
+  "text": "Who are the best luxury real estate agencies in Brisbane? Give me a shortlist of specific prestige property agencies with reasons.",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\brisbane__luxury_agency__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:15:07.882Z",
+  "cost": 0.054625,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 9695,
+      "output_tokens": 996,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.054025,
+      "datetime": "2026-10-21 05:15:07 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a shortlist of some of the best luxury and prestige real estate agencies in Brisbane, along with the reasons why they stand out:\n\n---\n\n### 🏡 Top Luxury Real Estate Agencies in Brisbane\n\n---\n\n#### 1. **Queensland Sotheby's International Realty**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Sotheby's International Realty is the world's premier luxury residential real estate brand, and Queensland Sotheby's has developed a network of offices and expert agents committed to connecting the state's finest real estate with the most discerning clientele.",
+              "annotations": [
+                {
+                  "title": "Trusted Property Experts Queensland - Queensland Sotheby's International Realty",
+                  "url": "https://queenslandsothebysrealty.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They boast 1,100 offices worldwide across 86 countries, with 9 locations across Queensland, an average sale price of $2M+ in 2025, and an 87% list-to-sell ratio.",
+              "annotations": [
+                {
+                  "title": "Trusted Property Experts Queensland - Queensland Sotheby's International Realty",
+                  "url": "https://queenslandsothebysrealty.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Trusted Property Experts Queensland - Queensland Sotheby's International Realty",
+                  "url": "https://queenslandsothebysrealty.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Their global reach makes them particularly strong for attracting international buyers.\n\n---\n\n#### 2. **Place Estate Agents**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Place Estate Agents is home to Drew Davies, Australia's most-followed real estate agent on Instagram, who is a principal and director at the Ascot office and specialises in Brisbane's prestige market, where standout presentation and reach can add real money to a result.",
+              "annotations": [
+                {
+                  "title": "The Best Real Estate Agents in Brisbane: We Found the Top 5 (Marketing Edition)",
+                  "url": "https://theresearcher.com.au/best-real-estate-agents-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "For sellers of premium Brisbane homes who understand that marketing is what creates competition, Drew is one of the most recognisable names in the country.",
+              "annotations": [
+                {
+                  "title": "The Best Real Estate Agents in Brisbane: We Found the Top 5 (Marketing Edition)",
+                  "url": "https://theresearcher.com.au/best-real-estate-agents-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Place is a well-established Brisbane-born agency with broad coverage across the city's top suburbs.\n\n---\n\n#### 3. **Adcock Prestige**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Adcock Prestige is committed to selling Brisbane's most prestigious property and delivering exceptional results in Brisbane's finest suburbs, with more than 21 years of experience in selling luxury properties.",
+              "annotations": [
+                {
+                  "title": "Adcock Prestige",
+                  "url": "https://adcockprestige.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Adcock Prestige",
+                  "url": "https://adcockprestige.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are a boutique, specialist prestige agency — meaning their entire focus is on the top end of the market, rather than splitting attention across all price points.\n\n---\n\n#### 4. **North South Real Estate (NSRE)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "NSRE is the preferred choice for discerning buyers, investors, and developers seeking exceptional properties and strategic guidance across Queensland's most prestigious regions, specialising in prestige apartments, trophy homes, and unique development opportunities in the high-end property market.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agent",
+                  "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They have completed over $1.2 billion in luxury property sales across Southeast Queensland and Northern NSW, with 86% of clients being repeat or referrals.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agent",
+                  "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n#### 5. **Plum Property**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Daniel Lee co-founded Plum Property in 2016 and built it into one of Brisbane's largest independent agencies, with a team of around 45.",
+              "annotations": [
+                {
+                  "title": "The Best Real Estate Agents in Brisbane: We Found the Top 5 (Marketing Edition)",
+                  "url": "https://theresearcher.com.au/best-real-estate-agents-brisbane/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " As a large independent (not a franchise), Plum has the scale to compete with major brands while maintaining a more personalised service model, making it a strong option in the prestige space.\n\n---\n\n### 💡 Key Context\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Place Advisory data revealed that the entry point to Brisbane's prestige sector is now $3 million and above.",
+              "annotations": [
+                {
+                  "title": "Prestige Property Brisbane",
+                  "url": "https://www.propertybuyer.com.au/blog/prestige-property-brisbane-2026-luxury-market-insights-top-suburbs",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Ray White's 2025 Luxury Report described south-east Queensland as the clear success story in Australia's high-end property market.",
+              "annotations": [
+                {
+                  "title": "Prestige Property Brisbane",
+                  "url": "https://www.propertybuyer.com.au/blog/prestige-property-brisbane-2026-luxury-market-insights-top-suburbs",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n**In summary:** For global reach and brand prestige, **Queensland Sotheby's** is hard to beat. For local marketing power and social media reach, **Place Estate Agents** is a standout. For a pure boutique prestige specialist, **Adcock Prestige** is worth a look. **NSRE** and **Plum Property** round out the list as strong independent options with proven track records.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "best luxury prestige real estate agencies Brisbane 2024 2025"
+      ]
+    }
+  ]
+}

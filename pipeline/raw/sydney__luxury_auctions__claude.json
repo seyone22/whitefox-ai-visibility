@@ -1,0 +1,362 @@
+{
+  "slug": "sydney",
+  "pk": "luxury_auctions",
+  "plat": "claude",
+  "text": "Who are the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in Sydney?",
+  "loc": 1000286,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\sydney__luxury_auctions__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:14:23.391Z",
+  "cost": 0.066808,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 10511,
+      "output_tokens": 1645,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.066208,
+      "datetime": "2026-10-21 05:14:23 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a comprehensive overview of the **leading luxury real estate agencies** and **top-performing agents/auctioneers** for prestige residential properties in Sydney:\n\n---\n\n## 🏛️ Leading Luxury Real Estate Agencies in Sydney\n\n### 1. **Sydney Sotheby's International Realty**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Sotheby's International Realty is the world's premier luxury residential real estate brand.",
+              "annotations": [
+                {
+                  "title": "Sydney Sotheby’s International Realty",
+                  "url": "https://sydneysothebysrealty.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "From its beginnings as one of the world's finest art auction houses, Sotheby's has developed into a world-leading provider of luxury real estate, with around 1,100 offices across 86 countries and territories and nearly 26,000 independent sales associates worldwide.",
+              "annotations": [
+                {
+                  "title": "Sydney Sotheby’s International Realty",
+                  "url": "https://sydneysothebysrealty.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Its Sydney arm is a go-to for ultra-prestige waterfront and harbourside listings.\n\n---\n\n### 2. **Private Property Global (Forbes Global Properties)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Private Property Global was established as an international bespoke advisory service for owners and buyers of trophy homes and homes of historical significance and architectural merit, utilising Forbes Global Properties infrastructure and services.",
+              "annotations": [
+                {
+                  "title": "Private Property Global, Luxury real estate agency in Sydney, Melbourne and Gold Coast, Australia",
+                  "url": "https://www.forbesglobalproperties.com/members/private-property-global",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The team has 20 years of record-setting results, recalibrating the Australian price benchmark four times and achieving the highest annual Australian sale in nine of those years.",
+              "annotations": [
+                {
+                  "title": "Private Property Global, Luxury real estate agency in Sydney, Melbourne and Gold Coast, Australia",
+                  "url": "https://www.forbesglobalproperties.com/members/private-property-global",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They are the only Australian-based residential real estate agency that specialises in the sale of property above $5,000,000 without geographical boundaries.",
+              "annotations": [
+                {
+                  "title": "Private Property Global, Luxury real estate agency in Sydney, Melbourne and Gold Coast, Australia",
+                  "url": "https://www.forbesglobalproperties.com/members/private-property-global",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 3. **The Rubinstein Group (Ray White TRG)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The Rubinstein Group offers luxury residential real estate in Sydney, Australia, providing the best lifestyle Sydney has to offer.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Sydney",
+                  "url": "https://www.therubinsteingroup.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Operating under the Ray White banner, they cover prestige suburbs including Woollahra, Rose Bay, and Hunters Hill, and are widely recognised as one of Sydney's most prominent prestige-focused agencies.\n\n---\n\n### 4. **Black Diamondz**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Black Diamondz is a luxury real estate agency in Sydney, Australia, connecting prestige Australian properties with local and international buyers through a bespoke concierge service.",
+              "annotations": [
+                {
+                  "title": "Black Diamondz",
+                  "url": "https://www.blackdiamondz.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Black Diamondz is described as \"the discreet bridge to the world's most coveted properties, where prestigious agents curate every detail with precision, privacy, and an uncompromising commitment to excellence.\"",
+              "annotations": [
+                {
+                  "title": "Black Diamondz",
+                  "url": "https://www.blackdiamondz.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 5. **BresicWhitney**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "BresicWhitney specialises in inner-city properties, offering a contemporary approach to real estate with a focus on design and lifestyle.",
+              "annotations": [
+                {
+                  "title": "Top 20 Real Estate Agents in Sydney, NSW",
+                  "url": "https://www.salebyhomeowner.com.au/realestate/top-real-estate-agents-sydney-nsw/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " It is consistently ranked among Sydney's best agencies for prestige urban and architectural homes.\n\n---\n\n### 6. **Belle Property**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Belle Property is renowned for its boutique approach, providing personalised service and expertise in luxury real estate.",
+              "annotations": [
+                {
+                  "title": "Top 20 Real Estate Agents in Sydney, NSW",
+                  "url": "https://www.salebyhomeowner.com.au/realestate/top-real-estate-agents-sydney-nsw/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " It has a strong presence across Sydney's premium suburbs.\n\n---\n\n### 7. **Christie's International Real Estate (Ken Jacobs)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Ken Jacobs of Christie's International Real Estate is a veteran in the luxury market and synonymous with high-end properties in Sydney, with a portfolio that includes some of the most expensive homes ever sold in Australia.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agents in Sydney: Masters of Prestige and Exclusivity",
+                  "url": "https://hcacademy.housecollective.com.au/luxury-real-estate-agents-in-sydney-masters-of-prestige-and-exclusivity/airbnb-management-sydney-and-central-coast/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 8. **Di Jones**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Di Jones is a boutique agency with a strong reputation for personalised service and expertise in Sydney's premium property market.",
+              "annotations": [
+                {
+                  "title": "Top 20 Real Estate Agents in Sydney, NSW",
+                  "url": "https://www.salebyhomeowner.com.au/realestate/top-real-estate-agents-sydney-nsw/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 9. **Highland Property Group**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Highland Property Group brings a full-service, multi-office model with its origins in the Sutherland Shire and coverage across wider Sydney. The agency is associated with prestige coastal homes, family properties, project marketing, and landlord services.",
+              "annotations": [
+                {
+                  "title": "7 Best Real Estate Agent Sydney Picks for 2026",
+                  "url": "https://www.gregory.agency/best-real-estate-agent-sydney/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 🎙️ Top-Performing Prestige Agents & Auctioneers in Sydney\n\n| Agent | Agency | Specialty |\n|---|---|---|\n| **Ken Jacobs** | Christie's International Real Estate | Trophy homes, record-breaking sales |\n| **Brad Pillinger** | Pillinger Real Estate | Eastern Suburbs prestige |\n| **Michael Pallier** | Sydney Sotheby's International Realty | Waterfront & exclusive listings |\n| **Bill Malouf** | LJ Hooker Double Bay | Luxury residential, Double Bay |\n| **D'Leanne Lewis** | Ray White Double Bay | High-net-worth clientele |\n| **Gavin Rubinstein** | The Rubinstein Group | Luxury auctions & prestige sales |\n\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Brad Pillinger of Pillinger Real Estate specialises in Sydney's eastern suburbs and is known for his deep market knowledge and ability to secure record-breaking sales.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agents in Sydney: Masters of Prestige and Exclusivity",
+                  "url": "https://hcacademy.housecollective.com.au/luxury-real-estate-agents-in-sydney-masters-of-prestige-and-exclusivity/airbnb-management-sydney-and-central-coast/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Michael Pallier of Sydney Sotheby's International Realty, with a focus on waterfront properties, has built a reputation for handling some of the most exclusive listings in Sydney.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agents in Sydney: Masters of Prestige and Exclusivity",
+                  "url": "https://hcacademy.housecollective.com.au/luxury-real-estate-agents-in-sydney-masters-of-prestige-and-exclusivity/airbnb-management-sydney-and-central-coast/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Bill Malouf of LJ Hooker Double Bay has been instrumental in shaping Sydney's luxury real estate landscape.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agents in Sydney: Masters of Prestige and Exclusivity",
+                  "url": "https://hcacademy.housecollective.com.au/luxury-real-estate-agents-in-sydney-masters-of-prestige-and-exclusivity/airbnb-management-sydney-and-central-coast/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "D'Leanne Lewis of Ray White Double Bay is known for her exceptional service and attention to detail, making her a go-to agent for high-net-worth individuals.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agents in Sydney: Masters of Prestige and Exclusivity",
+                  "url": "https://hcacademy.housecollective.com.au/luxury-real-estate-agents-in-sydney-masters-of-prestige-and-exclusivity/airbnb-management-sydney-and-central-coast/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 🏡 Key Prestige Suburbs to Watch\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Sydney's most prestigious suburbs include **Point Piper** (known as one of the most exclusive addresses in Australia, home to multi-million-dollar waterfront mansions), **Vaucluse** (offering stunning harbour views and sprawling estates), and **Mosman** (a favourite among celebrities and executives, combining luxury living with a relaxed coastal vibe).",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agents in Sydney: Masters of Prestige and Exclusivity",
+                  "url": "https://hcacademy.housecollective.com.au/luxury-real-estate-agents-in-sydney-masters-of-prestige-and-exclusivity/airbnb-management-sydney-and-central-coast/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\nWhether you're buying or selling, these agencies and agents represent the pinnacle of Sydney's prestige property market. Would you like more detail on any specific agency or suburb?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "leading luxury real estate agencies Sydney prestige residential 2025",
+        "top performing auctioneers prestige residential properties Sydney 2025"
+      ]
+    }
+  ]
+}

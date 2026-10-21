@@ -1,0 +1,219 @@
+{
+  "slug": "adelaide",
+  "pk": "architectural_projects",
+  "plat": "claude",
+  "text": "Which prestige real estate agencies in Adelaide are the market leaders for luxury off-the-plan developments, penthouses, and architectural project marketing?",
+  "loc": 1000422,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\adelaide__architectural_projects__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:19:43.281Z",
+  "cost": 0.08458,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 17310,
+      "output_tokens": 1470,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.08398,
+      "datetime": "2026-10-21 05:19:43 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Based on the search results and my broader knowledge of the Adelaide prestige real estate market, here is a comprehensive overview of the leading agencies in luxury off-the-plan developments, penthouses, and architectural project marketing:\n\n---\n\n## 🏙️ Prestige & Project Marketing Leaders in Adelaide Real Estate\n\n### 1. **Giordano & Partners**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Founded in 2018 with a vision of marketing the world's most cherished possessions to South Australia and the world, Giordano & Partners represents an international real estate franchise and has forged important partnerships with elite firms globally.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate",
+                  "url": "https://giordanopartners.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their expert staff specialise in marketing heritage estates, Adelaide Hills retreats, inner-city sandstone villas, **architectural masterpieces**, and beachside escapes.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate",
+                  "url": "https://giordanopartners.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The firm separates itself from the competition by providing a low-volume, high-service customer experience, having achieved record-breaking results across 41 suburb records and counting.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate",
+                  "url": "https://giordanopartners.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### 2. **Williams Luxury Real Estate**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Positioning themselves as South Australia's leading luxury real estate agents, Williams Luxury Real Estate operates out of Adelaide with an \"absolute passion for people and property.\"",
+              "annotations": [
+                {
+                  "title": "Williams Luxury Real Estate",
+                  "url": "https://www.facebook.com/WILLIAMSLuxuryProperty/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The agency markets itself as \"selling with strategy, style and sophistication,\"",
+              "annotations": [
+                {
+                  "title": "Williams Luxury Real Estate",
+                  "url": "https://www.facebook.com/WILLIAMSLuxuryProperty/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " making them a prominent name in the high-end residential and prestige segment of the Adelaide market.\n\n---\n\n### 3. **JPRE (JP Real Estate)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "JPRE specialises in off-plan real estate to suit all needs, ranging from one-bedroom student apartments through to **luxury seaside penthouses**, with a large selection of hand-picked developments.",
+              "annotations": [
+                {
+                  "title": "PROJECTS",
+                  "url": "https://www.jpre.net.au/projects",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Their years of experience allow them to streamline the sales process, and as a boutique agency, clients always deal with the same agent, ensuring continuity and accountability.",
+              "annotations": [
+                {
+                  "title": "PROJECTS",
+                  "url": "https://www.jpre.net.au/projects",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are one of Adelaide's most dedicated off-the-plan specialists.\n\n---\n\n### 4. **Sotheby's International Realty (Adelaide)**\nA globally recognised luxury brand with a local Adelaide presence, Sotheby's is a go-to for ultra-high-net-worth buyers and sellers of prestige properties, architectural homes, and premium apartments. Their international referral network is a key differentiator for project marketing.\n\n---\n\n### 5. **Harris Real Estate – Prestige Division**\nHarris Real Estate is one of Adelaide's largest independent agencies and operates a dedicated prestige division. They are regularly involved in the marketing of high-end developments and architectural homes across Adelaide's most sought-after suburbs, including Unley, Burnside, and the Eastern suburbs.\n\n---\n\n### 6. **Toop+Toop**\nOne of Adelaide's most prominent independent agencies, Toop+Toop has a strong presence in the luxury and architectural property segment. They are known for innovative marketing campaigns and have represented several high-profile prestige developments across inner Adelaide and the Hills.\n\n---\n\n### 7. **Christie's International Real Estate (Adelaide)**\nOperating under the Christie's global luxury brand, this agency focuses exclusively on high-end residential properties and is well-positioned to market luxury off-the-plan developments and penthouses to both local and international buyers.\n\n---\n\n### 8. **Notable Off-the-Plan Developments Currently on Market**\nSeveral prestige off-the-plan projects are actively being marketed in Adelaide right now, including:\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "**The Cullinan, Adelaide** – featuring distinctive hand-crafted masonry cut from Adelaide Hills stone, with residences conceived by Gasparini Luk Architects prioritising open-plan spatial flow.",
+              "annotations": [
+                {
+                  "title": "387 new and off the plan apartments for sale in Adelaide, SA",
+                  "url": "https://www.apartments.com.au/new-apartments/adelaide-sa",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "**Franklin Tower** – elevating Adelaide's skyline with a refined architectural profile by Auta Group and Cheesman Architects, drawing on timeless Japandi principles harmonising Japanese minimalism with Scandinavian functionality.",
+              "annotations": [
+                {
+                  "title": "387 new and off the plan apartments for sale in Adelaide, SA",
+                  "url": "https://www.apartments.com.au/new-apartments/adelaide-sa",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "**Seléne Residences, Wayville** – a refined boutique development on the parkland fringe, crafted through a collaborative vision between Ginos Group and Anthony Donato Architects, featuring European Oak floors.",
+              "annotations": [
+                {
+                  "title": "387 new and off the plan apartments for sale in Adelaide, SA",
+                  "url": "https://www.apartments.com.au/new-apartments/adelaide-sa",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n### Key Takeaways\n| Agency | Specialty |\n|---|---|\n| **Giordano & Partners** | Luxury residential, architectural homes, global reach |\n| **Williams Luxury Real Estate** | Prestige residential, high-end marketing |\n| **JPRE** | Off-the-plan specialists, penthouses |\n| **Sotheby's International Realty** | Ultra-prestige, international buyer network |\n| **Harris Real Estate (Prestige)** | Large-scale prestige + development marketing |\n| **Toop+Toop** | Innovative luxury marketing, architectural homes |\n| **Christie's International RE** | Exclusive luxury, international connections |\n\nFor the most current project mandates and active listings, I'd recommend checking **realestate.com.au**, **domain.com.au**, or **apartments.com.au** directly, as project marketing appointments can shift frequently. Would you like more detail on any specific agency or development?",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "prestige luxury real estate agencies Adelaide off-the-plan penthouses architectural project marketing",
+        "Adelaide market leader luxury off-the-plan development project marketing agency 2024 2025",
+        "top prestige real estate agencies Adelaide project marketing penthouses 2025"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "slug": "brisbane",
+  "pk": "luxury_auctions",
+  "plat": "claude",
+  "text": "Who are the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in Brisbane?",
+  "loc": 1000339,
+  "file": "C:\\Users\\SGSey\\Documents\\antigravity\\whitefox-ai-visibility\\pipeline\\raw\\brisbane__luxury_auctions__claude.json",
+  "requeues": 0,
+  "at": "2026-10-21T05:15:49.884Z",
+  "cost": 0.081256,
+  "result": [
+    {
+      "model_name": "claude-sonnet-4-6",
+      "input_tokens": 17047,
+      "output_tokens": 1301,
+      "reasoning_tokens": 0,
+      "web_search": true,
+      "money_spent": 0.080656,
+      "datetime": "2026-10-21 05:15:49 +00:00",
+      "items": [
+        {
+          "type": "message",
+          "sections": [
+            {
+              "type": "text",
+              "text": "Here is a comprehensive overview of the leading luxury real estate agencies and top-performing auctioneers for prestige residential properties in Brisbane:\n\n---\n\n## 🏡 Leading Luxury Real Estate Agencies in Brisbane\n\n### 1. **Adcock Prestige**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Adcock Prestige is committed to selling Brisbane's most prestigious property and delivering exceptional results in Brisbane's finest suburbs, with more than 21 years of experience in selling luxury properties.",
+              "annotations": [
+                {
+                  "title": "Adcock Prestige",
+                  "url": "https://adcockprestige.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "Adcock Prestige",
+                  "url": "https://adcockprestige.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are widely regarded as one of the most dedicated boutique prestige agencies in the city.\n\n### 2. **Johnston Dixon Quality Property**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "From relatively humble suburban beginnings in 1987, Johnston Dixon Quality Property has evolved to become one of Australia's premier boutique residential real estate agencies.",
+              "annotations": [
+                {
+                  "title": "JOHNSTON DIXON Quality Property - Prestige Real Estate Agency - Johnston Dixon",
+                  "url": "https://johnstondixon.com/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " They are a long-established name in Brisbane's prestige market.\n\n### 3. **North South Real Estate (NSRE)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "North South Real Estate (NSRE) is the preferred choice for discerning buyers, investors and developers seeking exceptional properties and strategic guidance across Queensland's most prestigious regions, specialising in prestige apartments, trophy homes and unique development opportunities in the high-end property market.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agent",
+                  "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "The agency has achieved over $1.2 billion in luxury property and development transactions across Southeast Queensland and Northern NSW.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agent",
+                  "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n### 4. **CZRCMR Prestige Realty**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "CZRCMR Prestige Realty positions itself as Queensland's premier luxury real estate agency, delivering exclusive residential and commercial property experiences across Australia, with off-market listings, discreet service, and exceptional results.",
+              "annotations": [
+                {
+                  "title": "CZRCMR Prestige Realty",
+                  "url": "https://czrcmrprestigerealty.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                },
+                {
+                  "title": "CZRCMR Prestige Realty",
+                  "url": "https://czrcmrprestigerealty.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n### 5. **ePlace – Sarah Hackett (Brisbane's Luxury & Riverfront Specialist)**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Having spent over 27 years developing relationships with high-end buyers and sellers in both local and international markets, Sarah Hackett has achieved unrivalled reach in both the Luxury & Riverfront Residential Market and Apartment Project Sales.",
+              "annotations": [
+                {
+                  "title": "Sarah Hackett",
+                  "url": "https://www.eplace.com.au/brisbanes-luxury-agent",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "She leads a team of experts including a first-class international marketing and PR team and a full-service buyer's agent dedicated to finding clients their new forever home.",
+              "annotations": [
+                {
+                  "title": "Sarah Hackett",
+                  "url": "https://www.eplace.com.au/brisbanes-luxury-agent",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n### 6. **Propertybuyer Prestige**\n",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Propertybuyer Prestige is regarded as Australia's most trusted prestige buyer's agency, securing luxury residential properties across Sydney, Melbourne, and Brisbane with complete discretion.",
+              "annotations": [
+                {
+                  "title": "Propertybuyer Prestige",
+                  "url": "https://prestigepropertybuyer.com.au/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "They curate an inventory of exceptional properties that are never publicly advertised and can only be accessed by their discerning prestige clientele, ensuring searches remain completely private.",
+              "annotations": [
+                {
+                  "title": "Prestige Real Estate",
+                  "url": "https://www.propertybuyer.com.au/who-we-help/prestige-home-buyers/",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 🔨 Top-Performing Auctioneers for Prestige Residential Properties in Brisbane\n\nWhile Brisbane's prestige auction market is typically served by senior agents and principals from the above agencies who also conduct auctions, some of the most recognised names in the prestige auction space include:\n\n- **Jason Adcock (Adcock Prestige)** – One of Brisbane's most prominent prestige property specialists, known for high-value auction results in Brisbane's finest suburbs.\n- **Nik Seirlis (NSRE)** – ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "As Selling Principal and Director of North South Real Estate, Nik Seirlis is a leading authority on Brisbane, Gold Coast & Byron Bay real estate markets, and has achieved many record-breaking sales, especially at Riparian Plaza, Brisbane's most prestigious, award-winning apartment tower.",
+              "annotations": [
+                {
+                  "title": "Luxury Real Estate Agent",
+                  "url": "https://www.nsre.com.au/about-us-luxury-real-estate-agent",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n- **Assett Realty** – ",
+              "annotations": null
+            },
+            {
+              "type": "text",
+              "text": "Assett Realty was recognised as Agency & Agent of the Year 2025 and has been active in selling luxury properties in Brisbane City.",
+              "annotations": [
+                {
+                  "title": "Prestige Real Estate Agents Australia",
+                  "url": "http://www.prestige-real-estate.com/prestigeagents.php?cityis=0&show=states",
+                  "start_index": null,
+                  "end_index": null,
+                  "text": null
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n\n---\n\n## 📌 Key Prestige Suburbs to Watch in Brisbane\nBrisbane's prestige residential market is concentrated in suburbs such as **Hamilton, Ascot, New Farm, Teneriffe, Paddington, St Lucia, Chelmer, Indooroopilly**, and **Toowong** — where most of these agencies and auctioneers are most active.\n\n---\n\n> **Tip:** For ultra-high-end or off-market prestige transactions in Brisbane, working with a dedicated buyer's agent (such as Propertybuyer Prestige or NSRE) alongside a specialist prestige selling agency can provide access to properties that never reach the public market.",
+              "annotations": null
+            }
+          ]
+        }
+      ],
+      "fan_out_queries": [
+        "leading luxury real estate agencies Brisbane prestige residential",
+        "top performing auctioneers prestige residential properties Brisbane",
+        "best auctioneers prestige luxury property Brisbane 2024 2025"
+      ]
+    }
+  ]
+}
