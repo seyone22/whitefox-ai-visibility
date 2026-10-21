@@ -42,4 +42,7 @@ test('Client 30-slide deck and Technical 13-slide dossier integrity & zero-fabri
   const targetsSection = targetsMatch[1];
   assert.ok(targetsSection.includes('overtake') && targetsSection.includes('Jellis Craig'), '#targets slide must anchor on overtaking a specific mid-level competitor');
   assert.ok(!/·\s*#\d+|·\s*Top\s*\d+|Top-4 category share/i.test(targetsSection), '#targets slide must never promise future leaderboard ranks');
+
+  // Technical dossier must include interactive .deck/.stage wrapper and inlined controller JS so slides are visible
+  assert.ok(techHtml.includes('id="deck"') && techHtml.includes('id="stage"') && techHtml.includes('is-active'), 'technical.html must include #deck, #stage, and slide controller JS so slides are visible');
 });

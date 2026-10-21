@@ -145,40 +145,60 @@ const citationDomainsHtml = (citations.topDomains || []).slice(0, 14).map((d, i)
   <td class="num mono">${d.sharePct}%</td>
 </tr>`).join('\n');
 
+const baseCss = fs.readFileSync('pipeline/deck.css', 'utf8');
+const baseJs = fs.readFileSync('pipeline/deck.js', 'utf8');
+
 const html = `<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <title>WHITEFOX Real Estate — Tier 2 Data Science & Econometric Technical Dossier</title>
-<link rel="stylesheet" href="/deck.css"/>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://api.fontshare.com/v2/css?f[]=clash-grotesk@700,600,500&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;600;700&display=swap">
 <style>
+${baseCss}
   :root {
+    --pulp: #9A7B3E !important;
+    --pulp-dark: #7A5F2B !important;
+    --navy: #0A0A0A !important;
     --wf-black: #0A0A0A;
     --wf-gold: #9A7B3E;
     --wf-border: #E5E7EB;
   }
-  body { background: #F9FAFB; color: #111827; font-family: -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", sans-serif; }
-  .slide { background: #FFFFFF; border: 1px solid #E5E7EB; border-radius: 12px; padding: 36px 44px; margin: 28px auto; max-width: 1280px; box-shadow: 0 4px 20px rgba(0,0,0,0.04); }
-  .eyebrow { font-size: 11px; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: #9A7B3E; margin-bottom: 8px; }
-  h1, h2 { color: #0A0A0A; letter-spacing: -0.025em; margin-bottom: 12px; }
-  h2 { font-size: 26px; font-weight: 800; }
-  p.lead { font-size: 15px; color: #4B5563; line-height: 1.6; margin-bottom: 20px; }
-  table.data-table { width: 100%; border-collapse: collapse; font-size: 12.5px; margin-top: 12px; }
-  table.data-table th { background: #0A0A0A; color: #FFFFFF; text-align: left; padding: 9px 12px; font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; }
-  table.data-table td { padding: 8px 12px; border-bottom: 1px solid #E5E7EB; vertical-align: top; }
+  .slide { background: #FFFFFF; color: #111827; padding: 64px 96px 84px; gap: 18px; }
+  .slide.dark { background: #0A0A0A !important; color: #F9FAFB; }
+  .eyebrow { font-size: 16px; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: #9A7B3E; margin-bottom: 4px; }
+  h1, h2 { color: #0A0A0A; letter-spacing: -0.025em; margin-bottom: 6px; }
+  h2 { font-size: 40px; font-weight: 800; line-height: 1.12; }
+  p.lead { font-size: 20px; color: #4B5563; line-height: 1.45; margin-bottom: 10px; max-width: 1640px; }
+  table.data-table { width: 100%; border-collapse: collapse; font-size: 16.5px; margin-top: 6px; }
+  table.data-table th { background: #0A0A0A; color: #FFFFFF; text-align: left; padding: 11px 14px; font-size: 14px; text-transform: uppercase; letter-spacing: 0.06em; }
+  table.data-table td { padding: 9px 14px; border-bottom: 1px solid #E5E7EB; vertical-align: middle; line-height: 1.32; }
   table.data-table tr:nth-child(even) td { background: #F9FAFB; }
+  #tech-05-gbp-cid-audit table.data-table { font-size: 14.5px; }
+  #tech-05-gbp-cid-audit table.data-table th { padding: 7px 10px; font-size: 12.5px; }
+  #tech-05-gbp-cid-audit table.data-table td { padding: 5.5px 10px; }
+  #tech-08-citation-graph table.data-table { font-size: 14.5px; }
+  #tech-08-citation-graph table.data-table th { padding: 7px 10px; font-size: 12.5px; }
+  #tech-08-citation-graph table.data-table td { padding: 5.5px 10px; }
+  #tech-10-ai-keyword-demand table.data-table { font-size: 15px; }
+  #tech-10-ai-keyword-demand table.data-table th { padding: 8px 11px; font-size: 13px; }
+  #tech-10-ai-keyword-demand table.data-table td { padding: 6.5px 11px; }
   .num { text-align: right; }
   .mono { font-family: "JetBrains Mono", "SFMono-Regular", Consolas, monospace; }
-  .kpi-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin: 18px 0; }
-  .kpi-card { background: #0A0A0A; color: #FFFFFF; padding: 18px 20px; border-radius: 8px; }
-  .kpi-card .val { font-size: 28px; font-weight: 800; color: #FFFFFF; letter-spacing: -0.02em; }
-  .kpi-card .lbl { font-size: 11px; text-transform: uppercase; letter-spacing: 0.08em; color: #9CA3AF; margin-top: 4px; }
-  .code-box { background: #0A0A0A; color: #E5E7EB; padding: 16px; border-radius: 8px; font-family: monospace; font-size: 12px; overflow-x: auto; line-height: 1.5; margin-top: 12px; }
-  .alert-box { border-left: 4px solid #DC2626; background: #FEF2F2; padding: 14px 18px; border-radius: 6px; margin: 14px 0; font-size: 13px; color: #7F1D1D; }
+  .kpi-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 24px; margin: 22px 0; }
+  .kpi-card { background: #0A0A0A; color: #FFFFFF; padding: 28px 28px; border-radius: 10px; border-top: 4px solid #9A7B3E; }
+  .kpi-card .val { font-size: 44px; font-weight: 800; color: #FFFFFF; letter-spacing: -0.02em; }
+  .kpi-card .lbl { font-size: 15px; text-transform: uppercase; letter-spacing: 0.08em; color: #D1D5DB; margin-top: 8px; }
+  .code-box { background: #0A0A0A; color: #E5E7EB; padding: 22px 26px; border-radius: 10px; font-family: "JetBrains Mono", monospace; font-size: 17px; overflow-x: auto; line-height: 1.48; margin-top: 8px; white-space: pre; }
+  .alert-box { border-left: 5px solid #9A7B3E; background: #FAF8F5; padding: 20px 24px; border-radius: 8px; margin: 12px 0; font-size: 18.5px; line-height: 1.45; color: #1F2937; }
 </style>
 </head>
 <body>
+<div class="deck" id="deck">
+  <div class="stage" id="stage">
 
 <!-- Slide 1 -->
 <section id="tech-01-cover" class="slide">
@@ -421,6 +441,16 @@ const html = `<!DOCTYPE html>
   </table>
 </section>
 
+    <div class="progress" aria-hidden="true"><i id="bar"></i></div>
+  </div>
+</div>
+<nav class="controls" id="controls" aria-label="Slide controls">
+  <button id="prev" type="button" aria-label="Previous slide"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2.4"/></svg></button>
+  <span id="count" class="ctr">1 / 13</span>
+  <button id="next" type="button" aria-label="Next slide"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M9 5l7 7-7 7" fill="none" stroke="currentColor" stroke-width="2.4"/></svg></button>
+  <button id="fs" type="button" aria-label="Full screen"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5" fill="none" stroke="currentColor" stroke-width="2.2"/></svg></button>
+</nav>
+<script>${baseJs}</script>
 </body>
 </html>`;
 
