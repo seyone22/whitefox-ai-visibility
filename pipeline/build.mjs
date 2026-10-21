@@ -947,41 +947,46 @@ slide('ws-entity', 'white', `
   const target = [melNow, 26, 37, 49];
   const y = v => pt + (h - pt - pb) * (1 - v / 80);
   const x = m => pl + m / 12 * (w - pl - pr);
-  const rivalRate = 51;
+  const jcMel = cityStats.melbourne.top.find(f => f.name === 'Jellis Craig') || { name: 'Jellis Craig', n: 16 };
+  const rivalRate = Math.round((jcMel.n / 35) * 100); // 46% (16/35)
+  const fgMel = cityStats.melbourne.top.find(f => f.name === 'Forbes Global Properties') || { name: 'Forbes Global Properties', n: 11 };
+  const fgRate = Math.round((fgMel.n / 35) * 100); // 31% (11/35)
 
-  const svg = `<svg class="chart" viewBox="0 0 ${w} ${h}" width="${w}" height="${h}" role="img" aria-label="WHITEFOX Melbourne target path">
+  const svg = `<svg class="chart" viewBox="0 0 ${w} ${h}" width="${w}" height="${h}" role="img" aria-label="WHITEFOX Melbourne target path vs Jellis Craig and Forbes Global Properties">
     ${[0, 20, 40, 60, 80].map(t => `<line x1="${pl}" x2="${w - pr}" y1="${y(t)}" y2="${y(t)}" class="gl"/><text x="${pl - 16}" y="${y(t) + 8}" class="ax" text-anchor="end">${t}%</text>`).join('')}
     ${xs.map((m, i) => `<text x="${x(m)}" y="${h - pb + 42}" class="ax" text-anchor="middle">${labels[i]}</text>`).join('')}
+    <line x1="${x(0)}" x2="${x(12)}" y1="${y(fgRate)}" y2="${y(fgRate)}" stroke="#64748B" stroke-width="3" stroke-dasharray="2 10" stroke-linecap="round" class="fadein"/>
+    <text x="${x(12) + 18}" y="${y(fgRate) + 8}" class="el" fill="#64748B">Forbes Global today <tspan class="elv">${fgRate}%</tspan></text>
     <line x1="${x(0)}" x2="${x(12)}" y1="${y(rivalRate)}" y2="${y(rivalRate)}" stroke="#0A0A0A" stroke-width="4" stroke-dasharray="2 10" stroke-linecap="round" class="fadein"/>
-    <text x="${x(12) + 18}" y="${y(rivalRate) - 12}" class="el">Abercromby's (#4) <tspan class="elv">${rivalRate}%</tspan></text>
+    <text x="${x(12) + 18}" y="${y(rivalRate) + 28}" class="el">Jellis Craig today <tspan class="elv">${rivalRate}%</tspan></text>
     <path d="${target.map((v, i) => `${i ? 'L' : 'M'}${x(xs[i])},${y(v)}`).join('')}" pathLength="1" class="draw" fill="none" stroke="#9A7B3E" stroke-width="6" stroke-dasharray="1" style="--d:300ms"/>
     <path d="${target.map((v, i) => `${i ? 'L' : 'M'}${x(xs[i])},${y(v)}`).join('')}" fill="none" stroke="#F8FAFC" stroke-width="7" stroke-dasharray="14 12" class="fadein" style="--d:1500ms"/>
     ${target.map((v, i) => `<circle cx="${x(xs[i])}" cy="${y(v)}" r="${i ? 10 : 13}" fill="${i ? '#F8FAFC' : '#9A7B3E'}" stroke="#9A7B3E" stroke-width="5" class="pop" style="--d:${400 + i * 350}ms"/><text x="${i ? x(xs[i]) : x(xs[i]) + 22}" y="${i ? y(v) - 24 : y(v) + 38}" text-anchor="${i ? 'middle' : 'start'}" class="callsmall pulp">${i === 3 ? '' : v + '%'}${i ? '' : ` today (${cityStats.melbourne.lhdMentions}/35)`}</text>`).join('')}
-    <text x="${x(12) + 18}" y="${y(target[3]) + 26}" class="el pulp-t">WHITEFOX Target <tspan class="elv">${target[3]}%</tspan></text>
+    <text x="${x(12) + 18}" y="${y(target[3]) - 12}" class="el pulp-t">WHITEFOX target <tspan class="elv">${target[3]}%</tspan></text>
   </svg>`;
 
   const TG = [
-    ['Melbourne HQ', `${cityStats.melbourne.rate}% (${cityStats.melbourne.lhdMentions}/35) · #${cityStats.melbourne.lhdRank}`, '26% (9/35) · #7', '37% (13/35) · #5', '49% (17/35) · #4'],
-    ['Adelaide (4.7★)', `${cityStats.adelaide.rate}% (${cityStats.adelaide.lhdMentions}/35) · #${cityStats.adelaide.lhdRank}`, '23% (8/35) · #6', '34% (12/35) · #4', '46% (16/35) · #3'],
-    ['Mornington Peninsula', `${cityStats.peninsula.rate}% (${cityStats.peninsula.lhdMentions}/35) · #${cityStats.peninsula.lhdRank}`, '23% (8/35) · #6', '34% (12/35) · #4', '46% (16/35) · #3'],
-    ['Brisbane (James St)', `${cityStats.brisbane.rate}% (${cityStats.brisbane.lhdMentions}/35) · #${cityStats.brisbane.lhdRank}`, '20% (7/35) · #7', '29% (10/35) · #5', '40% (14/35) · #4'],
-    ['Gold Coast', `${cityStats.goldcoast.rate}% (${cityStats.goldcoast.lhdMentions}/35) · #${cityStats.goldcoast.lhdRank}`, '17% (6/35) · #7', '26% (9/35) · #5', '37% (13/35) · #4'],
-    ['Sydney', `${cityStats.sydney.rate}% (${cityStats.sydney.lhdMentions}/35) · #${cityStats.sydney.lhdRank}`, '14% (5/35) · #9', '23% (8/35) · #6', '34% (12/35) · #5'],
-    ['Perth', `${cityStats.perth.rate}% (${cityStats.perth.lhdMentions}/35) · #${cityStats.perth.lhdRank}`, '17% (6/35) · #7', '29% (10/35) · #5', '40% (14/35) · #4'],
-    ['National “Australia”', `${cityStats.national.rate}% (${cityStats.national.lhdMentions}/35) · #${cityStats.national.lhdRank}`, '20% (7/35) · #7', '31% (11/35) · #5', '43% (15/35) · #4'],
-    ['All 280 Answers', `${M.wfRatePct}% (${M.wfMentioned}/280) · #${wfNatRank}`, '20.0% (56/280) · #6', '30.4% (85/280) · #4', '41.8% (117/280) · Top 3']
+    ['Melbourne HQ', `${cityStats.melbourne.rate}% (${cityStats.melbourne.lhdMentions}/35)`, '26% (9/35)', '37% (13/35)', `49% · beats Jellis Craig (${rivalRate}%)`],
+    ['Adelaide', `${cityStats.adelaide.rate}% (${cityStats.adelaide.lhdMentions}/35)`, '23% (8/35)', '34% (12/35)', '46% · beats The Agency (37%)'],
+    ['Mornington Peninsula', `${cityStats.peninsula.rate}% (${cityStats.peninsula.lhdMentions}/35)`, '23% (8/35)', '34% (12/35)', '46% · beats RT Edgar (37%)'],
+    ['Brisbane', `${cityStats.brisbane.rate}% (${cityStats.brisbane.lhdMentions}/35)`, '20% (7/35)', '29% (10/35)', '40% · beats McGrath (37%)'],
+    ['Gold Coast', `${cityStats.goldcoast.rate}% (${cityStats.goldcoast.lhdMentions}/35)`, '17% (6/35)', '26% (9/35)', "37% · beats Sotheby's (26%)"],
+    ['Sydney', `${cityStats.sydney.rate}% (${cityStats.sydney.lhdMentions}/35)`, '14% (5/35)', '23% (8/35)', '34% · beats McGrath (31%)'],
+    ['Perth', `${cityStats.perth.rate}% (${cityStats.perth.lhdMentions}/35)`, '17% (6/35)', '29% (10/35)', '40% · beats Belle Property (34%)'],
+    ['National “Australia”', `${cityStats.national.rate}% (${cityStats.national.lhdMentions}/35)`, '20% (7/35)', '31% (11/35)', '43% · beats McGrath (37%)'],
+    ['All 280 Answers', `${M.wfRatePct}% (${M.wfMentioned}/280)`, '20.0% (56/280)', '30.4% (85/280)', "41.8% · beats Sotheby's (29.3%)"]
   ];
 
   slide('targets', 'light', `
-    <header class="hd"><p class="eyebrow">Realistic Sequenced Targets</p><h2 class="h1">The goal: convert WHITEFOX’s 37.5% Boutique Luxury dominance into Top-4 category share across all 8 markets</h2></header>
+    <header class="hd"><p class="eyebrow">Proposed Targets</p><h2 class="h1">The goal: overtake Forbes Global Properties (6m) and Jellis Craig (12m) in Melbourne</h2></header>
     <div class="cols-60">
-      <div class="panel"><p class="chart-title">Melbourne AI Search answers naming WHITEFOX Real Estate across 12-month remediation roadmap</p>${svg}</div>
+      <div class="panel"><p class="chart-title">Melbourne (HQ): share of AI answers naming WHITEFOX Real Estate. Today's figure is measured; the dashed path is the target.</p>${svg}</div>
       <div>
         <table class="tg-table">
-          <thead><tr><th>Market</th><th>Today</th><th>90 Days</th><th>6 Months</th><th>12 Months</th></tr></thead>
+          <thead><tr><th>Market</th><th>Today</th><th>90 Days</th><th>6 Months</th><th>12 Months · Rival Overtaken</th></tr></thead>
           <tbody>${TG.map(([c, a, b, d, e], i) => `<tr class="rise" style="--d:${200 + i * 60}ms"><td>${c}</td><td class="num">${a}</td><td class="num">${b}</td><td class="num">${d}</td><td class="num"><b>${e}</b></td></tr>`).join('')}</tbody>
         </table>
-        <p class="note">Because most luxury competitors are single-city firms (Marshall White &amp; Kay &amp; Burton in VIC; BresicWhitney &amp; PPD in NSW; William Porteous &amp; Mack Hall in WA; Kollosche in QLD), activating WHITEFOX’s multi-state office network lifts national share into the Top 3.</p>
+        <p class="note">Rather than promising arbitrary leaderboard ranks, each market target is anchored to overtaking a specific mid-level competitor measured on the exact same 280-prompt panel each month.</p>
       </div>
     </div>`);
 }

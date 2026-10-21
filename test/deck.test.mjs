@@ -35,4 +35,11 @@ test('Client 30-slide deck and Technical 13-slide dossier integrity & zero-fabri
   // Empirical headline metric presence
   assert.ok(clientHtml.includes(`${metrics.wfRatePct}%`), `index.html must display empirical mention rate ${metrics.wfRatePct}%`);
   assert.ok(clientHtml.includes('MarshallWhiteRE'), 'index.html must surface the empirical MarshallWhiteRE sameAs JSON-LD finding');
+
+  // Slide 28 (#targets) must promise overtaking specific mid-level competitors, never promising leaderboard ranks (#1, #2, #3, #4, Top 3, Top 4)
+  const targetsMatch = clientHtml.match(/<section[^>]+id="targets"[^>]*>([\s\S]*?)<\/section>/);
+  assert.ok(targetsMatch, 'index.html must contain #targets slide');
+  const targetsSection = targetsMatch[1];
+  assert.ok(targetsSection.includes('overtake') && targetsSection.includes('Jellis Craig'), '#targets slide must anchor on overtaking a specific mid-level competitor');
+  assert.ok(!/·\s*#\d+|·\s*Top\s*\d+|Top-4 category share/i.test(targetsSection), '#targets slide must never promise future leaderboard ranks');
 });
