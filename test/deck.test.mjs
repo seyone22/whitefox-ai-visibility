@@ -17,11 +17,13 @@ test('Client 30-slide deck and Technical 13-slide dossier integrity & zero-fabri
   const techSlides = (techHtml.match(/<section[^>]+class="[^"]*\bslide\b/g) || []).length;
   assert.equal(techSlides, 13, `Expected 13 slides in site/technical.html, got ${techSlides}`);
 
-  // No NaN / undefined / [object Object]
+  // No NaN / undefined / [object Object] / unrendered LaTeX / control chars
   for (const [name, html] of [['index.html', clientHtml], ['technical.html', techHtml]]) {
     assert.ok(!html.includes('undefined'), `${name} contains literal "undefined"`);
     assert.ok(!html.includes('NaN'), `${name} contains literal "NaN"`);
     assert.ok(!html.includes('[object Object]'), `${name} contains "[object Object]"`);
+    assert.ok(!/\\(times|ge|le|star|beta|hat|Pr|logit)/.test(html), `${name} contains unrendered LaTeX macro`);
+    assert.ok(!html.includes('hat{') && !html.includes('imes$') && !html.includes('\x08'), `${name} contains unescaped JS template literal LaTeX artifact`);
   }
 
   // Banned internal tokens

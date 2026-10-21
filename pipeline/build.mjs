@@ -377,7 +377,7 @@ slide('method', 'white', `
       <div class="side-stats">
         <div class="stat rise" style="--d:500ms"><span class="big pulp"><b class="count" data-to="${Math.round(M.wfRatePct)}">${M.wfRatePct}</b>%</span><span class="stat-cap">of answers name WHITEFOX Real Estate (<b>${M.wfMentioned} of ${TOTAL_ANSWERS}</b>, #${wfNatRank} nationally; Top-3 shortlist in <b>${M.wfTop3}/${TOTAL_ANSWERS}</b> [${M.wfTop3Pct}%] and <b>#1 Primary Recommendation in ${M.wfNum1}</b>!).</span></div>
         <div class="stat rise" style="--d:650ms"><span class="big">${boutiqueCat.mentioned}/40</span><span class="stat-cap"><b>Boutique &amp; Design-Led Luxury Prompt (${boutiqueCat.ratePct}%):</b> Over half of WHITEFOX’s national mentions (15 of 26) — and <b>11 #1 rankings</b> — occur on the Boutique &amp; Modern Media prompt!</span></div>
-        <div class="stat rise" style="--d:800ms"><span class="big">0/56 Claude</span><span class="stat-cap"><b>Platform Split:</b> Gemini (8/56 · six #1s), Perplexity (8/56 · three #1s), and ChatGPT (7/56 · two #1s) back WHITEFOX, while Claude Sonnet 4.6 scored <b>0/56</b>.</span></div>
+        <div class="stat rise" style="--d:800ms"><span class="big">0/56</span><span class="stat-cap"><b>Platform Split (0/56 on Claude):</b> Gemini (8/56 · six #1s), Perplexity (8/56 · three #1s), and ChatGPT (7/56 · two #1s) back WHITEFOX, while Claude Sonnet 4.6 scored <b>0/56</b>.</span></div>
       </div>
     </div>
     ${src(SRC_ANS)}`);
@@ -386,14 +386,14 @@ slide('method', 'white', `
 // ─── 5. Map ─────────────────────────────────────────────────────────────────
 {
   const R = r => 8 + Math.sqrt(Math.max(0, r) / 100) * 50;
-  const COL = 960;
+  const COL = 930;
   const lab = {
-    brisbane: [COL, 260, 'start'],
-    goldcoast: [COL, 370, 'start'],
-    sydney: [COL, 490, 'start'],
-    melbourne: [COL, 610, 'start'],
-    peninsula: [COL, 730, 'start'],
-    national: [COL, 845, 'start'],
+    brisbane: [COL, 210, 'start'],
+    goldcoast: [COL, 320, 'start'],
+    sydney: [COL, 430, 'start'],
+    melbourne: [COL, 540, 'start'],
+    peninsula: [COL, 650, 'start'],
+    national: [COL, 760, 'start'],
     perth: [-235, 440, 'start'],
     adelaide: [470, 690, 'end'],
   };
@@ -422,7 +422,7 @@ slide('method', 'white', `
   slide('map', 'dark', `
     <header class="hd"><p class="eyebrow on-dark">Market by Market</p><h2 class="h1">WHITEFOX captures ${cityStats.melbourne.rate}% in Melbourne &amp; Adelaide and ${cityStats.peninsula.rate}% on the Mornington Peninsula, vs 3%–6% in Perth &amp; Sydney</h2></header>
     <div class="map-wrap">
-      <svg class="ausmap" viewBox="-250 -20 1460 880" width="1100" height="663" role="img" aria-label="Map of Australia showing WHITEFOX Real Estate share of AI Search answers per market">
+      <svg class="ausmap" viewBox="-260 -20 1620 900" width="1100" height="611" role="img" aria-label="Map of Australia showing WHITEFOX Real Estate share of AI Search answers per market">
         <path d="${MAP.d}" class="land"/>
         ${circles}
       </svg>
@@ -508,7 +508,7 @@ function pracChips(c) {
         <div class="heat-scale" aria-hidden="true"><span>0</span>${[0, 1, 2, 3, 4, 5, 6, 7].map(v => `<i style="background:${shade(v)}"></i>`).join('')}<span>7 of 7</span></div></div>
       <div class="side-stats">
         <div class="stat"><span class="big">${s.leader.n}/35</span><span class="stat-cap"><b>${esc(short(s.leader.name))}</b> leads Melbourne luxury recommendations across Stonnington, Boroondara, Bayside &amp; Port Phillip.</span></div>
-        <div class="stat"><span class="big">SameAs Bug</span><span class="stat-cap"><b>Entity Contamination:</b> Every WHITEFOX page outputs <code>"sameAs": ["https://www.facebook.com/MarshallWhiteRE/", "https://twitter.com/marshallwhitere"]</code> in its Organization JSON-LD.</span></div>
+        <div class="stat"><span class="big">SameAs</span><span class="stat-cap"><b>Entity Contamination Bug:</b> Every WHITEFOX page outputs <code>"sameAs": ["https://www.facebook.com/MarshallWhiteRE/", "https://twitter.com/marshallwhitere"]</code> in its Organization JSON-LD.</span></div>
         <div class="stat"><span class="big pulp">${s.lhdMentions}/35</span><span class="stat-cap"><b>WHITEFOX (#${s.lhdRank})</b> is named by Perplexity (2/7), ChatGPT (1/7), Google AI Mode (1/7), and Gemini (1/7), while Claude gives 0/7.</span></div>
       </div>
     </div>
@@ -658,7 +658,7 @@ function marketSlide(c, idx) {
 
 // ─── 18. The Pattern (Scatter Plot) ─────────────────────────────────────────
 {
-  const w = 1000, h = 640, pl = 110, pr = 60, pt = 40, pb = 100;
+  const w = 1000, h = 620, pl = 100, pr = 60, pt = 40, pb = 90;
   // Plot best GBP Star Rating (0 to 5.0★) vs AI Answer Share (%)
   const gbpBestRating = {
     melbourne: 4.8,
@@ -670,18 +670,28 @@ function marketSlide(c, idx) {
     perth: 3.9,
     goldcoast: 1.0
   };
+  const labelOffsets = {
+    melbourne: { dx: -18, dy: -16, anchor: 'end' },
+    adelaide:  { dx: -18, dy: 28,  anchor: 'end' },
+    peninsula: { dx: -20, dy: 7,   anchor: 'end' },
+    goldcoast: { dx: 20,  dy: 7,   anchor: 'start' },
+    brisbane:  { dx: -18, dy: -16, anchor: 'end' },
+    national:  { dx: -18, dy: 30,  anchor: 'end' },
+    sydney:    { dx: 20,  dy: 7,   anchor: 'start' },
+    perth:     { dx: -20, dy: 7,   anchor: 'end' }
+  };
   const x = v => pl + (v / 5.0) * (w - pl - pr), y = v => pt + (h - pt - pb) * (1 - v / 20);
 
   const pts = ORDER.map((c, i) => {
     const sx = gbpBestRating[c] || 0;
     const sy = cityStats[c].rateExact;
     const px = x(sx), py = y(sy);
-    const lx = px + (sx >= 4.2 ? -16 : 18);
-    const ly = py + (i % 2 === 0 ? -14 : 22);
-    const a = sx >= 4.2 ? 'end' : 'start';
+    const off = labelOffsets[c] || { dx: 18, dy: 6, anchor: 'start' };
+    const lx = px + off.dx;
+    const ly = py + off.dy;
     return `<g class="pop" style="--d:${300 + i * 110}ms">
-      <circle cx="${px}" cy="${py}" r="14" fill="#9A7B3E" stroke="#0A0A0A" stroke-width="4"/>
-      <text x="${lx}" y="${ly}" text-anchor="${a}" class="sc-lab">${CITY[c]} <tspan class="sc-v">${cityStats[c].rateExact}% (${sx.toFixed(1)}★ GBP)</tspan></text>
+      <circle cx="${px}" cy="${py}" r="13" fill="#9A7B3E" stroke="#0A0A0A" stroke-width="4"/>
+      <text x="${lx}" y="${ly}" text-anchor="${off.anchor}" class="sc-lab">${CITY[c]} <tspan class="sc-v">${cityStats[c].rateExact}% (${sx.toFixed(1)}★)</tspan></text>
     </g>`;
   }).join('');
 
@@ -689,7 +699,7 @@ function marketSlide(c, idx) {
     ${[0, 5, 10, 15, 20].map(t => `<line x1="${pl}" x2="${w - pr}" y1="${y(t)}" y2="${y(t)}" class="gl"/><text x="${pl - 16}" y="${y(t) + 8}" class="ax" text-anchor="end">${t}%</text>`).join('')}
     ${[1.0, 2.0, 3.0, 4.0, 5.0].map(t => `<text x="${x(t)}" y="${h - pb + 42}" class="ax" text-anchor="middle">${t.toFixed(1)}★</text>`).join('')}
     <line x1="${x(4.0)}" x2="${x(4.0)}" y1="${pt}" y2="${h - pb}" stroke="#DC2626" stroke-width="2.5" stroke-dasharray="6 6"/>
-    <text x="${x(4.0) - 10}" y="${pt + 20}" text-anchor="end" fill="#DC2626" font-size="13" font-weight="700">4.0★ AI Quality Filter</text>
+    <text x="${x(4.0) - 10}" y="${pt + 20}" text-anchor="end" fill="#DC2626" font-size="14" font-weight="700">4.0★ AI Quality Filter</text>
     <text x="${(pl + w - pr) / 2}" y="${h - 14}" class="ax-t" text-anchor="middle">WHITEFOX Branch Google Business Profile Rating Health (★)</text>
     <text transform="translate(26 ${(pt + h - pb) / 2}) rotate(-90)" class="ax-t" text-anchor="middle">AI Answers Naming WHITEFOX (%)</text>
     ${pts}</svg>`;
@@ -699,13 +709,13 @@ function marketSlide(c, idx) {
   const b3 = M.irls?.coefficients?.[3] || { beta: 2.18, or: 8.87, pValue: '0.0012' };
 
   slide('pattern', 'light', `
-    <header class="hd"><p class="eyebrow">The Empirical Pattern · Live IRLS Econometric Attribution</p><h2 class="h1">Boutique media positioning ($15.3\\times$ odds), deep web grounding ($8.9\\times$), and $\\ge 4.3\\star$ GBPs ($2.1\\times$) drive WHITEFOX recall</h2></header>
+    <header class="hd"><p class="eyebrow">The Empirical Pattern · Live IRLS Econometric Attribution</p><h2 class="h1">Boutique media positioning (${b1.or.toFixed(1)}× odds), deep web grounding (${b3.or.toFixed(1)}×), and ≥4.3★ GBPs (${b2.or.toFixed(1)}×) drive WHITEFOX recall</h2></header>
     <div class="cols-60">
       <div class="panel">${sc}</div>
       <div class="side-stats">
-        <div class="stat"><span class="big pulp">${b1.or}× Odds</span><span class="stat-cap"><b>Boutique Positioning ($\hat{\beta}_1 = +${b1.beta.toFixed(2)}$, $p ${b1.pValue}$):</b> Live IRLS logistic regression across all 280 answers proves WHITEFOX is $15.26\times$ more likely to be recommended on Boutique &amp; Design-Led prompts (15/40 · 37.5%) than general prompts.</span></div>
-        <div class="stat"><span class="big">${b3.or}× Odds</span><span class="stat-cap"><b>Multi-Source Web Grounding ($\hat{\beta}_3 = +${b3.beta.toFixed(2)}$, $p = ${b3.pValue}$):</b> When AI engines retrieve $\ge 10$ web sources (Gemini, Perplexity, ChatGPT), WHITEFOX’s odds of inclusion jump $8.87\times$.</span></div>
-        <div class="stat"><span class="big">${b2.or}× Odds</span><span class="stat-cap"><b>Verified $\ge 4.3\star$ GBP Effect ($\hat{\beta}_2 = +${b2.beta.toFixed(2)}$):</b> Markets with healthy $\ge 4.3\star$ GBPs (Melbourne 14.3%, Adelaide 14.3% at 4.7★) double the AI share of sub-4.0★ markets (Perth 2.9% at 3.9★).</span></div>
+        <div class="stat"><span class="big pulp">${b1.or.toFixed(1)}×</span><span class="stat-cap"><b>Boutique Positioning (β̂₁ = +${b1.beta.toFixed(2)}, <i>p</i> ${esc(b1.pValue)}):</b> Live IRLS logistic regression across all 280 answers proves WHITEFOX is <b>${b1.or}× more likely</b> to be recommended on Boutique &amp; Design-Led prompts (15/40 · 37.5%) than general prompts.</span></div>
+        <div class="stat"><span class="big">${b3.or.toFixed(1)}×</span><span class="stat-cap"><b>Multi-Source Web Grounding (β̂₃ = +${b3.beta.toFixed(2)}, <i>p</i> = ${esc(b3.pValue)}):</b> When AI engines retrieve ≥10 web sources (Gemini, Perplexity, ChatGPT), WHITEFOX’s odds of inclusion jump <b>${b3.or}×</b>.</span></div>
+        <div class="stat"><span class="big">${b2.or.toFixed(1)}×</span><span class="stat-cap"><b>Verified ≥4.3★ GBP Effect (β̂₂ = +${b2.beta.toFixed(2)}):</b> Markets with healthy ≥4.3★ GBPs (Melbourne 14.3%, Adelaide 14.3% at 4.7★) double the AI share of sub-4.0★ markets (Perth 2.9% at 3.9★).</span></div>
       </div>
     </div>
     ${src('Source: 280 AI answers paired with 14-branch GBP audit (maps_audit.json) and live IRLS logistic regression (metrics.json), October 2026.')}`);
@@ -727,7 +737,7 @@ function marketSlide(c, idx) {
     series: S.map(([name, d, color, width]) => ({ name, values: series(d), color, width, cls: name === 'WHITEFOX' ? 'pulp' : '', textColor: name === 'WHITEFOX' ? '#9A7B3E' : '#0A0A0A' })),
   });
   const sh = lineChart({
-    w: 520, h: 230, pad: [36, 40, 52, 70], labels: labels.map((l, i) => (i === 0 || i === labels.length - 1) ? l : ''), yMax: 6, yTicks: [0, 2, 4, 6], yFmt: v => v + '%', endLabels: false,
+    w: 520, h: 230, pad: [36, 40, 52, 70], labels: labels.map((l, i) => (i === 0 || i === labels.length - 1) ? l : ''), yMax: 8, yTicks: [0, 2, 4, 6, 8], yFmt: v => v + '%', endLabels: false,
     series: [{ name: 'WHITEFOX Share', values: shareSeries, color: '#9A7B3E', width: 5, label: false }],
     ann: [(x, y) => `<text x="${x(labels.length - 1)}" y="${y(shareSeries[shareSeries.length - 1]) - 18}" text-anchor="end" class="callsmall pulp">${shareSeries[shareSeries.length - 1]}%</text>`],
   });
@@ -739,7 +749,7 @@ function marketSlide(c, idx) {
   const agSep = series('theagency.com.au')[wfArr.length - 2] || 102;
 
   slide('trend', 'white', `
-    <header class="hd"><p class="eyebrow">14-Month Historical Trajectory · DataForSEO LLM Mentions</p><h2 class="h1">WHITEFOX grew 5.2× from 5 to ${wfPeak} monthly AI mentions (Sep 2026), while Marshall White sits at ${mwSep} and Kay &amp; Burton at ${kbSep}</h2></header>
+    <header class="hd"><p class="eyebrow">15-Month Historical Trajectory · DataForSEO LLM Mentions</p><h2 class="h1">WHITEFOX grew 5.2× from 5 to ${wfPeak} monthly AI mentions (Sep 2026), while Marshall White sits at ${mwSep} and Kay &amp; Burton at ${kbSep}</h2></header>
     <div class="cols-trend">
       <div class="panel"><p class="chart-title">Monthly AI answers in Australia referencing each agency’s domain, Aug 2025 to Oct 2026</p>${chart}</div>
       <div class="side-stats">
@@ -752,22 +762,22 @@ function marketSlide(c, idx) {
 
 // ─── 20. The Gap to Close (Dumbbell) ────────────────────────────────────────
 {
-  const w = 1200, rowH = 78, top = 70, left = 220, right = 140;
+  const w = 1260, rowH = 66, top = 58, left = 290, right = 140;
   const x = v => left + v / 100 * (w - left - right);
   const rows = ORDER.map((c, i) => {
     const s = cityStats[c]; const yy = top + i * rowH; const gap = s.rate - s.leaderRate;
     return `<g class="db" style="--d:${200 + i * 110}ms">
       <text x="0" y="${yy + 9}" class="db-city">${CITY[c]}</text>
       <line x1="${x(Math.min(s.rate, s.leaderRate))}" x2="${x(Math.max(s.rate, s.leaderRate))}" y1="${yy}" y2="${yy}" class="db-line grow-x" style="--d:${300 + i * 110}ms"/>
-      <circle cx="${x(s.leaderRate)}" cy="${yy}" r="14" fill="#0A0A0A" class="pop" style="--d:${250 + i * 110}ms"/>
-      <circle cx="${x(s.rate)}" cy="${yy}" r="14" fill="#9A7B3E" stroke="#FFFFFF" stroke-width="4" class="pop" style="--d:${450 + i * 110}ms"/>
+      <circle cx="${x(s.leaderRate)}" cy="${yy}" r="13" fill="#0A0A0A" class="pop" style="--d:${250 + i * 110}ms"/>
+      <circle cx="${x(s.rate)}" cy="${yy}" r="13" fill="#9A7B3E" stroke="#FFFFFF" stroke-width="4" class="pop" style="--d:${450 + i * 110}ms"/>
       <text x="${w - right + 30}" y="${yy + 9}" class="db-gap ${gap >= 0 ? 'pos' : ''}">${gap > 0 ? '+' : gap === 0 ? '±' : '−'}${Math.abs(gap)} pts</text>
-      <text x="${x(s.leaderRate)}" y="${yy - 24}" text-anchor="middle" class="db-lead">${esc(short(s.leader.name))}</text>
+      <text x="${x(s.leaderRate)}" y="${yy - 20}" text-anchor="middle" class="db-lead">${esc(short(s.leader.name))}</text>
     </g>`;
   }).join('');
 
-  const svg = `<svg class="chart" viewBox="0 -10 ${w + 40} ${top + ORDER.length * rowH}" width="${w + 40}" height="${top + ORDER.length * rowH + 10}" role="img" aria-label="WHITEFOX share against the top competitor per market">
-    ${[0, 25, 50, 75, 100].map(t => `<line x1="${x(t)}" x2="${x(t)}" y1="20" y2="${top + (ORDER.length - 1) * rowH + 30}" class="gl"/><text x="${x(t)}" y="10" class="ax" text-anchor="middle">${t}%</text>`).join('')}
+  const svg = `<svg class="chart" viewBox="0 -10 ${w + 40} ${top + ORDER.length * rowH}" width="${w + 40}" height="${top + ORDER.length * rowH}" role="img" aria-label="WHITEFOX share against the top competitor per market">
+    ${[0, 25, 50, 75, 100].map(t => `<line x1="${x(t)}" x2="${x(t)}" y1="20" y2="${top + (ORDER.length - 1) * rowH + 24}" class="gl"/><text x="${x(t)}" y="10" class="ax" text-anchor="middle">${t}%</text>`).join('')}
     ${rows}</svg>`;
 
   slide('gap', 'light', `
@@ -828,21 +838,21 @@ slide('plan', 'white', `
 // ─── 24. Workstream 02: Google Maps & Local Authority (Benchmark Page 24) ───
 {
   const rev = {
-    melbourne: '159 rev (5 offices: 4.4★ PP [65], 4.8★ Carl [33], 4.6★ Toorak [30]) · Northcote 0★',
-    sydney: '2 rev total (Manly 5.0★ [2] · Paddington 16 William St has 0 reviews!)',
-    perth: '147 rev — Subiaco 3.9★ (144 rev) & Applecross 3.7★ (3 rev) — BOTH < 4.0★!',
-    brisbane: '28 reviews (4.3★ · 1 James St, Fortitude Valley · #12 in Maps Pack)',
-    goldcoast: '3 reviews (1.0★ EMERGENCY · Shop 5B/2217 Gold Coast Hwy, Mermaid Beach)',
-    adelaide: '12 reviews (4.7★ · 183 King William Rd, Hyde Park · 14.3% AI Share!)',
-    peninsula: '4 reviews (3.3★ · 2/1016 Mornington-Flinders Rd, Red Hill — < 4.0★!)',
-    national: '355+ Combined Google Reviews Across 14 Verified Australian GBP CIDs'
+    melbourne: '159 rev · 5 offices (4.2★–4.8★) · Northcote 0★',
+    sydney: '2 rev · Manly 5.0★ (2) · Paddington 0★',
+    perth: '147 rev · Subiaco 3.9★ (144) · Applecross 3.7★',
+    brisbane: '28 rev · 4.3★ James St Fortitude Valley',
+    goldcoast: '3 rev · 1.0★ Mermaid Beach (Critical)',
+    adelaide: '12 rev · 4.7★ King William Rd Hyde Park',
+    peninsula: '4 rev · 3.3★ Red Hill (<4.0★ Filter)',
+    national: '355+ rev across 14 Australian GBP CIDs'
   };
   slide('ws-maps', 'white', `
     <header class="hd"><p class="eyebrow">Workstream 02 · 14-Branch GBP &amp; Sub-4.0★ Rating Remediation</p><h2 class="h1">Sub-4.0★ ratings in Perth (3.9★), Peninsula (3.3★) &amp; Gold Coast (1.0★) and 0-review Sydney/Northcote offices block Local Pack inclusion</h2></header>
     <div class="cols-60">
       <div class="panel">
-        <div class="mp-head"><span>Market</span><span>AI Recall (of 7 Prompts)</span><span>Live DataForSEO 14-Branch Google Business Profile Audit</span></div>
-        ${ORDER.map((c, i) => `<div class="mp-row" style="--i:${i}"><span class="mp-city">${CITY[c]}</span><span>${dots(Math.min(7, cityStats[c].lhdMentions), 7, 'big')}<b class="num">${cityStats[c].lhdMentions}/35</b></span><span class="num">${rev[c]}</span></div>`).join('')}
+        <div class="mp-head"><span>Market</span><span>AI Recall (of 7 Prompts)</span><span>Live DataForSEO 14-Branch GBP Audit</span></div>
+        ${ORDER.map((c, i) => `<div class="mp-row" style="--i:${i}"><span class="mp-city">${CITY[c]}</span><span>${dots(Math.min(7, cityStats[c].lhdMentions), 7, 'big')}<b class="num">${cityStats[c].lhdMentions}/35</b></span><span class="num">${esc(rev[c])}</span></div>`).join('')}
       </div>
       <div class="actions">
         <h3 class="h3">Exact who &amp; what to execute</h3>
@@ -991,7 +1001,7 @@ slide('appendix', 'white', `
       <h3 class="h3">How the 280 answers were collected</h3>
       <ul class="plain">
         <li>7 luxury real estate vendor, buyer, and property management questions (Best Luxury Agency, $5M+ Prestige Sales, Boutique Design-Led Agency, Off-Market Prestige Sales, Luxury Buyer's Advocacy, Penthouse &amp; Waterfront Specialists, Boutique Executive Leasing) × 8 Australian markets = 56 market-intent pairs.</li>
-        <li>Each pair was evaluated across 5 live AI answer engines (Google AI Mode, ChatGPT Search, Perplexity Sonar, Gemini 2.5 Flash, and Claude Sonnet 4.6) for N = 280 total empirical answers.</li>
+        <li>Each pair was evaluated across 5 live AI answer engines (Google AI Mode, ChatGPT Search, Perplexity Sonar, Gemini 2.5 Flash, and Claude Sonnet 4.6) for <i>N</i> = 280 total empirical answers.</li>
         <li>56 matching Australian Google SERP queries (depth 20), 8 Google Maps 20-pack audits, and 14 individual branch GBP CID lookups were executed via DataForSEO.</li>
         <li>200 URLs on <code>whitefoxrealestate.com.au</code> were mapped and 21 core &amp; branch pages were scraped via Firecrawl to inspect JSON-LD schema, HTTP status codes, and NAP consistency.</li>
       </ul>
@@ -1002,7 +1012,7 @@ slide('appendix', 'white', `
         <li>Every luxury real estate agency and buyer's advocate named in an answer was extracted in order of first appearance and resolved to its canonical entity name across 55 tracked Australian prestige agencies.</li>
         <li>Grounding URLs and search citations were resolved to root domains in <code>pipeline/citations.json</code> (${CITS.totalCitations.toLocaleString()} citations across ${CITS.uniqueDomains} unique domains).</li>
         <li>Share of Model Voice (SoMV) is the percentage of answers naming an agency out of 280 nationally (or out of 35 per market), bounded with 95% Wilson confidence intervals.</li>
-        <li>Econometric drivers ($\\hat{\\beta}$, standard errors, Wald $z$, and odds ratios) were estimated via live Iteratively Reweighted Least Squares (IRLS) logistic regression over the 280 empirical observations in <code>pipeline/ans_full.json</code>.</li>
+        <li>Econometric drivers (β̂ coefficients, standard errors, Wald <i>z</i>-statistics, and odds ratios) were estimated via live Iteratively Reweighted Least Squares (IRLS) logistic regression over the 280 empirical observations in <code>pipeline/ans_full.json</code>.</li>
       </ul>
     </div>
   </div>`);

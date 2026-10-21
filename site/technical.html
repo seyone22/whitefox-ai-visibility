@@ -52,18 +52,18 @@
 <!-- Slide 2 -->
 <section id="tech-02-panel-design" class="slide">
   <div class="eyebrow">01 · EXPERIMENTAL DESIGN & FACTORIAL SAMPLING</div>
-  <h2>Full-Factorial $8 \times 7 \times 5 = 280$ Empirical Panel Architecture</h2>
+  <h2>Full-Factorial 8 × 7 × 5 = 280 Empirical Panel Architecture</h2>
   <p class="lead">To eliminate cherry-picking, we evaluated a balanced full-factorial matrix crossing all 8 geographic markets where WHITEFOX operates (or targets expansion) with 7 buyer-intent prompt archetypes and 5 production AI answer engines, paired 1:1 with 56 live Google Organic SERPs (depth 20) and 8 Google Maps 20-Packs.</p>
   <table class="data-table">
     <thead>
       <tr><th>Dimension</th><th>Levels</th><th>Specification</th><th>Sample Size</th></tr>
     </thead>
     <tbody>
-      <tr><td><strong>Geographic Markets (8)</strong></td><td>8 Cities / Regions</td><td>Melbourne (VIC), Sydney (NSW), Perth (WA), Brisbane (QLD), Gold Coast (QLD), Adelaide (SA), Mornington Peninsula (VIC), Geelong & Surf Coast (VIC)</td><td class="num mono">8</td></tr>
-      <tr><td><strong>Buyer-Intent Archetypes (7)</strong></td><td>7 Prompt Templates</td><td>Prestige Sales, Luxury Agency, Boutique High-End, Off-Market Prestige, Buyer's Advocacy, Penthouse & Waterfront, Rental & Portfolio Management</td><td class="num mono">7</td></tr>
+      <tr><td><strong>Geographic Markets (8)</strong></td><td>8 Cities / Regions</td><td>Melbourne (VIC), Sydney (NSW), Brisbane (QLD), Gold Coast (QLD), Perth (WA), Adelaide (SA), Mornington Peninsula (VIC), National Australia</td><td class="num mono">8</td></tr>
+      <tr><td><strong>Buyer-Intent Archetypes (7)</strong></td><td>7 Prompt Templates</td><td>Best Luxury Agency, $10M+ Prestige Sales, Boutique &amp; Design-Led Luxury, Off-Market Prestige, High-End Auctioneers, Luxury Buyers Advocacy, Architectural &amp; Penthouses</td><td class="num mono">7</td></tr>
       <tr><td><strong>AI Answer Engines (5)</strong></td><td>5 Live Endpoints</td><td>ChatGPT (Web Search), Perplexity (Sonar), Google AI Mode, Google Gemini 2.5 Flash, Anthropic Claude Sonnet 4.6</td><td class="num mono">5</td></tr>
-      <tr><td><strong>Total AI Panel ($N$)</strong></td><td>$8 \times 7 \times 5$</td><td>Complete unedited markdown, grounding chunks, and citation arrays persisted in <code>pipeline/ans_full.json</code></td><td class="num mono"><strong>280</strong></td></tr>
-      <tr><td><strong>Paired Google SERPs</strong></td><td>$8 \times 7$</td><td>Desktop Google Organic AU localized SERP (top 20 organic results per cell) in <code>pipeline/serp_audit.json</code></td><td class="num mono"><strong>56</strong></td></tr>
+      <tr><td><strong>Total AI Panel (<i>N</i>)</strong></td><td>8 × 7 × 5</td><td>Complete unedited markdown, grounding chunks, and citation arrays persisted in <code>pipeline/ans_full.json</code></td><td class="num mono"><strong>280</strong></td></tr>
+      <tr><td><strong>Paired Google SERPs</strong></td><td>8 × 7</td><td>Desktop Google Organic AU localized SERP (top 20 organic results per cell) in <code>pipeline/serp_audit.json</code></td><td class="num mono"><strong>56</strong></td></tr>
     </tbody>
   </table>
 </section>
@@ -397,11 +397,11 @@
 <!-- Slide 7 -->
 <section id="tech-06-econometrics" class="slide">
   <div class="eyebrow">06 · ECONOMETRIC ATTRIBUTION · LIVE IRLS LOGISTIC REGRESSION</div>
-  <h2>Empirical Drivers of AI Inclusion ($N = 280$ Answers, IRLS Fitted)</h2>
-  <p class="lead">We estimated a multivariable logistic regression model $\Pr(Y_i = 1) = \text{logit}^{-1}(\beta_0 + \beta_1 X_{1i} + \beta_2 X_{2i} + \beta_3 X_{3i})$ via Iteratively Reweighted Least Squares (IRLS) directly over the 280 empirical answers in <code>ans_full.json</code> (26 positive mentions, converged in 30 iterations).</p>
+  <h2>Empirical Drivers of AI Inclusion (<i>N</i> = 280 Answers, IRLS Fitted)</h2>
+  <p class="lead">We estimated a multivariable logistic regression model Pr(<i>Y<sub>i</sub></i> = 1) = logit<sup>−1</sup>(β<sub>0</sub> + β<sub>1</sub><i>X</i><sub>1<i>i</i></sub> + β<sub>2</sub><i>X</i><sub>2<i>i</i></sub> + β<sub>3</sub><i>X</i><sub>3<i>i</i></sub>) via Iteratively Reweighted Least Squares (IRLS) directly over the 280 empirical answers in <code>ans_full.json</code> (26 positive mentions, converged in 30 iterations).</p>
   <table class="data-table">
     <thead>
-      <tr><th>Predictor Variable</th><th class="num">Coeff ($\hat{\beta}$)</th><th class="num">Std. Error (SE)</th><th class="num">Wald $z$</th><th class="num">Odds Ratio (OR)</th><th class="num">95% CI (OR)</th><th class="num">$p$-Value</th></tr>
+      <tr><th>Predictor Variable</th><th class="num">Coeff (β̂)</th><th class="num">Std. Error (SE)</th><th class="num">Wald <i>z</i></th><th class="num">Odds Ratio (OR)</th><th class="num">95% CI (OR)</th><th class="num"><i>p</i>-Value</th></tr>
     </thead>
     <tbody>
       <tr>
@@ -442,7 +442,7 @@
   </tr>
     </tbody>
   </table>
-  <p style="font-size:12.5px;color:#4B5563;margin-top:14px;"><strong>Econometric Interpretation:</strong> All coefficients above are computed dynamically from the $280 \times 4$ design matrix $(X^T W X)^{-1}$ in <code>pipeline/parse_raw_panel.mjs</code>. Local GBP authority ($\ge 4.0\star$ with $\ge 10$ reviews) and Google Organic Top-20 ranking for the underlying query are the primary structural predictors of whether an AI engine includes WHITEFOX in its recommendation shortlist.</p>
+  <p style="font-size:12.5px;color:#4B5563;margin-top:14px;"><strong>Econometric Interpretation:</strong> All coefficients above are computed dynamically from the 280 × 4 design matrix (<i>X</i><sup>T</sup><i>WX</i>)<sup>−1</sup> in <code>pipeline/parse_raw_panel.mjs</code>. Boutique &amp; design-led media positioning (15.26× odds), multi-source web grounding ≥10 citations (8.87× odds), and verified local GBP ratings ≥4.3★ (2.09× odds) are the primary structural predictors of whether an AI engine includes WHITEFOX in its recommendation shortlist.</p>
 </section>
 
 <!-- Slide 8 -->
